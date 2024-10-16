@@ -1,0 +1,320 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10274-Sondermessungen_2020_Abschlussbericht</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2021-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2021-10-01</TIMEX3></DCT>
+<TEXT>Die LUBW überwacht die Luftqualität in <PLACE id="p1" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> an einer Vielzahl unterschiedlicher Messstellen, darunter auch solchen in Verkehrsnähe.
+
+Im <TIMEX3 tid="t1" type="DATE" value="2018">Jahr 2018</TIMEX3> stellte sich das bisherige Vorgehen bei den Luftqualitätsmessungen, bestehend aus Luftmessnetz und Spotmessstellen, aus mehreren Gründen als nicht mehr ausreichend heraus.
+
+Ein Grund hierfür war das gestiegene öffentliche Interesse an der Luftqualität, was sich in einer erhöhten Anzahl an Anfragen an die LUBW nach der Einrichtung weiterer Messstellen entlang verkehrsbelasteter Straßenabschnitte in <PLACE id="p2" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> niederschlug.
+
+Das Ministerium für Verkehr <PLACE id="p3" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> hat die LUBW deshalb gebeten, das bisherige Messkonzept um ein Konzept zur zeitnahen Bearbeitung derartiger Messvorschläge zu ergänzen.
+
+Die LUBW hat ein solches Konzept im Laufe <TIMEX3 tid="t2" type="DATE" value="2018">des Jahres 2018</TIMEX3> erarbeitet und ab dem <TIMEX3 tid="t3" type="DATE" value="2019-01-01">01.01.2019</TIMEX3> die darauf basierenden „verkehrsnahen Sondermessungen <TIMEX3 tid="t4" type="DATE" value="2019">2019</TIMEX3>“ durchgeführt.
+
+Im Laufe <TIMEX3 tid="t5" type="DATE" value="2019">des Jahres 2019</TIMEX3> gingen Meldungen weiterer potentieller Belastungspunkte ein, zudem konnten <TIMEX3 tid="t6" type="DATE" value="2019">2019</TIMEX3> aufgrund von Baustellen nicht an allen Straßenabschnitten, an denen eine Grenzwertüberschreitung zu erwarten war, Messungen durchgeführt werden.
+
+Aus diesen Gründen bestand der Bedarf nach einer Fortführung des Messprogramms „verkehrsnahe Sondermessungen“ im <TIMEX3 tid="t7" type="DATE" value="2020">Jahr 2020</TIMEX3>.
+
+Für die verkehrsnahen Sondermessungen <TIMEX3 tid="t8" type="DATE" value="2020">2020</TIMEX3> lagen der LUBW insgesamt 32 Straßenabschnitte aus 17 Kommunen zur Prüfung vor.
+
+Die Prüfung erfolgte anhand der gleichen Auswahlkriterien wie im <TIMEX3 tid="t9" type="DATE" value="2019">Vorjahr</TIMEX3>: der lokalen Verkehrsstärke, der lokalen Windgeschwindigkeit und dem Vorhandensein von Wohnbebauung (Betroffenheit).
+
+Im Vergleich zu den verkehrsnahen Sondermessungen <TIMEX3 tid="t10" type="DATE" value="2019">2019</TIMEX3> wurde der Schwellwert für die Verkehrsstärke von 10 000 Kfz/<TIMEX3 tid="t11" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> auf 15 000 Kfz/<TIMEX3 tid="t12" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> angehoben, d. h. bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t13" type="DATE" value="2020">2020</TIMEX3> wurden Messungen nur an Straßenabschnitten durchgeführt, an denen die durchschnittliche <TIMEX3 tid="t14" type="SET" freq="EVERY" value="P1D">tägliche</TIMEX3> Verkehrsstärke (DTV) mindestens 15 000 Kfz/<TIMEX3 tid="t15" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> beträgt.
+
+Diese Anhebung trägt der im Vergleich zum <TIMEX3 tid="t16" type="DATE" value="2019">Vorjahr</TIMEX3> geänderten Immissionssituation Rechnung.
+
+Der Schwellwert für die Windgeschwindigkeit (max. 2,4 m/s im Jahresmittel) wurde unverändert aus dem <TIMEX3 tid="t17" type="DATE" value="2019">Vorjahr</TIMEX3> beibehalten, d. h. bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t18" type="DATE" value="2020">2020</TIMEX3> wurden Messungen nur an Straßenabschnitten durchgeführt, an denen die Windgeschwindigkeit maximal 2,4 m/s beträgt.
+
+Die Prüfung anhand dieser Auswahlkriterien hat gezeigt, dass an 9 der 32 Straßenabschnitte eine Grenzwertüberschreitung nicht auszuschließen war.
+
+An diesen 9 Straßenabschnitten (in 3 Kommunen) wurden deshalb ab dem <TIMEX3 tid="t19" type="DATE" value="2020-01-01">01.01.2020</TIMEX3> orientierende Messungen der Stickstoffdioxidkonzentration mit Passivsammlern für zunächst <TIMEX3 tid="t20" type="DURATION" value="P3M">3 Monate</TIMEX3> durchgeführt.
+
+Die Messungen nach <TIMEX3 tid="t21" type="DURATION" value="P3M">3 Monaten</TIMEX3> zeigten, dass die befürchtete Grenzwertüberschreitung an 4 der 9 Straßenabschnitte ausgeschlossen werden konnte, so dass diese Messstellen wieder abgebaut wurden.
+
+Die verbleibenden 5 Messstellen wurden weiterbetrieben.
+
+Zur <TIMEX3 tid="t22" type="DATE" value="2020" mod="MID">Jahresmitte</TIMEX3> signalisierten die Messungen eine Grenzwerteinhaltung an 2 weiteren Sondermessstellen, weshalb auch diese zeitnah abgebaut wurden.
+
+Von den 3 bis zum <TIMEX3 tid="t23" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> betriebenen Sondermessstellen zeigten 2 Messstellen (<PLACE id="p4" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> St.-Georgen-Steige und <PLACE id="p5" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Luisenstraße) eine NO2-Konzentration zwar unterhalb, aber im Bereich des Immissionsgrenzwertes.
+
+Da angesichts der Corona-Pandemie unsicher war, ob auch unter normalen Verkehrsverhältnissen eine Grenzwerteinhaltung aufgetreten wäre, werden beide Messstellen im <TIMEX3 tid="t24" type="DATE" value="2021">Folgejahr</TIMEX3> sicherheitshalber als Spotmessstellen weiterbetrieben.
+
+Die dritte Messstelle zeigte eine deutliche Grenzwerteinhaltung und wurde abgebaut.
+
+Im Vergleich zu den verkehrsnahen Sondermessungen <TIMEX3 tid="t25" type="DATE" value="2019">des Vorjahres (2019)</TIMEX3> ist festzustellen, dass es einen deutlichen Rückgang der Anzahl der messtechnisch zu überprüfenden Straßenabschnitte (d.
+
+h. Straßenabschnitte, an denen eine Grenzwertüberschreitung nicht von vorne herein ausgeschlossen werden konnte) gab – wurden im <TIMEX3 tid="t26" type="DATE" value="2019">Jahr 2019</TIMEX3> noch 39 Straßenabschnitte durch eine verkehrsnahe Sondermessstelle messtechnisch überprüft, waren es im <TIMEX3 tid="t27" type="DATE" value="2020">Jahr 2020</TIMEX3> nur noch 9.
+
+Es ist bereits absehbar, dass sich diese Entwicklung bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t28" type="DATE" value="2021">2021</TIMEX3> fortsetzen wird.
+
+Auch die Anzahl zu bewertender Messvorschläge ist von 82 (bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t29" type="DATE" value="2019">2019</TIMEX3>) auf nun 32 zurückgegangen und auch hier ist absehbar, dass sich der Rückgang im <TIMEX3 tid="t30" type="DATE" value="2021">Jahr 2021</TIMEX3> fortsetzen wird.
+
+Als eine auf Dauer angelegte Ergänzung des Luftmessnetzes und der Spotmessungen sind die verkehrsnahen Sondermessungen aus Sicht der LUBW ein sinnvolles Angebot an die Menschen im Land, um potentielle Überschreitungspunkte vergleichsweise schnell überprüfen und bei Bedarf in den regulären Messbetrieb überführen zu können.
+
+Die verkehrsnahen Sondermessungen werden deshalb im <TIMEX3 tid="t31" type="DATE" value="2021">Jahr 2021</TIMEX3> fortgesetzt.
+
+Bis einschließlich <TIMEX3 tid="t32" type="DATE" value="2018">des Jahres 2018</TIMEX3> überwachte die LUBW Landesanstalt für Umwelt <PLACE id="p6" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> die Luftqualität dauerhaft an 8 verkehrsnahen Messstationen (den sogenannten „Verkehrsmessstationen“) im Land, hinzu kam eine <TIMEX3 tid="t33" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> wechselnde Anzahl temporär betriebener sogenannter „Spotmessstellen“.
+
+Ließ die Messkapazität der LUBW die Einrichtung einer neuen Spotmessstelle zu (z.
+
+B. weil eine andere Spotmessstelle aufgrund einer dauerhaften Grenzwerteinhaltung nicht mehr benötigt und deshalb abgebaut wurde), so erfolgte die Auswahl eines neuen Messstandorts auf Basis der im <TIMEX3 tid="t34" type="DATE" value="2006">Jahr 2006</TIMEX3> erstellten „Prioritätenliste der Spotmessungen“.
+
+Diese Prioritätenliste war mit einer systematischen Vorgehensweise unter enger Einbeziehung aller Städte und Gemeinden <PLACE id="p7" type="" geo="DEBKGGND00001BBR">Baden-Württem bergs</PLACE> erstellt worden und umfasste 105 Messpunkte, an denen eine hohe Schadstoffbelastung zu erwarten war.
+
+An den verkehrsnahen Messstellen (d.
+
+h. den Verkehrsmessstationen und Spotmessstellen) wurden in <TIMEX3 tid="t35" type="DURATION" value="PXY">den Jahren</TIMEX3> <TIMEX3 tid="t400" type="DATE" value="2018" mod="BEFORE">vor 2018</TIMEX3>, trotz eines leicht rückläufigen Trends, vielfach Überschreitungen des Immissionsgrenzwertes für Stickstoffdioxid (NO2) festgestellt.
+
+Hauptemittent für Stickstoffdioxid ist der Straßenverkehr.
+
+Das bisherige Vorgehen erwies sich im Laufe <TIMEX3 tid="t36" type="DATE" value="2018">des Jahres 2018</TIMEX3> aus den nachfolgend aufgeführten Gründen als nicht mehr praktikabel: 1.
+
+Die aus <TIMEX3 tid="t37" type="DATE" value="2006">dem Jahr 2006</TIMEX3> stammende Prioritätenliste der Spotmessungen konnte bis zum <TIMEX3 tid="t38" type="DATE" value="2018">Jahr 2018</TIMEX3> nur zu knapp 50 % abgearbeitet werden.
+
+Die Gründe hierfür lagen in der begrenzten Messkapazität der LUBW ebenso wie in der Tatsache, dass die Messungen an den Spotmess stellen – analog der Messungen an den Verkehrsmess stationen – alle gesetzlichen Anforderungen [39. BImSchV] erfüllen sollten, insbesondere hinsichtlich der Messdauer.
+
+Die Messstellen wurden deshalb jeweils für <TIMEX3 tid="t39" type="DURATION" value="P1Y" mod="EQUAL_OR_MORE">(mindestens) ein vollständiges Kalenderjahr</TIMEX3> betrieben, woraus sich ein hoher Messaufwand ergab.
+
+Hinzu kommt, dass die Messwerte an vielen Spotmessstellen nur langsam zurückgingen, so dass <TIMEX3 tid="t40" type="SET" freq="EVERY" value="P1Y">jedes Jahr</TIMEX3> nur wenige Spotmessstellen abgebaut und an anderer Stelle wieder aufgebaut werden konnten.
+
+2.
+
+Die aus <TIMEX3 tid="t41" type="DATE" value="2006">dem Jahr 2006</TIMEX3> stammende Prioritätenliste der Spotmessungen verlor zunehmend an Aktualität und Aussagekraft.
+
+Bei der Erstellung der Prioritätenliste lag der Fokus der Luftreinhaltung auf Feinstaub (Partikel PM10) und Ruß – beide Komponenten hatten durch eine veränderte Immissionsgesetzgebung (Ruß) bzw. die rückläufige Immissionsentwicklung (Partikel) bis <TIMEX3 tid="t42" type="DATE" value="2018">2018</TIMEX3> aber stark an Bedeutung verloren, der Fokus lag nun auf Stickstoffdioxid (NO2).
+
+Zum anderen wurden an den Straßenabschnitten der Prioritätenliste im Laufe der Jahre teils erhebliche bauliche Veränderungen vorgenommen (beispielsweise wurden Ortsumfahrungen gebaut), so dass sich die Immissionsbelastung im <TIMEX3 tid="t43" type="DATE" value="2018">Jahr 2018</TIMEX3> stark von derjenigen im <TIMEX3 tid="t44" type="DATE" value="2006">Jahr 2006</TIMEX3> unterschied.
+
+3.
+
+Die anhaltenden Grenzwertüberschreitungen und die daraus resultierenden politischen Debatten hatten zur Folge, dass sich die allgemeine Öffentlichkeit zunehmend um die Stickstoffdioxidbelastung in ihrer Stadt oder Straße sorgte und nach Messungen für Stickstoffdioxid durch die LUBW fragte.
+
+Die LUBW konnte diesen Wünschen aufgrund ihrer begrenzten Messkapazitäten (und dem Anspruch, für <TIMEX3 tid="t45" type="DURATION" value="P1Y">ein komplettes Kalenderjahr</TIMEX3> zu messen) nicht nachkommen.
+
+4.
+
+Das gesteigerte öffentliche Interesse führte auch dazu, dass private Messaktionen, beispielsweise des SWR im <TIMEX3 tid="t46" type="DATE" value="2017-SU">Sommer 2017</TIMEX3> oder der Deutschen Umwelthilfe (DUH) im <TIMEX3 tid="t47" type="DATE" value="2018-02">Februar</TIMEX3> und <TIMEX3 tid="t48" type="DATE" value="2018-05">Mai 2018</TIMEX3>, eine hohe Beteiligung aus der Bevölkerung erfuhren.
+
+Im Rahmen dieser Messaktionen wurden an einigen Straßenabschnitten sehr hohe Stickstoffdioxidkonzentrationen gefunden, deren Bewertung aber schwerfiel, da die Messungen nicht den gesetzlichen Anforderungen entsprachen und zum Teil auch nur unzureichend dokumentiert waren.
+
+Aus den genannten Gründen wurde die LUBW im <TIMEX3 tid="t49" type="DATE" value="2018-SP">Frühjahr 2018</TIMEX3> vom Ministerium für Verkehr <PLACE id="p8" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> beauftragt, ein Konzept für eine Neuausrichtung bzw. Ergänzung der Spotmessungen zu erstellen.
+
+Ziel war, Hinweisen auf Grenzwertüberschreitungen hinsichtlich des Luftschadstoffs Stickstoffdioxid (NO2) schneller als zuvor nachgehen und die entsprechenden Straßenabschnitte in die Routinemessungen integrieren zu können.
+
+Das Konzept der LUBW sah vor, zunächst alle infrage kommenden Straßenabschnitte zu sammeln.
+
+Dazu gehörten die verbliebenen Straßenabschnitte aus der Prioritätenliste der Spotmessungen, Anfragen aus der Bevölkerung und von Kommunen nach Messungen sowie die höchstbelasteten Straßenabschnitte aus den Messaktionen der DUH und des SWR.
+
+Diese insgesamt 82 Straßenabschnitte wurden anhand eines von der LUBW entwickelten einheitlichen, objektiven Verfahrens geprüft (zu den Details der Prüfung <TIMEX3 tid="t50" type="DATE" value="2019">2019</TIMEX3> siehe Kapitel 2.2).
+
+An den 39 Straßenabschnitten, an denen auf Basis dieser Prüfung eine Grenzwertüberschreitung nicht auszuschließen war, wurden ab dem <TIMEX3 tid="t51" type="DATE" value="2019-01-01">01.01.2019</TIMEX3> orientierende Messungen der Stickstoffdioxidkonzentration mit Passivsammlern für zunächst <TIMEX3 tid="t52" type="DURATION" value="P3M">3 Monate</TIMEX3> durchgeführt („verkehrsnahe Sondermessungen <TIMEX3 tid="t54" type="DATE" value="2019">2019</TIMEX3>“).
+
+Durch die Verkürzung der Messdauer von <TIMEX3 tid="t55" type="DURATION" value="P1Y">einem Jahr</TIMEX3> auf <TIMEX3 tid="t56" type="DURATION" value="P3M">3 Monate</TIMEX3> konnte die Kapazität für Messungen deutlich erhöht werden, gleichzeitig sind die Messergebnisse nach <TIMEX3 tid="t57" type="DURATION" value="P3M">3 Monaten</TIMEX3> aber bereits so belastbar, dass sie eine Einschätzung über die zu erwartende Belastung im Jahresmittel erlauben.
+
+Die 9 Straßenabschnitte, an denen der Verdacht einer Grenzwertüberschreitung durch die <TIMEX3 tid="t58" type="SET" quant="EVERY" value="P3M">3monatigen</TIMEX3> Messungen nicht ausgeräumt wurde, wurden bis zum <TIMEX3 tid="t59" type="DATE" value="2019" mod="END">Jahresende</TIMEX3> weiter untersucht, um einen im Sinne der 39. BImSchV gültigen Jahresmittelwert zu erhalten.
+
+Zum <TIMEX3 tid="t60" type="DATE" value="2019" mod="END">Jahresende</TIMEX3> zeigte sich, dass die NO2-Konzentration an lediglich einer der ursprünglich 39  Sondermessstellen, der Messstelle <PLACE id="p9" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE> Talstraße, über dem gesetzlichen Grenzwert lag.
+
+Diese Messstelle wurde ab dem <TIMEX3 tid="t61" type="DATE" value="2020-01-01">01.01.2020</TIMEX3> als Spotmessstelle weiterbetrieben.
+
+Die Ergebnisse der verkehrsnahen Sondermessungen <TIMEX3 tid="t62" type="DATE" value="2019">2019</TIMEX3> wurden in Form eines Berichtes veröffentlicht [LUBW <TIMEX3 tid="t63" type="DATE" value="2020">2020</TIMEX3>].
+
+Die verkehrsnahen Sondermessungen sind als eine auf Dauer angelegte Ergänzung des Luftmessnetzes und der Spotmessungen gedacht und sollen deshalb bei Bedarf <TIMEX3 tid="t64" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> fortgeführt werden.
+
+Aufgrund von Baustellen konnten im <TIMEX3 tid="t65" type="DATE" value="2019">Vorjahr</TIMEX3> nicht an allen Straßenabschnitten, an denen eine Grenzwertüberschreitung zu erwarten war, Messungen durchgeführt werden.
+
+Zudem gingen bei der LUBW im Laufe <TIMEX3 tid="t66" type="DATE" value="2019">des Jahres 2019</TIMEX3> Meldungen weiterer potentieller Belastungspunkte ein.
+
+Aus diesen Gründen bestand der Bedarf nach einer Fortführung des Messprogramms „verkehrsnahe Sondermessungen“ im <TIMEX3 tid="t67" type="DATE" value="2020">Jahr 2020</TIMEX3>.
+
+Das Konzept der verkehrsnahen Sondermessungen <TIMEX3 tid="t68" type="DATE" value="2020">2020</TIMEX3> entspricht weitgehend demjenigen der Sondermessungen <TIMEX3 tid="t69" type="DATE" value="2019">2019</TIMEX3> [LUBW <TIMEX3 tid="t70" type="DATE" value="2020">2020</TIMEX3>].
+
+Im Folgenden wird das Vorgehen sowie die Abweichungen im Vergleich zu den Sondermessungen <TIMEX3 tid="t71" type="DATE" value="2019">2019</TIMEX3> beschrieben.
+
+In den verkehrsnahen Sondermessungen <TIMEX3 tid="t72" type="DATE" value="2020">2020</TIMEX3> wurden alle Straßenabschnitte berücksichtigt, an denen im <TIMEX3 tid="t73" type="DATE" value="2019">Vorjahr</TIMEX3> (verkehrsnahe Sondermessungen <TIMEX3 tid="t74" type="DATE" value="2019">2019</TIMEX3>) eine Messung vorgesehen war, wegen Baustellentätigkeiten jedoch nicht durchgeführt werden konnte.
+
+Hinzu kamen abgelehnte Straßenabschnitte aus <TIMEX3 tid="t75" type="DATE" value="2019">dem Vorjahr</TIMEX3>, an denen die Kommunen die Einschätzung der LUBW nicht teilte bzw. der LUBW ergänzende Daten zur Verfügung gestellt hatten.
+
+Weiterhin wurden zwischenzeitlich eingegangene Messvorschläge von Kommunen und aus der Bevölkerung berücksichtigt.
+
+Bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t76" type="DATE" value="2019">2019</TIMEX3> wurden die gesammelten Straßenabschnitte zunächst von der LUBW geprüft.
+
+Die Prüfung erfolgte anhand von 3 objektiven Kriterien: Kriterium „Verkehrsstärke“ (für die Sondermessungen <TIMEX3 tid="t77" type="DATE" value="2019">2019</TIMEX3> musste diese über 10 000 Kfz/<TIMEX3 tid="t78" type="SET" freq="EVERY" value="P1D">Tag</TIMEX3> betragen), Kriterium „Windgeschwindigkeit“ (durfte im <TIMEX3 tid="t79" type="DURATION" value="P1Y">Jahresmittel</TIMEX3> bei höchstens 2,4 m/<TIMEX3 tid="t80" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> liegen) sowie Kriterium „Betroffenheit“ (fehlende Wohnbebauung führte zum Ausschluss).
+
+Eine objektive Prüfung der Straßenabschnitte erfolgte auch bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t81" type="DATE" value="2020">2020</TIMEX3>.
+
+Angesichts des hohen Anteils an Sondermessstellen, die die Grenzwerte im <TIMEX3 tid="t82" type="DATE" value="2019">Jahr 2019</TIMEX3> eingehalten haben, wurden die Auswahlkriterien für die Messungen <TIMEX3 tid="t83" type="DATE" value="2020">2020</TIMEX3> überarbeitet.
+
+Die Überarbeitung trägt auch dem Umstand Rechnung, dass auf Grund der kontinuierlichen Erneuerung der Fahrzeugflotte und der für Neufahrzeuge strengeren Abgasgesetzgebung die NOx-Emissionen des Verkehrs seit einiger Zeit deutlich rückläufig sind.
+
+Dadurch gehen auch die NO2-Immissionen in Verkehrsnähe stetig zurück.
+
+Um der neuen, geringeren Belastungssituation Rechnung zu tragen, wurde für die verkehrsnahen Sondermessungen <TIMEX3 tid="t84" type="DATE" value="2020">2020</TIMEX3> das Kriterium „Verkehrsstärke“ angepasst.
+
+Hierfür wurde – analog dem Vorgehen für die verkehrsnahen Sondermessungen <TIMEX3 tid="t85" type="DATE" value="2019">2019</TIMEX3> – eine Korrelation der aktuellsten vorliegenden <TIMEX3 tid="t86" type="DURATION" value="P1Y">Jahresmittelwerte</TIMEX3> mit der Verkehrsstärke vorgenommen.
+
+Für die Sondermessungen <TIMEX3 tid="t87" type="DATE" value="2020">2020</TIMEX3> waren das die Jahresmittelwerte aus dem Luftmessnetz und der Spotmessungen jeweils aus <TIMEX3 tid="t88" type="DATE" value="2018">dem Jahr 2018</TIMEX3>, ergänzt um die Halbjahreswerte der verkehrsnahen Sondermessungen <TIMEX3 tid="t89" type="DATE" value="2019">2019</TIMEX3> (Abbildung 2.1).
+
+Die Korrelation zeigt, dass die gemessenen NO2-Konzentrationen – wie erwartet  – mit der Verkehrsmenge (DTV, durchschnittliche <TIMEX3 tid="t90" type="SET" freq="EVERY" value="P1D">tägliche</TIMEX3> Verkehrsstärke) zunehmen.
+
+Die erste Messstelle mit einer NO2-Konzentration oberhalb des Immissionsgrenzwertes ist die Messstelle <PLACE id="p10" type="" geo="DEBKGGND00001ABC">Tübingen</PLACE> Mühlstraße, an der trotz einer vergleichsweise geringen Verkehrsbelastung (6 800 Kfz/<TIMEX3 tid="t91" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3>) ein NO2-Jahresmittelwert von 46 µg/m³ erreicht wurde.
+
+Die Ursache liegt, wie im <TIMEX3 tid="t92" type="DATE" value="2019">Vorjahr</TIMEX3>, in dem an dieser Stelle außergewöhnlich hohen Anteil des Schwerlast- bzw. Busverkehrs an der Gesamtverkehrsmenge.
+
+Diese Messstelle ist damit ungeeignet, die Belastungssituation an anderen Straßen abzuschätzen.
+
+Die erste Messstelle mit „typischer“ Verkehrszusammensetzung, an der eine Grenzwertüberschreitung festgestellt wurde, ist die Messstelle <PLACE id="p11" type="" geo="DEBKGGND00001ATN">Backnang</PLACE> Eugen-Adolff-Straße, an der durchschnittlich 18 000 Kfz/<TIMEX3 tid="t93" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> verkehren.
+
+Im Sinne eines konservativen Ansatzes wurde als Grenze für die verkehrsnahen Sondermessungen <TIMEX3 tid="t94" type="DATE" value="2020">2020</TIMEX3> deshalb eine durchschnittliche <TIMEX3 tid="t95" type="SET" freq="EVERY" value="P1D">tägliche</TIMEX3> Verkehrsstärke von 15 000 Kfz/<TIMEX3 tid="t96" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> festgelegt, d. h. es werden nur Straßenabschnitte berücksichtigt, in denen eine DTV über 15 000 Kfz/<TIMEX3 tid="t97" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> vorhanden ist.
+
+Die anderen beiden Auswahlkriterien (Windgeschwindigkeit, Betroffenheit) wurden unverändert beibehalten.
+
+Damit ergeben sich für die Auswahl der zu beprobenden Straßenabschnitte im Rahmen der verkehrsnahen Sondermessungen <TIMEX3 tid="t98" type="DATE" value="2020">2020</TIMEX3> folgende Auswahlkriterien: Kriterium „Verkehrsstärke“ (für die Sondermessungen <TIMEX3 tid="t99" type="DATE" value="2020">2020</TIMEX3> muss diese über 15 000 Kfz/<TIMEX3 tid="t100" type="SET" quant="EVERY" value="P1D">Tag</TIMEX3> betragen), Kriterium „Windgeschwindigkeit“ (darf im Jahresmittel bei höchstens 2,4 m/s liegen) sowie Kriterium „Betroffenheit“ (fehlende Wohnbebauung führt zum Ausschluss).
+
+Das Auswahl- und Prüfverfahren ist in Abbildung 2.2 schematisch dargestellt.
+
+An den anhand der genannten Kriterien ausgewählten Straßenabschnitten werden für <TIMEX3 tid="t101" type="DURATION" value="P3M">3  Monate</TIMEX3> orientierende Messungen der NO2-Konzentration mithilfe von Passivsammlern durchgeführt.
+
+Im Vergleich zu den verkehrsnahen Sondermessungen <TIMEX3 tid="t102" type="DATE" value="2019">2019</TIMEX3> ergeben sich bezüglich der Durchführung keine Änderungen.
+
+Die Probenahmedauer der Einzelproben beträgt jeweils <TIMEX3 tid="t103" type="DURATION" value="P28D">28 Tage</TIMEX3>.
+
+Bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t104" type="DATE" value="2019">2019</TIMEX3> erfolgte nach Abschluss der <TIMEX3 tid="t105" type="DURATION" value="P3M">3monatigen</TIMEX3> Messungen eine Hochrechnung der <TIMEX3 tid="t106" type="DURATION" value="P3M">3-Monats-Werte</TIMEX3> auf <TIMEX3 tid="t107" type="DURATION" value="P1Y">Jahreswerte</TIMEX3>.
+
+An den Sondermessstellen, die im <TIMEX3 tid="t108" type="DATE" value="2019">Jahr 2019</TIMEX3> über <TIMEX3 tid="t109" type="DURATION" beginPoint="t107" endPoint="t108" value="P3M">die ersten 3 Monate</TIMEX3><TIMEX3 tid="t110" type="DATE" value="2019-01-01"></TIMEX3><TIMEX3 tid="t111" type="DATE" value="2019-03-31"></TIMEX3> hinaus betrieben wurden, war es möglich, die Treffsicherheit dieser Abschätzung im Nachhinein zu evaluieren.
+
+Die Evaluierung hat ergeben, dass die zuvor abgeschätzten jahresmittleren Belastungen nur schlecht mit den letztlich gemessenen <TIMEX3 tid="t112" type="DURATION" value="P1Y">Jahresmittelwerten</TIMEX3> übereinstimmten (Abbildung 2.3).
+
+In der Regel lagen die tatsächlichen Belastungen am <TIMEX3 tid="t113" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> niedriger als die zum <TIMEX3 tid="t114" type="DATE" value="2020-03-31">31.03.</TIMEX3> bzw. <TIMEX3 tid="t115" type="DATE" value="2020-06-30">30.06.</TIMEX3> vorgenommenen Abschätzungen vermuten ließen.
+
+Da die Hochrechnung somit nicht zu einer signifikanten Verbesserung der Aussagekraft der <TIMEX3 tid="t116" type="DURATION" value="P3M">3-Monats</TIMEX3>-Werte geführt hat und da die Verkehrs- und Immissionsbelastungen im <TIMEX3 tid="t117" type="DATE" value="2020">Jahr 2020</TIMEX3> durch die Corona-Pandemie zusätzlich weiteren untypischen Einflüssen unterworfen waren, wurde bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t118" type="DATE" value="2020">2020</TIMEX3> auf eine Abschätzung von Jahresmittelwerten bewusst verzichtet.
+
+Da bei den verkehrsnahen Sondermessungen <TIMEX3 tid="t119" type="DATE" value="2020">2020</TIMEX3> – im Gegensatz zum Vorgehen im <TIMEX3 tid="t120" type="DATE" value="2019">Vorjahr</TIMEX3> – auf eine Hochrechnung der <TIMEX3 tid="t121" type="DURATION" value="P3M">3-Monats</TIMEX3>-Mittelwerte auf Jahresmittelwerte verzichtet wurde, erfolgte die Entscheidung über Abbau oder Weiterbetrieb der Sondermessstellen im <TIMEX3 tid="t122" type="DATE" value="2020">Jahr 2020</TIMEX3> nicht anhand der hochgerechneten Werte, sondern anhand der gemessenen <TIMEX3 tid="t123" type="DURATION" value="P3M">3-Monats</TIMEX3>-Mittelwerte.
+
+Da die Messungen im <TIMEX3 tid="t124" type="DATE" value="2020-HY2">Winterhalbjahr</TIMEX3>, d. h. zu einem Zeitpunkt mit in der Regel hohen NO2-Konzentrationen, stattfanden und zu diesem Zeitpunkt auch noch keine größeren Beeinflussungen durch die Corona-Pandemie auftraten, liegen die hier ermittelten <TIMEX3 tid="t125" type="DURATION" value="P3M">3-Monats</TIMEX3>-Mittelwerte am oberen Rand der zu erwartenden tatsächlichen NO2-Belastungen in den untersuchten Straßenabschnitten.
+
+An Messstellen, an denen der <TIMEX3 tid="t126" type="DURATION" value="P3M">3-Monatsmittelwert</TIMEX3> der NO2-Konzentration über 40 µg/m³ lag, wurden die Messungen über die <TIMEX3 tid="t127" type="DURATION" value="P3M">3monatige</TIMEX3> orientierende Messung hinaus fortgeführt.
+
+Dies ermöglichte die Bildung gültiger <TIMEX3 tid="t128" type="DURATION" value="P1Y">Jahresmittelwerte</TIMEX3> im Sinne der 39. BImSchV [39. BImSchV].
+
+Aufgrund des zeitlichen Verzugs durch die Laboranalysen der Passivsammler konnte die Entscheidung über Abbau oder Weiterbetrieb der Sondermessstellen erst <TIMEX3 tid="t129" type="DATE" value="2020-04" mod="END">Ende April 2020</TIMEX3> getroffen werden.
+
+Für die verkehrsnahen Sondermessungen <TIMEX3 tid="t130" type="DATE" value="2020">2020</TIMEX3> waren insgesamt 32 Straßenabschnitte in 17 Kommunen zu prüfen (siehe Abbildung 3.1 und Tabelle 3.1, linker Teil).
+
+Bei gut zwei Dritteln davon handelte es sich um neu hinzugekommene Verdachtsfälle, die auf Anfragen (in der Regel von den jeweiligen Kommunen) zurückzuführen sind.
+
+Knapp ein Drittel (insgesamt 9) der 32 zu prüfenden Straßenabschnitte war der LUBW bereits aus den verkehrsnahen Sondermessungen <TIMEX3 tid="t131" type="DATE" value="2019">2019</TIMEX3> [LUBW <TIMEX3 tid="t132" type="DATE" value="2020">2020</TIMEX3>] bekannt.
+
+Hierbei handelte es sich zum einen um 4 Messstellen, die zwar für Messungen geeignet waren, an denen im <TIMEX3 tid="t133" type="DATE" value="2019">Vorjahr</TIMEX3> wegen Bautätigkeiten aber keine Messungen durchgeführt werden konnten.
+
+Zum anderen gab es 5  Straßenabschnitte, an denen die LUBW im Rahmen der Prüfung der Messvorschläge für die verkehrsnahen Sondermessungen <TIMEX3 tid="t134" type="DATE" value="2019">2019</TIMEX3> zu dem Schluss gekommen war, dass dort keine relevante Überschreitungssituation vorliegt, die jeweilige Kommune diese Einschätzung im Nachgang aber nicht teilte.
+
+Gründe waren in einem Fall Zweifel an dem von der LUBW als Ablehnungsgrund angegebenen Mangel an Betroffenheit, in den anderen 4 Fällen lagen den entsprechenden Kommunen aus eigenen Verkehrsuntersuchungen Verkehrsdaten vor, die eine höhere Verkehrsbelastung nahelegen als die von der LUBW verwendeten Zahlen.
+
+Die 5  genannten Straßenabschnitte wurden von der LUBW – unter Berücksichtigung der von den Kommunen zur Verfügung gestellten Informationen – erneut ergebnisoffen geprüft.
+
+Die 32 Straßenabschnitte wurden entsprechend der in Kapitel  2.2 (Seite  10) beschriebenen Kriterien bewertet.
+
+Tabelle  3.1 (rechter Teil) gibt einen Überblick über das Prüfungsergebnis an allen 32 Straßenabschnitten.
+
+Das abschließende Ergebnis der Bewertung ist in Abbildung 3.2 gezeigt.
+
+Bei 22  Straßenabschnitten zeigte sich bereits im ersten Prüfungsschritt (vgl. Abbildung  2.2 auf Seite  11), dass mindestens ein Kriterium nicht eingehalten wird, so dass auf eine Vor-Ort-Begehung verzichtet werden konnte.
+
+Häufigstes Ausschlusskriterium war, ähnlich wie im <TIMEX3 tid="t135" type="DATE" value="2019">Vorjahr</TIMEX3>, die Verkehrsstärke (6+7 Straßenabschnitte).
+
+2 Straßenabschnitte fielen aus weiteren Gründen heraus: an einem vorgeschlagenen Messpunkt (<PLACE id="p12" type="" geo="DEBKGGND0000197D">Kirchheim unter Teck</PLACE> Dettinger Straße) befand sich eine umfangreiche Baustelle, so dass auf eine genaue Prüfung des Straßenabschnitts (insbesondere hinsichtlich der Betroffenheit) vorerst verzichtet wurde.
+
+An einem weiteren Punkt (<PLACE id="p13" type="" geo="DEBKGGND00001FQ6">Göppingen</PLACE> Schlater Straße) konnte eine Grenzwertüberschreitung durch einen Analogieschluss ausgeschlossen werden1.
+
+Rund ein Drittel der 32  Straßenabschnitte kam für eine Messung infrage und wurde deshalb vor Ort besichtigt und fotografisch dokumentiert.
+
+Die Baustelle in der Stuttgarter Straße in <PLACE id="p14" type="" geo="DEBKGGND00001FJT">Freudenstadt</PLACE>, die bereits im Rahmen der verkehrsnahen Sondermessungen <TIMEX3 tid="t136" type="DATE" value="2019">2019</TIMEX3> beprobt werden sollte, bestand nach wie vor, so dass an diesem Straßenabschnitt auch im <TIMEX3 tid="t137" type="DATE" value="2020">Jahr 2020</TIMEX3> keine Messung durchgeführt werden konnte.
+
+Zum <TIMEX3 tid="t138" type="DATE" value="2020-01-01">01.01.2020</TIMEX3> wurden letztlich 9  Sondermessstellen eingerichtet.
+
+Diese lagen in <PLACE id="p15" type="" geo="DEBKGGND0000197D">Kirchheim unter Teck</PLACE> (1  Messstelle), <PLACE id="p16" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> (7  Messstellen) und <PLACE id="p17" type="" geo="DEBKGGND000054M6">Radolfzell</PLACE> (1 Messstelle).
+
+Alle betroffenen Kommunen wurden schriftlich über die Bewertung der Straßenabschnitte informiert.
+
+Kommunen, in denen aufgrund der Nichteinhaltung der Auswahlkriterien keine Messstelle eingerichtet wurde, hatten und haben die Möglichkeit, andere Straßenabschnitte in ihrem Gemeindegebiet zu nennen.
+
+Die LUBW wird diese wie beschrieben prüfen, bewerten und ggf. zu einem späteren Zeitpunkt beproben.
+
+Im Zeitraum vom <TIMEX3 tid="t139" type="DATE" value="2020-01-01">01.01.</TIMEX3> bis zum <TIMEX3 tid="t140" type="DATE" value="2020-03-31">31.03.2020</TIMEX3> wurden orientierende Messungen der NO2-Konzentration mithilfe von Passivsammlern an den 9 zuvor ausgewählten Standorten in 3 Kommunen durchgeführt.
+
+Die Lage der verkehrsnahen Sondermessstellen im Land ist in Abbildung 3.3 dargestellt.
+
+Informationen zu den einzelnen Messstellen finden sich in Tabelle 3.2, detaillierte Messpunktbeschreibungen im Anhang 5.3 ab Seite 23. Die Ergebnisse der verkehrsnahen Sondermessungen <TIMEX3 tid="t141" type="DATE" value="2020">2020</TIMEX3> nach Abschluss der <TIMEX3 tid="t142" type="DURATION" value="P3M">3monatigen</TIMEX3> Messungen sind in Abbildung 4.1 gezeigt.
+
+Die Sondermessstellen sind dort nach dem gemessenen Quartalsmittelwert der NO2-Konzentration sortiert.
+
+Diese lagen an 4 Sondermessstellen deutlich unterhalb des Immissionsgrenzwertes für den <TIMEX3 tid="t143" type="DURATION" value="P1Y">Jahresmittelwert</TIMEX3> (40 µg/m³).
+
+Eine Grenzwertüberschreitung im <TIMEX3 tid="t144" type="DURATION" value="P1Y">Jahresmittel</TIMEX3> war hier nicht zu erwarten, so dass die Messstellen zeitnah abgebaut wurden.
+
+An 5 Sondermessstellen lagen die Messwerte über- oder nur geringfügig unterhalb des Immissionsgrenzwertes, so dass Grenzwertüberschreitungen im <TIMEX3 tid="t145" type="DURATION" value="P1Y">Jahresmittel</TIMEX3> hier nicht ausgeschlossen werden konnten.
+
+Diese 5 verkehrsnahen Sondermessstellen wurden deshalb weiterbetrieben.
+
+Alle betroffenen Kommunen wurden entsprechend informiert und die Ergebnisse wurden im LUBW-InternetaufDie Messergebnisse zur <TIMEX3 tid="t146" type="DATE" value="2020" mod="MID">Jahresmitte</TIMEX3> sind in Abbildung 4.2 dargestellt.
+
+Alle weiterbetriebenen Messstellen zeigten NO2-Konzentrationen, die niedriger lagen als nach den ersten <TIMEX3 tid="t147" type="DURATION" value="P3M">3 Monaten</TIMEX3>.
+
+Dies ist zum einen auf den typischen Jahresgang der Schadstoffkonzentrationen zurückzuführen, mit höheren Konzentrationen im <TIMEX3 tid="t148" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> und niedrigeren Belastungen im <TIMEX3 tid="t149" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3>.
+
+Zum anderen wurden die NO2-Konzentrationen im <TIMEX3 tid="t150" type="DATE" value="2020-Q2">2.Quartal 2020</TIMEX3> aber auch durch das weitgehende Herunterfahren des öffentlichen Lebens im Zuge der Covid  19-Pandemie (1.Lockdown) beeinflusst, was sich auch auf den Straßenverkehr und damit auf die gemessenen NO2-Konzentrationen auswirkt.
+
+Eine Trennung bzw. Quantifizierung beider Effekte (Jahresgang/ Meteorologie vs.
+
+Corona-Einfluss) ist nicht ohne weiteres möglich.
+
+Es war deshalb unklar, inwieweit die Messwerte zur <TIMEX3 tid="t151" type="DATE" value="2020" mod="MID">Jahresmitte</TIMEX3> repräsentativ für die unter normalen Bedingungen typischen NO2-Belastungen in den einzelnen Straßenabschnitten sind.
+
+Um die Messstellen nicht vorschnell, d. h. lediglich aufgrund der niedrigen NO2-Konzentrationen während des Corona-Lockdowns, abzubauen, wurde hinsichtlich des Abbaus von Sondermessstellen bewusst zurückhaltend vorgegangen.
+
+Abgebaut wurden deshalb lediglich die beiden Sondermessstellen <PLACE id="p18" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Christophallee und <PLACE id="p19" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Hohenzollernstraße – an diesen lagen die NO2-Konzentrationen zur <TIMEX3 tid="t152" type="DATE" value="2020" mod="MID">Jahresmitte</TIMEX3> bei so niedrigen Werten, dass eine sichere Einhaltung des Grenzwertes im <TIMEX3 tid="t153" type="DURATION" value="P1Y">Jahresmittel</TIMEX3> zu erwarten war.
+
+Die Messungen an diesen beiden Messstellen wurden deshalb zum <TIMEX3 tid="t154" type="DATE" value="2020-06-30">30.06.2020</TIMEX3> beendet.
+
+Die 3 Sondermessstellen <PLACE id="p20" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> St.-Georgen-Steige, <PLACE id="p21" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Luisenstraße und <PLACE id="p22" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Parkstraße zeigten hingegen NO2-<TIMEX3 tid="t155" type="DURATION" value="P6M">Halbjahreswerte</TIMEX3>, die zwar niedriger lagen als in den ersten <TIMEX3 tid="t156" type="DURATION" value="P3M">3 Monaten</TIMEX3>, an denen – unter Berücksichtigung des Corona-Einflusses – eine Überschreitung im <TIMEX3 tid="t157" type="DATE" value="P1Y">Jahresmittel</TIMEX3> unter normalen Bedingungen aber nicht ausgeschlossen werden konnte.
+
+Diese Messstellen wurden deshalb bis zum <TIMEX3 tid="t158" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> weiter betrieben.
+
+Auf die – im Falle der Fortführung der Messungen bis zum <TIMEX3 tid="t159" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> eigentlich vorgesehenen – Einrichtung von Profilmesspunkten zur Überprüfung der räumlichen Repräsentativität (vgl. Anlage 3 der 39. BImSchV) wurde aufgrund der untypischen Situation im <TIMEX3 tid="t160" type="DATE" value="2020">Jahr 2020</TIMEX3> aber verzichtet.
+
+Alle betroffenen Kommunen wurden entsprechend informiert und die Ergebnisse wurden im LUBW-InternetaufDie Messergebnisse an den 3 bis zum <TIMEX3 tid="t161" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> weiter betriebenen Sondermesspunkten sind in Abbildung  4.3 dargestellt.
+
+An der Messstelle <PLACE id="p23" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Parkstraße lag die Belastung so weit unterhalb des Grenzwertes, dass eine Grenzwertüberschreitung auch unter normalen Bedingungen nicht zu erwarten war – diese Messstelle wurde deshalb zum <TIMEX3 tid="t162" type="DATE" value="2020" mod="END">Jahresende</TIMEX3> abgebaut.
+
+An den beiden Messstellen <PLACE id="p24" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> St.-Georgen-Steige und <PLACE id="p25" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Luisenstraße lagen die <TIMEX3 tid="t163" type="DURATION" value="P1Y">jahresmittleren</TIMEX3> NO2-Konzentrationen ebenfalls unterhalb des Immissionsgrenzwertes, unter Berücksichtigung der Corona-Pandemie war aber unsicher, ob dies auch unter normalen Bedingungen der Fall gewesen wäre.
+
+Beide Messstellen werden deshalb sicherheitshalber im <TIMEX3 tid="t164" type="DATE" value="2021">Folgejahr</TIMEX3> als Spotmessstellen weiterbetrieben.
+
+Alle betroffenen Kommunen wurden entsprechend informiert und die Ergebnisse wurden im LUBW-InternetaufDie Vorauswahl der verkehrsnahen Sondermessungen <TIMEX3 tid="t165" type="DATE" value="2020">2020</TIMEX3> hat gezeigt, dass Überschreitungen von Immissionsgrenzwerten an rund zwei Dritteln der 32 berücksichtigten Straßenabschnitte schon von vorneherein ausgeschlossen werden konnten.
+
+Die ab dem <TIMEX3 tid="t166" type="DATE" value="2020-01-01">01.01.2020</TIMEX3> durchgeführten Immissionsmessungen haben belegt, dass auch an denjenigen Straßenabschnitten, die die von der LUBW erarbeiteten Auswahlkriterien erfüllen und an denen eine Grenzwertüberschreitung somit zumindest möglich erschien, die Immissionsgrenzwerte durchgängig eingehalten wurden.
+
+Da die Messwerte aufgrund der im Zuge der Corona-Pandemie zurückgegangenen Verkehrszahlen möglicherweise niedriger lagen als üblich, werden die beiden höchstbelasteten Messstellen im <TIMEX3 tid="t167" type="DATE" value="2021">Folgejahr</TIMEX3> sicherheitshalber weiterbetrieben, auch wenn formal keine Grenzwertüberschreitung nachgewiesen wurde.
+
+Im Vergleich zu den verkehrsnahen Sondermessungen <TIMEX3 tid="t168" type="DATE" value="2019">des Vorjahres (2019)</TIMEX3> ist festzustellen, dass es einen deutlichen Rückgang der messtechnisch zu überprüfenden Straßenabschnitte (d.
+
+h. Straßenabschnitte, an denen eine Grenzwertüberschreitung nicht von vorneherein ausgeschlossen werden konnte) gab (vgl. Tabelle 4.1).
+
+Der Europäische Gerichtshof hat im Craeynest-Urteil vom <TIMEX3 tid="t169" type="DATE" value="2019-06-26">26.06.2019</TIMEX3> [EuGH <TIMEX3 tid="t170" type="DATE" value="2019">2019</TIMEX3>] u. a. festgestellt, dass unmittelbar von Grenzwertüberschreitungen Betroffene vor den nationalen Gerichten, in <PLACE id="p26" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> also den Verwaltungsgerichten, einklagen können, dass Messstellen so positioniert werden, dass sie – wie in der EU-Luftqualitäts-Richtlinie gefordert – Informationen über die Verschmutzung der am stärksten belasteten Orte liefert [Will <TIMEX3 tid="t171" type="DATE" value="2019">2019</TIMEX3>].
+
+Wendet man den Grundgedanken des Urteils konsequent an, können die Klagen auch Städte betreffen, die – mangels Messwerten – noch nicht von Grenzwertüberschreitungen betroffen zu sein scheinen [Will <TIMEX3 tid="t172" type="DATE" value="2019">2019</TIMEX3>].
+
+Indem das Land <PLACE id="p27" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> den Anwohnern in Form der verkehrsnahen Sondermessungen ein niederschwelliges Angebot zur objektiven Überprüfung von potentiell hochbelasteten Straßenabschnitten macht, tragen die Sondermessungen dazu bei, derartige Streitfälle von vorneherein zu vermeiden.
+
+Insgesamt sind die verkehrsnahen Sondermessungen aus Sicht der LUBW ein sinnvolles Mittel, um potentielle Überschreitungspunkte vergleichsweise schnell überprüfen und bei Bedarf in den regulären Messbetrieb überführen zu können.
+
+Die verkehrsnahen Sondermessungen werden deshalb auch im <TIMEX3 tid="t173" type="DATE" value="2021">Jahr 2021</TIMEX3> fortgesetzt – hierbei werden sowohl diejenigen Straßenabschnitte, die bei den Messungen <TIMEX3 tid="t174" type="DATE" value="2020">2020</TIMEX3> aufgrund von Baustellen nicht beprobt werden konnten, als auch die zwischenzeitlich neu eingegangenen Messvorschläge berücksichtigt.
+
+Die verkehrsnahen Sondermessungen sind somit kein einmaliges Messprojekt, sondern ein auf Dauer angelegtes Angebot an die Menschen und Kommunen in <PLACE id="p28" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>.
+
+
+
+
+</TEXT></TimeML>

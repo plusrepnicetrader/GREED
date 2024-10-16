@@ -1,0 +1,475 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10200-Klimaleitplanken_2</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2021-04-01" temporalFunction="false" functionInDocument="CREATION_TIME">2021-04-01</TIMEX3></DCT>
+<TEXT>Es wird allerhöchste Zeit den Klimaschutz zu verstärken und Anpassungsmaßnahmen an die unvermeidbaren Folgen des Klimawandels in Baden-Württemberg zu ergreifen.
+
+Die Auswertungen aktueller Klimamodelldaten für Baden-Württemberg gehen von einer noch stärkeren Erwärmung als bisher angenommen aus, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Der Weltklimarat (Intergovernmental Panal on Climate Change, kurz IPCC) hat in seinem letzten Sachstandsbericht aus dem Jahr 2014 anstelle der bisherigen Emissionsszenarien, die sogenannten repräsentativen Konzentrationspfade (Representative Concentration Pathways, RCP), vorgestellt [vgl. IPCC 2014].
+
+In dieser Auswertung für Baden- Württemberg wurde das RCP 8.5 verwendet.
+
+Dieses Szenario steht für einen nicht ausreichend effektiven Klimaschutz mit einem weiteren globalen Anstieg der Treibhausgasemissionen.
+
+Dieses spiegelt die derzeitige Situation wider und zeigt die zukünftige Klimaentwicklung bei „einem weiter wie bisher“ im Klimaschutz warnend auf.
+
+Auf Basis der globalen RCP-Szenarien wurden im Rahmen der Projekte EURO-CORDEX und ReKliEs-De regionale Klimamodellläufe mit einer räumlichen Auflösung von 12 km erstellt [vgl. reklies.hlnug.de].
+
+Alle Modelle wurden einer Plausibilitätsprüfung unterzogen [vgl. LfU 2020].
+
+Dieses zunächst für Bayern durchgeführte Audit wurde im Rahmen der Kooperation KLIWA "Klimawandel und Konsequenzen für die Wasserwirtschaft" und des Bund-Länder-Fachgesprächs auch für das bundesweite Gebiet angewendet und zeigte die Eignung des Ensembles.
+
+Für das RCP 8.5 (ohne effektiven Klimaschutz) liegt somit ein qualitätsgesichertes Ensemble aus zehn Modellen vor, das hinsichtlich der Temperatur und des Niederschlages für Baden-Württemberg ausgewertet wurde.
+
+Damit werden sowohl die wesentlichen Rahmenbedingungen des Klimas in Baden-Württemberg in der nahen (2021  – 2050) und fernen Zukunft (2071 – 2100) als auch regionale Aussagen zum Klimawandel in Baden-Württemberg aufgezeigt.
+
+Für alle Kennzahlen der Temperatur ergeben sich deutliche Veränderungen der Werte in der Zukunft im Vergleich zum Referenzzeitraum und somit ein starkes Klimasignal mit hoher Richtungssicherheit.
+
+Es kann von einem Temperaturanstieg in der Zukunft ausgegangen werden, die laut den Modellen im Jahresmittel über das Land von +0,8 bis +1,8 °C in der nahen Zukunft und von +3 bis +4,5 °C in der fernen Zukunft im Vergleich zum Referenzzeitraum 1971 – 2000 mit 8,4 °C reicht.
+
+Im Vergleich zu den Auswertungen 2013 zeigt sich damit eine stärkere Erwärmung als mit dem damals verwendeten A1B-Szenario [vgl. LUBW 2013].
+
+Im A1B-Szenario wurde eine ausgewogene Nutzung nichtfossiler und fossiler Energiequellen angenommen.
+
+Allerdings zeigt sich, dass das A1B-Szenario derzeit nicht als ausreichend realistisch für die Zukunft anzunehmen ist: Die Jahresmitteltemperaturen steigen weiter und die Treibhausgasemission nehmen global nahezu ungebremst zu.
+
+Vor diesem Hintergrund wurde das RCP 8.5-Szenario ausgewählt, weil es die Entwicklung aufzeigt, wenn weiterhin hauptsächlich fossile Energiequellen eingesetzt werden.
+
+Der Klimaparameter Niederschlag ist schwieriger zu simulieren und zu interpretieren als die Temperatur.
+
+Entsprechend sind die Bandbreite der Modellergebnisse und die Unsicherheit größer.
+
+Die Stärke des Klimasignals ist je nach Kennzahl unterschiedlich und die Richtung ist weniger eindeutig als bei den Kennzahlen der Temperatur.
+
+Dennoch machen die Ergebnisse deutlich, dass sich die Niederschlagsverteilung innerhalb des Jahres ändern wird.
+
+Vor allem in der fernen Zukunft ist gegenüber dem Referenzzeitraum 1971 – 2000 von einer Abnahme der Niederschläge im Sommer (von ca. +4 bis -19 %) und einer Zunahme im Winter (ca. +8 bis +28 %) auszugehen.
+
+Zudem muss vor allem in der fernen Zukunft mit intensiveren Niederschlagsereignissen gerechnet werden.
+
+Gemittelt über ganz Baden-Württemberg zeigen alle Modelle einen Anstieg des 99. Perzentils des Niederschlages.
+
+Im Zeitraum 2021 – 2050 reicht diese von knapp +3 % bis fast +12 %.
+
+Bis zum Ende des Jahrhunderts könnte das 99. Perzentil des Niederschlages zwischen +9 % und +24 % im Vergleich zum Referenzzeitraum ansteigen.
+
+Der Frühling wird aufgrund der steigenden Temperaturen sehr wahrscheinlich früher einsetzen als im Zeitraum 1971 – 2000, das heißt die Pflanzen werden zeitiger anfangen zu blühen.
+
+Die Vegetationsperiode beginnt per Definition sobald das erste Mal im Jahr sechs aufeinanderfolgende Tage mit einer Tagesmitteltemperatur von mindestens 5 °C auftreten.
+
+In der nahen Zukunft könnte danach die Vegetationszeit im landesweiten Mittel statt Mitte März bereits Anfang März starten, am Oberrhein noch viel früher.
+
+Im Zeitraum 2071 – 2100 wäre laut der Modelle sogar ein Blühbeginn Anfang Februar möglich.
+
+Die Pflanzen könnten damit, vor allem in der nahen Zukunft und in den Höhenlagen, vermehrt Spätfrösten ausgesetzt sein.
+
+Die Sommer könnten deutlich trockener und heißer werden; besonders am Oberrhein und in der Rhein-Neckar-Region.
+
+Im Oberrheingraben könnten zum Ende des Jahrhunderts statt an 14 Tagen (Mittel des Referenzzeitraums 1971  – 2000) an bis zu 70 Tagen im Jahr, also mehr als 2 Monate lang, Temperaturen über 30 °C herrschen und es zwischen 20 und 40 Tropennächte geben.
+
+Damit haben sich die bisherigen Einschätzungen aus dem Jahre 2013 manifestiert.
+
+Wochenlange Hitzeperioden könnten dann die Folge sein, was besonders für ältere Menschen, Menschen mit Vorerkrankungen oder Kleinkinder problematisch wäre.
+
+Entsprechend könnte sich der Kühlbedarf im Extremfall mehr als verdoppeln und zum Ende des Jahrhunderts sogar mehr als verfünffachen.
+
+Das Zusammenspiel zwischen höheren Temperaturen und früherem Einsetzen sowie Verlängerung der Vegetationsperiode könnte zu einer höheren Verdunstung und in Kombination mit geringeren Sommerniederschlägen zu einem Rückgang der Wasserreserven führen.
+
+Dies hat sich bereits in den letzten Jahren gezeigt und könnte sich in Zukunft noch verstärken.
+
+Trockenheiße Sommer wie sie heute zum Beispiel in der Toskana oder im Latium bekannt sind wären die Folge.
+
+Der Herbst wird wahrscheinlich früher einsetzen und länger andauern, da der Winter infolge der steigenden Temperaturen immer kürzer wird.
+
+Die Vegetationszeit wird sich folglich verlängern.
+
+Im Zeitraum 1971  – 2000 lagen zwischen Beginn und Ende der Vegetationszeit 239 Tage.
+
+In den nächsten 30 Jahren könnte sich die Dauer der Vegetationsperiode zwischen 16 und 26 Tagen und in der fernen Zukunft zwischen 52 und 69 Tagen verlängern.
+
+Besonders in den niedrigeren Lagen könnten die Winter überwiegend frostfrei sein und sich die Vegetationszeit sehr weit ausdehnen.
+
+In den Hochlagen des Schwarzwaldes könnte die Vegetationsperiode so lange sein wie es heute in den Niederungen, etwa dem Oberrheingraben, der Fall ist.
+
+Der Winter wird in Zukunft nicht mehr dem der Vergangenheit gleichen.
+
+Schnee, Eis und Frost werden schon in den nächsten 30 Jahren immer seltener und könnten bis zum Ende des Jahrhunderts in weiten Teilen Baden-Württembergs ganz der Vergangenheit angehören.
+
+Die Winter könnten zukünftig also kürzer, sehr viel milder und regenreicher sein.
+
+Aus den neuen Klimaleitplanken ergeben sich keine guten Aussichten für das zukünftige Klima Baden-Württembergs, wenn die Treibhausgasimmissionen wie bisher weiter steigen (RCP 8.5).
+
+Bereits jetzt haben wir die untere Bandbreite bei der Jahresmitteltemperatur des Szenarios RCP 8.5 für die nahe Zukunft (2021 – 2050) erreicht.
+
+Wie wird das Klima in Baden-Württemberg in der Zukunft sein?
+
+Wie stark werden die Temperaturen noch steigen und sich die Niederschläge ändern?
+
+Werden die Winter schneearm und milder?
+
+Gibt es Regionen in Baden-Württem berg, die besonders vom Klimawandel betroffen sein werden?
+
+Dies sind nur einige der Fragen, die sich hinsichtlich des Themas Klimawandel und dessen Auswirkungen stellen.
+
+Es gilt sie zu beantworten, um auf die Folgen des Klimawandels vorbereitet zu sein und sich möglichst gezielt anpassen zu können.
+
+Grundvoraussetzung um diese Fragen beantworten zu können, ist die Kenntnis über das Klima der Zukunft, welches mit Klimamodellen simuliert werden kann.
+
+Der Mensch nimmt vor allem durch die Menge ausgestoßener Treibhausgase Einfluss auf das Klima und verändert dieses.
+
+Daher ist es wichtig dieses Handeln in den Klimamodellen mit abzubilden.
+
+Hierzu bedient man sich verschiedener Annahmen oder auch Szenarien.
+
+Klimamodelle simulieren somit ein mögliches zukünftiges Klima anhand physikalischer Gesetzmäßigkeiten und verschiedener wissenschaftlicher Annahmen.
+
+Im letzten Sachstandsbericht des Weltklimarates (Intergovernmental Panal on Climate Change, kurz IPCC) aus dem Jahr 2014 wurden vier repräsentative Emissionsszenarien vorgestellt.
+
+Diese bilden jeweils unterschiedliche zukünftige Entwicklungen des zusätzlichen Strahlungsantriebs durch erhöhte Konzentrationen klimarelevanter Treibhausgase ab.
+
+Sie werden daher auch als repräsentative Konzentrationspfade (Representative Concentration Pathways) oder kurz RCP-Szenarien bezeichnet.
+
+Dabei gibt es Szenarien, die eine höhere oder weniger hohe zukünftige Entwicklung der Treibhausgaskonzentration in der Atmosphäre mit einer daraus resultierenden zusätzlichen „Energiezufuhr“ (Strahlungsantrieb) für das Klima bis 2100 abbilden.
+
+Im Szenario RCP 8.5 wird beispielsweise davon ausgegangen, dass im Jahr 2100 8,5 W/m² zusätzlich zur solaren Einstrahlung der vorindustriellen Zeit zur Erwärmung beitragen.
+
+Diese resultiert aus einem fortgesetzten Anstieg der Treibhausgasemissionen bis zum Ende des Jahrhunderts (ohne wirksamen Klimaschutz).
+
+Das RCP 2.6, mit dem das 2 °-Ziel erreicht werden könnte, weist hingegen Emissionsspitzen zwischen 2010 bis 2020 auf und geht von einer sich anschließenden substanziellen Treibhausgasabnahme durch Klimaschutzmaßnahmen aus (effektiver Klimaschutz).
+
+Dazwischen liegen die beiden mittleren Szenarien, das RCP4.5 und das RCP6.0.
+
+Die derzeitigen tatsächlichen globalen CO2-Konzentrationen von etwa 412 ppm und die fossilen CO2-Emissionen von ca. 34,1  Gt CO2/Jahr [Global Carbon Project 2020] liegen im Bereich der Annahmen des RCP8.5.
+
+Daher beschränken sich die vorliegenden Auswertungen auf das RCP 8.5.
+
+Sie verdeutlichen mit welchen Folgen zu rechnen ist, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Globale Klimamodelle, wie sie im IPCC-Bericht von 2014 verwendet werden, sind mit ihrer Auflösung von etwa 100 km für eine kleinräumige Auswertung zu grob.
+
+Daher werden regionale Klimamodelle genutzt, um die Ergebnisse unter Berücksichtigung der lokalen Besonderheiten zu verfeinern.
+
+Mit Abschluss der Verbundprojekte EURO-CORDEX und ReKliEs-De Ende 2017 liegen umfangreiche Auswertungen regionaler Klimamodelle mit den oben dargestellten RCP-Szenarien für Deutschland vor [vgl. https://euro- cordex.net/ und reklies.hlnug.de].
+
+Die räumliche Auflösung der Projektionen konnte dabei im Gegensatz zu den Vorgängermodellen nochmals verbessert werden.
+
+Sie liegt bei 12 km gegenüber 25 km der bisherigen Modelle.
+
+Zudem wurden alle Modelle der Projekte EURO-CORDEX und ReKliEs-De durch den Deutschen Wetterdienst (DWD) für das Expertennetzwerk des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI) fehlerkorrigiert (BIASadjustiert) und auf ein einheitliches Raster von 5 x 5 km interpoliert [vgl. Brienen et al. 2020].
+
+In einem weiteren Schritt wurden alle Modelle durch das Bayrische Landesamt für Umwelt einer Plausibilitätsprüfung (Auditierung) unterzogen [LfU 2020].
+
+Mit dem Klimaaudit wurde geprüft, welche regionalen Klimamodelle der Projekte EURO-CORDEX und ReKliEs-De das derzeitige Klima möglichst realitätsnah abbilden.
+
+Dieses zunächst für den bayrischen Raum durchgeführte Audit wurde im Rahmen der Kooperation KLIWA „Klimaveränderung und Konsequenzen für die Wasserwirtschaft“ und des Bund-Länder-Fachgesprächs auch für das bundesweite Gebiet angewendet.
+
+Das Ergebnis ist ein Ensemble aus zehn dynamischen Modellen für das RCP 8.5, welches durch die LUBW für Baden-Württem berg ausgewertet wurde.
+
+Das Bilden eines Ensembles aus mehreren Modellen ist wichtig, da den Modellen unterschiedliche Modellansätze und eigenschaften zugrunde liegen.
+
+Diese unterschiedlichen Modellansätze ergeben sich daraus, dass nicht alle klimatischen Prozesse sowie die natürlichen klimatischen Schwankungen vollständig erforscht sind.
+
+Durch die Zusammenführung der verschiedenen Modelle in einem Ensemble werden verschiedene wissenschaftliche Ansätze zur Beschreibung der komplexen klimatischen Zusammenhänge genutzt und Unsicherheiten verringert.
+
+Dennoch sind die Klimamodellergebnisse weder zeitlich noch räumlich als punktgenaue Vorhersagen zu verstehen, sondern beschreiben vielmehr ein mögliches zukünftiges Klima über einen langen Zeitraum.
+
+Das Modellensemble wurde daher für mehrere 30-Jahreszeiträume, den Referenzzeitraum (1971 – 2000), die nahe Zukunft (2021 – 2050) und die ferne Zukunft (2071 – 2100), ausgewertet.
+
+Die zehn unterschiedlichen Flächenmittel für den Raum Baden-Württemberg für jeden einzelnen Kennwert als Ergebnis der zehn Modelle werden der Größe nach sortiert, so dass sich für jeden Kennwert eine bestimmte Bandbreite ergibt.
+
+Dabei stellt der unterste Werte, d. h. das Minimum, den unteren Bereich und der oberste, also das Maximum, den oberen Bereich der Bandbreite dar.
+
+Zusätzlich wird das 50. Perzentil bzw. der Median berechnet.
+
+Der Median ist der Wert, für den jeweils die Hälfte der Modellsimulationen höhere bzw. niedrigere Änderungen zeigen.
+
+Er repräsentiert innerhalb des Ensembles ein mittleres Klimaänderungssignal.
+
+Die Werte dieser Bandbreite werden auch als zukunftsbezogene „klimatische Leitplanken“ verstanden, da durch die Angabe des Minimums und des Maximums ein Bereich berechnet wird, in dem der Klimawandel in Baden-Württem berg mit dem RCP  8.5 Szenario wahrscheinlich eintreten wird.
+
+Aus der Änderung der Werte für beide Zukunftszeiträume im Vergleich zum Referenzzeitraum ergeben sich die Klimasignale für jede Kennzahl.
+
+Für die Jahresmitteltemperatur erhält man beispielsweise für den Median in der nahen Zukunft ein Klimaänderungssignal bzw. eine Temperaturerhöhung von +1,4 °C aus der Differenz des mittleren Referenzwertes (hier 8,4 °C) und dem Wert für die Temperatur der nahen Zukunft (9,8 °C).
+
+Neben der Berechnung eines Flächenmittelwertes für das ganze Land sind auch regionale Unterschiede wichtig.
+
+Daher wurden auch regional differenzierte Kartendarstellungen, jeweils für das Minimum, den Median und das Maximum der nahen (2021 – 2050) und der fernen Zukunft (2071 – 2100), erstellt.
+
+So können beispielsweise Gebiete in Baden-Württemberg, die besonders vom Klimawandel betroffen sein werden, identifiziert werden.
+
+Die Jahresmitteltemperatur ist seit 1881 im Landesmittel bereits um 1,5  °C angestiegen.
+
+Besonders in den letzten 30 Jahren ging der Temperaturanstieg rasant von statten.
+
+Vergleicht man den Referenzzeitraum 1971  – 2000 mit dem Zeitraum 1991 – 2020 stieg die Jahresmitteltemperatur Baden- Württembergs von 8,4 °C auf 9,2 °C und damit um 0,8 °C an (s.
+
+Tabelle 2.1).
+
+Somit ist die untere Bandbreite des hier verwendeten RCP 8.5-Szenarios bereits erreicht.
+
+In Zukunft wird die Temperatur weiter ansteigen, dies zeigen alle Modelle.
+
+Gemittelt über ganz Baden-Württemberg könnte nach dem Szenario RCP 8.5 der Temperaturanstieg im Vergleich zum Referenzzeitraum 1971 – 2000 in der nahen Zukunft +0,8 bis +1,8 °C und in der fernen Zukunft +3,0 bis +4,5 °C betragen.
+
+Damit liegt der Median für die ferne Zukunft 0,5 °C und das Maximum fast 1 °C über den Ergebnissen der Vorgängersimulationen.
+
+Die Temperatur könnte in Zukunft also noch stärker zunehmen als es die bisherigen Modellauswertungen aus dem Jahr 2013 ergeben hatten [LUBW 2013].
+
+Im damals verwendeten A1B-Szenario wird eine ausgewogene Nutzung nichtfossiler und fossiler Energiequellen angenommen.
+
+Das A1B-Szenario ist aber derzeit nicht als ausreichend realistisch für die Zukunft anzunehmen, da die Jahresmitteltemperaturen weiter steigen und die Treibhausgasemission global nahezu ungebremst zunehmen.
+
+Momentan bewegen wir uns somit entlang der projizierten Entwicklung des RCP 8.5 [Global Carbon Project 2020, SchWaLm et al. 2020].
+
+Die Auswertungen auf Basis dieses Szenarios verdeutlichen also, mit welcher Klimaentwicklung zu rechnen ist, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Regional betrachtet werden der Oberrheingraben und der Rhein-Neckar-Raum, wie heute auch, die höchsten Temperaturen zu verzeichnen haben.
+
+Die Jahresmitteltemperatur könnte hier in der fernen Zukunft bei maximal bis zu 16 °C liegen und damit Temperaturen wie heute in der Toskana oder im Latium in der Gegend um Rom aufweisen, wenn keine effektiven Klimaschutzmaßnahmen ergriffen werden.
+
+In den Hochlagen des Schwarzwaldes könnten die Temperaturen derart stark ansteigen, dass diese zum Ende des Jahrhunderts durchschnittlich denen der heutigen Temperaturen im Oberrheingraben entsprechen würden.
+
+Der Niederschlag wird auch zukünftig sowohl innerhalb des Jahres als auch regional sehr unterschiedlich ausfallen.
+
+An der Jahressumme von etwa 1 000 mm wird sich in Zukunft nach aktuellen Erkenntnissen wahrscheinlich nicht viel ändern.
+
+Sowohl in der nahen als auch in der fernen Zukunft gibt es Modelle, die geringe Abnahmen aber auch Modelle, die eine relativ geringe Zunahme zeigen (vgl. Tabelle 2.1).
+
+Für die Erarbeitung von Anpassungsmaßnahmen ist insbesondere die Entwicklung von Extremereignissen, wie Starkregen und Trockenheit sowie die Änderung der Verteilung des Niederschlags innerhalb eines Jahres entscheidend.
+
+Starkregen sind Ereignisse mit einer hohen Niederschlagsmenge in einer bestimmten Zeit.
+
+Es wird zwischen großräumigen langandauernden Ereignissen und konvektiven Ereignissen unterschieden.
+
+Konvektive Starkregen treten meist lokal begrenzt in Form kürzerer Schauer oder Gewitter auf, so dass deren Messung sehr schwierig ist.
+
+Nur selten stehen Messstationen genau dort, wo gerade ein konvektives Starkregenereignis auftritt.
+
+Aufgrund der Seltenheit von Starkregenereignissen ist die zur Verfügung stehende Datengrundlage gering und Aussagen zur zukünftigen Veränderung sind schwierig zu treffen bzw. mit Vorsicht zu interpretieren.
+
+Zudem handelt es sich bei den hier betrachteten Klimamodelldaten um Tageswerte, so dass insbesondere die Betrachtung konvektiver Starkregenereignisse nur eingeschränkt möglich ist.
+
+Hier werden Tage mit einer Menge von 20 mm Niederschlag oder mehr als Starkregentage definiert.
+
+Zudem wird die Änderung des 99. Perzentils des Niederschlags betrachtet.
+
+Während bei der Anzahl der Starkregentage kaum Änderungen bis zu einer leichten Zunahme modelliert werden, zeigen die Modelle beim 99. Perzentil des Niederschlages einen generellen Anstieg.
+
+Im Zeitraum 2021 – 2050 reicht diese von knapp +3 % bis fast +12 %.
+
+Bis zum Ende des Jahrhunderts könnte das 99. Perzentil des Niederschlages zwischen +9 % und +24 % im Vergleich zum Referenzzeitraum ansteigen.
+
+Dementsprechend müsste vor allem in der fernen Zukunft mit intensiveren Niederschlagsereignissen gerechnet werden.
+
+Trockenereignisse werden mittels sogenannter Trockentage, also Tage ohne Niederschlag und der maximalen Dauer von Trockenperioden, also der maximalen Länge aufeinanderfolgender Tage ohne Niederschlag, betrachtet.
+
+Sowohl bei den Trockentagen als auch bei der maximalen Länge von Trockenperioden werden für beide Zukunftszeiträume Abnahmen aber auch Zunahmen projiziert.
+
+In der fernen Zukunft zeigt jedoch die Mehrheit der Modelle einen stärkeren Anstieg an Trockenereignissen.
+
+Eindeutiger sieht es hingegen aus, wenn man sich die Trockentage in der Vegetationszeit, also im Zeitraum April bis Oktober, anschaut.
+
+Bis auf das Minimum in der nahen Zukunft, zeigt sich eine generelle Zunahme der Trockentage in der Vegetationszeit.
+
+Im Vergleich zum Zeitraum 1971 – 2000 könnte es in der fernen Zukunft im Landesmittel bis zu rund 18 mehr Trockentage in der Vegetationsperiode geben.
+
+Die geringeren Sommerniederschläge im Zusammenspiel mit höheren Temperaturen und früherem Einsetzen sowie Verlängerung der Vegetationsperiode könnten zu einer höheren Verdunstung und damit zu einem Rückgang der Wasserreserven führen.
+
+In Zukunft könnte es daher besonders in den wärmeren Regionen wie dem Oberrhein oder der Rhein-Neckar-Region häufiger zu einem Wasserdefizit kommen.
+
+Trockenheiße Jahre, wie zuletzt 2018, könnten die Regel sein.
+
+Die deutlichste Änderung im Frühjahr ist der frühere Beginn der Pflanzenblüte, die hauptsächlich auf die steigenden Temperaturen, wie die milderen Wintertemperaturen, und einen früheren Anstieg der Temperaturen im Jahr, zurückzuführen ist.
+
+Die Vegetationszeit hat sich bereits in der Vergangenheit merklich verfrüht, was sich beispielsweise anhand des Blühbeginns verschiedener Wildpflanzen über einen längeren Zeitraum gut beobachten lässt.
+
+Bei den Modellauswertungen kann auf diese Methode nicht zurückgriffen werden.
+
+Daher wird der Beginn der Vegetationszeit über die Temperatur bestimmt, also ein thermischer Index berechnet.
+
+In der vorliegenden Untersuchung wird zur Berechnung des Vegetationsbeginns eine neue Definition nach dem European Climate Assessment und Dataset (ECA und D) verwendet, weshalb die Werte nicht mit der Auswertung 2013 vergleichbar sind.
+
+Die Vegetationsperiode beginnt demnach sobald das erste Mal im Jahr sechs aufeinanderfolgende Tage mit einer Tagesmitteltemperatur von mindestens 5 °C auftreten [vgl. ECA und D 2013].
+
+Im Referenzzeitraum beginnt sie im landesweiten Mittel am 77. Tag des Jahres (17. März/16. März in Schaltjahren); am Oberrhein bereits Anfang März.
+
+In Zukunft wird der Blütenbeginn sehr wahrscheinlich viel früher einsetzen, dies zeigen alle Modelle.
+
+In der nahen Zukunft könnte die Vegetationszeit im Landesmittel bereits Anfang März starten, am Oberrhein und der Rhein-Neckar-Region sogar Anfang oder Mitte Februar.
+
+Im Zeitraum 2071 – 2100 wäre laut der Modelle im Landesmittel ein Blühbeginn Anfang Februar möglich und in den Niederungen Anfang bis Mitte Januar.
+
+In den Hochlagen, wie dem Schwarzwald, der Schwäbischen Alb oder dem Odenwald, könnte im Zeitraum 2021 – 2050 die Vegetationszeit Ende März oder Anfang April und in der fernen Zukunft Mitte März beginnen, also wie heute in den niederen Lagen Baden-Württembergs.
+
+Berücksichtigt werden muss jedoch, dass der Blühbeginn vieler Pflanzen nicht nur durch die Temperatur, sondern auch durch das Licht gesteuert wird [vgl. renner und  Zohner 2018, FLynn und WoLkovich 2018], welches in der Berechnung des thermischen Index nicht berücksichtig wird.
+
+Die Verfrühung des Blühbeginns wird daher sehr wahrscheinlich ihre Grenzen haben und durch den thermischen Index überschätzt.
+
+Dennoch wird die Vegetationsperiode früher einsetzen und sich somit insgesamt verlängern.
+
+Eine solche Verfrühung birgt aber auch Risiken.
+
+So können früher blühende Pflanzen durch Spätfröste geschädigt werden.
+
+Dies wird vor allem in der nahen Zukunft der Fall sein, da in diesem Zeitraum zu Beginn des Jahres noch mit Tagen um den Gefrierpunkt (Eis- und Frosttagen) zu rechnen ist.
+
+Weiter könnte ein früherer Blühbeginn zur Folge haben, dass lang bestehende und aufeinander abgestimmte Abfolgen zwischen Pflanzen und deren Bestäubern oder Räuber-Beute-Beziehungen gestört werden [renner und  Zohner 2018.
+
+Vor allem bei Frühjahrsblühern kann sich ein klimabedingter zeitlicher Versatz zwischen dem Öffnen der Blüten und dem Erwachen der Bienen aus der Winterruhe einstellen.
+
+Hinzu kommt, dass Bienen auch bei günstigen Witterungsverhältnissen nicht sofort ausfliegen können, da sie Zeit benötigen, um die Stärke ihres Volkes zu erhöhen.
+
+Dadurch entstehen einerseits Bestäubungsdefizite, aber auch neue Konkurrenzverhältnisse mit anderen Insektenarten (TaUTZ und heiLmann 2007, ThomSon 2010).
+
+Ferner sind auch Auswirkungen auf andere Tiere möglich, beispielsweise Vögel, die sich von Insekten ernähren und/ oder diese für die Aufzucht ihrer Jungen benötigen.
+
+Der Niederschlag im Frühling könnte zukünftig zunehmen.
+
+In der nahen Zukunft bis zu 22 % und in der fernen Zukunft sogar bis zu 32 %.
+
+Der meiste Niederschlag ist dabei, wie in der Vergangenheit auch, an den Berghängen des Schwarzwaldes sowie des Alpenvorraumes zu erwarten.
+
+Die zukünftigen Sommer in Baden-Württemberg könnten sehr heiß und trocken werden: Laut der Projektionen wird die Temperatur 2021 – 2050 zwischen +1,0 bis 2,3 °C und in der fernen Zukunft +3,2 bis 5,2 °C über den Sommertemperaturen 1971 – 2000 mit durchschnittlich 16,6 °C liegen.
+
+Folglich würde die Durchschnittstemperatur im ganzen Land von Juni bis August im Extremfall in der fernen Zukunft fast 22 °C betragen.
+
+Mit dem Anstieg der mittleren Temperaturen nimmt auch die Anzahl der Hitze anzeigenden Kennwerte, wie die Sommertage mit maximalen Temperaturen über 25  °C, zu.
+
+Es wird somit nicht nur wärmer, sondern auch heißer.
+
+Zum Ende des Jahrhunderts könnten es im Extremfall landesweit durchschnittlich pro Jahr 38 statt bisher etwa 5 Heiße Tage mit Temperaturen von 30 °C und mehr sein.
+
+Sommer wie im Jahr 2003 mit 27 Heißen Tagen oder im Jahr 2018, in dem es in Baden-Württemberg an 21 Tagen über 30  °C wurde, wären dann nur noch unterdurchschnittlich heiße Sommer.
+
+Es ist zu berücksichtigen, dass es sich hierbei um den 30-Jahresdurchschnitt gemittelt über das ganze Land handelt.
+
+Dies bedeutet, dass zum einen sehr viel wärmere, aber auch kühlere Einzeljahre auftreten können.
+
+Zum anderen werden in einzelnen Regionen, wie dem Oberrheingraben oder der Rhein-Neckar-Region, die Anzahl der Sommertage und Heißen Tage sehr wahrscheinlich weit höher liegen.
+
+So könnten zum Beispiel im Oberrheingraben statt bisher an ca. 14 Tagen zukünftig an bis zu 70 Tagen Temperaturen über 30 °C erreicht werden.
+
+Den ganzen Sommer über wäre es am Oberrhein folglich sehr heiß (vgl. Abbildung 2.6).
+
+Diese Hitzebelastung ist besonders für empfindliche Personengruppen, wie ältere Menschen, Menschen mit Vorerkrankungen oder Kleinkinder, problematisch.
+
+Zudem führt der Anstieg von Tropennächten dazu, dass es auch in der Nacht häufig nicht mehr zu einer Abkühlung kommt.
+
+Zum Ende des Jahrhunderts könnte die Anzahl von Tropennächten, also Tagen, an denen das Thermometer nicht unter 20  °C fällt, sehr stark ansteigen.
+
+Regional werden wiederum der Oberrheingraben und die Rhein-Neckar-Region besonders betroffen sein.
+
+Hier könnte es in der fernen Zukunft statt bisher etwa einer Tropennacht jährlich zwischen 20 und 40  Tropennächte geben.
+
+Entsprechend langandauernde Hitzebelastungen könnten dann die Folge sein.
+
+Analog zu den Sommer- und Heißen Tagen werden dann auch die sogenannten Kühlgradtage ansteigen.
+
+Zunächst sind Kühltage Tage, an denen eine Kühlung von Gebäuden nötig ist.
+
+Definitionsgemäß ist dies bei Überschreitung einer mittleren Temperatur von 18,3 °C der Fall.
+
+Zur Berechnung der Kühlgradtage wird nun die Differenz zwischen der Tagesmitteltemperatur und dem Schwellenwert von 18,3 °C gebildet und diese Differenz für alle Kühltage aufsummiert.
+
+Im Unterschied zu den Heißen Tagen oder Tropennächten wird damit nicht nur gezählt, wie häufig ein Schwellenwert überschritten wird, sondern auch wie stark diese Überschreitung war.
+
+Kühlgradtage haben die Einheit Kelvin × Tage.
+
+Der Bedarf an Kühlung bzw. Klimaanlagen wird laut Auswertung der Klimamodelle zukünftig, vor allem am Oberrhein und der Rhein-Neckar-Region, stark ansteigen.
+
+In der nahen Zukunft könnte sich der Kühlbedarf gemessen an den Kühlgradtagen im Extremfall mehr als verdoppeln und zum Ende des Jahrhunderts sogar mehr als verfünffachen.
+
+Zusätzlich zur Hitze wird es sehr wahrscheinlich im zukünftigen Sommer weniger regnen: Im Zeitraum 2021 – 2050 liegt die Bandbreite bei -10 % bis +3 % und 2071 – 2100 bei -19 % bis +5 % des Niederschlages im Zeitraum 1971 – 2000.
+
+Zu berücksichtigen ist dabei, dass die Entwicklung der Niederschläge räumlich sehr unterschiedlich ist.
+
+So könnte es im südlichen Schwarzwald in der fernen Zukunft bis zu 40 % weniger Sommerniederschlag geben als 1971 – 2000.
+
+Auf der Schwäbischen Alb wäre die Veränderung hingegen mit bis zu 20 % weniger Niederschlag 2071 – 2100 im Vergleich zum Referenzzeitraum deutlich geringer.
+
+Dadurch, dass es laut der Modelle gleichzeitig sehr viel wärmer bzw. heißer wird sowie die Vegetationsperiode früher beginnt und sich verlängert, wird zudem mehr Wasser verdunsten als in der Vergangenheit.
+
+Dies könnte insgesamt zu einem Rückgang der Wasserreserven führen.
+
+Sehr heiße und trockene Sommer könnten also in Zukunft auf uns zukommen, die sowohl für die Bevölkerung als auch für die Natur und Umwelt problematisch sein werden.
+
+Die Vegetationszeit hat sich in der Vergangenheit nicht nur merklich verfrüht, sondern ist auch deutlich länger geworden.
+
+Vor allem der Herbst setzte früher ein und endete später im Jahr.
+
+Die deutliche Verschiebung über viele unterschiedliche Beobachtungsstandorte und lange Zeiträume hinweg lässt sich klar auf die veränderten klimatischen Verhältnisse zurückführen.
+
+Hauptgrund ist der Anstieg der Temperatur und damit der kürzere Winter.
+
+Ähnlich wie beim Blühbeginn lässt sich das Vegetationsende bei den Modellauswertungen nur über die Temperatur ermitteln.
+
+Auch hierbei wurde zur Berechnung eine neue Definition nach dem European Climate Assessment und Dataset (ECA und D) verwendet.
+
+Die Vegetationszeit endet demnach sobald in der zweiten Jahreshälfte erstmals sechs aufeinanderfolgende Tage Temperaturen unter 5  °C aufweisen [vgl. ECA und D 2013].
+
+Die Länge der Vegetationszeit ist dann der Zeitraum zwischen dem Blühbeginn und dem Ende der Vegetationsperiode.
+
+Im Zeitraum 1971 – 2000 lagen zwischen Beginn und Ende der Vegetationszeit 239 Tage.
+
+In den nächsten 30 Jahren könnte sich die Dauer der Vegetationsperiode zwischen 16  und 26  Tagen und in der fernen Zukunft zwischen 52 und 69 Tagen verlängern.
+
+Das Ende der Vegetationszeit bzw. der Winterbeginn könnte statt Anfang/Mitte November in der nahen Zukunft zwischen Ende November und Anfang Dezember und zum Ende des Jahrhunderts Ende Dezember liegen.
+
+Berücksichtigt werden muss hierbei jedoch, dass für viele Pflanzen nicht nur die Temperatur, sondern auch das Sonnenlicht eine Rolle spielt [vgl. renner und Zohner 2018, FLynn und WoLkovich 2018].
+
+Eine Verschiebung der Ruhezeit bzw. des Winters bis zum Jahresende und eine Verfrühung des Blühbeginns bis in den Januar, also eine quasi durchgehende Vegetationszeit, ist somit eher unwahrscheinlich.
+
+Dennoch wird sich die Vegetationsperiode mit Anstieg der Temperatur sicherlich weiter ausdehnen und der Herbst sich verlängern.
+
+Besonders in den niedrigeren Lagen könnten die Winter frostfrei sein und sich die Vegetationszeit sehr weit ausdehnen.
+
+In den Hochlagen des Schwarzwaldes könnte die Vegetationsperiode so lange sein wie sie es heute in den Niederungen, etwa dem Oberrheingraben, ist.
+
+Ein wärmerer Winter und eine längere Vegetationsperiode bergen aber auch das Risiko, dass sich wärmeliebende Pflanzenschädlinge ausbreiten und massenhaft vermehren.
+
+Dadurch könnten die Pflanzen zusätzlich zu häufiger auftretenden Sommerdürren geschwächt oder geschädigt werden [vgl. miLad et al. 2011].
+
+Hinsichtlich der herbstlichen Niederschläge gibt es keine eindeutigen Tendenzen.
+
+Es gibt sowohl Modelle, die von einer zukünftigen Abnahme als auch Projektionen, die von einer Zunahme in Zukunft ausgehen.
+
+Der Winter wird in Zukunft nicht mehr dem der Vergangenheit gleichen.
+
+Die durchschnittliche Wintertemperatur könnte im Extremfall in der nahen Zukunft mit 2,8 °C mehr als viermal so hoch und in der fernen Zukunft mit maximal 5,1 °C mehr als achtmal so hoch sein wie 1971 – 2000.
+
+Schnee, Eis und Frost werden in den nächsten 30 Jahren immer seltener oder könnten sogar bis zum Ende des Jahrhunderts in Teilen Baden-Württembergs ganz der Vergangenheit angehören.
+
+Dies wird am starken Rückgang der Frost- (Tmin kleiner 0 °C) und Eistage (Tmax kleiner 0 °C) deutlich.
+
+Frost und Minusgrade wird es dann wahrscheinlich nur noch in den Hochlagen wie dem Schwarzwald geben und das, vor allem in der fernen Zukunft, nur noch sehr selten.
+
+Die Region entlang des Oberrheins und der Rhein-Neckar-Raum könnten Ende des Jahrhunderts sogar frostfrei werden.
+
+Auch die Abnahme der Heiztage, also Tage, an denen die Mitteltemperatur unter 15 °C fällt und geheizt werden muss, ist eine Folge der zukünftig wärmeren Winter.
+
+Es klingt paradox, aber dadurch, dass Pflanzen und Tiere nicht mehr durch die Mechanismen der Winterruhe geschützt sind und sich früher entwickeln bzw. aufwachen, können sie unter Umständen durch Kälte oder Nahrungsmangel geschädigt werden oder gar sterben [vgl. aBarca et al. 2019; WiLLiamS et al. 2015].
+
+Dies wird vor allem in der nahen Zukunft eine Rolle spielen, in der Eis- oder Frost tage sowie Spätfröste zwar selten, aber dennoch vorkommen könnten.
+
+Zudem können durch den Ausfall von Arten eingespielte Wechselbeziehungen wie das Räuber-Beute- Gefüge gestört werden.
+
+Die Niederschläge werden laut der Modelle im Winter merklich ansteigen.
+
+Mit Ausnahme des Minimums im Zeitraum 2021 – 2050 projizieren alle Modelle eine Zunahme der Niederschläge für die Zukunft, die in beiden Zeiträumen im Maximum über +25 % der Niederschläge gegenüber 1971  – 2000 betragen könnte.
+
+An den Berghängen des Schwarzwaldes sowie des Alpenvorraumes könnte es sogar bis zu 50 % mehr Niederschlag im Winter geben als im Referenzzeitraum 1971 – 2000.
+
+Wahrscheinlich ist, dass die Winterniederschläge, besonders in der fernen Zukunft und in den tieferen  Lagen, weniger als Schnee, sondern vermehrt als Regen fallen werden.
+
+Die Winter könnten zukünftig also kürzer, sehr viel milder und regenreicher sein.
+
+Aus den neuen Klimaleitplanken ergeben sich keine guten Aussichten für das zukünftige Klima Baden-Württembergs, wenn die Treibhausgasemissionen wie bisher weiter steigen (RCP 8.5).
+
+Bereits jetzt haben wir die untere Bandbreite bei der Jahresmitteltemperatur des Szenarios RCP 8.5 für die nahe Zukunft (2021 – 2050) erreicht.
+
+
+
+
+
+</TEXT></TimeML>

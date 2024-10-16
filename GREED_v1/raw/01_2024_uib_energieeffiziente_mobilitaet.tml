@@ -1,0 +1,816 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>01_2024_uib_energieeffiziente_mobilitaet</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2024-01-01</TIMEX3></DCT>
+<TEXT>Im Rahmen dieser Studie wurde ein Vorschlag zur Abgrenzung energieeffizienter Mobilität und der Ermittlung der daran geknüpften Beschäftigung erarbeitet, mit Fachleuten diskutiert und dann exemplarisch für das Jahr 2019 umgesetzt.
+
+Unter energieeffizienter Mobilität werden jene Mobilitätsformen verstanden, die aufgrund einer vergleichsweise geringen Energieintensität zu einer Senkung des Energiebedarfs im Verkehr beitragen.
+
+Dies umfasst neben Fuß- und Radverkehr den öffentlichen Personenverkehr, Schienenverkehr sowie die Binnenschifffahrt.
+
+In Bezug auf den motorisierten Individualverkehr wird die Elektromobilität als energieeffizient eingestuft.
+
+Ermittelt wird die Beschäftigungswirkung energieeffizienter Mobilität im Inland, wobei die Bereiche Fahrzeugherstellung, Handel, Betrieb und Instandhaltung der Fahrzeuge, Infrastruktur sowie Mobilitätsdienstleistungen unterschieden werden.
+
+Mitberücksichtigt wird auch der Export von Fahrzeugen.
+
+Die Verwendung eines offenen statischen Input-Output-Mengenmodells ermöglicht die Ermittlung der Beschäftigung auch in vorgelagerten Bereichen.
+
+Hierbei wird eine für die verkehrsbezogenen Wirtschaftsbereiche feiner aufgelöste Input-Output-Tabelle eingesetzt.
+
+Zur Ermittlung der Beschäftigung in den Bereichen der Fahrzeugherstellung, Handel, Betrieb und Instandhaltung der Fahrzeuge sowie Infrastruktur wird größtenteils der nachfragorientierte Ansatz genutzt.
+
+Bei dieser Herangehensweise wird die Beschäftigung über die produzierten Mengen ermittelt.
+
+Dafür wird durch Verwendung detaillierter Statistiken und zusätzlicher Literaturquellen die Nachfrage ermittelt, da die Input-Output-Tabelle selbst nicht den nötigen Detailgrad bietet.
+
+Insbesondere bei den Mobilitätsdienstleistungen wird hingegen die Beschäftigung in den betroffenen Wirtschaftsbereichen mittels Input-Output-Analyse direkt ermittelt (angebotsorientierter Ansatz).
+
+Dafür werden Beschäftigungsmultiplikatoren berechnet, die ausweisen, wie viele Beschäftigte in vorgelagerten Bereichen je Beschäftigten im direkt betroffenen Bereich anfallen.
+
+Insgesamt wurden für das Jahr 2019 gut 1 Mio. im Bereich energieeffiziente Mobilität tätige Personen ermittelt.
+
+Dies sind 2,3 % der 45,3 Millionen Erwerbstätigen in Deutschland.
+
+Abbildung  Z-1 zeigt die Aufteilung der Beschäftigten auf die verschiedenen Bereiche energieeffizienter Mobilität.
+
+Der größte Anteil mit über 791.0001 Personen entfällt auf den Bereich Mobilitätsdienstleistungen.
+
+Die wichtigsten Teilbereiche der Mobilitätsdienstleistungen hinsichtlich ihrer Beschäftigungswirkung sind dabei der öffentliche Personennahverkehr (363.800 Personen), gefolgt vom Taxigewerbe (141.800 Personen) und dem sonstigen Personenverkehr (112.700 Personen).
+
+Beschäftigung entsteht zudem durch Schienenpersonenverkehr (59.400 Personen), Bikesharing (2.800 Personen), Carsharing (7.400 Personen), Schienengüterverkehr (59.700 Personen), Binnenschifffahrt (22.600 Personen) und Fahrradkurier- und lieferdienste (20.700 Personen).
+
+Handel, Betrieb und Instandhaltung von Fahrzeugen führen zu einer Beschäftigung von rund 93.000 Personen.
+
+Die meisten Erwerbstätigen verzeichnet dabei der Fahrradeinzelhandel (42.300 Personen), gefolgt vom Fahrradgroßhandel (25.300 Personen), dem Handel mit PHEV (9.600 Personen), BEV (5.800 Personen), mit Schienenfahzeugen (4.900 Personen) und Bussen (3.000 Personen).
+
+Der Handel mit Schiffen für die Binnenschifffahrt ist mit relativ wenig Beschäftigung verbunden (100 Personen), ebenso der Handel mit Taxis (500 Personen).
+
+Auch die Instandhaltung der elektrischen Fahrzeuge hat eine vergleichsweise geringe Beschäftigungswirkung (BEV 500 Personen, PHEV 400 Personen), ebenso wie die Nachfrage nach erneuerbarem Strom durch BEV (200 Personen) und PHEV (100 Personen).
+
+Der Anteil von Elektrofahrzeugen (BEV und PHEV) im Bestand war im Jahr 2019 mit nur 0,3 % sehr gering.
+
+In der Fahrzeugherstellung sind rund 87.000 Personen im Bereich energieeffiziente Mobilität tätig.
+
+Diese entfallen auf die Produktion von batterieelektrischen Fahrzeugen (BEV) (11.100 Personen), Plug-In-Hybriden (PHEV) (29.100 Personen), Taxis (2.300 Personen), Bussen (9.300 Personen), Schienenfahrzeugen (24.200 Personen), Fahrrädern (10.100 Personen) und Schiffen (500 Personen).
+
+Investitionen in die Infrastruktur für energieeffiziente Mobilität bieten rund 71.000 Personen einen Arbeitsplatz.
+
+Hierbei entfällt der größte Anteil auf die Schienenwege (44.700 Personen).
+
+Weitere Beschäftigung entsteht durch Investitionen in Umschlagplätze für den Schienenverkehr (8.600 Personen), Bahnhöfe und Haltestellen (2.800 Personen) und Fahrradinfrastruktur (13.500 Personen).
+
+Vergleichsweise gering fällt mit 1.300 tätigen Personen die Beschäftigung durch den Ausbau der privaten und öffentlichen Ladeinfrastruktur für die Elektromobilität aus.
+
+Mit Blick auf den erfoderlichen Beitrag des Verkehrssektors zum Klimaschutz kann ein dynamisches Wachstum der Beschäftigung (bzw. des zukünftigen Arbeitskräftebedarfs) durch energieeffiziente Mobilität erwartet werden.
+
+Aufgrund der schnell voranschreitenden Transformation des Mobilitätssektors sollte in diesem Zusammenhang auch die Abgrenzung energieeffizienter Mobilität regelmäßig kritisch überprüft werden.
+
+Bis 2030 wird trotz der Klimaschutzbemühungen der Bundesregierung von einem weiteren Anstieg der Personen- und Güterverkehrsleistung ausgegangen (Bundesregierung 2021; Krail et al. 2021).
+
+Die Energieintensität des Verkehrs muss daher sehr deutlich abnehmen, damit das in der deutschen Nachhaltigkeitsstrategie benannte Ziel, eine Senkung des Endenergiebedarfs im Personen- und Güterverkehr um 15 % bis 20 % bis zum Jahr 2030 gegenüber 2005, erreicht werden kann (Bundesregierung 2020).
+
+Die Erreichung dieses Effizienzziels ist auch im Hinblick auf die beschlossenen Klimaziele und damit die Abmilderung des Klimawandels von großer Bedeutung.
+
+Vor diesem Hintergrund ist davon auszugehen, dass auch die volkswirtschaftliche Bedeutung von energieeffizienter Mobilität zunehmen wird.
+
+Die Beschäftigungswirkung energieeffizienter Mobilität wird bisher nicht erfasst.
+
+Dieser Bericht wurde im Rahmen des Forschungsvorhabens "Wirtschaftsfaktor Umweltschutz" erstellt.
+
+Er befasst sich mit der Fragestellung, wie "energieeffiziente Mobilität" in die bestehende Berichterstattung zur Beschäftigung durch Energieeffizienz und durch Umweltschutz (Energieeffizienz in Zahlen, Beschäftigungswirkungen des Umweltschutzes in Deutschland) integriert werden kann.
+
+Zunächst führt der Bericht in den Begriff energieeffiziente Mobilität ein.
+
+Aufbauend darauf beschreibt das dritte Kapitel die Methodik der Ermittlung der Beschäftigung durch energieeffiziente Mobilität.
+
+Zum einen umfasst es die Abgrenzung der Güter und Dienstleistungen des Bereichs "energieeffiziente Mobilität", zum anderen das methodische Vorgehen sowie die genutzte Datenbasis zur Ermittlung der mit der Herstellung dieser Güter bzw. Erbringung der Dienstleistungen verbundenen Beschäftigung.
+
+Sowohl die Abgrenzung als auch das methodische Vorgehen sind das Ergebnis einer Diskussion mit Fachleuten aus Politik, Wissenschaft und Statistik, bei denen sich die Autorinnen herzlich bedanken.
+
+Im vierten Kapitel werden dann exemplarisch für das Jahr 2019 die Ergebnisse der Berechnung dargestellt.
+
+Der Bericht schließt mit einem Fazit.
+
+Mobilität ist für die Menschen ein Grundbedürfnis und Mittel zur sozialen Teilhabe.
+
+Für die Ökonomie ist ein funktionierender Mobilitätssektor ebenfalls essentiell, sowohl für die Beweglichkeit der Erwerbstätigen selbst als auch für die arbeitsteilige Struktur einer modernen und global vernetzten Volkswirtschaft.
+
+Die Entwicklung unserer gesellschaftlichen und wirtschaftlichen Strukturen ging bislang einher mit einer Zunahme der Verkehrsleistung sowohl im Personen- als auch im Güterverkehr (vgl. Abbildung 1 bzw. Abbildung 2).
+
+Die Leistung des Personenverkehrs wird hierbei in Personenkilometern (pkm) pro Jahr, die des Güterverkehrs in Tonnenkilometern (tkm) pro Jahr gemessen.
+
+In Bezug auf den Verkehr beschreibt der Begriff Energieintensität den Energieverbrauch je Verkehrsleistung, gemessen in Kilowattstunden (kWh) oder Megajoule (MJ) pro Personen- bzw. Tonnenkilometer.
+
+Insbesondere im Personenverkehr, aber auch im Güterverkehr, ist die Energieintensität seit 1990 gesunken.
+
+Die erzielten Effizienzgewinne pro Verkehrsleistung für die verschiedenen Transporttechnologien reichten jedoch nicht aus, um den Anstieg der absoluten Verkehrsleistung zu kompensieren, so dass der gesamte Endenergieverbrauch des Verkehrs dennoch zugenommen hat (vgl. Abbildung 4).
+
+Der für das Jahr 2020 sichtbare Rückgang ist pandemiebedingt und somit nicht als Trendwende zu werten.
+
+Bis 2030 wird trotz der Klimaschutzbemühungen der Bundesregierung von einem weiteren Anstieg der Personen- und Güterverkehrsleistung ausgegangen (Bundesregierung 2021; Krail et al. 2021).
+
+Die Energieintensität des Verkehrs muss daher sehr deutlich abnehmen, damit das Energieeffizienzziel für den Verkehr, eine Senkung des Endenergiebedarfs um 40 % gegenüber 2005, bis zum Jahr 2050 erreicht werden kann.
+
+Die Erreichung dieses Effizienzziels ist auch im Hinblick auf die Abmilderung des Klimawandels und die dafür beschlossenen Klimaziele von großer Bedeutung.
+
+Effizienzverbesserungen können unter anderem durch die Verlagerung von Verkehr erreicht werden, da sich die unterschiedlichen Verkehrsträger und Verkehrsmittel in ihrer Energieintensität unterscheiden.
+
+Im Personenverkehr ist der öffentliche Verkehr aufgrund der höheren Besetzungsgrade(Schäfer und Yeh 2020; Allekotte et al. 2021) und des höheren Anteils der Elektrifizierung deutlich effizienter als der motorisierte Individualverkehr (vgl. Abbildung 5).
+
+Auch der Energieverbrauch durch die Nutzung eines (privaten) Fahrrads oder Pedelecs liegt bei unter 0.1 MJ pro pkm (Cazzola und Crist 2020, S. 27) und ist damit (ebenso wie der Fußverkehr) deutlich effizienter als die Pkw-Nutzung.
+
+Im Güterverkehr zeichnet sich (abgesehen vom Lastenradverkehr) die Schiene durch die geringste Energieintensität aus, gefolgt von der Binnenschifffahrt (vgl. Abbildung 6).
+
+Allerdings muss beachtet werden, dass eine Verlagerung von einem zum anderen Transportträger nicht für alle Arten von Gütern und nicht für alle Transportrelationen unter derzeitigen Rahmenbedingungen möglich bzw. wirtschaftlich darstellbar ist.
+
+Die Auslastungsgrade der Verkehrsmittel spielen eine zentrale Rolle bei der Energieeffizienz je Leistungseinheit in pkm oder tkm.
+
+So kann insbesondere im öffentlichen Personenverkehr oder im Güterverkehr per Bahn die Energie- oder Treibhausgaseffizienz aufgrund der Auslastung der Fahrzeuge deutlich schwanken.
+
+Die mittlere Auslastung von Verkehrsmitteln lag in 2019 im Fernverkehr (Bus und Eisenbahn) bei mehr als 50 %, im Nahverkehr bei 18 % bis 28 %.
+
+Der mittlere Besetzungsgrad eines Pkw lag bei 1,4 Personen (Umweltbundesamt 2021).
+
+In 2020 war die Auslastung der öffentlichen Verkehrsmittel pandemiebedingt deutlich niedriger.
+
+Die Steigerungspotenziale für die Auslastung und somit auch für die Energieeffizienz sind bei Pkw deutlich höher einzuschätzen als im öffentlichen Nahverkehr.
+
+Dies liegt daran, dass die Kapazitäten zur Deckung der Nachfrage in Stoßzeiten benötigt werden und die Attraktivität öffentlicher Verkehrsmittel an eine dichte Taktung geknüpft ist (Allekotte et al. 2021).
+
+Die unterschiedliche Energieintensität der einzelnen Verkehrsmittel spiegelt sich auch in der Treibhausgasemissionsintensität wider, wobei hier weitere Faktoren (Antriebsart, Strahlungsantrieb beim Flugverkehr, Primärenergiemix von Treibstoffen und Strom) berücksichtigt werden müssen.3 Die Anteile der einzelnen Verkehrsbereiche an der gesamten Verkehrsleistung beschreibt der Modal Split.
+
+Abbildung 7 zeigt den Modal Split im Personenverkehr, Abbildung 8 im Güterverkehr.
+
+In Deutschland entfällt mit Abstand der größte Anteil an der Verkehrsleistung des Personen- sowie Güterverkehrs auf den straßengebundenen motorisierten (Individual-)Verkehr.
+
+Dies verdeutlicht das Potenzial für Effizienzverbesserungen durch Verkehrsverlagerung.
+
+Bei der Abschätzung von Gesamtpotenzialen der Verkehrsverlagerung ist jedoch die z. T. begrenzte Aufnahmefähigkeit alternativer Verkehrsträger zu berücksichtigen.
+
+Neben der Verkehrsverlagerung spielen auch die Verbesserungen der Effizienz innerhalb eines Verkehrsmittels eine wichtige Rolle, insbesondere im Straßenverkehr.
+
+Fahrzeughersteller haben in der Vergangenheit bereits Effizienzpotenziale in Verbrennungsmotoren realisiert.
+
+Zudem gewinnt die Elektrifizierung an Relevanz, da sie den Endenergiebedarf von Straßenfahrzeugen um etwa 70 % gegenüber Benzin- oder Dieselbetrieb senkt (BMWi 2019b, S. 21).
+
+Dies gilt in den meisten Fällen auch noch bei einer kompletten Lebenszyklusbetrachtung von der Herstellung, über die Nutzungsphase bis hin zur Entsorgung, wobei die Unterschiede dann weniger deutlich ausfallen (Lienhop et al. 2015, S. 181).
+
+Im Fall von großen Batterien und Reichweiten kann der kumulierte Energieaufwand höher sein als für Verbrennungsfahrzeuge (Helms et al. 2016, S. 116).
+
+Da der Anteil erneuerbarer Energien im Strommix zukünftig ansteigt, fällt die Treibhausgasbilanz von elektrisch betriebenen Fahrzeugen im Vergleich zu Verbrennern zunehmend positiver aus (Wietschel et al. 2022).
+
+Die Entwicklungen hin zu energieeffizienteren Lösungen im Straßenverkehr werden auch durch die stetig verschärften europäischen Flottengrenzwerte für CO2-Emissionen für Neufahrzeuge bedingt.
+
+Die im Nationalen Aktionsplan Energieeffizienz (NAPE2.0) aufgeführten Maßnahmen zur Steigerung der Energieeffizienz im Verkehr konzentrieren sich auf die Stärkung von Schienenpersonenverkehr, Öffentlichen Personennahverkehr (ÖPNV), Radverkehr, Schienengüterverkehr und Binnenschifffahrt sowie auf die Förderung von CO2armen und elektrisch betriebenen Kraftfahrzeugen.
+
+Weitere im NAPE2.0 aufgeführte Maßnahmen zur Effizienzverbesserung betreffen die "Automatisierung, Vernetzung und Verflüssigung von Verkehr" und die "Ermöglichung innovativer Verkehrsformen".4 Eine allgemein gültige Definition oder quantitative Abgrenzung von "energieeffizienter Mobilität" existiert nicht.
+
+Basierend auf den obigen Ausführungen können unter energieeffizienter Mobilität jene Mobilitätsformen verstanden werden, die aufgrund einer vergleichsweise geringen Energieintensität zu einer Senkung des Energiebedarfs im Verkehr beitragen.
+
+Wie eingangs beschrieben ist Mobilität essentiell für eine funktionierende Volkswirtschaft; gleichzeitig trägt der Mobilitätssektor maßgeblich zu Wertschöpfung und Beschäftigung bei.
+
+In Deutschland ist etwa ein Zehntel der Beschäftigten im Mobilitätssektor tätig.
+
+Das sind etwa 4 Millionen Erwerbstätige (Wagner et al. 2018, S. 38)5.
+
+Knapp die Hälfte davon sind in der Produktion, dem Handel und der Instandhaltung von Fahrzeugen tätig, ähnlich viele im Bereich der Verkehrsdienstleistungen, wie dem Güterverkehr.
+
+Darüber hinaus kann die Beschäftigung in der Kraftstofferzeugung und bereitstellung bzw. in der Erstellung und Erhaltung von Verkehrsinfrastruktur dem Mobilitätssektor zugeordnet werden.
+
+Mit 6 bis 7 % ist der Anteil dieser Bereiche jedoch vergleichsweise gering (Wagner et al. 2018, S. 39).
+
+Der Mobilitätssektor zeichnet sich durch eine hohe Heterogenität bezüglich der Anforderungsniveaus der Berufe aus, Teilzeitquoten sind im Vergleich zur Gesamtwirtschaft unterdurchschnittliche ebenso wie der Frauenanteil (Wagner et al. 2018, S. 39).
+
+Der konkrete Anteil der Beschäftigten im Mobilitätssektor, der auf "energieeffiziente Mobilität" entfällt, ist unklar.
+
+Die öffentliche Diskussion und zugrundeliegende Studien drehen sich sehr stark um den Strukturwandel im Automobilsektor durch veränderte Antriebstechnologien, und hier insbesondere um mögliche Wertschöpfungs- und Arbeitsplatzverluste durch die Elektrifizierung des Antriebsstrangs und den Verbrennungsmotor als Auslaufmodell.
+
+Dabei bietet der Wandel hin zu nachhaltiger Mobilität auch Chancen für viele Wirtschaftsbereiche.
+
+So entstehen zwar Verluste im Bereich Produktion, Handel und Instandhaltung von Kraftfahrzeugen sowie im Bereich des Straßengüterverkehrs.
+
+Diese können jedoch kompensiert werden durch Zuwächse in der Produktion elektrisch betriebener Fahrzeuge, im Ausbau der Schieneninfrastruktur, bei den Dienstleistungen des öffentlichen Verkehrs und bei neuen Mobilitätsdienstleistungen (Sievers et al. 2019).
+
+Es ist davon auszugehen, dass erfolgreiche Strategien zur Steigerung der Energieeffizienz im Verkehr auch zu einem Anstieg der Beschäftigung bzw. des Arbeitskräftebedarfs im Bereich energieeffizienter Mobilität führen werden.
+
+Derzeit spielt energieeffiziente Mobilität in der Produktion, dem Handel und der Instandhaltung von Fahrzeugen noch eine vergleichsweise geringe Rolle.
+
+Daher ist davon auszugehen, dass Dienstleistungen an der Beschäftigung durch energieeffiziente Mobilität einen größeren Anteil haben als an der Beschäftigung im Mobilitätssektor allgemein.
+
+Die Ermittlung der Beschäftigung durch energieeffiziente Mobilität erfordert die Abgrenzung energieeffizienter Mobilität, auch im Hinblick auf die verfügbaren Daten.
+
+Hierbei werden sowohl Mobilitätsdienstleistungen als auch die Herstellung, der Betrieb und die Instandhaltung von Fahrzeugen und Infrastruktur berücksichtigt.
+
+Soweit möglich orientiert sich diese Studie hinsichtlich Abgrenzung, Methodik und Datenbasis an bestehenden Arbeiten zu "Beschäftigungswirkungen des Umweltschutzes in Deutschland" (Edler und Blazejczak 2020a, 2020b, 2022), um Konsistenz und Anknüpfung zu gewährleisten.
+
+Zur Ermittlung der Beschäftigung in den Bereichen der Fahrzeugherstellung, Handel, Betrieb und Instandhaltung der Fahrzeuge sowie Infrastruktur wird größtenteils der nachfragorientierte Ansatz genutzt.
+
+Bei dieser Herangehensweise wird die Beschäftigung über die produzierten Mengen ermittelt.
+
+Dafür wird durch Verwendung detaillierter Statistiken und zusätzlicher Literaturquellen die Nachfrage ermittelt.
+
+Insbesondere bei den Mobilitätsdienstleistungen wird hingegen die Beschäftigung in den betroffenen Wirtschaftsbereichen direkt ermittelt (angebotsorientierter Ansatz).
+
+Die Beschäftigung in den vorgelagerten Wirtschaftsbereichen wird mittels Input-Output-Analyse bestimmt.
+
+Dafür werden Beschäftigungsmultiplikatoren berechnet, die ausweisen, wie viele Beschäftigte in vorgelagerten Bereichen je Beschäftigten im direkt betroffenen Bereich anfallen.
+
+Eine alleinige Verwendung der Input-Output-Rechnung des Statistischen Bundesamtes ist aus zwei Gründen schwierig.
+
+Zum einen beziehen sich die dort abgebildeten Gütergruppen bzw. Produktionsbereiche meist auf 2-Steller der Klassifikation der Wirtschaftszweige.
+
+Güter und Dienstleistungen, die energieeffizienter Mobilität zugeordnet werden können, stellen daher jeweils nur Teilbereiche der entsprechenden Gütergruppe dar.
+
+Hinzu kommt, dass die Erstellung der Input-Output-Tabellen sehr aufwendig ist, weshalb sie häufig erst 3-4 Jahre nach dem Bezugsjahr veröffentlicht werden.
+
+Aus diesem Grund bietet sich die Kombination von Input-Output-Rechnung mit aktuelleren und detaillierteren Statistiken an.
+
+Diese sollten möglichst regelmäßig veröffentlicht werden und frei zugänglich sein, um die Grundlage für regelmäßige Aktualisierungen zu schaffen.
+
+Im Kasten auf der folgenden Seite sind die wichtigsten, im Rahmen der vorliegenden Berechnung verwendeten Datenquellen zusammengefasst.
+
+Die klassische Input-Output-Analyse ermittelt aus der Endnachfrage (Konsum, Investitionen und Exporte) nach Gütern oder Dienstleistungen, entnommen aus detaillierten Statistiken, die Produktion im direkt betroffenen Wirtschaftsbereich, aber auch in allen indirekt betroffenen vorgelagerten Wirtschaftsbereichen.
+
+Neben der aktuellen Input-Output-Tabelle des Statistischen Bundesamts für das Jahr 2018 (Statistisches Bundesamt 2020b) dient hierfür auch die Vorleistungsstruktur einer (auf der Input-Output-Tabelle des Jahres 2014 aufbauende) für die verkehrsbezogenen Wirtschaftsbereiche fein aufgeschlüsselte Input-Output-Tabelle (Sievers et al. 2019) als Datenbasis.
+
+Basierend auf den Produktionswerten der einzelnen Produktionsbereiche wird daraus die Beschäftigung berechnet.
+
+Der hierfür benötigte Arbeitskoeffizient je Wirtschaftsbereich wurde unter Verwendung der jährlichen Wachstumsrate zwischen 2014 und 2018 für 2019 fortgeschrieben.
+
+Sollte es nicht möglich sein die Endnachfrage direkt den Statistiken zu entnehmen und sollte somit der nachfrageorientierte Ansatz nicht möglich sein, wird die Beschäftigung in den betroffenen Wirtschaftsbereichen direkt ermittelt (angebotsorientierter Ansatz).
+
+Die Beschäftigung in den vorgelagerten Wirtschaftsbereichen wird mittels Input-Output-Analyse bestimmt.
+
+Dafür wird anhand eines standardisierten Endnachfrageimpulses im direkt betroffenen Bereich berechnet, wie viele Beschäftigte in anderen Bereichen je Beschäftigten in dem direkt betroffenen Bereich anfallen.
+
+Für die Berechnung dieser Multiplikatoren wird die Vorleistungsstruktur der für die verkehrsbezogenen Wirtschaftsbereiche fein aufgeschlüsselten Input-Output-Tabelle (Sievers et al. 2019) in Kombination mit aktuellen Arbeitskoeffizienten genutzt.
+
+Das Verständnis von direkter und indirekter Beschäftigung unterscheidet sich bei den beiden Ansätzen.
+
+Beim nachfrageorientierten Ansatz bezieht sich die direkte Beschäftigung ausschließlich auf die Produktion, die direkt aus dem Nachfrageimpuls entsteht.
+
+Jegliche vorgelagerte Produktion zählt als indirekt, selbst wenn sie im gleichen Wirtschaftsbereich entsteht, der durch den Nachfrageimpuls direkt betroffen ist.
+
+Beim (um Beschäftigungsmultiplikatoren ergänzten) angebotsorientierten Ansatz hingegen bezieht sich indirekte Beschäftigung ausschließlich auf andere Wirtschaftsbereiche.
+
+Aus diesem Grund fällt beim angebotsorientierten Ansatz im Vergleich zum nachfrageorientierten Ansatz die direkte Beschäftigung höher und die indirekte Beschäftigung geringer aus.
+
+Ermittelt wird die Beschäftigungswirkung im Inland: Beispielsweise werden die Wirkungen der Exporte von energieeffizienten Fahrzeugen auf die Beschäftigung in Deutschland mit einbezogen, die Beschäftigungswirkung im Ausland durch importierte Fahrzeuge jedoch nicht.6  In den folgenden Abschnitten gehen wir detailliert auf die einzelnen Bereiche der Mobilität ein und legen dar, ob und wie sie für die Ermittlung der Beschäftigung durch energieeffiziente Mobilität inkludiert werden.
+
+Ein Teil der Produktion von Fahrzeugen ist "energieeffizienter Mobilität" zuzuordnen: Dies sind Fahrzeuge, die für den öffentlichen Personenverkehr, den Schienengüterverkehr und die Binnenschifffahrt genutzt werden, sowie Fahrzeuge, die aufgrund ihres Antriebs als vergleichsweise energieeffizient einzuordnen sind.
+
+Die Input-Output-Tabelle des statistischen Bundesamts unterscheidet lediglich die Bereiche "Herstellung von Kraftwagen und Kraftwagenteilen" (WZ 29) und "Herstellung von sonstigen Fahrzeugen" (WZ 30).
+
+Daher müssen weitere Quellen herangezogen werden.
+
+Batterieelektrische Fahrzeuge (BEV) werden der energieeffizienten Mobilität zugerechnet, da sie im Vergleich zu mit fossilen Kraftstoffen betriebenen Fahrzeugen deutlich weniger Energie verbrauchen (vgl. Kapitel 2).
+
+Plug-In Hybride (PHEV) werden ebenfalls einbezogen, werden jedoch gesondert ausgewiesen, da die reale Energieintensität im Gebrauch im Vergleich zu den Herstellerangaben sehr stark variieren kann (vgl. Plötz et al. (2020): hoher Anteil elektrischer Fahrten im Gegensatz zu kaum externem Laden des Akkus und Betrieb hauptsächlich über den Verbrennungsmotor).
+
+Die zugehörige Beschäftigung bezieht sich auf die Herstellung von BEV und PHEV in Deutschland, unabhängig davon, ob die Fahrzeuge im Inland oder im Ausland verkauft werden.
+
+Umgekehrt ist die Produktion von Fahrzeugen im Ausland, die in Deutschland zugelassen werden, nicht einbezogen.
+
+Die Endnachfrage nach BEV und PHEV wird wie folgt ermittelt: Die Statistik "Tatsachen und Zahlen" des Verbands der Automobilindustrie (VDA) enthält die produzierten Mengen (Stückzahlen) differenziert nach Modellen inklusive Antriebstyp.
+
+Multipliziert mit den entsprechenden Listenpreisen für das Jahr 2019 ergibt sich der monetäre Wert zu Anschaffungspreisen.
+
+Nach Abzug von Handelsspanne und Gütersteuern abzüglich Gütersubventionen ergibt sich der Wert zu Herstellungspreisen.
+
+Die entsprechenden Anteile von Handelsspanne (7,9 %) und Gütersteuern abzüglich Gütersubventionen (2,6 %) am gesamten Aufkommen von Kraftwagen und Kraftwagenteilen werden aus der Aufkommenstabelle aus der Input-Output-Rechnung von 2018 entnommen.
+
+Für beide betrachteten Herstellungsbereiche werden mittels Input-Output-Analyse Erwerbstätige in der Herstellung von Kraftfahrzeugen sowie in vorgelagerten Wirtschaftszweigen im Inland abgeschätzt.
+
+Da sich die benötigten Inputs für (teilweise) batterieelektrisch betriebene Fahrzeuge von denen für klassische Fahrzeuge unterscheiden und diese Fahrzeuge gleichzeitig zum aktuellen Zeitpunkt in der Gesamtproduktion von Kraftfahrzeugen in Deutschland noch eine untergeordnete Rolle spielen, bildet die in der Input-Output-Tabelle angegebene Vorleistungsstruktur nur eine mangelhafte Basis für die Abschätzung der entsprechenden Beschäftigung.
+
+Für eine angepasste Vorleistungsstruktur elektrifizierter Komponenten kann auf Ergebnisse von Sievers et al. (2019) zurückgegriffen werden.
+
+Zwischenprodukte bzw. Teile, die für die deutsche Produktion von elektrischen Fahrzeugen benötigt werden, sind somit durch die abgebildeten Verflechtungen in der Input-Output-Tabelle berücksichtigt.
+
+Die im Rahmen der vorliegenden Studie genutzte Aufteilung der Endnachfrage nach BEV bzw. PHEV auf Batterien, sonstige Komponenten des elektrifizierten Antriebsstrangs und klassische Kfz-Herstellung geht auf Sievers et al. (2019) zurück, wurde jedoch unter Beachtung unterschiedlicher Kostensenkungen der drei Bereiche aktualisiert.
+
+Dabei wurde angenommen, dass im Jahr 2019 die Inlandsanteile für die Produktion von Fahrzeugbatterien bei 0 % und für sonstige Komponenten des elektrifizierten Antriebsstrangs bei 40 % liegen.
+
+Die Anteile der Kfz-Herstellung werden zunächst vollständig der inländischen Produktion zugewiesen, da der ermittelte Endnachfrageimpuls bereits auf die deutsche Nachfrage beschränkt ist.
+
+Vorgelagerte Wertschöpfungsstufen berücksichtigen dann die Verflechtung dieses Wirtschaftsbereichs mit dem Ausland und damit die entsprechenden Inlandsanteile in der Produktion von Komponenten.
+
+Die nachfolgende Tabelle fasst die wichtigsten Daten zusammen.7 Busse werden aufgrund des möglichen hohen Besetzungsgrades und damit geringen Energiebedarfs pro beförderter Person grundsätzlich zum Feld energieeffizienter Mobilität gezählt.
+
+Abbildung 5 zeigt, dass Busse, sowohl im öffentlichen Nahverkehr und insbesonders auch Reisebusse teilweise geringere spezifische Energiebedarfe aufweisen als der schienengebundene Straßenbahn- oder Fernzugverkehr.
+
+In "Verkehr in Zahlen" sind für den öffentlichen Straßenpersonenverkehr8 die Investitionen in Fahrzeuge (unterschieden in Straßen- und Schienenfahrzeuge) angegeben.
+
+Der Wert für die Straßenfahrzeuge betrug im Jahr 2019 1.908 Millionen Euro.9  Diese Werte umfassen neben Bussen auch Taxis.
+
+Elektrifizierte Taxis spielen in der derzeitigen Flotte kaum eine Rolle.
+
+Sie sind daher nicht per se energieeffizienter als Pkw mit Verbrennungsmotor.
+
+Taxis tragen als Teil des öffentlichen Personenverkehrs jedoch zu energieeffizienter Mobilität bei.
+
+Aus diesem Grund wird der Anteil der Taxis an den Investitionen abgeschätzt und die damit verbundene Beschäftigungswirkung ausgewiesen.
+
+Die Taxiflotte umfasst 50.000 Fahrzeuge.
+
+Die Abschreibungsdauer beträgt 5 Jahre.
+
+Vereinfachend wird daher von jährlichen Investitionen in Taxis von 400 Millionen Euro (10.000 Fahrzeuge je 40.000 Euro) ausgegangen.
+
+Für die Ermittlung der Beschäftigung in Deutschland ist dabei nur der Teil der Investitionen in Taxis relevant, der von der heimischen Produktion bedient wird.
+
+Importe von Taxis für den heimischen öffentlichen Straßenverkehr müssen daher eigentlich ausgeschlossen werden.
+
+Gleichzeitig sind die Exporte von Pkw aus heimischer Produktion, die in anderen Ländern als Taxis genutzt werden, beschäftigungswirksam, jedoch nicht in den deutschen Investitionen abgebildet.
+
+Da keine Außenhandelsdaten explizit zu Taxis verfügbar sind, werden weder Importe abgezogen noch Exporte dazuaddiert.
+
+Aufgrund der Tatsache, dass die deutsche Automobilindustrie den wesentlich größeren Anteil ihres Umsatzes durch Export macht, führt dieses Vorgehen tendenziell zu einer Unterschätzung der Beschäftigung durch die Herstellung von Taxis.
+
+Der Nachfrageimpuls in Herstellungspreisen (vgl. Abschnitt 3.2.1) beträgt 358 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte in Wirtschaftszweig 29 "Herstellung von Kraftwagen und Kraftwagenteilen" sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Nach Abzug der Taxis von den Investitionen in Straßenfahrzeuge verbleiben ca. 1,5 Milliarden Euro Investitionen in Busse.10 Für die Ermittlung der Beschäftigung in Deutschland ist dabei nur der Teil der Investitionen in Omnibusse relevant, der von der heimischen Produktion bedient wird, Importe von Bussen für den heimischen öffentlichen Straßenverkehr müssen ausgeschlossen werden.
+
+Gleichzeitig sind die Exporte von Omnibussen aus heimischer Produktion beschäftigungswirksam, die jedoch nicht in den deutschen Investitionen abgebildet sind.
+
+Die entsprechenden Daten zu Importen und Exporten können der Außenhandelsstatistik entnommen werden.
+
+Die Werte erlauben eine Unterscheidung nach Antriebsform, wobei die Werte für elektrifizierte Omnibusse noch recht klein sind.
+
+Es ergibt sich ein positiver Außenhandelssaldo von 118 Millionen Euro (Ausfuhren in Höhe von 975 Millionen Euro abzüglich Einfuhren in Höhe von 857 Millionen Euro, gebrauchte Busse wurden nicht berücksichtigt).
+
+Dieser Außenhandelssaldo wird zu den Investitionen in Bussen addiert.
+
+Insgesamt ergibt sich für Busse somit ein Nachfrageimpuls zur Berechnung der heimischen Beschäftigungseffekte von 1.626 Millionen Euro zu Anschaffungspreisen.
+
+In Herstellungspreisen (vgl. Abschnitt 3.2.1) beträgt der Impuls 1.455 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte in Wirtschaftszweig 29 "Herstellung von Kraftwagen und Kraftwagenteilen" sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Analog zu den Bussen sind Schienenfahrzeuge wichtige Investitionsgüter des öffentlichen Personenverkehrs.
+
+Insbesondere der Eisenbahn-Fernverkehr, aber auch der Eisenbahn-Nahverkehr, der Straßenbahn-, Stadt- und U-Bahnverkehr zeichnen sich durch einen niedrigen spezifischen Energieverbrauch aus (vgl. Abbildung 5).
+
+Auch der Schienengüterverkehr ist im Vergleich zum Straßengüterverkehr besonders energieeffizient (vgl. Abbildung 6).
+
+Daher werden Schienenfahrzeuge ebenfalls zu "energieeffizienter Mobilität" gezählt.
+
+In "Verkehr in Zahlen" (BMVI 2021) sind Investitionen in Schienenfahrzeuge veröffentlicht (ca. 2.391 Millionen Euro in 2019).
+
+Zur Bestimmung der Wirkung auf die heimische Produktion und Beschäftigung muss zusätzlich der Saldo aus importierten und exportierten Schienenfahrzeugen hinzuaddiert werden (Exporte 3.640 Millionen Euro, Importe 3.257 Millionen Euro, Saldo 382 Millionen Euro in 2019).
+
+Die so ermittelte inländische Endnachfrage in Anschaffungspreisen beträgt 2.773 Millionen Euro.
+
+Für die Ermittlung der Herstellungspreise werden die entsprechenden Anteile von Handelsspanne (7,5 %) und Gütersteuern abzüglich Gütersubventionen (2,6 %) am gesamten Aufkommen von "sonstigen Fahrzeugen", unter die Schienenfahrzeuge fallen, aus der Aufkommenstabelle der Input-Output-Rechnung von 2018 entnommen.
+
+Der Nachfrageimpuls in Herstellungspreisen beträgt 2.468 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte im Schienenfahrzeugbau sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Hierfür wird die Vorleistungsstruktur des Wirtschaftsbereichs 30.2 "Schienenfahrzeugbau" (Sievers et al. 2019) genutzt.
+
+Radverkehr zählt zu den besonders energieeffizienten Formen der Mobilität, sowohl ohne als auch mit elektrischer Unterstützung (vgl. Kapitel 2).
+
+In der amtlichen Statistik fällt die Produktion von Fahrrädern unter den Wirtschaftszweig 30 "Herstellung von sonstigen Fahrzeugen" bzw. auf 4-Steller-Ebene unter 30.92 "Herstellung von Fahrrädern sowie von Behindertenfahrzeugen".
+
+E-Bikes bilden als "Fahrräder mit Hilfsmotor" eine Teilmenge von 30.91 "Herstellung von Krafträdern".
+
+Die Beschäftigung im Jahr 2019 des Bereichs 30.92 wird direkt aus der amtlichen Statistik (Jahresbericht für Betriebe im verarbeitenden Gewerbe11) entnommen.
+
+Für die Berücksichtigung der E-Bikes wird aus der Produktionserhebung der Produktionswert von "Fahrräder m. Hilfen, Krafträder m. Elektromot., Beiw." (309113000) entnommen12, die zugehörige Beschäftigung wird unter Verwendung des Arbeitskoeffizientens (Erwerbstätige je Produktionswert) des Wirtschaftsbereichs 30.9 "Herstellung von sonstigen Fahrzeugen" (Sievers et al. 2019) berechnet.
+
+Insgesamt werden mit diesem Vorgehen 9.262 direkt in der Herstellung von Fahrrädern tätige Personen ermittelt.13 Beschäftigung in den vorgelagerten Bereichen wird mittels Input-Output-Rechnung über die Beschäftigungsmultiplikatoren des Wirtschaftsbereichs 30.9 "Herstellung von sonstigen Fahrzeugen" (Sievers et al. 2019) bestimmt.
+
+Die Binnenschifffahrt ist ähnlich energieeffizient wie der Schienengüterverkehr und deutlich effizienter als der Straßengüterverkehr (vgl. Abbildung 6).
+
+Es bestehen durchaus weitere Verlagerungspotenziale auf die Binnenschifffahrt und ihre Stärkung ist erklärtes Ziel im NAPE.
+
+Daher wird der Güterverkehr in der Binnenschifffahrt zur energieeffizienten Mobilität gezählt.
+
+In "Verkehr in Zahlen" (BMVI 2021) sind die Investitionen in Schiffe der Binnenflotte14 der Bundesrepublik aufgeführt, sie machen jedoch im Vergleich zur Seeschifffahrt nur einen sehr kleinen Teil aus (80 Millionen Euro im Vergleich zu 2.100 Millionen Euro im Jahr 2019).
+
+Zur Bestimmung der Wirkung auf die heimische Produktion und Beschäftigung muss der Saldo aus exportieren und importierten Wasserfahrzeugen für die Binnenschifffahrt15 aus der Außenhandelsstatistik ermittelt und hinzuaddiert werden.
+
+Dadurch reduziert sich der Nachfrageimpuls zur Berechnung der heimischen Endnachfrage auf 52 Millionen Euro in Anschaffungspreisen.
+
+Für die Ermittlung der Herstellungspreise werden die entsprechenden Anteile von Handelsspanne  (7,5 %) und Gütersteuern abzüglich Gütersubventionen (2,6 %) am gesamten Aufkommen von "sonstigen Fahrzeugen", unter die Schiffe fallen, aus der Aufkommenstabelle aus der Input-Output-Rechnung von 2018 entnommen.
+
+Der Nachfrageimpuls in Herstellungspreisen beträgt 46 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte in der Herstellung von Schiffen und vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Hierfür wird die Vorleistungsstruktur des übergeordneten Wirtschaftsbereichs 30.1 "Schiff- und Bootsbau" (Sievers et al. 2019) genutzt.
+
+Im Bereich der Pkw sind Hybride ohne externe Lademöglichkeit (HEV) aus Sicht der Energieintensität im Vergleich zu BEV und PHEV weniger vorteilhaft.
+
+Daher werden sie nicht mitberücksichtigt.
+
+Pkw mit Brennstoffzellenantrieb (FCEV) befinden sich noch nicht in Serienfertigung.
+
+Auch die zukünftigen sinnvollen Einsatzfelder von Antrieben mit Wasserstoff werden noch diskutiert.
+
+FCEV werden zum aktuellen Zeitpunkt nicht einbezogen, zukünftig könnte eine Berücksichtigung jedoch relevant sein.
+
+Pkw mit reinem Antrieb über einen Verbrennungsmotor werden grundsätzlich nicht zu energieeffizienter Mobilität gezählt, da sie in den meisten Fällen mehr Energie verbrauchen als Pkw mit elektrischem Antrieb (vgl. Kapitel 1).
+
+Zwar sind in den vergangenen Jahren Steigerungen der Effizienz von Verbrennungsmotoren erreicht worden, gleichzeitig hat sich aber beispielsweise auch das Gewicht und die Leistung von Fahrzeugen erhöht, was Effizienzgewinne wieder ausgleicht.
+
+Des Weiteren ist eine Differenzierung der Produktion von Fahrzeugen nach Motoren in Abhängigkeit ihrer Effizienz kaum möglich: Pkw werden in der Produktionserhebung lediglich anhand ihrer Hubraumgrößen unterschieden.
+
+Bei den mit Verbrennungsmotoren betriebenen Lkw wurden in den vergangenen Jahren bereits erhebliche Effizienzgewinne erzielt.
+
+Die vollständige Erreichung der Effizienzziele im Güterverkehr durch eine weitere Optimierung der konventionell betriebenen Lkw ist kaum möglich.
+
+Analog zu den Pkw ist eine Differenzierung der Produktion von Fahrzeugen in Abhängigkeit ihrer Effizienz nicht möglich.
+
+Gleichzeitig werden in Deutschland aktuell nur wenige alternativ betriebenen Lkw in Serie produziert.
+
+Daher werden Lkw zunächst nicht für die Ermittlung der Beschäftigung energieeffizienter Mobilität berücksichtigt.
+
+Für zukünftige Analysen und bei zunehmender Produktion in Deutschland können bspw. die Kategorien "Lkw mit Elektromotor, kleiner-gleich 5 t" (291042001) und "Lkw mit Elektromotor, größer 5 t" (291042003) der Produktionserhebung herangezogen werden.
+
+Im Personenverkehr wird der Schiffsverkehr nicht zur energieeffizienten Mobilität gezählt, da effizientere Alternativen bestehen.
+
+Auch die internationale Seeschifffahrt wird nicht miteinbezogen, da sie das Hauptverkehrsmittel für den internationalen Frachtverkehr und im Vergleich nicht als besonders effizient einzuordnen ist.
+
+In einer systemischen Betrachtung energieeffizienter Mobilität sind neben der Herstellung von Fahrzeugen auch die ergänzenden Leistungen relevant, die einen sicheren Betrieb16 energieeffizienter Fahrzeuge sicherstellen.
+
+Dazu zählen der Handel sowie die Instandhaltung von Fahrzeugen und die Bereitstellung der erforderlichen Energie.
+
+Beschäftigung im Kfz-Gewerbe17 durch energieeffiziente Mobilität entsteht zum einen direkt durch den Handel mit energieeffizienten Kraftfahrzeugen (nach obiger Definition BEV, PHEV sowie Busse) und ihren Teilen, zum anderen durch deren Reparatur und Instandhaltung.18  Zur Berechnung der Handelsspanne wird zunächst aus der Aufkommenstabelle der Input-Output-Rechnung 2018 der Anteil der Handelsspanne (7,9 %) am gesamten Aufkommen an Kraftwagen und Kraftwagenteilen ermittelt (vgl. Abschnitt 3.2.1).
+
+Dieser Wert wird dann mit dem Anschaffungswert der im Inland verkauften sowie exportierten energieeffizienten Fahrzeuge multipliziert.
+
+Für BEV und PHEV muss zur inländischen Produktion (vgl. Abschnitt 3.2.1) jeweils noch der Wert der importierten Fahrzeuge addiert werden.
+
+Dieser kann aus der Außenhandelsstatistik entnommen werden.
+
+Für Busse werden die Investitionen im Inland sowie der aus der Außenhandelsstatistik entnommene Export (vgl. Abschnitt 3.2.2) addiert.
+
+Für Taxis werden nur die Investitionen im Inland berücksichtigt, da keine Daten zum Export von Taxis verfügbar sind.
+
+Es ergeben sich Handelsspannen von 383 Millionen Euro für BEV, von 629 Millionen Euro für PHEV, von 32 Millionen Euro für Taxis und von 196 Millionen Euro für Busse.
+
+Die Nachfrage nach Reparatur und Instandhaltung von Elektrofahrzeugen kann durch Multiplikation der Anzahl privat und gewerblich zugelassener Elektrofahrzeuge, die der Statistik des Kraftfahrtbundesamts (2020a) entnommen werden, mit einem durchschnittlichen Wert für den Instandhaltungsbedarf berechnet werden.
+
+Reparatur und Instandhaltung von Bussen stellt eine Vorleistung des öffentlichen Verkehrs dar und wird über Input-Output-Rechnung bestimmt (vgl. Abschnitt 3.5.2).
+
+Bei der Berechnung der relevanten Nachfrage nach Reparatur und Instandhaltung von Elektrofahrzeugen wird auf BEV und PHEV Fahrzeuge fokussiert.
+
+Da die Kosten für Reparatur und Instandhaltung je nach Fahrzeugtyp variieren können, wurde der Bestand von BEV und PHEV jeweils in den drei Kategorien klein, mittel und groß unterschieden.
+
+Die Kategorie "klein" umfasst die vom Kraftfahrtbundesamt (KBA) genutzten Segmente Kleinwagen und Mini, die Kategorie "mittel" die Kompaktklasse, Mittelklasse und obere Mittelklasse und die Kategorie "groß" Geländewagen, Großraum-Vans, Mini-Vans, Oberklasse, Sportwagen und SUV.
+
+Die genutzte Sonderauswertung des Kraftfahrtbundesamts (2020b) umfasst die Werte zum Fahrzeugbestand zum 01.01.2020, demnach zum Ende des Jahres 2019.
+
+Die ermittelte Anzahl von Fahrzeugen (klein: 75.069 / 8.865 (BEV / PHEV), mittel: 34.223 / 58.830, groß: 22.092 / 33.358) wird mit der mittleren Jahresfahrleistung eines Pkw in Deutschland im Jahr 2019 (13.602 km) (Kraftfahrtbundesamt o.J.) multipliziert und entsprechend ihrer Kategorie mit den Instandhaltungskosten pro gefahrenem Kilometer verrechnet.
+
+Dabei werden sowohl für BEV als auch für PHEV die Instandhaltungskosten für BEV angesetzt (klein: 2,7 ct/km, mittel: 3,1 ct/km, groß: 3,6 ct/km, Jander et al. 2022).
+
+Die Instandhaltungskosten für PHEV liegen im Mittel zwar über denen für die BEV, jedoch wird davon ausgegangen, dass sich die Differenz im Kern auf die Instandhaltung verbrennungsmotorischer Komponenten (wie z. B. Motorenöl) bezieht, die im Rahmen der Studie keine explizite Berücksichtigung finden sollen.
+
+Es ergeben sich Ausgaben in Höhe von etwa 53 Millionen Euro für die Instandhaltung von BEV, 44 Millionen Euro für PHEV.
+
+19 Produktions- und Beschäftigungseffekte im Wirtschaftsbereich 45 "Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen" sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Zur Berechnung der Beschäftigung durch den Handel mit Schienenfahrzeugen wird zunächst aus der Aufkommenstabelle der Input-Output-Rechnung 2018 der Anteil der Handelsspanne (7,5 %) am gesamten Aufkommen des Wirtschaftsbereichs "Sonstige Fahrzeuge" ermittelt (vgl. Abschnitt 3.2.3).
+
+Dieser Wert wird dann mit dem Anschaffungswert der im Inland verkauften sowie exportierten Schienenfahrzeuge multipliziert.
+
+Es ergibt sich eine Handelsspanne für Schienenfahrzeuge in Höhe von 452 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte im Wirtschaftsbereich 46 "Großhandelsleistungen" sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Der Einzelhandel mit Fahrrädern, teilen und zubehör beinhaltet sowohl den Einzelhandel als auch die Leistungen damit verbundener (Service-)Werkstätten und ist der energieeffizienten Mobilität zuzuordnen.20  Die Jahresstatistik im Handel des Statistischen Bundesamts enthält Daten zu Beschäftigung (33.812 Personen im Jahr 2019) des Fahrradeinzelhandels (WZ08-47641).
+
+Sie enthält zudem Daten zum "Großhandel mit Fahrrädern,teilen u. zubehör, Sport- u. ä. Art" (WZ08-46492).
+
+Hiervon entfällt laut Rudolph et al. (2020) ein Anteil von 80 % (15.566 Personen im Jahr 2019) auf Fahrräder, teile u. zubehör.
+
+Basierend auf diesen Zahlen sind somit rund 49.400 Personen im Fahrradgroß- und einzelhandel beschäftigt.21 Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung über Beschäftigungsmultiplikatoren der Wirtschaftsbereiche 47 "Einzelhandel" und 46 "Großhandel" bestimmt.
+
+Zur Berechnung der Beschäftigung durch den Handel mit Schiffen wird zunächst aus der Aufkommenstabelle der Input-Output-Rechnung 2018 der Anteil der Handelsspanne (7,5 %) am gesamten Aufkommen des Wirtschaftsbereichs "Sonstige Fahrzeuge" ermittelt (vgl. Abschnitt 3.2.5).
+
+Dieser Wert wird dann mit dem Anschaffungswert der im Inland verkauften sowie exportierten Wasserfahrzeuge für die Binnenschifffahrt multipliziert.
+
+Es ergibt sich eine Handelsspanne in Höhe von 8 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte im Wirtschaftsbereich 46 "Großhandelsleistungen" sowie in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Bei einer systemischen Betrachtung der Beschäftigung durch energieeffiziente Mobilität muss auch die Herstellung und Bereitstellung von Energie und Kraftstoffen berücksichtigt werden.
+
+Hierzu zählt zum einen die Stromversorgung, die die Nachfrage durch private und gewerblich betriebene elektrische Pkw bedient.
+
+Analog zur Reparatur und Instandhaltung kann diese über Daten zur Anzahl der zugelassenen Elektrofahrzeuge des KBA und durchschnittliche Stromausgaben je Fahrzeug ermittelt werden.
+
+Zum anderen nutzen energieeffiziente Mobilitätsdienstleistungen (bspw. Bahnen und Busse) Strom und fossile Kraftstoffe.
+
+Dies ist in der Vorleistungsstruktur der entsprechenden Dienstleistungen abgebildet und wird über Input-Output-Analyse ermittelt (vgl. Abschnitt 3.5).
+
+Da insbesondere fossile Kraftstoffe und die Stromerzeugung aus nichterneuerbaren Quellen als nicht nachhaltig einzustufen sind, wird der Bereich Energieversorgung nur anteilig berücksichtigt.
+
+Zu beachten gilt, dass Beschäftigung durch Betrieb und Ausbau der erneuerbaren Stromversorgung bereits als Bestandteil der "Beschäftigungswirkung des Umweltschutzes" (Edler und Blazejczak 2020a, 2020b, 2022) berücksichtigt sind.
+
+Daher wird der Strombedarf für energieeffiziente Mobilität im Folgenden separat abgeschätzt, um an dieser Stelle Transparenz zu schaffen.
+
+In Anlehnung an das Vorgehen in Abschnitt 3.3.1 wird zur Bestimmung des Energieverbrauchs von Fahrzeugen nach den drei Größensegmenten klein, mittel und groß unterschieden und jeweilige Durchschnittsverbräuche innerhalb des Segments unterstellt.
+
+Die durchschnittlichen Verbräuche werden auf Basis der Angaben des ADAC Ecotest für einzelne Fahrzeugmodelle ermittelt.
+
+Dazu erfolgt eine Zuordnung der angegebenen Fahrzeugmodelle zu den Größenklassen und die Bildung der Mittelwerte pro Größenklasse über die Energieverbräuche pro 100 km.
+
+Für BEV werden die Verbräuche (klein: 17, mittel: 19, groß: 22 kWh/100km) (Wieler 2019), für PHEV der elektrische Anteil der Mischverbräuche (klein: 8, mittel: 10, groß: 13 kWh/100km) (Kroher und Rudschies 2020), mit der durchschnittlichen Fahrleistung von etwa 13.600 km und dem Bestand an Fahrzeugen zum Stichtag 01.01.2020 (klein: 75.069 / 8.865 (BEV / PHEV), mittel: 34.223 / 58.830, groß: 22.092 / 33.358) verrechnet.
+
+Für das Jahr 2019 wird ein Strompreis in Höhe von 30,46 ct/kWh angesetzt (BMWi 2019a).
+
+Es ergeben sich Ausgaben von knapp 100 Millionen Euro für die Stromversorgung von BEV und 45 Millionen Euro für die Stromversorgung von PHEV.
+
+Mit einem Anteil von 42 % erneuerbarer Energie im Stromsektor im Jahr 2019 (Umweltbundesamt o.J.b) werden die im Sinne einer nachhaltigen Mobilität wirksamen Ausgaben auf 42 Millionen Euro bzw. 19 Millionen Euro reduziert.
+
+Produktions- und Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Hierfür wird die Vorleistungsstruktur des Wirtschaftsbereichs 35.1/35.3 "Elektrischer Strom, Dienstleistungen der Elektrizitäts-, Wärme- und Kälteversorgung" genutzt.
+
+Der Betrieb von Pkw oder Lkw erfordert eine Kfz-Versicherung.
+
+Dies ist jedoch unabhängig vom Antriebstyp und daher nicht explizit energieeffizienter Mobilität zuzuordnen.
+
+Für energieeffiziente Mobilitätsdienstleistungen ist die Versicherung in den Vorleistungen abgedeckt und somit durch die Input-Output-Analyse als indirekter Effekt inkludiert (vgl. Abschnitt 3.5).
+
+Neben der Herstellung sowie den begleitenden Leistungen für den Betrieb energieeffizienter Fahrzeuge ist die Bereitstellung der nötigen Infrastruktur beschäftigungswirksam.
+
+Dazu zählen bspw. der Bau und die Instandhaltung der Infrastruktur für den Schienenverkehr sowie Radverkehr.
+
+Der Betrieb des Schienenverkehrs als wichtiger Teil energieeffizienter Mobilität setzt den Bau und die Instandhaltung von Schieneninfrastruktur voraus.
+
+Die Investitionen in Schienenwege sowie in Umschlagplätze für den Schienenverkehr für das Jahr 2019 werden aus "Verkehr in Zahlen" entnommen (5.822 Millionen Euro bzw. 1.116 Millionen Euro).
+
+Mögliche Effekte durch den Export von Schieneninfrastruktur werden nicht berücksichtigt.
+
+Die Investitionen führen zu Nachfrage in unterschiedlichen Wirtschaftsbereichen (Edler 2021), wobei die größten Anteile auf die Wirtschaftsbereiche 25 "Metallerzeugnisse" (28,1 %), 30 "Sonstige Fahrzeuge"22 (26,9 %) und das Baugewerbe (41 "Hochbau" 19,9 %, 42 "Tiefbau"23 12,3 %) entfallen.
+
+Zur Ermittlung der im Inland wirksamen Nachfrage werden die aus der Input-Output-Tabelle 2018 ermittelten Inlandsanteile der Investitionen in den jeweiligen Wirtschaftsbereichen genutzt (Metallerzeugnisse 73 %, Sonstige Fahrzeuge 44 %, Hoch- und Tiefbau jeweils 99,5 %)24. Insgesamt beträgt die so ermittelte Endnachfrage aus inländischer Produktion 4.161 Millionen Euro für Schienenwege und 798 Millionen Euro für Umschlagplätze.
+
+Produktions- und Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Hierfür werden die entsprechenden Vorleistungsstrukturen der betroffenen, oben genannten Wirtschaftsbereiche genutzt (WZ 25 "Metallerzeugnisse" etc.).
+
+Der Schienengüterverkehr sowie der öffentliche Personenverkehr auf der Straße und Schiene benötigen zudem ein Netz an Bahnhöfen und Haltestellen.
+
+Aus "Verkehr in Zahlen" werden die Investitionen in Bauten für den Eisenbahnverkehr sowie für den öffentlichen Straßenpersonenverkehr entnommen.
+
+Nach Abzug der in diesen Werten inkludierten Investitionen in den Bau von Schienenwegen und Umschlagplätzen (s.
+
+o.) ergeben sich Investitionen in Gebäude in Höhe von 290 Millionen Euro.
+
+Diese werden dem Bereich 41 "Hochbau" zugewiesen mit einem Inlandsanteil von 99,5 % (s.
+
+o.), so dass die Endnachfrage nach inländischer Produktion 289 Millionen Euro beträgt.
+
+Produktions- und Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Dafür wird die Vorleistungsstruktur des Wirtschaftsbereichs 41 "Hochbau" genutzt.
+
+Die Nutzung und Verbreitung der Elektromobilität im Straßenverkehr erfordert auch den Aufbau einer Ladeinfrastruktur, deren Planung, Herstellung und Installation zu Beschäftigung im Bereich energieeffizienter Mobilität führt.
+
+Diese ist als solche nicht im Güterverzeichnis für Produktionsstatistiken des Statistischen Bundesamts enthalten.
+
+Der Zubau an öffentlicher Ladeinfrastruktur im Jahr 2019 wird als Differenz aus dem Bestand 2020 und dem Bestand 2019 ermittelt.
+
+Das European Alternative Fuel Observatory (2023) stellt solche Daten bereit.25 Für die private Ladeinfrastruktur wird basierend auf dem Masterplan Ladeinfrastruktur der Bundesregierung mit einem Ladepunkt (Privathaushalte und Arbeitsplatz) je Elektrofahrzeug gerechnet.
+
+Daten zum Bestand von BEV und PHEV können den regelmäßigen Veröffentlichungen des KBA entnommen werden (Kraftfahrtbundesamt 2020a).
+
+Für die Investitionen je privaten Ladepunkt, öffentlichen Ladepunkt unter 22kW Leistung und öffentlichen Ladepunkt über 22kW Leistung ist in der Literatur eine große Bandbreite an Werten angegeben (Bamberg et al. 2020; Bünger et al. 2019; NOW 2020).
+
+Um die Beschäftigungseffekte nicht zu überschätzen, werden für diese Studie jeweils die Werte des unteren Rands des Spektrums in der Literatur genutzt.
+
+Die privaten und öffentlichen Investitionen in Ladeinfrastruktur in Höhe von insgesamt 228 Millionen Euro führen zu Nachfrageeffekten in den Wirtschaftsbereichen 27 "Elektrische Ausrüstungen" und 42 "Tiefbau" (vereinfachend jeweils zu 50 %, vgl. Sievers et al. 2019).
+
+Zur Ermittlung der im Inland wirksamen Nachfrage werden die aus der Input-Output-Tabelle 2018 ermittelten Inlandsanteile der Investitionen in den jeweiligen Wirtschaftsbereichen genutzt (Elektrische Ausrüstungen 46,5 %, Tiefbau 99,5 %).
+
+Die so ermittelte Endnachfrage nach inländischer Produktion beträgt 167 Millionen Euro.
+
+Produktions- und Beschäftigungseffekte in vorgelagerten Produktionsbereichen werden mittels Input-Output-Analyse abgeschätzt.
+
+Dafür werden die Vorleistungsstrukturen der beiden genannten Wirtschaftsbereiche genutzt.
+
+Neben der Ladeinfrastruktur könnte zukünftig für die Elektrifizierung des Straßengüterverkehrs auch der Ausbau von Oberleitungen wichtig werden, derzeit handelt es sich in erster Linie noch um einige wenige Teststrecken.
+
+Die Herstellung von Fahrradinfrastruktur führt basierend auf Rudolph et al. (2020) zu direkten Beschäftigungseffekten in den Bereichen 41 "Hochbau" (Fahrradstellplätze, parkhäuser, Garagen, Kellerräume), 42 "Tiefbau" (Bau von Radwegen, Radfahrstreifen, Schutzstreifen, anteilige Fahrbahn) und 43 "Vorbereitende Baustellen-, Bauinstallations- und sonstige Ausbauarbeiten" (Aufstellen und Installation von Ampeln, Schildern, Bügeln etc.).
+
+Gemessen an der gesamten Beschäftigung in diesen Bereichen entfallen jedoch nur sehr geringe Anteile auf die Herstellung von Fahrradinfrastruktur.26   Die direkte Beschäftigung in diesen Bereichen wird von Rudolph et al. (2020) übernommen: 4.580 Personen für Radwege und Fahrbahnen, 1.676 Personen für Fahrradstellplätze und 2.169 Personen für Stadtmöbel (Ampeln etc.).
+
+Hinzu kommen Beschäftigungseffekte in vorgelagerten Bereichen.
+
+Sie werden mittels Input-Output-Rechnung über Beschäftigungsmultiplikatoren der Wirtschaftsbereiche 43 "Hochbau", 42.1 "Bau von Straßen und Bahnverkehrsstrecken" und 43 "Vorbereitende Baustellen-, Bauinstallations- und sonstige Ausbauarbeiten" bestimmt.
+
+Die laufenden Aufwendungen, also die Betriebskosten für die Instandhaltung bestehender Infrastruktur, sind als Teil der Vorleistungen von Mobilitätsdienstleistungen (s.
+
+folgendes Kapitel 3.5, Beispiel Personenverkehrsleistungen auf der Schiene) durch die Input-Output-Analyse als indirekte Effekte zu großen Teilen bereits enthalten.
+
+Darüber hinaus entstehende Beschäftigung, wie beispielsweise im Betrieb der Ladeinfrastruktur oder von Fahrradparkhäusern, wird nicht explizit berücksichtig.
+
+In Bezug auf die Gesamteffekte effizienter Mobilität tritt hier eine leichte Unterschätzung auf.
+
+Der Straßenbau wird nicht inkludiert, da er in erster Linie dem motorisierten Individualverkehr dient und energieeffiziente Mobilität auf der Straße derzeit eher einen kleinen Anteil des Verkehrs ausmacht.
+
+Zukünftig ist zwar davon auszugehen, dass der Anteil der Elektrofahrzeuge deutlich zunehmen wird, aber auch dann sind Mobilitätsformen mit hohem Besetzungsgrad (öffentlicher Verkehr) weiterhin deutlich effizienter.
+
+Der Bau von Wasserstraßen ist zwar Voraussetzung für die Binnenschifffahrt, allerdings ist aus ökologischer Sicht lediglich der Erhaltungsbau auf bestehenden, viel genutzten Wasserstraßen (z.
+
+B. Rhein oder Nord-Ostsee-Kanal) zu befürworten, neue Wasserstraßen (z.
+
+B. Saalekanal) oder der Ausbau von Staustufen (z.
+
+B. Donau) sind kritisch zu werten.
+
+Da für eine Differenzierung die Datenbasis fehlt, wird der Bau von Wasserstraßen nicht inkludiert.
+
+Die Mobilität von Personen und Gütern wird zu großen Teilen in Form von Dienstleistungen realisiert, die mit hoher Beschäftigung verbunden sind.
+
+Dazu zählen verschiedene Angebote im Bereich des Güterverkehrs sowie des öffentlichen Personenverkehrs.
+
+Der Güterverkehr auf der Schiene, mit dem Binnenschiff und mit dem Fahrrad ist im Vergleich zum Güterverkehr auf der Straße oder per Flugzeug als energieeffizient einzuordnen (vgl. Abbildung 6).
+
+Ausnahme bilden elektrifizierte Fahrzeuge im Straßengüterverkehr27.
+
+Allerdings werden elektrifizierte Fahrzeuge und Fahrzeuge mit Verbrennungsmotor von den entsprechenden Betreibern parallel eingesetzt, wodurch eine differenzierte Auswertung der Fahrleistung aufgrund fehlender Daten aktuell nicht möglich ist.
+
+Erwerbstätige im Bereich "Güterbeförderung in der Binnenschifffahrt" (WZ08-504, 3.794 Erwerbstätige in 2019) in Höhe von 3.800 Personen werden direkt der Strukturerhebung im Dienstleistungsbereich (Statistisches Bundesamt 2020a) entnommen.28 Der Bereich "Güterbeförderung im Eisenbahnverkehr" (WZ08-492) ist zwar ebenfalls in der Strukturerhebung aufgeführt, es werden jedoch seit 2014 keine Werte mehr für diesen Detailgrad ausgewiesen.
+
+Daher wird analog zum Vorgehen von Edler und Blazejczak (2020a, 2020b, 2022) die Beschäftigungsstatistik der Statistik der Bundesagentur für Arbeit (2020) genutzt, die etwas über 23.500 Beschäftigte zählt.29  Die Zahl der Erwerbstätigen bei Fahrradkurier- und Fahrradlieferdiensten (15.100 Personen) kann von Edler und Blazejczak (2022) übernommen werden.30  Die Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung durch die Verwendung der Beschäftigungsmultiplikatoren der Wirtschaftsbereiche 49.2 "Güterbeförderung im Eisenbahnverkehr" 31, 50 "Schifffahrtsleistungen" und 53 "Post, Kurier und Expressdienstleistungen"32 bestimmt.
+
+Nah- und Fernverkehr mit Eisenbahn und Bussen, Straßenbahnen, Stadtbahnen und U-Bahnen sind (vor allem aufgrund der höheren Besetzungsgrade) deutlich energieeffizienter als der motorisierte Individualverkehr mit dem Pkw (vgl. Abbildung 5).
+
+Auch der Radverkehr ist besonders energieeffizient, weshalb Fahrradverleihsysteme einbezogen werden.
+
+Carsharing ist zwar ebenfalls eine Form des motorisierten Indivualverkehrs, ermöglicht jedoch als Ergänzung zum öffentlichen Verkehr, Rad- und Fußverkehr den Verzicht auf einen eigenen Pkw und damit ein umweltbewusstes und energieeffizientes Mobilitätsverhalten.
+
+Aus diesem Grund ist es sinnvoll, diese Mobilitätsdienstleistung mit einzubeziehen.33 Die gleiche Argumentation gilt auch für Taxi-Dienstleistungen.
+
+Es ist jedoch zu diskutieren, ob Carsharing und Taxi-Dienstleistungen analog zu den Pkw nur teilweise berücksichtigt werden sollten, basierend auf dem Anteil der elektrisch zurückgelegten Strecken.
+
+Aus Gründen der Datenverfügbarkeit wird dieses Vorgehen zum aktuellen Zeitpunkt nicht verfolgt.
+
+Für die Dienstleistungen im Personenverkehr werden - analog zum Güterverkehr - direkt die Beschäftigungszahlen, meist aus der Strukturerhebung, verwendet.
+
+Aus der Strukturerhebung im Dienstleistungsbereich (Statistisches Bundesamt 2020a) können für das Jahr 2019 die Erwerbstätigen der Wirtschaftsbereiche 49.31 "Personenbeförderung im Nahverkehr zu Lande (ohne Taxis)" in Höhe von 251.000 beschäftigten Personen entnommen werden.
+
+Für den Wirtschaftsbereich 49.32 "Betrieb von Taxis" ergeben sich 141.000 Erwerbstätige, für den Bereich 49.39 "Sonstige Personenbeförderung im Landverkehr anderweitig nicht genannt" (hauptsächlich Omnibus-Linienfernverkehr und Omnibus-Gelegenheitsverkehr) 77.800 Erwerbstätige.
+
+Der Wirtschaftsbereich 49.1 "Personenbeförderung im Eisenbahnverkehr" ist zwar ebenfalls in der Strukturerhebung aufgeführt, es werden jedoch seit 2014 keine Werte mehr für diesen Detailgrad ausgewiesen.
+
+Daher wird (analog zum Vorgehen beim Güterverkehr, vgl. Abschnitt 3.5.1) die Beschäftigungsstatistik der Statistik der Bundesagentur für Arbeit (2020) für das Jahr 2019 genutzt.
+
+Es lassen sich 22.900 Erwerbstätige ermitteln.
+
+Carsharing ist in der "Beschäftigungswirkung des Umweltschutzes" (Edler und Blazejczak 2020a, 2022) enthalten und die Anzahl Erwerbstätiger in Höhe von 2.700 wird von dort übernommen.34 Die direkte Beschäftigung (2.100 Personen) im Bereich der Fahrradverleihsysteme und Leasing von Fahrrädern stammt von Rudolph et al. (2020).35  Beschäftigungseffekte in vorgelagerten Bereichen werden mittels Input-Output-Rechnung bestimmt.
+
+Hierfür werden die Beschäftigungsmultiplikatoren der Wirtschaftsbereiche "Personenbeförderung im Eisenbahnfernverkehr", "ÖPNV und Busse", "Taxis" und "Carsharing" und "Vermietung beweglicher Sachen" aus der um verkehrsbezogene Bereiche erweiterten Input-Output-Tabelle von Sievers et al. (2019) genutzt.
+
+Die folgenden Tabellen (Tabelle 3 bis Tabelle 6) enthalten eine Zusammenfassung der integrierten Produkte und Dienstleistungen für die Bestimmung der Beschäftigung durch energieeffiziente Mobilität.
+
+In der dritten Spalte von links sind jeweils die Werte zu den ermittelten direkten Beschäftigten für das Jahr 2019 dargestellt (angebotsorientierter Ansatz).
+
+Für die betroffenen Produkte und Dienstleistungen wird die indirekte Beschäftigung in vorgelagerten Produktionsbereichen mittels Input-Output-Analyse durch Beschäftigungsmultiplikatoren berechnet.
+
+Die vierte Spalte enthält die Endnachfrage nach heimischer Produktion für das Jahr 2019 in Millionen Euro in Herstellungspreisen (nachfrageorientierter Ansatz).
+
+Für die betroffenen Produkte und Dienstleistungen wird die indirekte Beschäftigung in vorgelagerten Produktionsbereichen über den Endnachfrageansatz mittels Input-Output-Analyse ermittelt.
+
+Die Ergebnisse zu den gesamten Beschäftigungseffekten energieeffizienter Mobilität, die auf den Impulsen aus Tabelle 3 bis Tabelle 6 beruhen, werden im folgenden Kapitel dargestellt.
+
+Insgesamt wurden mit dem in Kapitel 3 beschriebenen methodischen Ansatz für das Jahr 2019 im Bereich energieeffiziente Mobilität gut 1 Million tätige Personen ermittelt (vgl. Abbildung 9).
+
+Dies sind 2,3 % der 45,3 Millionen Erwerbstätigen in Deutschland im Jahr 2019 (Statistisches Bundesamt 2023).
+
+Der größte Anteil mit 76 % bzw. 791.000 Personen36 entfällt dabei auf den Bereich Mobilitätsdienstleistungen.
+
+Handel, Betrieb und Instandhaltung von Fahrzeugen führen zu einer Beschäftigung von 93.000 Personen.
+
+In der Fahrzeugherstellung sind 87.000 Personen mit Bezug zu energieeffizienter Mobilität tätig.
+
+Investitionen in die Infrastruktur für energieeffiziente Mobilität bieten 71.000 Personen direkt oder indirekt einen Arbeitsplatz.
+
+Die ermittelten 87.000 Beschäftigten in der Fahrzeugherstellung im Jahr 2019 verteilen sich auf die Produktion von als energieeffizient eingestuften Pkw und Bussen, sowie auf Schienenfahrzeuge, Schiffe und Fahrräder (vgl. Abbildung 10).
+
+Hierbei ist jeweils die Produktion von Fahrzeugen für die Inlandsnachfrage wie auch für den Export berücksichtigt.
+
+Die Produktion von Plug-In-Hybriden führt zu einer Beschäftigung in Höhe von 29.100 Personen.37 24.200 Personen arbeiten im Schienenfahrzeugbau und in vorgelagerten Bereichen.38 Auf den Bereich Herstellung von batterieelektrischen Fahrzeugen entfallen 11.100 Erwerbstätige.
+
+Die Herstellung von Fahrrädern und E-Bikes führt zu einer Beschäftigung von 10.100 Personen.
+
+In der Produktion von Bussen und vorgelagerten Bereichen sind insgesamt 9.300 Personen tätig.
+
+Die Herstellung von Taxis führt zu einer Beschäftigung von 2.300 Personen.
+
+Die Produktion von Fahrzeugen für die Binnenschifffahrt spielt mit insgesamt rund 500 direkt oder indirekt tätigen Personen eine vergleichsweise geringe Rolle.
+
+Im Bereich Handel, Betrieb und Instandhaltung von Fahrzeugen sind insgesamt 93.000 Personen mit Bezug zu energieeffizienten Pkw, Bussen und Fahrrädern tätig (vgl. Abbildung 11).
+
+Die meisten Erwerbstätigen verzeichnet mit 42.300 Personen dabei der Fahrradeinzelhandel, gefolgt vom Fahrradgroßhandel mit 25.300 Personen.
+
+Der Handel mit Plug-In-Hybriden und mit batterieelektrischen Fahrzeugen führt zu einer Beschäftigung in Höhe von 9.600 bzw. 5.800 tätigen Personen.
+
+Der Handel mit Schienenfahrzeugen bietet 4.900 Personen eine Beschäftigung.
+
+Im Handel mit Bussen und vorgelagerten Bereichen sind 3.000 Personen tätig.
+
+Der Handel mit Taxis führt zu einer Beschäftigung von knapp 500 Personen.
+
+Die Instandhaltung der elektrischen Fahrzeuge hat eine vergleichsweise geringe Beschäftigungswirkung in Höhe von 500 (BEV) bzw. 400 Personen (PHEV).
+
+Die Beschäftigungswirkung durch die Instandhaltung der Komponenten des verbrennungsmotorischen Antriebsstrangs wurde dabei nicht berücksichtigt.
+
+Auch die Nachfrage nach erneuerbarem Strom durch BEV und PHEV führt nur zu geringen Beschäftigungseffekten in Höhe von 200 bzw. 100 Personen.
+
+Der Handel mit Schiffen (Binnenschifffahrt) führt zu einer Beschäftigung von knapp 100 Personen.
+
+Betrieb und Instandhaltung von Bussen ist hingegen als indirekter Effekt der Bereiche ÖPNV und sonstiger Personenverkehr im Bereich Dienstleistungen abgedeckt (vgl. Abschnitt 4.4).
+
+Dies gilt auch für Betrieb und Instandhaltung von Schienenfahrzeugen und weiteren für energieeffiziente Mobilitätsdienstleistungen eingesetzte Fahrzeuge.
+
+Investitionen in die Infrastruktur energieeffizienter Mobilität bewirken eine Beschäftigung in Höhe von 71.000 Personen im Jahr 2019 mit Bezug zum Schienen-, elektrifizierten Straßen- und Fahrradverkehr (vgl. Abbildung 12).
+
+Hierbei entfällt mit 44.700 tätigen Personen der größte Anteil auf die Herstellung und Installation der Schienenwege.
+
+Im Bau und der Installation von Fahrradinfrastruktur, sowohl von Verkehrswegen als auch Abstellmöglichkeiten, sind 13.500 Personen direkt und indirekt tätig.
+
+Die Investitionen in Umschlagplätze für den Schienenverkehr führen zu einer Beschäftigung von 8.600 Personen.
+
+Im Bereich Bau und Erhalt von Bahnhöfen und Haltestellen wurden 2.800 Erwerbstätige ermittelt.
+
+In Summe bewirken die Investitionen in die Infrastruktur für den Schienenverkehr eine Beschäftigung von 56.000 Personen.39 Mit 1.300 tätigen Personen ist die Beschäftigung durch den Ausbau der privaten und öffentlichen Ladeinfrastruktur für die Elektromobilität vergleichsweise gering.
+
+Die Mobilitätsdienstleistungen stellen den Bereich mit der größten Beschäftigungswirkung energieeffizienter Mobilität dar.
+
+Insgesamt sind 791.000 Personen im Bereich der energieeffizienten Mobilitätsdienstleistungen mit Bezug sowohl zum Personen- als auch zum Güterverkehr tätig (vgl. Abbildung 13).
+
+Die mit Abstand größte Beschäftigungswirkung verzeichnet der ÖPNV mit insgesamt 363.800 Personen.40 Im Taxigewerbe sind 141.800 Personen tätig.41 Der sonstige Personenverkehr, hauptsächlich Omnibus-Linienfernverkehr und Omnibus-Gelegenheitsverkehr, verzeichnet eine Beschäftigung von 112.700 Personen.
+
+Im Schienengüter- und Schienenpersonenverkehr sind 59.700 Personen bzw. 59.400 Personen tätig.
+
+42 Güterverkehrsleistungen der Binnenschifffahrt und Fahrradkurier- und Fahrradlieferdienste verzeichnen Beschäftigung in ähnlicher Größenordnung von 22.600 Personen bzw. 20.700 Personen.
+
+Mit 7.400 Personen fällt die Beschäftigung bei Carsharing-Dienstleistern und in vorgelagerten Bereichen deutlich höher aus als im Bereich Bikesharing (2.800 Personen), der zudem das Fahrradleasing umfasst.
+
+Die Ermittlung der Beschäftigung durch energieeffiziente Mobilität erfordert zunächst die Abgrenzung der Güter und Dienstleistungen, die diesem Bereich zuzuordnen sind.
+
+Eine allgemein gültige Definition oder quantitative Abgrenzung von "energieeffizienter Mobilität" existiert nicht.
+
+Es werden in dieser Studie darunter jene Mobilitätsformen verstanden, die aufgrund einer vergleichsweise geringen Energieintensität zu einer Senkung des Energiebedarfs im Verkehr beitragen.
+
+Die Abgrenzung ist somit relativ und erfordert auch eine dynamische Anpassung.
+
+Dies muss sowohl mit Blick auf die Erstellung längerer Zeitreihen wie auch eine Replikation in der Zukunft beachtet werden.
+
+Regelmäßig herausgegebene und frei verfügbare amtliche Statistiken bieten eine gute Grundlage für die Erstellung von Zeitreihen.
+
+Sie bieten jedoch nicht immer den zur Abgrenzung energieeffizienter Mobilität erforderlichen Detailgrad.
+
+Aus diesem Grund kann die Beschäftigung für manche Bereiche gar nicht und für andere nur durch Hinzuziehen weiterer Quellen (Literatur, Experteneinschätzungen) ermittelt werden.
+
+Mit Blick auf die Erstellung von Zeitreihen stellt dieses recht aufwendige Vorgehen eine gewisse Einschränkung dar.
+
+Da die Bedeutung energieeffizienter Mobilität jedoch zunimmt, könnte sich die Datenbasis zukünftig ggfs.
+
+noch weiter verbessern.
+
+Im Rahmen der vorliegenden Studie wird die Beschäftigung durch energieeffiziente Mobilität in Deutschland für das Jahr 2019 in den Bereichen Fahrzeugherstellung, Handel, Betrieb und Instandhaltung der Fahrzeuge, Infrastruktur und Mobilitätsdienstleitungen abgeschätzt.
+
+Mitberücksichtigt wird auch der Export von Fahrzeugen.
+
+Die Verwendung eines offenen statischen Input-Output-Mengenmodells ermöglicht die Ermittlung der Beschäftigung auch in vorgelagerten Bereichen.
+
+Eine Limitierung der Input-Output-Rechnung ist die Homogenität von Gütergruppen: Alle zu einem Wirtschaftsbereich zugeordneten Güter beziehen zum jeweils durchschnittlichen Wert des Wirtschaftsbereichs Vorleistungen; alle zu einem Wirtschaftsbereich zugeordneten Güter werden mit der gleichen durchschnittlichen Arbeitsproduktivität des Wirtschaftsbereichs hergestellt etc. Mit der Verwendung einer für die verkehrsbezogenen Wirtschaftsbereiche feiner aufgelösten Input-Output-Tabelle wird die Limitierung durch die Homogenität etwas abgeschwächt.
+
+Doch auch bei der Erstellung dieser Tabelle musste mit vereinfachenden Annahmen gearbeitet werden.
+
+Die Diskussion mit Fachleuten im Rahmen der Erstellung dieser Studie hat gezeigt: Die "perfekte" Datenquelle und Methodik gibt es nicht.
+
+Für die Input-Output-Analyse werden zwei unterschiedliche Herangehensweisen genutzt.
+
+Der Endnachfrageansatz wird auch in anderen Veröffentlichungen aus der Projektfamilie Wirtschaftsfaktor Umweltschutz zur Bestimmung der Beschäftigungswirkung eingesetzt, wodurch eine gute Anschlussfähigkeit gegeben ist.
+
+Der Ansatz über Beschäftigungsmultiplikatoren ist in diesem Kontext hingegen neu, und ist methodisch zwischen dem angebotsbasierten und dem nachfragebasierten Ansatz einzuordnen.
+
+In anderen Veröffentlichungen der Projektfamilie wird Beschäftigung beispielsweise im öffentlichen Verkehr nur anteilig berücksichtigt mit der Argumentation, dass Mobilität und nicht der Umweltschutz Hauptzweck dieser Aktivität sind.
+
+Da in der vorliegenden Studie jedoch die Potenziale der "energieeffizienten Mobilität" im Fokus stehen, wird die damit verbundene Beschäftigung hier vollständig berücksichtigt.
+
+Insgesamt ist die Beschäftigungswirkung energieeffizienter Mobilität mit gut 1 Million tätigen Personen vergleichsweise hoch.
+
+Sie setzt sich aus Beschäftigung unterschiedlichster Bereiche zusammen und umfasst eine große Bandbreite an Tätigkeiten, teilweise in Vollzeit, teilweise in Teilzeit, mit unterschiedlicher Entlohnung, verschiedenen Qualifikationsniveaus etc. Es gilt jedoch zu beachten, dass die Summe Bereiche (PHEV, Taxis) umfasst, deren Zugehörigkeit zu energieeffizienter Mobilität kritisch diskutiert werden kann.
+
+Mit Blick auf die ambitionierten Klimaziele kann ein dynamisches Wachstum der Beschäftigung (bzw. des zukünftigen Arbeitskräftebedarfs) durch energieeffiziente Mobilität erwartet werden.
+
+Aufgrund der schnell voranschreitenden Transformation des Mobilitätssektors sollte in diesem Zusammenhang auch die Abgrenzung energieeffizienter Mobilität regelmäßig kritisch überprüft werden.
+
+
+
+
+</TEXT></TimeML>

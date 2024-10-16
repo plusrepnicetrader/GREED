@@ -1,0 +1,499 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10582-Zahlen_und_Fakten_zum_Stand_der_Altlastenbearbeitung_in_Baden-Württemberg</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-10-01</TIMEX3></DCT>
+<TEXT>Altablagerungen und Altstandorte mit Gefahrenpotential für die Umwelt sind das Erbe und die Kehrseite des technischen und industriellen Fortschritts vor allem <TIMEX3 tid="t1" type="DATE" value="19">des letzten Jahrhunderts</TIMEX3>.
+
+Altlasten wurden durch einen unachtsamen Umgang mit gefährlichen Chemikalien und Abfällen verursacht.
+
+Verunreinigungen von Boden und Grundwasser waren die Folge.
+
+Altlasten sind Flächen, von denen eine Gefahr für die Umwelt ausgeht.
+
+Mit der Veröffentlichung der Altlastenhandbücher I und II der damaligen LfU <PLACE id="p1" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> im <TIMEX3 tid="t2" type="DATE" value="1987">Jahr 1987</TIMEX3> wurde die systematische Aufarbeitung der Altlasten im <PLACE id="p2" type="" geo="DEBKGGND00001BBR">Land</PLACE> eingeführt.
+
+Die vom Ministerrat am <TIMEX3 tid="t3" type="DATE" value="1988-10-17">17. Oktober 1988</TIMEX3> beschlossene „Konzeption zur Behandlung altlastverdächtiger Flächen und Altlasten in <PLACE id="p3" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (Stufenplan)“ hat das stufenweise Vorgehen zur Bewältigung des Altlastenproblems als politische Willensäußerung <PLACE id="p4" type="" geo="DEBKGGND00001CV0">bundesweit</PLACE> erstmals umfassend dargestellt und die fachlichen Grundlagen für die Altlastenbearbeitung aufgezeigt.
+
+Für die kommunale Altlastenbehandlung hat das <PLACE id="p5" type="" geo="DEBKGGND00001BBR">Land</PLACE> seit <TIMEX3 tid="t4" type="DATE" value="1988">1988</TIMEX3> rund 841 Mio. Euro zur Verfügung gestellt.
+
+In diesem Bericht werden überarbeitete, teilweise neue Kennzahlen zur Altlastenstatistik nach der Bund-/Länderarbeitsgemeinschaft Bodenschutz (LABO) verwendet (siehe Anhang I).
+
+Stichtag aller Daten in diesem Bericht ist der <TIMEX3 tid="t5" type="DATE" value="2022-12-31">31.12.2022</TIMEX3>.
+
+Die zuständigen Behörden in <PLACE id="p6" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> haben seit <TIMEX3 tid="t6" type="DATE" value="1987">1987</TIMEX3> insgesamt 107 557 Flächen im Bodenschutz- und Altlastenkataster (BAK) erfasst.
+
+Davon konnten bisher 44 336 Flächen (41 %) ohne Altlastenverdacht ausgeschieden werden (A-Fälle).
+
+Bei 45 375 Flächen (42 %) besteht kein unmittelbarer Handlungsbedarf, bei Baumaßnahmen ist jedoch der Aushub auf Schadstoffe zu prüfen und gegebenenfalls fachgerecht zu entsorgen (B-Fälle).
+
+15 082 Flächen (14 %) sind <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> als altlastverdächtig eingestuft.
+
+Altlasten wurden bei 2 761 Flächen (3 %) festgestellt.
+
+Die Zahl der altlastverdächtigen Flächen ergibt sich aus 1 510 Altablagerungen und 13 572 Altstandorten.
+
+Bei 8 420 altlastverdächtigen Flächen liegen Anhaltspunkte, <TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> aber keine Exposition vor.
+
+Diese Flächen wurden als B-Fälle eingestuft.
+
+Bei 34 altlastverdächtigen Flächen wurde zwar eine Gefahrenlage ermittelt, die jedoch mit angemessenen Mitteln nicht weiter erkundbar ist.
+
+Bei den verbleibenden 6 628 altlastverdächtigen Flächen ist der Gefahrenverdacht noch abzuklären.
+
+Von den seit <TIMEX3 tid="t9" type="DATE" value="1987">1987</TIMEX3> erfassten 107 557 Flächen konnte bei 71 681 Flächen der Gefahrenverdacht ausgeräumt werden.
+
+Bei 3 778 Flächen wurde die Sanierung erfolgreich abgeschlossen.
+
+Produktion, Verarbeitung und Konsum von industriellen und gewerblichen Produkten und die Beseitigung entstandener Abfälle im <TIMEX3 tid="t10" type="DATE" value="19">vergangenen Jahrhundert</TIMEX3> haben ihre Spuren im Boden und Grundwasser hinterlassen.
+
+Gefährliche Stoffe sind dabei oft durch Unkenntnis und Nachlässigkeit, manchmal auch durch gezieltes Handeln im Untergrund versickert und entsorgt worden.
+
+Das Gefahrenpotenzial für Mensch und Umwelt wurde dabei oft unterschätzt.
+
+Seit <TIMEX3 tid="t11" type="DATE" value="1987">1987</TIMEX3> ist das Land <PLACE id="p7" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> damit befasst, die Gefahren, die von ehemaligen Müllplätzen mit häuslichen, gewerblichen und industriellen Abfällen sowie von gewerblichindustriellen Standorten mit Umweltgefahrenpotential ausgehen können, systematisch zu erkennen und gezielt zu beseitigen.
+
+<TIMEX3 tid="t12" type="DATE" value="2002" mod="END">Ende 2002</TIMEX3> wurde die Erfassung altlastverdächtiger Flächen der Altablagerungen und Altstandorte erstmals <PLACE id="p8" type="" geo="DEBKGGND00001BBR">landesweit</PLACE> abgeschlossen.
+
+Die Erfassung weiterer relevanter Standorte wird seither in den Stadt- und Landkreisen kontinuierlich fortgeführt und aktualisiert.
+
+Flächen mit einem AnfangsDie Grundlage der systematischen Altlastenbearbeitung in <PLACE id="p9" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> wurde am <TIMEX3 tid="t13" type="DATE" value="1988-10-17">17. Oktober 1988</TIMEX3> mit der vom Ministerrat beschlossenen „Konzeption zur Behandlung altlastverdächtiger Flächen und Altlasten in <PLACE id="p10" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (Stufenplan)“ [Landtag von <PLACE id="p11" type="" geo="DEBKGGND00001BBR">Baden-WürttemBerg</PLACE> <TIMEX3 tid="t14" type="DATE" value="1988">1988</TIMEX3>] gelegt.
+
+Diese Konzeption sieht zur Bewältigung des Altlastenproblems ein stufenweises Vorgehen vor.
+
+Gleichzeitig wurden damit die fachlichen Grundlagen für die Altlastenbearbeitung und ein Finanzierungskonzept für kommunale Altlasten vorgestellt.
+
+Die <TIMEX3 tid="t15" type="DATE" value="PRESENT_REF">heutige</TIMEX3> Altlastenbearbeitung stützt sich auf die rechtlichen Vorgaben des Bundes-Bodenschutzgesetzes [BBodSchG <TIMEX3 tid="t16" type="DATE" value="1998">1998</TIMEX3>], der Bundes-Bodenschutz und Altlastenverordnung [BBodSchV <TIMEX3 tid="t17" type="DATE" value="1999">1999</TIMEX3>] und des Landes-Bodenschutz- und Altlastengesetzes [LBodSchAG <TIMEX3 tid="t18" type="DATE" value="2004">2004</TIMEX3>].
+
+Der Begriff „Altlasten“ ist im BBodSchG definiert und beschreibt ehemalige Abfallbeseitigungsanlagen oder sonstige Müllplätze (Altablagerungen) sowie ehemals industriell oder gewerblich genutzte Grundstücke (Altstandorte), verdacht sowie der jeweilige Bearbeitungsstand werden im Bodenschutz- und Altlastenkataster der Stadt- und Landkreise dokumentiert.
+
+Der Altlastenausschuss der Bund-/Länderarbeitsgemeinschaft Bodenschutz (LABO) hat die Bundesländer <TIMEX3 tid="t19" type="DATE" value="2002">2002</TIMEX3> erstmals aufgefordert, Kennzahlen für eine <PLACE id="p12" type="" geo="DEBKGGND00001CV0">bundesweite</PLACE> Altlastenstatistik vorzulegen.
+
+Seit <TIMEX3 tid="t20" type="DATE" value="2004">2004</TIMEX3> können diese Kennzahlen <TIMEX3 tid="t21" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> über das UIS-Berichtssystem mit standardisierten Abfragen behördenintern ermittelt werden.
+
+Die vom Altlastenausschuss (ALA) der LABO <TIMEX3 tid="t22" type="DATE" value="2020">2020</TIMEX3> überarbeiteten, teilweise neuen Kennzahlen stellen die Vergleichbarkeit der Datenlage mit den anderen Bundesländern sicher (siehe Anhang I).
+
+Die vorliegenden Auswertungen zur Situation der Altlastenbearbeitung in <PLACE id="p13" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> zeigen den Bearbeitungsstand der beiden Flächentypen Altablagerungen und Altstandorte zum <TIMEX3 tid="t23" type="DATE" value="2022-12-31">31.12.2022</TIMEX3> und beziehen die Entwicklungen der <TIMEX3 tid="t24" type="DURATION" endPoint="t24" value="PXY">zurückliegenden Jahre</TIMEX3> – soweit vergleichbare Daten vorliegen – mit ein.
+
+auf denen mit umweltgefährdenden Stoffen umgegangen wurde und von denen Gefahren für den Menschen oder die Umwelt ausgehen können.
+
+Die Bearbeitung ist in drei Stufen unterteilt: Beginnend mit der (1.) Erfassung von Verdachtsflächen schließen sich im Rahmen der (2.) Gefährdungsabschätzung technische Untersuchungsschritte und gegebenenfalls die Durchführung von (3.) Sanierungsoder Schutz- und Beschränkungsmaßnahmen als Gefahrenabwehrmaßnahme an.
+
+Erst wenn sich der Verdacht einer Gefahr durch Untersuchungen bestätigt hat, werden altlastverdächtige Flächen zu Altlasten.
+
+Die Bearbeitungsschritte Erfassung und Orientierende Untersuchung erfolgen, sofern ein Anfangsverdacht einer Altlast besteht, im Rahmen der Amtsermittlung durch die unteren Bodenschutz- und Altlastenbehörden.
+
+Am Ende der Orientierenden Untersuchung wird beurteilt, ob konkrete Anhaltspunkte für den hinreichenden Verdacht einer Altlast vorliegen oder der Verdacht ausgeräumt werden konnte.
+
+Die sich anschließende Detailuntersuchung hat der Pflichtige nach BBodSchG durchzuführen.
+
+Diese abschließende Gefährdungsabschätzung klärt die Frage, ob eine Gefahrenlage besteht.
+
+Wird eine Gefahrenlage erkannt, die Altlast somit bestätigt, werden Sanierungs- oder Schutz- und Beschränkungsmaßnahmen geprüft.
+
+Abbildung 2.1 zeigt die in <PLACE id="p14" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> praktizierte Abfolge von Untersuchungs- und Bewertungsschritten bis hin zur Sanierung und ggf. Kontrolle (siehe auch Tabelle II.1 im Anhang).
+
+Das systematische Vorgehen sieht nach jeder Bearbeitungsstufe vor, dass der Erkenntnisstand zusammengefasst und geprüft wird, ob eine weitere Bearbeitung des Einzelfalls erforderlich ist oder nicht.
+
+Eine wichtige Funktion hat dabei die Altlastenbewertungskommission bei den unteren Bodenschutz- und Altlastenbehörden in den Stadt- und Landkreisen, unter deren Federführung weitere Vertreter aller sonstigen fachlich berührten Behörden sowie die LUBW angehören [KommissionsVO <TIMEX3 tid="t25" type="DATE" value="2010">2010</TIMEX3>].
+
+Dieses Gremium bewertet die Ergebnisse der Untersuchungen auf der Basis fachlicher und wirtschaftlicher Gesichtspunkte, erteilt Empfehlungen für die Sanierung und berät die untere Bodenschutz- und Altlastenbehörde bei Sanierungsentscheidungen.
+
+<PLACE id="p15" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> hat mit Beginn der systematischen Altlastenbearbeitung und Veröffentlichung der (inzwischen inhaltlich überarbeiteten) Altlasten-Handbücher I und II <TIMEX3 tid="t26" type="DATE" value="1987">1987</TIMEX3> ein standardisiertes Bewertungssystem zur Priorisierung und Einstufung der Gefährdung der altlastverdächtigen Flächen bzw. Altlasten entwickelt.
+
+Der Abschluss jeder Bearbeitungsstufe wird durch ein Beweisniveau charakterisiert (siehe Abbildung 2.1).
+
+Auf jedem Beweisniveau bewertet die Bewertungskommission die einzelnen Wirkungspfade nach einheitlichen Kriterien und legt den Handlungsbedarf für das weitere Vorgehen fest.
+
+Die Bewertungsschritte sind im Leitfaden „Altlastenbewertung“ detailliert dargestellt [LUBW <TIMEX3 tid="t27" type="DATE" value="2016">2016</TIMEX3>].
+
+Die Priorisierung dient als Maß für die Dringlichkeit der Bearbeitung und der bevorzugten finanziellen Förderung der Fälle.
+
+Die Zur digitalen Erfassung der Sach- und Geodaten wurde zunächst das „Fachinformationssystem Altlasten, Grundwassergefährdende Flächen, Bodenschutz“ (FIS-AGB) genutzt.
+
+Diese Fachanwendung beruhte auf der vorausgegangenen Erstentwicklung KIWI der Wasserwirtschaft von <TIMEX3 tid="t28" type="DATE" value="1988">1988</TIMEX3>.
+
+In Folge der zum <TIMEX3 tid="t29" type="DATE" value="2005-01-01">01.01.2005</TIMEX3> in Kraft getretenen Verwaltungsstrukturreform in <PLACE id="p16" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> erfolgte eine technische Zusammenführung der vielfältigen FachanwenBewertungsergebnisse werden durch die unteren Bodenschutz- und Altlastenbehörden zeitnah im Bodenschutz- und Altlastenkataster erfasst.
+
+Tabelle 2.1 gibt einen Überblick über den Bearbeitungsstand aller erfassten Flächen auf den verschiedenen Bearbeitungsstufen mit ihrem Handlungsbedarf und ihren zusätzlichen Kriterien zum <TIMEX3 tid="t30" type="DATE" value="2022" mod="END">Jahresende 2022</TIMEX3>.
+
+In den folgenden Kapiteln wird der <PLACE id="p17" type="" geo="DEBKGGND00001BBR">landesweite</PLACE> Bearbeitungsstand näher erläutert.
+
+dungen zu einem Verbundvorhaben „Informationssystem Wasser, Immissionsschutz, Boden, Abfall, Arbeitsschutz <PLACE id="p18" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (WIBAS)“.
+
+Die in WIBAS eingebettete frühere Fachanwendung FIS-AGB wurde in „Bodenschutz- und Altlastenkataster (BAK)“ umbenannt, um den inzwischen geltenden gesetzlichen Begriffen Rechnung zu tragen.
+
+Die unteren Bodenschutz- und Altlastenbehörden erfassen die altlastverdächtigen Flächen und Altlasten im BAK.
+
+Die vereinbarten Pflichtdaten werden in der zentralen UIS-Referenzdatenbank gespeichert.
+
+Sie wird im Auftrag der LUBW betrieben und ist in der Umweltverwaltung die Basis für <PLACE id="p19" type="" geo="DEBKGGND00001BBR">landesweite</PLACE> Auswertungen mit dem UIS-Berichtssystem.
+
+Regelungen im Staatlich-Kommunalen Datenverbund für <PLACE id="p20" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (SKDV) zur Datenführung und zum Datenaustausch legen fest, welche Daten zu führen sind.
+
+Im Objektartenkatalog ist die Merkmalskategorie der Pflicht- oder Angebotsdaten vermerkt.
+
+Die Datenführung und Qualitätssicherung der Daten in BAK liegt dezentral bei den zuständigen 44 unteren Bodenschutz- und Altlastenbehörden der Stadt- und Landkreise.
+
+Die dort gespeicherten Daten über altlastverdächtige Flächen und Altlasten stellen neben der Dokumentation des Bearbeitungsfortschritts der Fälle wichtige Informationsquellen für die Regional- und Bauleitplanung dar.
+
+Die lokale Datenhaltung wird für Zwecke der <PLACE id="p21" type="" geo="DEBKGGND00001BBR">landesweiten</PLACE> statistischen Auswertungen und durch die zentrale Datenhaltung der Pflichtdaten in der UIS-Referenzdatenbank Grundlage aller statistischen Auswertungen sind die bundesweit einheitlichen Definitionen verschiedener Kennzahlen, überarbeitet im <TIMEX3 tid="t31" type="DATE" value="2020">Jahre 2020</TIMEX3>, des Altlastenausschusses der LABO auf der Grundlage der Festlegungen im BBodSchG (nähere Erläuterungen siehe Anhang I).
+
+Die Definitionen dokumentieren den Bearbeitungsstand abgeschlossener und laufender Maßnahmen sowie den <TIMEX3 tid="t32" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Handlungsbedarf.
+
+In Tabelle 4.1 werden die fünf Kennziffern mit Stand <TIMEX3 tid="t33" type="DATE" value="2022-12-31">31.12.2022</TIMEX3> für <PLACE id="p22" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> dargestellt (siehe auch Tabelle I.1 im Anhang).
+
+ergänzt, die aus Gründen des Datenschutzes nicht alle Daten aus der lokalen Datenhaltung enthält.
+
+Die LUBW wertet über das UIS-Berichtssystem die Daten der altlastverdächtigen Flächen und Altlasten <PLACE id="p23" type="" geo="DEBKGGND00001BBR">landesweit</PLACE> aus.
+
+Seit <TIMEX3 tid="t34" type="DATE" value="2004">2004</TIMEX3> wird der Bearbeitungsstand in BAK zum jeweiligen <TIMEX3 tid="t35" type="DATE" value="XXXX-12-31">Jahresende (31.12.)</TIMEX3> „eingefroren“, um standardisierte und vergleichende statistische Auswertungen durchzuführen.
+
+Die sich im Laufe <TIMEX3 tid="t36" type="DURATION" value="P1Y">eines Jahres</TIMEX3> ändernden Daten können mit bestimmten Selektoren auch abgerufen und statistisch aufgearbeitet werden.
+
+Einen Überblick über das Datenmanagement zeigt Abbildung 3.1.
+
+Bei der Interpretation der Daten ist zu beachten, dass auf jeder Bearbeitungsstufe (siehe Tabelle 2.1) innerhalb <TIMEX3 tid="t37" type="DURATION" value="P1Y">eines Jahres</TIMEX3> neu hinzukommende und abgeschlossene Fälle auftreten.
+
+In solch einem dynamischen System (kontinuierliche Zu- und Abgänge) können über die Stichtagserfassung zum jeweiligen <TIMEX3 tid="t38" type="SET" freq="EVERY" value="XXXX-12-31">Jahresende</TIMEX3> nur <TIMEX3 tid="t39" type="SET" freq="EVERY" value="P1Y">jährliche</TIMEX3> Veränderungen festgestellt werden.
+
+Eine Aussage über die absolut bearbeiteten Fälle <TIMEX3 tid="t40" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> ist anhand der Auswertungen mit der Referenzdatenbank nicht möglich.
+
+<PLACE id="p24" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> hat in <TIMEX3 tid="t41" type="DURATION" beginPoint="t44" endPoint="t45" value="PXY">den Jahren</TIMEX3> <TIMEX3 tid="t42" type="DATE" value="1987">1987</TIMEX3> bis <TIMEX3 tid="t43" type="DATE" value="2002">2002</TIMEX3> flächendeckend alle bis zu <TIMEX3 tid="t44" type="DATE" value="2002">diesem Zeitpunkt</TIMEX3> bekannten altlastverdächtigen Flächen an Altablagerungen und Altstandorten <PLACE id="p25" type="" geo="DEBKGGND00001BBR">landesweit</PLACE> erfasst.
+
+Da stillgelegte Betriebe oder Teilstillegungen, sofern sie einer altlastenrelevanten Branche angehören, auf altlastverdächtige Flächen überprüft werden müssen, finden fortführende Erfassungsaktionen statt, um die Aktualität und damit die Planungs- und Rechtssicherheit sicherzustellen.
+
+Zuständig für die Erfassung sind die unteren Bodenschutz- und Altlastenbehörden der Stadt- und Landkreise [LBodSchAG <TIMEX3 tid="t45" type="DATE" value="2004">2004</TIMEX3>].
+
+Im Rahmen der systematischen Altlastenbearbeitung werden die Flächen, bei denen aufgrund der Aktenlage oder sonstiger historischer Hinweise erste Anhaltspunkte für das Vorliegen einer Altlast bestehen, flurstücksgenau im Bodenschutz- und Altlastenkataster als altlastverdächtige Fläche zur weiteren Überprüfung erfasst.
+
+Die Altablagerungen <TIMEX3 tid="t46" type="DATE" value="PAST_REF">der Vergangenheit</TIMEX3> dürften weitestgehend erfasst sein, da illegale Abfallablagerungen umgehend wieder zu beseitigen sind.
+
+Altstandorte durch aktuelle Betriebsstillegungen mit altlastenrelevanter Branche erhöhen jedoch stetig den Pool an Standorten in der Erfassung.
+
+Zur Unterstützung der unteren Bodenschutz- und Altlastenbehörden in der kontinuierlichen Erfassung wurde ein Adressenpool entwickelt [LUBW <TIMEX3 tid="t47" type="DATE" value="2012">2012</TIMEX3>].
+
+Ergeben sich erste Anhaltspunkte eines Altlastverdachts, werden diese Fälle aus dem Adressenpool in das Bodenschutz- und Altlastenkataster übernommen, um eine weitere Sachverhaltsermittlung im Rahmen einer Recherche oder Historischen Untersuchung (HU) durchzuführen.
+
+Eine technische Untersuchung ist in diesem Schritt noch nicht vorgesehen.
+
+Einen Überblick über die Flächentypen und Fallgruppen im Bodenschutz- und Altlastenkataster gibt Abbildung 4.1.
+
+Im Zuge der Erfassung altlastverdächtiger Flächen und Altlasten haben die Landratsämter und Umweltämter der Stadtkreise bis <TIMEX3 tid="t48" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> insgesamt 107 557 bearbeitete Flächen erfasst.
+
+Davon konnten bisher 44 336 Fälle als sogenannte A-Fälle (Ausscheiden) ohne Altlastenverdacht (41 %) aus der Bearbeitung ausgeschieden werden (siehe Tabelle 2.1 und Abbildung 4.2).
+
+Die Bewertung als A-Fall bedeutet, dass von dieser Fläche unter den vorgefundenen Umständen im Rahmen der Nachsorge keine Gefahren für die Umwelt ausgehen oder unwahrscheinlich sind.
+
+Ein A-Fall bedeutet nicht, dass es sich um ein altlastenfreies Grundstück handeln muss.
+
+Das kann nur in einem altlastentechnischen Spezialgutachten wie vergleichsweise einer Baugrunduntersuchung ermittelt werden, die Sache des Grundstückseigentümers oder Kaufinteressenten ist.
+
+Im BAK sind zum Stichtag <TIMEX3 tid="t49" type="DATE" value="2022-12-31">31.12.2022</TIMEX3> insgesamt 15 082 altlastverdächtige Flächen (14 %) und 2 761 Altlasten (3 %) erfasst.
+
+Somit sind 17 843 Fälle in der laufenden Bearbeitung (siehe Abbildung 4.2).
+
+In der Fallgruppe der altlastverdächttigen Flächen mit 1 510 Altablagerungen sowie 13 572 Altstandorten wird das Gefährdungspotenzial für die Umwelt noch geprüft.
+
+Bei 6 628 Flächen ist der konkrete Gefahrenverdacht noch abzuklären.
+
+Der Gefahrenverdacht konnte seit Beginn der systematischen Altlastenbearbeitung bei 71 681 Flächen ausgeräumt werden.
+
+Bis <TIMEX3 tid="t50" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> konnten 3 778 Sanierungen erfolgreich abgeschlossen werden (siehe Tabelle 4.1).
+
+Aus den Fällen, die <TIMEX3 tid="t51" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> und in <TIMEX3 tid="t52" type="DURATION" beginPoint="t53" value="PXY">den nächsten Jahren</TIMEX3> noch zu untersuchen sind, werden weitere Sanierungen resultieren.
+
+1 784 festgestellte Altlasten (Handlungsbedarf B mit Kriterium Gefahrenlage hinnehmbar) sind abschließend untersucht, können aus Gründen der Verhältnismäßigkeit jedoch nicht saniert werden.
+
+468 Altlastfälle werden im Rahmen der Kontrolle (K) mit einem Monitoring regelmäßig überwacht (siehe Tabelle 2.1).
+
+Das BAK enthält mit 45 378 Altablagerungen und Altstandorte die sogenannten B-Fälle (Belassen) als sonstige Flächen ohne aktuellen Altlastverdacht (42 %).
+
+Hierbei handelt es sich um Fälle mit vermuteten oder nachgewiesenen Restverunreinigungen, die akut jedoch keine Gefährdung für die Umwelt darstellen.
+
+Unter Umständen sind diese B-Fälle bei einer <TIMEX3 tid="t53" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Umnutzung oder Expositionsänderung neu zu bewerten.
+
+Auch sind diese Flächen bei <TIMEX3 tid="t54" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Baumaßnahmen durch Eingriffe in den Untergrund hinsichtlich der Entsorgungsrelevanz von Aushubmaterial besonders zu beobachten, um eine unerkannte Verschleppung von Schadstoffen zu vermeiden.
+
+Altablagerungen, verfüllt mit unbelastetem (natürlichem) Erdaushub und nicht kontaminiertem Bauschutt, können als A-Fall bewertet werden.
+
+Enthält die Altablagerung mit Schadstoffen kontaminierte Materialien, Hausmüll oder gewerbliche Abfälle, kann die Fläche als B-Fall mit Entsorgungsrelevanz (Abfallbeseitigung) eingestuft werden, sofern von der Altablagerung keine Gefahren ausgehen.
+
+<TIMEX3 tid="t55" type="DATE" value="FUTURE_REF">Zukünftige</TIMEX3> bauliche Eingriffe in Altablagerungen können neben der Abfallverwertung (z.
+
+B. in einem technischen Bauwerk) auch zu einer kostenintensiven Abfallbeseitigung (z.
+
+B. auf Deponien) führen.
+
+Hier greifen dann der Vorsorgegedanke und die ordnungsgemäße Verwertung oder Beseitigung von Abfällen nach dem Kreislaufwirtschaftsgesetz (umweltverträgliche Bewirtschaftung von Abfällen).
+
+Vorsorge oder Besorgnis unterscheiden sich von der Nachsorge oder Gefahrenabwehr darin, dass die Vorsorge immer einen Sicherheitsabstand zur Gefahr beinhaltet.
+
+Damit verbunden beinhaltet die Vorsorge höhere materielle Anforderungen als die Nachsorge oder Gefahrenabwehr.
+
+Abbildung 4.3 zeigt die punktuelle Verteilung der altlastverdächtigen Flächen und Altlasten im Land.
+
+Auffällig sind die Häufungen in den stark gewerblichindustriell geprägten Gebieten, wie im Großraum <PLACE id="p26" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE>, in der Region <PLACE id="p27" type="" geo="DEBKGGND00001JYG">Rhein-Neckar</PLACE> oder in der Oberrheinebene zwischen <PLACE id="p28" type="" geo="DEBKGGND00001JIR">Karlsruhe</PLACE> und <PLACE id="p29" type="" geo="DEBKGGND00001JZK">Freiburg</PLACE>.
+
+Altlastverdächtige Flächen und festgestellte Altlasten umfassen aufsummiert eine Fläche von rund 239 km² im Land.
+
+Zum Größenvergleich: das Stadtgebiet von <PLACE id="p30" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> beträgt 145 km², das von <PLACE id="p31" type="" geo="DEBKGGND00001JIR">Karlsruhe</PLACE> 173 km² und das von <PLACE id="p32" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE> 207 km².
+
+Diese Fläche von 239 km² veranschaulicht die Bedeutung der Altlastenbearbeitung neben der Gefahrenabwehr auch im Kontext der Regional-, Bauleit- oder Verkehrsplanung, bei der Umwandlung von Industrie- und Gewerbebrachen und im privaten Grundstücksverkehr.
+
+Investoren gewinnen Planungssicherheit.
+
+Umweltschutz ist somit auch ein bedeutender Wirtschaftsfaktor.
+
+Die Brachflächen von Altstandorten befinden sich meist in guter Lage und sind oft gut erschlossen.
+
+Deshalb ist angeraten, diese Flächen zu erfassen, zu untersuchen, wo erforderlich zu sanieren und anschließend zu reaktivieren, also wieder baulich zu nutzen und aktives Flächenrecycling zu betreiben.
+
+Getreu dem Grundsatz „Innen- vor Außenentwicklung“ sollen bestehende Innenentwicklungspotenziale vorrangig vor der Neuausweisung von Bauflächen genutzt werden, anstatt im Außerbereich – Stichwort „Bebauung der grünen Wiese“ – wertvolle Böden mit den natürlichen Bodenfunktionen dauerhaft zu verlieren.
+
+Die Schutzgüter Boden, Grundwasser, Oberflächengewässer, Flora und Fauna und Mensch können durch Gefahren von Altlasten betroffen sein.
+
+Da die Empfindlichkeit der verschiedenen Schutzgüter gegenüber Schadstoffen sehr unterschiedlich ausfallen kann, nennt die Bundes-Bodenschutzund Altlastenverordnung drei relevante Wirkungspfade.
+
+Der Wirkungspfad ist der Weg eines Schadstoffs von der Schadstoffquelle im Boden bis zu dem Ort einer möglichen Wirkung auf ein Schutzgut, auch Rezeptor genannt.
+
+Die Wirkungspfade Boden – Mensch (direkter Kontakt), Boden – Grundwasser und Boden – Nutzpflanze sind im Zuge der Altlastenbearbeitung zu überprüfen und zu bewerten.
+
+Wie aus Abbildung 4.4 deutlich wird, ist in <PLACE id="p33" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> in den weit überwiegenden Fällen mit 89 % das Schutzgut Grundwasser durch Einwirkungen aus altlastverdächtigen Flächen und Altlasten betroffen, gefolgt von dem Schutzgut Mensch mit 9 % und Schutzgut Nutzpflanze und Oberflächengewässer mit jeweils 1 %.
+
+Untersuchung im bodenschutzrechtlichen Sinn bedeutet Gefährdungsabschätzung.
+
+In Analogie zur Medizin kann man auch von Diagnose der Umweltschäden sprechen.
+
+Das Untersuchungsziel muss als Maßstab die Einschätzung von Gefahren haben, die es abzuwehren gilt.
+
+Das Bundes-Bodenschutzgesetz gliedert die Gefährdungsabschätzung in zwei Stufen: die Orientierende Untersuchung (OU) und die Detailuntersuchung (DU).
+
+Für den Großteil der erfassten altlastverdächtigen Flächen ist nur eine Orientierende technische Untersuchung erforderlich.
+
+Sie dient der einfachen Überprüfung des Anfangsverdachts mit ersten Anhaltspunkten.
+
+Erst wenn konkrete Anhaltspunkte wie Prüfwertüberschreitungen nach der Bundes- Bodenschutz- und Altlastenverordnung vorliegen und sich der Gefahrenverdacht somit als begründet bestätigt, folgen detaillierte Untersuchungen zur Überprüfung der Gefährdung der Schutzgüter.
+
+Mit der Detailuntersuchung sind in der Regel die technischen Untersuchungen im Rahmen der Gefährdungsabschätzung abgeschlossen.
+
+Der Umweltschaden ist in räumlicher Hinsicht (Fläche, Tiefe, Volumen) praktisch eingegrenzt.
+
+Die weiteren Maßnahmen zur Gefahrenabwehr – Sanierungsuntersuchung, Sanierungsplanung – zielen bereits in Richtung Sanierung.
+
+Wird eine Sanierung als nicht verhältnismäßig beurteilt, sind Kon troll- oder Überwachungsmaßnahmen zu prüfen.
+
+Abbildung 4.5 veranschaulicht, dass die Anzahl der Orientierenden Untersuchungen mit 5 271 Altstandorten und 484 Altablagerungen deutlich höher liegt als die Anzahl der Detailuntersuchungen mit 396 Altstandorten und 82 Altablagerungen.
+
+Ein Großteil von Altlastverdachtsfällen mit einem Anfangsverdacht kann nach Überprüfung in einer Orientierenden Untersuchung aus der Bearbeitung ausscheiden, da der Verdacht nicht bestätigt werden konnte.
+
+Diese Fälle werden als A- oder B-Fälle bewertet werden (siehe Tabelle 2.1).
+
+Die Kennzahl „Gefahrenverdacht abzuklären“ umfasst die Flächen, für die bei Vorliegen von Anhaltspunkten gemäß Bundes-Bodenschutzgesetz eine Ermittlung des Sachverhalts erforderlich ist.
+
+Dies sind Flächen mit dem Handlungsbedarf einer Historischen Untersuchung (HU), Orientierenden Untersuchung (OU) oder Detailuntersuchung (DU).
+
+Die Kennzahl „Gefahrenverdacht ausgeräumt“ beinhaltet die Flächen, bei denen der Gefahrenverdacht in den Bearbeitungsstufen Historische Untersuchung (HU), Orientierende Untersuchung (OU) oder Detailuntersuchung (DU) ausgeräumt werden konnte.
+
+Von den untersuchten Flächen gehen bei der <TIMEX3 tid="t56" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> oder planungsrechtlich zulässigen Nutzung keine Gefahren für ein Schutzgut aus.
+
+Die Bearbeitung durch die Behörde ist insoweit für diese Flächennutzung abgeschlossen.
+
+Bei B-Fällen kann eine Änderung der Nutzung eine Neubewertung und ggf. eine technische Überprüfung erforderlich machen (siehe auch Kapitel 4.3).
+
+Bei 49 554 Altstandorten und 22 127 Altablagerungen konnte seit Beginn der systematischen Altlastenbearbeitung der Gefahrenverdacht ausgeräumt werden.
+
+Bei 6 048 Altstandorten und 580 Altablagerungen besteht aktuell das Erfordernis, den Gefahrenverdacht weiter abzuklären (siehe Abbildung 4.5).
+
+Altablagerungen machen sowohl <PLACE id="p34" type="" geo="DEBKGGND00001BBR">landesweit</PLACE> wie auch in den einzelnen Regierungsbezirken auf beiden Stufen der technischen Untersuchungen (OU und DU) nur noch einen Bruchteil der insgesamt zu bearbeitenden Fälle aus.
+
+Im <PLACE id="p35" type="" geo="DEBKGGND00001HJU">Regierungsbezirk Stuttgart</PLACE> gibt es allerdings überdurchschnittlich mehr Altablagerungen mit Handlungsbedarf OU und DU als in den anderen drei Regierungsbezirken (siehe Abbildung 4.6).
+
+Die Auswertung nach Regierungsbezirken zeigt ein differenziertes Bild der Bearbeitungsstufen der Altstandorte und Altablagerungen.
+
+Die größte Anzahl der Fälle mit ausgeräumten Gefahrenverdacht liegt im <PLACE id="p36" type="" geo="DEBKGGND00001HJU">Regierungsbezirk Stuttgart</PLACE> mit 17 334 Altstandorten und 6 676 Altablagerungen, gefolgt vom <PLACE id="p37" type="" geo="DEBKGGND00001JZK">Regierungsbezirk Freiburg</PLACE> mit 12 440 Alt standorten und 6 102 Altablagerungen.
+
+Im <PLACE id="p38" type="" geo="DEBKGGND00001H2C">Regierungsbezirk Karlsruhe</PLACE> gibt es 12 140 Altstandorte und 4 032 Altablagerungen, im <PLACE id="p39" type="" geo="DEBKGGND00001GV6">Regierungsbezirk Tübingen</PLACE> 7 640 Altstandorte und 5 317 Altablagerungen, bei denen der Gefahrenverdacht ausgeräumt wurde (siehe Abbildung 4.6).
+
+Zu Beginn der systematischen Altlastenbearbeitung <TIMEX3 tid="t57" type="DATE" value="1987">1987</TIMEX3> standen vor allem die ehemaligen Müllplätze wie Müllkippen und Müllhalden (Altablagerungen) im Blickpunkt.
+
+Viel häufiger sind es jedoch stillgelegte Gewerbe- und Industrieanlagen (Altstandorte), von denen durch ein angesammeltes, hohes Schadstoffpotential an betrieblichen Chemikalien (z.
+
+B. Lösemittel) und Rückständen, oft auch über längere Zeiträume, wie z. B. ehemalige Gaswerksstandorte massive Gefahrenlagen entstehen können.
+
+Der Stand der Technik war bis zum Inkrafttreten einer verbesserten Umweltgesetzgebung in <TIMEX3 tid="t58" type="DURATION" beginPoint="t58" endPoint="t59" value="P50Y">der zweiten Hälfte des vergangenen Jahrhunderts</TIMEX3><TIMEX3 tid="t59" type="DATE" value="1950"></TIMEX3><TIMEX3 tid="t60" type="DATE" value="1999"></TIMEX3> in der Regel ungenügend, um Schäden an der Umwelt beim Betrieb der ehemaligen Müllplätze (Müllkippen, Müllhalden), Gewerbe- und Industrieanlagen zu verhindern.
+
+So rückten die Altablagerungen und Altstandorte mit ihren Umwelterblasten seit <TIMEX3 tid="t61" type="DATE" value="198">den 80er Jahren</TIMEX3> <TIMEX3 tid="t62" type="DATE" value="19">des 20. Jahrhunderts</TIMEX3> in den Fokus des Umweltschutzes, die alten Schäden und Gefahren zu erfassen, zu untersuchen und zu sanieren.
+
+Die ehemaligen Nutzungen und Branchen dieser Altstandorte werden im BAK erfasst.
+
+Dominierende Branchen sind metallverarbeitende Betriebe, Tankstellen, Kfz-Werkstätten und Betriebshöfe, Bereich Chemie, Holzbearbeitung und verarbeitung und chemische Reinigungen.
+
+Bei einem nicht unerheblichen Teil ist keine konkrete Branchenzuordnung im BAK genannt, sondern unter “sonstiges” vermerkt (siehe Abbildung 4.7).
+
+Die Auswertung der Art der Einwirkung zeigt, dass Mineralölkohlenwasserstoffe (MKW) und aromatische Kohlenwasserstoffe (BTXE) bisher am häufigsten als Schadstoffe erfasst wurden.
+
+Es folgen Schwermetalle und ihre Salze, polycyclische aromatische Kohlenwasserstoffe (PAK) und leichtflüchtige Chlorkohlenwasserstoffe (LCKW).
+
+Deutlich weniger häufig werden polychlorierte Biphenyle (PCB) und sonstige anorganische und organische Stoffe genannt (siehe Abbildung 4.8).
+
+Altlastverdächtige Flächen nach § 2 Abs.
+
+6 BBodSchG sind Altablagerungen und Altstandorte, bei denen der Verdacht schädlicher Bodenveränderungen oder sonstiger Gefahren für den Einzelnen oder die Allgemeinheit besteht.
+
+Ausgewertet werden die altlastverdächtigen Flächen (Altstandorte oder Altablagerungen), die mit dem Handlungsbedarf Orientierende Untersuchung (OU), Detailuntersuchung (DU), Kontrolle (K) „Gefahrenlage mit angemessenen Mitteln nicht weiter erkundbar“ bewertet sind.
+
+Ebenso werden Fälle mit dem Handlungsbedarf Belassen (B) „Anhaltspunkte; <TIMEX3 tid="t63" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> keine Exposition“ den altlastverdächtigen Flächen zugeordnet (siehe Tabelle 2.1).
+
+<TIMEX3 tid="t64" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> sind im Land 15 082 altlastverdächtige Flächen im BAK registriert.
+
+Diese befinden sich überwiegend in der Orientierenden Untersuchung oder Detailuntersuchung.
+
+Die Auswertung nach Stadt- und Landkreisen zeigt, dass der Landkreis <PLACE id="p40" type="" geo="DEBKGGND00001FF5">Ortenaukreis</PLACE> mit 2 066 altlastverdächtigen Flächen, gefolgt von der Landeshauptstadt <PLACE id="p41" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE> mit 1 725 altlastverdächtigen Flächen die meisten, der <PLACE id="p42" type="" geo="DEBKGGND00001BUZ">Landkreis Tübingen</PLACE> mit 11 altlastverdächtigen Flächen dagegen nur noch sehr wenige Fälle zu bearbeiten hat (siehe Abbildung 4.9 und Tabelle 4.2).
+
+Insbesondere in den bereits historisch industriell stark geprägten Räumen <PLACE id="p43" type="" geo="DEBKGGND00001AXL">Stuttgart</PLACE> und <PLACE id="p44" type="" geo="DEBKGGND00001AST">Mannheim</PLACE> ist die Zahl der zu bearbeitenden altlastverdächtigen Flächen hoch, dabei überwiegt die Anzahl der Altstandorte gegenüber den Altablagerungen.
+
+Die kontinuierliche Erfassung erhöhte bis <TIMEX3 tid="t65" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> stetig die Zahl der altlastverdächtigen Flächen auf 15 082 Fälle.
+
+13 572 oder 90 % der altlastverdächtigen Flächen sind Altstandorte.
+
+Aufgrund von Betriebs- oder Teilstilllegungen von Gewerbe- und Industrieflächen werden in <TIMEX3 tid="t66" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> weitere altlastverdächtige Altstandorte dazukommen.
+
+Die Zahl der altlastverdächtigen Altablagerungen hat sich in <TIMEX3 tid="t67" type="DURATION" endPoint="t66" value="PXY">den letzten Jahren</TIMEX3> auf 1 510 Fälle oder 10 % verringert (siehe Abbildung 4.10).
+
+-Da viele altlastverdächtige Flächen nach einer Orientierenden Untersuchung aus der Bearbeitung ausscheiden, weil sich keine konkreten Hinweise auf den Altlastverdacht bestätigt haben, reduziert sich die Anzahl der Detailuntersuchungen deutlich.
+
+<TIMEX3 tid="t68" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> waren 5 755 Flächen mit Handlungsbedarf Orientierende Untersuchung (OU) und 478 Flächen mit Handlungsbedarf Detailuntersuchung (DU) in der Bearbeitung, jeweils mit <TIMEX3 tid="t69" type="DURATION" value="PXY">langjährig</TIMEX3> sinkender Tendenz in den beiden Bearbeitungsstufen.
+
+Die Zahl der Flächen, die zwar weiter als altlastverdächtig im BAK geführt werden, aber aufgrund einer fehlenden Umweltgefahr derzeit nicht bearbeitet werden, sog. B-Fälle mit Kriterium „Anhaltspunkte; <TIMEX3 tid="t70" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> keine Exposition“ hat sich seit <TIMEX3 tid="t71" type="DATE" value="2010">2010</TIMEX3> deutlich erhöht.
+
+Bis <TIMEX3 tid="t72" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3> waren dies 8 420 Flächen.
+
+Häufig handelt es sich hier um versiegelte Flächen, wodurch die Entstehung von Sickerwasser und ein direkter menschlicher Kontakt mit dem Bodenmaterial unterbunden ist.
+
+Für diese Flächen besteht somit kein unmittelbarer Handlungsbedarf, da eine Gefahrenlage ausgeschlossen wird.
+
+Eine Untersuchung ist dann angezeigt, wenn sich die Austragsbedingungen oder Expositionen, z. B. durch bauliche Eingriffe in den Untergrund, ändern (siehe Abbildung 4.11).
+
+Als Altlasten werden die Fälle definiert, bei denen nach der Bewertung durch die zuständige Behörde eine konkrete Gefahrenlage für die Umwelt festgestellt worden ist.
+
+Sanierungsmaßnahmen als Gefahrenabwehrmaßnahme sind dann grundsätzlich erforderlich.
+
+Die Altablagerungen und Altstandorte, deren technische Untersuchung zur Gefährdungsabschätzung abgeschlossen ist und die mit dem Handlungsbedarf „Sanierung (S)“, „Sanierungsuntersuchung (SU)“, „B – Gefahrenlage <TIMEX3 tid="t73" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> hinnehmbar“ oder „Kontrolle – (alle Kriterien außer „Gefahrenlage mit angemessenen Mitteln nicht weiter erkundbar“) bewertet wurden, zählen zu den Altlasten (siehe Tabelle 2.1).
+
+Im <TIMEX3 tid="t74" type="DATE" value="2022">Jahr 2022</TIMEX3> waren insgesamt 2 761 Fälle als Altlasten in Bearbeitung, davon 923 Altablagerungen und 1 838 Altstandorte.
+
+Die Zahlen und die regionale Differenzierung in den 44 Stadt- und Landkreisen geben Tabelle 4.3 und Abbildung 4.12 wieder.
+
+Die kartografische Darstellung der Stadt- und Landkreise in Abbildung 4.12 zeigt, dass im <PLACE id="p45" type="" geo="DEBKGGND00001FF5">Ortenaukreis</PLACE> (größter Landkreis in <PLACE id="p46" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>) <TIMEX3 tid="t75" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> die höchste Zahl an Altlasten (244) registriert ist, gefolgt von der Landeshauptstadt <PLACE id="p47" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE> mit 194 und vom Landkreis <PLACE id="p48" type="" geo="DEBKGGND00001AH5">Esslingen</PLACE> mit 182 Altlasten.
+
+Die Städte <PLACE id="p49" type="" geo="DEBKGGND00001ECC">Baden-Baden</PLACE> und <PLACE id="p50" type="" geo="DEBKGGND00001G5Y">Heidelberg</PLACE> (mit relativ kleiner Kreisfläche) zeigen einstellige Anzahlen an Altlasten an.
+
+In eher ländlich geprägten Landkreisen wie dem <PLACE id="p51" type="" geo="DEBKGGND00001DCO">Hohenlohekreis</PLACE> ist die Zahl der Altablagerungen (16 AA), die zu sanieren oder zu überwachen sind, deutlich höher als die Zahl der Altstandorte (3 AS).
+
+In den industriell geprägten Gebieten wie in der Metropolregion Rhein-Neckar überwiegen dagegen die zu bearbeitenden Altstandorte (siehe Tabelle 4.3 und Abbildung 4.12).
+
+Die zeitliche Entwicklung zwischen <TIMEX3 tid="t76" type="DATE" value="2010">2010</TIMEX3> und <TIMEX3 tid="t77" type="DATE" value="2022">2022</TIMEX3> und die stetige Zunahme der Altablagerungen und Altstandorte mit Feststellung als Altlast macht Abbildung 4.13 erkennbar.
+
+Viele Altlasten können aus Gründen der Verhältnismäßigkeit nicht saniert werden.
+
+Das wird aus der hohen Anzahl der K- und B-Fälle (rote Kategorie in Tabelle 2.1) deutlich.
+
+Die Verteilung der Altlasten auf die vier Regierungsbezirke gibt Abbildung 4.14 wieder.
+
+Im Regierungsbezirk <PLACE id="p52" type="" geo="DEBKGGND00001HJU">Stuttgart</PLACE> sind die meisten Altlastfälle zu bearbeiten, gefolgt von <PLACE id="p53" type="" geo="DEBKGGND00001JZK">Freiburg</PLACE>, <PLACE id="p54" type="" geo="DEBKGGND00001H2C">Karlsruhe</PLACE> und <PLACE id="p55" type="" geo="DEBKGGND00001GV6">Tübingen</PLACE>.
+
+In jedem Regierungsbezirk hat die Zahl der Altlasten in <TIMEX3 tid="t78" type="DURATION" endPoint="t77" value="PXY">den letzten Jahren</TIMEX3> kontinuierlich zugenommen.
+
+Zwischen <TIMEX3 tid="t79" type="DATE" value="2010">2010</TIMEX3> und <TIMEX3 tid="t80" type="DATE" value="2022">2022</TIMEX3> stieg die Zahl der Fälle, die nach der technischen Untersuchung aus Gründen der Verhältnismäßigkeit nicht saniert werden können, kontinuierlich an.
+
+Dies betrifft insbesondere Altlasten mit Handlungsbedarf „B – Gefahrenlage hinnehmbar“ und teilweise Altlasten in der „Überwachung“ bzw. „Kontrolle (K)“.
+
+Die Zahlen der Altlasten auf der Bearbeitungsstufe der „Sanierungsuntersuchung (SU)“ sind leicht rückläufig, ebenso die Zahlen der Altlasten mit Handlungsbedarf „Sanierung (S)“ (siehe Abbildung 4.15).
+
+Sanierung im bodenschutzrechtlichen Sinn bedeutet Gefahrenabwehr.
+
+Im Vergleich zur Medizin kann man auch von Therapie der Umweltschäden sprechen.
+
+Das Sanierungsziel kann nicht mehr verlangen als zur Gefahrenabwehr notwendig ist.
+
+Eine vollständige Beseitigung oder Dekontamination von Schadstoffen im Boden und im Grundwasser ist aus Gründen der grundgesetzlich verankerten Verhältnismäßigkeit in der Regel nicht möglich.
+
+Es ist somit nach einer Sanierung noch mit Restverunreinigungen zu rechnen, die jedoch keine Gefahr mehr für die Umwelt darstellen sollten.
+
+Ein Sanierungsabschluss bedeutet damit, dass die Flächen nicht völlig schadstofffrei sind.
+
+Oft ist eine weitgehende Entfernung der Schadstoffe an einem Standort auch aus technischen Gründen nicht möglich.
+
+Eine Sicherung der Altlast kann in diesem Fall die Schadstoffemissionen verhindern oder reduzieren, wobei jedoch das eigentliche Schadstoffpotenzial erhalten bleibt und weiter überwacht bzw. kontrolliert werden muss.
+
+Dekontaminations- und Sicherungsmaßnahmen stellen laut Bundes-Bodenschutzgesetz eine gleichwertige Sanierung dar.
+
+Mit den überarbeiteten Kennzahlen der LABO (siehe Anhang I) konnten zum <TIMEX3 tid="t81" type="DATE" value="2022" mod="END">Jahresende 2022</TIMEX3> insgesamt 3 778 erfolgreich abgeschlossene Sanierungen seit Beginn der Altlastenbearbeitung <TIMEX3 tid="t82" type="DATE" value="1987">1987</TIMEX3> festgestellt werden.
+
+Die Entwicklung der erfolgreich abgeschlossenen Sanierungen seit <TIMEX3 tid="t83" type="DATE" value="2010">2010</TIMEX3> (Balkendiagramm mit linker Skalierung) zeigt Abbildung 4.16. Weiterhin sind die Entwicklungen der altlastverdächtigen Flächen und der Fälle mit ausgeräumtem Gefahrenverdacht (Liniendiagramm mit rechter Skalierung) in einer anderen Skala dargestellt (siehe Abbildung 4.16).
+
+Von den 3 778 erfolgreich abgeschlossenen Sanierungen (siehe auch Tabelle I.1 im Anhang) konnten 1 997 Flächen nach vollständiger Behandlung ausgeschieden werden (A-Fälle auf Beweisniveau 5).
+
+Bei 1 781 Fällen verbleibt nach der Sanierung eine Restverunreinigung, wodurch bei Baumaßnahmen entsorgungsrelevante Bodenmaterialien anfallen können (B-Fälle „grün“).
+
+In 402 Fällen konnte trotz Sanierung der Sanierungszielwert für das Grundwasser nicht vollständig erreicht werden.
+
+Die Restverunreinigungen müssen aus Gründen der Verhältnismäßigkeit jedoch hingenommen werden (B-Gefahrenlage hinnehmbar „rot“).
+
+162 Fälle werden nach der Sanierung im Rahmen der Nachsorge weiter überwacht (K-Fälle, BN 5).
+
+Eine Gegenüberstellung der Entwicklung der Zahlen der Altlasten <TIMEX3 tid="t84" type="DURATION" value="PXY" mod="BEFORE">der letzten Jahre</TIMEX3> und der erfolgreich abgeschlossenen Sanierung seit <TIMEX3 tid="t85" type="DATE" value="1987">1987</TIMEX3> verdeutlicht Abbildung 4.17. Aus den vorangegangen Kapiteln kann eine Bearbeitungspyramide mit dem Stand der Altlastenbearbeitung dargestellt werden, die zeigt, dass mit jedem vertiefenden Bearbeitungsschritt der Gefährdungsabschätzung und Gefährdungsbeurteilung eine deutliche Reduzierung der Fallzahlen einhergeht (siehe Abbildung 4.18).
+
+Dies erfordert ein strategisches Vorgehen, welches bereits <TIMEX3 tid="t86" type="DATE" value="1988">1988</TIMEX3> im Stufenplan zur Altlastensanierung mit der Konzeption zur Behandlung von altlastverdächtigen Flächen und Altlasten in <PLACE id="p56" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> politisch verankert wurde [Landtag von <PLACE id="p57" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> <TIMEX3 tid="t87" type="DATE" value="1988">1988</TIMEX3>].
+
+Die personellen und fiskalischen Ressourcen können somit effizient eingesetzt werden.
+
+Die LUBW hat zahlreiche Arbeitshilfen und Leitfäden zu spezifischen Arbeitsthemen erarbeitet, um den Vollzug in seiner Arbeit zu unterstützen [LUBW <TIMEX3 tid="t88" type="DATE" value="2023">2023</TIMEX3>], die im Publikationsdienst (PUDI) auf der Homepage der LUBW abgerufen werden können.
+
+Kommunen sind insbesondere durch den früheren Betrieb der ehemaligen gemeindeeigenen Müllplätze oder der ehemaligen städtischen Gaswerke als Verursacher betroffen.
+
+Aber auch durch den Erwerb von Grundstücken mit alten Gewerbe- und Industriebrachen kann eine kommunale Haftung durch Altlasten entstehen.
+
+Einen Überblick über den Bearbeitungsstand der kommunalen Flächen gibt Abbildung 5.1.
+
+Im Verhältnis zur Gesamtzahl der in Bearbeitung befindlichen altlastverdächtigen Flächen und Altlasten machen die kommunalen Flächen <TIMEX3 tid="t89" type="DATE" value="PRESENT_REF">zwischenzeitlich</TIMEX3> nur noch 8 % aus.
+
+Die kommunalen Flächen befinden sich überwiegend auf dem Bearbeitungsstand der Orientierenden Untersuchung und Detailuntersuchung.
+
+Bei <TIMEX3 tid="t90" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> 154 kommunalen Flächen konnte ein Sanierungsbedarf festgestellt werden oder die begonnene Sanierung dauert noch an.
+
+Bei 7 Fällen mit einer Gesamtfläche von 6,9 ha wurde die Sanierung im <TIMEX3 tid="t91" type="DATE" value="2022">Jahr 2022</TIMEX3> erfolgreich abgeschlossen.
+
+Seit <TIMEX3 tid="t92" type="DATE" value="1987">1987</TIMEX3> wurden insgesamt 316 kommunale Altlasten mit einer Gesamtfläche von ca. 251 ha erfolgreich saniert.
+
+Das Land <PLACE id="p58" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> fördert Maßnahmen zur Behandlung (Untersuchung, Sanierung, Überwachung) kommunaler altlastverdächtiger Flächen und Altlasten aus Mitteln des kommunalen Umweltfonds.
+
+Zur Abwicklung der kommunalen Altlastenbearbeitung haben Land und Kommunen <TIMEX3 tid="t93" type="DATE" value="1988">1988</TIMEX3> den kommunalen Altlastenfonds gegründet [Landtag von <PLACE id="p59" type="" geo="DEBKGGND00001BBR">Baden-WürttemBerg</PLACE> <TIMEX3 tid="t94" type="DATE" value="1988">1988</TIMEX3>].
+
+Rechtliche Grundlage für die Vergabe von Fördermitteln sind die Richtlinien über die Förderung von Maßnahmen zur Behandlung altlastverdächtiger Flächen und Altlasten [FrAL <TIMEX3 tid="t95" type="DATE" value="2014">2014</TIMEX3>] vom <TIMEX3 tid="t96" type="DATE" value="2014-03-25">25. März 2014</TIMEX3>.
+
+Orientierende Untersuchungen werden zu 100 % gefördert, Detail- und Sanierungsuntersuchung sowie Sanierungsmaßnahmen in Form einer Anteilsfinanzierung.
+
+Mit der Novellierung der FrAl vom <TIMEX3 tid="t97" type="DATE" value="2014-03-25">25. März 2014</TIMEX3> werden Orientierende Untersuchungen auch auf nichtkommunalen oder privaten Flächen, die im Zusammenhang mit der Aufstellung eines Bebauungsplans einer Kommune stehen, zu 100 % gefördert, um die Innenentwicklung zu unterstützen.
+
+So werden neben Flächen im Rahmen der Aufstellung eines Bebauungsplans auch Gebiete nach § 34 BauGB (unbeplanter Innenbereich) und Flächen im Rahmen einer vorbereitenden Untersuchung vor Festlegung eines Sanierungsgebiets nach §§ 141 und 165 Absatz 4 BauGB zusätzlich in die Förderung von Orientierenden Untersuchungen aufgenommen, wenn seitens der Kommune planungsrechtliche Nachforschungen geboten sind.
+
+Darüber hinaus enthalten die FrAl weitere Instrumente zur Förderung der Innenentwicklung.
+
+Über die Gewährung von Zuschüssen entscheidet ein unabhängiger Verteilungsausschuss beim Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p60" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (UM).
+
+Dem Verteilungsausschuss gehören ein Vertreter des UM (Vorsitz), ein Vertreter des Innenministeriums sowie je ein Vertreter der kommunalen Landesverbände (Gemeindetag, Landkreistag, Städtetag) an.
+
+Der Landesverband der <PLACE id="p61" type="" geo="DEBKGGND00001BBR">badenwürttembergischen</PLACE> Industrie nimmt beratend an den Sitzungen teil.
+
+Das Land hat seit <TIMEX3 tid="t98" type="DATE" value="1988">1988</TIMEX3> rund 841 Mio. Euro an Fördermitteln für die kommunale Altlastenbehandlung bereitgestellt.
+
+Aus <TIMEX3 tid="t96" type="DATE" value="PRESENT_REF">heutiger</TIMEX3> Sicht ist davon auszugehen, dass zu einer weitgehenden Aufarbeitung des Altlastenproblems noch <TIMEX3 tid="t97" type="DURATION" value="PXY">viele Jahre</TIMEX3> benötigt werden.
+
+Solange die Zahlen der altlastverdächtigen Flächen und Altlasten nicht merklich sinken werden, wie dieser Bericht veranschaulicht, hält die Problematik der Altlasten weiterhin an.
+
+
+
+
+
+</TEXT></TimeML>

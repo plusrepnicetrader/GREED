@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>Wärmeplanung_Augsburg_Infoblatt_Jan2024</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2024-01-01</TIMEX3></DCT>
+<TEXT>Internetseite des Bundes mit ausführlichen Informationen: Energiewechsel (BMWK) 
+
+Internetseite zur Wärmeplanung in der <PLACE id="p1" type="" geo="DEBKGGND00001H1V">Stadt Augsburg</PLACE>: Energienutzungsplan 
+
+<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Aktuelle</TIMEX3> Informationen: Infomail „Wärmeplanung und Solaroffensive“ des Umweltamts Anmeldung Infomail; Hinweise zum Datenschutz Grundlage: „Bundesgesetz für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze“ 
+
+Zielsetzung: Wärmeversorgung zu 100 % aus erneuerbaren Energien und unvermeidbarer Abwärme bis <TIMEX3 tid="t2" type="DATE" value="2045">2045</TIMEX3> 
+
+Seit <TIMEX3 tid="t3" type="DATE" value="2024-01-01">1.1.2024</TIMEX3> in Kraft 
+
+Verpflichtet die Bundesländer sicherzustellen, dass in allen Kommunen fristgerecht kommunale Wärmeplanungen erstellt werden 
+
+Umsetzung in Landesrecht folgt in <TIMEX3 tid="t4" type="DURATION" value="PXM">den kommenden Monaten</TIMEX3>; voraussichtlich werden die Kommunen zur Erstellung der Wärmeplanungen verpflichtet.
+
+Fristen zur Vorlage der Wärmeplanungen: <TIMEX3 tid="t5" type="DATE" value="2026-06-30">30.6.2026</TIMEX3> (Kommunen ab 100.000 Einw.), <TIMEX3 tid="t6" type="DATE" value="2028-06-30">30.6.2028</TIMEX3> (kleinere Kommunen) 
+
+Enthält u.a. eine Einteilung des Stadt-/Gemeindegebiets in „voraussichtliche Wärmeversorgungsgebiete“, in folgender grober Differenzierung: Wärmenetz / dezentrale Versorgung / Wasserstoffnetz / Prüfgebiet 
+
+<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">Aktueller</TIMEX3> Stand in der <PLACE id="p2" type="" geo="DEBKGGND00001H1V">Stadt Augsburg</PLACE> 
+
+Bereits einsehbar: Fernwärme-Ausbauplanung der Stadtwerke <PLACE id="p3" type="" geo="DEBKGGND00001H1V">Augsburg</PLACE> (Umstieg auf Fernwärme <PLACE id="p4" type="" geo="DEBKGGND00001H1V">Augsburg</PLACE>) 
+
+Erste Ergebnisse zur kommunalen Wärmeplanung für das Stadtgebiet <PLACE id="p5" type="" geo="DEBKGGND00001H1V">Augsburg</PLACE> („Energienutzungsplan Wärme“, ENP Wärme) werden voraussichtlich im <TIMEX3 tid="t8" type="DATE" value="2024-05">Mai 2024</TIMEX3> in den städtischen Gremien behandelt und anschließend ggf. veröffentlicht.
+
+Der ENP Wärme wird bereits die gemäß WPG darzustellenden Eignungsgebiete zeigen: Wärmenetz / dezentrale Versorgung / Wasserstoffnetz / Prüfgebiet 
+
+Bis <TIMEX3 tid="t9" type="DATE" value="2026-06-30" mod="ON_OR_BEFORE">spätestens 30.6.2026</TIMEX3> folgt der Ausbau oder die Anerkennung des ENP Wärme als kommunalen Wärmeplanung lt. WPG.
+
+In <TIMEX3 tid="t10" type="DURATION" endPoint="t11" value="PXY">den Jahren</TIMEX3> bis <TIMEX3 tid="t11" type="DATE" value="2045">2045</TIMEX3> wird die kommunale Wärmeplanung immer wieder aktualisiert und nach Möglichkeit weiter detailliert werden.
+
+Verbindlichkeit der kommunalen Wärmeplanung / Verbindung zum Gebäudeenergiegesetz GEG 
+
+Der ENP Wärme und die darauf aufbauende kommunale Wärmeplanung lt. WPG haben keine Verbindlichkeit für Gebäudeeigentümerinnen und eigentümer.
+
+Maßgeblich für das einzelne Gebäude bleibt das Gebäudeenergiegesetz GEG, insbesondere im Hinblick auf neu oder im Austausch eingebaute Heizungsanlagen:
+
+Mindestens 65 % der Wärme aus neu eingebauten oder ausgetauschten Heizungen müssen aus erneuerbaren Energien, unvermeidbarer Abwärme oder anderen im GEG vorgesehenen Erfüllungsoptionen (z.B. Wärmepumpe, Wärmenetze) stammen.
+
+ Die 65%-Vorgabe des GEG gilt - vorbehaltlich verschiedener Ausnahmen - für Neubauten seit <TIMEX3 tid="t12" type="DATE" value="2024-01-01">1.1.2024</TIMEX3>, für Bestandsgebäude in Kommunen ab 100.000 Einwohnern ab <TIMEX3 tid="t13" type="DATE" value="2026-07-01">1.7.2026</TIMEX3> bzw. ab <TIMEX3 tid="t14" type="DATE" value="2028-07-01">1.7.2028</TIMEX3> in kleineren Kommunen 
+
+Bis zum Stichtag können fossil betriebene Heizungsanlagen noch eingebaut werden.
+
+Diese Heizungsanlagen müssen ab <TIMEX3 tid="t15" type="DATE" value="2029">2029</TIMEX3> mit einem steigenden Anteil erneuerbarer Energie betrieben werden.
+
+Vor dem Einbau ist eine verpflichtende Beratung zu nutzen.
+
+Infos und Beratung im Rahmen der Energieberatung <PLACE id="p6" type="" geo="DEBKGGND00001H1V">Stadt Augsburg</PLACE> (Energieberatung <PLACE id="p7" type="" geo="DEBKGGND00001H1V">Stadt Augsburg</PLACE>, Tel.
+
+0821 324-7320, in Kooperation mit der Verbraucherzentrale) Verbindlichkeit ergibt sich erst in Kombination mit entsprechenden Planungs-/ Steuerungsinstrumenten (z.B. Satzungen, vertragliche Vereinbarungen) oder durch die verbindliche Ausweisung konkreter Eignungsgebiete.
+
+
+
+
+</TEXT></TimeML>

@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>333_LF_Urbansky</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-02-16" temporalFunction="false" functionInDocument="CREATION_TIME">2024-02-16</TIMEX3></DCT>
+<TEXT>Fraunhofer UMSICHT, Osterfelder Straße 3, 36037 Oberhausen, +49 208 8598-17661/-Kurzfassung: Durch die gemeinsame Nutzung von vor Ort erzeugter Energie in Energiegemeinschaften sollen unter anderem die Belastung und somit die Netzkosten des elektrischen Netzes reduziert werden.
+
+Dabei ist nicht klar, wie die Lastflüsse im Verteilnetz durch monetär angereiztes Energy-Sharing tatsächlich beeinflusst werden.
+
+Die vorliegende Studie untersucht daher die Auswirkungen von proaktivem Energy-Sharing auf die Belastung von Transformatoren und Kabeln im Niederspannungsnetz.
+
+Es werden optimierte Anlagenfahrpläne mit und ohne Anreiz zum Energy-Sharing erstellt und Netzlastflussrechnungen durchgeführt.
+
+Die Ergebnisse zeigen, dass proaktives Energy-Sharing in den meisten Fällen geringfügig netzentlastend wirkt, aber in Ausnahmefällen auch netzbelastend sein kann.
+
+Daraus kann jedoch keine unmittelbare Netzkostenreduktion abgeleitet werden, da die angereizten Lastverschiebungen nicht zielgerichtet und gesichert zu den auslegungsrelevanten Situationen erfolgen.
+
+Keywords: Energy Sharing, Energiegemeinschaften, Verteilnetzbelastung, MILP Energy-Sharing soll die Partizipation der Bürgerinnen und Bürgern an der Energiewende ermöglichen, indem wirtschaftliche Anreize und die Möglichkeit regenerativ erzeugten Strom vor Ort zu nutzen geschaffen werden.
+
+In der Erwartung den Ausbau erneuerbarer Energien dadurch voranzutreiben, hat die Europäische Union beschlossen, dass entsprechende Konzepte durch die Einführung von Erneuerbare-Energie-Gemeinschaften (EGs) in den einzelnen Mitgliedsstaaten umzusetzen sind [1].
+
+Bereits seit 2021 ermöglicht daher Österreich lokale EGs zu gründen, in denen innerhalb des Niederspannungsnetzes elektrische Energie zu reduzierten Netzentgelten und unter Entfall weiterer Abgaben gehandelt werden darf [2, 3].
+
+Der ökonomische Nutzen für die Teilnehmenden an EGs wurde in verschiedenen Studien unter Berücksichtigung unterschiedlicher Konzepte sowie verschiedener Erzeugungs- und Verbrauchsstrukturen bereits mehrfach nachgewiesen [4, 5].
+
+Dabei wird häufig davon ausgegangen, dass durch den Anreiz, lokal erzeugte Energie auch lokal zu verbrauchen, die Verteilnetzbelastung sinkt und somit aus technoökonomischer Perspektive die Reduzierung von Netzentgelten gerechtfertigt ist [6].
+
+Dabei ist zu beachten, dass Energy-Sharing sich nicht unmittelbar auf den Betrieb auswirkt, sondern zunächst lediglich abrechnungsrelevant ist.
+
+Erst durch den gezielten, proaktiven Einsatz flexibler Anlagen zur Erhöhung der Wirtschaftlichkeit ergeben sich physikalische Änderungen im Lastfluss und somit in der Netzbelastung.
+
+16582, julian.urbansky@umsicht.fraunhofer.de, www.umsicht.fraunhofer.de Insbesondere im deutschen Raum wird vor diesem Hintergrund häufig eine finanzielle Bevorteilung von EGs, z.B. durch die Reduzierung von Netzentgelten, gefordert [6].
+
+Allerdings gibt es bislang keine Erfahrungswerte oder aussagekräftige Studien, aus denen hervorgeht, inwieweit das Verteilnetz durch Energy-Sharing tatsächlich entlastet wird [7].
+
+Es wird in der Regel lediglich nachgewiesen, dass der proaktive Einsatz von Speichern und steuerbaren Verbrauchseinrichtungen über längere Zeiträume (z.B. über ein Jahr) bilanziell residuallastmindernd ist [8].
+
+Um die netzentlastende Wirkung von Energy-Sharing bewerten zu können, ist es notwendig, den Lastfluss zeitlich und räumlich aufgelöst zu betrachten.
+
+Zum einen hängt es von der konkreten Netzsituation und somit auch von dem Verhalten der Netzteilnehmenden außerhalb der EG ab, inwieweit die Netzbelastung durch den Anlagenbetrieb der EG beeinflusst wird.
+
+Zum anderen werden die Netzkosten vor allem durch Netzausbaukosten und somit durch die Belastung in auslegungsrelevanten Situationen bestimmt, sodass eine zeitliche Betrachtung der Lastflüsse notwendig ist.
+
+Dabei sind neben der Transformatorbelastung auch die Belastungen einzelner Kabel von Bedeutung.
+
+Diese sind wiederum abhängig von der konkreten Verteilung der Erzeugungs- und Verbrauchseinrichtungen sowie der Speicher im Netz, sodass auch eine räumlich aufgelöste Betrachtung erforderlich ist.
+
+Diese Studie untersucht die Auswirkungen von proaktivem Energy-Sharing auf die Belastung von Transformatoren und Kabeln im Niederspannungsnetz mithilfe von Lastflussrechnungen.
+
+Um zu zeigen, inwieweit eine Verringerung der Netzentgelte aus technischer Sicht gerechtfertigt ist, werden die Veränderungen der Netzbelastung im Vergleich zum Betrieb ohne Anreize zum Energy-Sharing quantifiziert und bewertet.
+
+Dabei werden als flexibel steuerbare Technologien neben Wärmepumpen und Elektrofahrzeugen auch dezentrale Batteriespeicher berücksichtigt.
+
+Um die Abhängigkeit der Netzbelastung von der räumlichen Verteilung der Haushalte und Anlagen beurteilen zu können, werden verschiedene Positionierungen im Netz betrachtet.
+
+Der prozedurale Ablauf dieser Untersuchung ist mit den enthaltenen Prozessen und eingesetzten Tools sowie den einfließenden (grau) und resultierenden (grün) Daten zur Übersicht in Abbildung 1 dargestellt.
+
+Die Untersuchung erfolgt anhand eines elektrischen Referenznetzes (SimBench - LV semiurb 4 [9], vgl. Abbildung 2) und einer gegebenen Versorgungsaufgabe von 41 Haushalten.
+
+Der Ablauf lässt sich wie in Abbildung 1 dargestellt in vier Schritte unterteilen, auf die im Folgenden detailliert eingegangen wird.
+
+Bedarfssimulation und Parametrisierung der Anlagen Zur Modellierung der zeitlich aufgelösten Energiebedarfe für Strom, Raumwärme und                                         „                 “ [10] und für die Ladeprofile von                            „      “ [11] zurückgegriffen.
+
+Als Energieanlagen werden Aufdach-Photovoltaik-Anlagen (PV), Batterieheimspeicher (BES), Luft-Wasser-Wärmepumpen (WP), Warmwasserspeicher (TES) und Durchlauferhitzer (FH) vorgesehen.
+
+Die Auslegung der Anlagen erfolgt orientiert an den Normen DIN V 18599-9 (Nennleistung PV und BES), DIN/TS 12831-1:2020-04 (Wärmelast) sowie VDI 4645 (Nennleistung WP und Kapazität TES).
+
+Für die Durchlauferhitzer wird allgemein eine Leistung von 11𝑘𝑊 𝑡ℎ angenommen.
+
+Die Leistungsbereitstellung der PV-                                „pvlib“ [12] ermittelt; der coefficient of performance                                „hplib“ [13] berechnet.
+
+Modellierung und Optimierung Die Verfügbarkeiten der Technologien werden den Häusern zunächst stochastisch zugewiesen und anschließend manuell korrigiert, um eine typische Verteilung zu erlangen.
+
+Besonderen Fokus hat hier die Verfügbarkeit von Wärmepumpen bekommen; diese wurde nur für Gebäude mit Baujahr jünger als 2010 angenommen um unrealistische Leistungsbedarfe zu vermeiden.
+
+Ferner wurden die Energieanlagen als Pakete definiert, weswegen sowohl PV und BES als auch WP, FH und TES immer in Kombination auftreten.
+
+Dies geschieht vor dem Hintergrund, dass Speicher in einem System mit als fix angenommenen Energiebedarfen die einzige Flexibilität darstellen.
+
+Erwähnenswert ist, dass für Haushalte ohne das Technologiepaket WP/FH/TES der Wärmebedarf nicht mitmodelliert wird, da von einer nichtstrombasierten Wärmeversorgung ausgegangen wird (z.B. Öl oder Erdgas).
+
+Um ein monetär angereiztes Energy-Sharing inklusive intelligenter Speicherbewirtschaftung (EV, BES und TES) optimal abzubilden, werden die beschriebenen Haushalte als zusammenhängendes lokales Energiesystem mit Hilfe des Python-Pakets „     -     “ [14] als lineares Optimierungsproblem (LP) modelliert und anschließend                „G     “ [15] gelöst.
+
+Dabei wird davon ausgegangen, dass 16 der 41 Haushalte eine EG bilden.
+
+Diese zeichnet sich gegenüber den nicht-EG Haushalten durch reduzierte Netzbezugskosten innerhalb der Gemeinschaft aus, welche als zeitlich konstant angenommen werden.
+
+Gleichzeitig ist der ebenfalls als zeitlich konstant angenommene Vergütungssatz für das Einspeisen von Energie in die EG gegenüber der Einspeisung in das Verteilnetz erhöht (s.
+
+Tabelle 1).
+
+Durch diese, am österreichischen Modell orientierten monetären Anreize soll der Austausch von elektrischer Energie innerhalb der EG angereizt werden.
+
+Bei der Auswahl der Haushalte, welche die EG bilden, wird darauf geachtet, dass alle Technologiekombinationen sowohl innerhalb als auch außerhalb der Gemeinschaft auftreten, um technologiespezifische Effekte zu vermeiden.
+
+Im Fokus der Untersuchung steht ein Vergleich der Netzbelastung bei Energy-Sharing mit dem Betrieb ohne Energy-Sharing.
+
+Damit die Auswirkungen von Energy-Sharing möglichst isoliert von anderen Effekten betrachtet werden können, wird in beiden Untersuchungsfällen die selbe Haushaltspositionierung (Verteilung der modellierten Haushalte im Verteilnetz), Anlagenparametrisierung und das selbe Betriebsziel (Betriebskostenminimierung) angenommen.
+
+Es ergeben sich somit die beiden folgenden Szenarien: 1.
+
+Referenzszenario: kein Energy-Sharing 2.
+
+Energy-Sharing-Szenario: 16 Haushalte sind Teil einer EG und betreiben nach Netzsimulation Die Untersuchung erfolgt in zwei Schritten: Zuerst wird das Optimierungsproblem für beide Szenarien gelöst und auf der Basis der Optimierungsergebnisse vereinfachte Netzlastflussrechnungen durchgeführt, um die Belastung des Transformators und aller Leitungsabschnitte zu quantifizieren.
+
+Anschließend werden mit Hilfe einer Monte-Carlo-Simulation 10.000 verschiedene Haushaltspositionierungen erzeugt.
+
+Für jede betrachtete Haushaltspositionierung werden dabei die Lastflussrechnungen basierend auf den Netzbezugskosten  Innerhalb EG 26,17 18,71 Außerhalb EG 30,58 17,71 österreichischem Modell monetär angereiztes Energy-Sharing [ct/kWh] Einspeisevergütung  [ct/kWh] Netzbezügen mit und ohne Energy-Sharing durchgeführt.
+
+Durch dieses Vorgehen werden verschiedene Varianten der Kabelbelastung zwischen Worst- und Best-Case abgebildet.
+
+Die Netzlastflussrechnung erfolgt dabei unter Vernachlässigung von Verlusten und Spannungsabfällen an den einzelnen Kabeln.
+
+Außerdem wird lediglich die Wirkleistung und nicht die Blindleistung betrachtet, da im Rahmen dieser Studie nur vergleichende Untersuchungen der Netzbelastung mit und ohne Energy-Sharing durchgeführt werden.
+
+Der Blindanteil in den Leistungsflüssen ist dabei weitestgehend unabhängig von den betrachteten Betriebsweisen.
+
+Auch werden Grenzwertverletzungen der Betriebsmittel nicht betrachtet, da lediglich von Interesse ist, inwieweit sich die Netzbelastung durch Energy-Sharing verringert oder erhöht.
+
+Konkrete Engpässe sind individuell von der Anlagen- und Netzkonfiguration abhängig und für eine allgemeine Bewertung von Energy-Sharing nicht relevant.
+
+Im Folgenden wird zunächst die Belastung des Transformators anhand der initialen Netzsimulation ausgewertet.
+
+Anschließend wird auf die Ergebnisse der Monte-Carlo-Simulation und somit auf die Kabelbelastungen näher eingegangen.
+
+Abbildung 3 zeigt die Transformatorbelastung über ein Jahr in beiden Szenarien.
+
+Zur Bewertung der netzkostensenkenden Wirksamkeit von Energy-Sharing sind die auslegungsrelevanten Situationen von entscheidender Bedeutung.
+
+Anhand der abgebildeten Zeitreihen ist zu erkennen, dass in der betrachteten Netz- und Anlagenkonfiguration die Lastspitzen in den Wintermonaten und die Erzeugungsspitzen in den Sommermonaten liegen.
+
+Da beide Extrema die gleiche Größenordnung aufweisen, können beide Situationen als auslegungsrelevant betrachtet werden.
+
+Ein Vergleich der Szenarien zeigt, dass Energy-Sharing einerseits einen effektiven Anreiz zur Lastverschiebung bildet, sodass in Summe deutlich weniger Energie über den Transformator transportiert wird.
+
+Die Lastverschiebung findet allerdings hauptsächlich zu Zeiten mittlerer und geringerer Transformatorbelastung statt und seltener zu den Last- und Erzeugungsspitzen, sodass andererseits nur eine geringe Verminderung der Belastung in den auslegungsrelevanten Situationen durch Energy-Sharing erkennbar ist.
+
+Die Jahreshöchstlast am Transformator beträgt im Referenzfall 104,4 kW (Last) bzw. 106,5 kW (Einspeisung).
+
+Durch Energy-Sharing wird der Lastfall um 4,4 kW auf 100,0 kW reduziert, der Einspeisefall dagegen nicht verändert.
+
+Abbildung 4 zeigt dazu exemplarisch detaillierte Zeitverläufe an einem Wintertag mit einer hohen Lastspitze (22. Februar).
+
+Allgemein ist im Winter die Einspeisung aus PV-Anlagen niedriger als im Sommer, sodass es nur ein geringfügiges und beschränktes Potenzial zur Lastverschiebung gibt.
+
+Problematisch ist dies, da insbesondere an kalten Wintertagen das Netz aufgrund der elektrischen Wärmeversorgung besonders stark belastet wird.
+
+An dem hier dargestellten Tag ist die Einspeisung für Februar sogar verhältnismäßig hoch.
+
+Dennoch wird die erzeugte Energie wie auch im Referenzszenario hauptsächlich im eigenen Haushalt zur Eigenverbrauchsmaximierung genutzt und nur zu kleinen Anteilen innerhalb der EG „getauscht“.
+
+Insbesondere an Tagen mit weniger PV-Einspeisung sinkt das Potenzial für Energy-Sharing weiter, sodass an solchen Tagen keine signifikante Entlastung am Transformator durch Energy-Sharing zu erwarten ist.
+
+Bei den Einspeisespitzen im Sommer ist zwar auf der einen Seite ein größeres Potenzial zum Energy-Sharing vorhanden, da durch die PV-Anlagen erhebliche Mengen an Energie vor Ort erzeugt werden, jedoch fehlt es auf der anderen Seite an Flexibilitätsoptionen, die diese Energiemengen aufnehmen können: Zum Zeitpunkt der maximalen Einspeisung am Mittag sind die Batteriespeicher in der Regel bereits vollständig gefüllt und die Elektrofahrzeuge entweder voll aufgeladen oder noch unterwegs.
+
+Hinzu kommt, dass der Wärmebedarf durch die hohen Außentemperaturen sehr gering ist, sodass es auch hier Zufall ist, ob zum Zeitpunkt der Einspeisespitze ausreichend Flexibilitätspotenzial vorhanden ist, indem z.B. kurz zuvor ein entladenes Elektrofahrzeug an die Ladestation angeschlossen wird.
+
+Da nur ein Teil der Netzteilnehmer innerhalb des Netzgebietes Mitglied in der EG ist, kann durch Energy-Sharing die Transformatorbelastung unter Umständen auch erhöht werden.
+
+Wie z.B. in Abbildung 4 zu erkennen, ergibt sich der Flexibilitätseinsatz aus dem Verbrauch und der Einspeisung der Haushalte innerhalb der EG.
+
+Die Veränderung der Transformatorbelastung ist jedoch auch von dem Verhalten der Netzteilnehmenden außerhalb der EG abhängig: Wenn die Leistungsbilanz der übrigen Netzteilnehmenden das gleiche Vorzeichen hat wie die Leistungsbilanz der EG, ist Energy-Sharing residuallastmindernd, sonst kann es auch residuallastverschärfend sein.
+
+Dabei ist in der durchgeführten Simulation residuallastverschärfendes Verhalten allerdings nicht in den auslegungsrelevanten Situationen aufgetreten.
+
+Zur Analyse der Kabelbelastung zeigt Abbildung 5 die Ergebnisse der Monte-Carlo-Simulation für ausgewählte Kabelabschnitte am Anfang der einzelnen Netzstränge (vgl. auch Abbildung 2).
+
+Es ist jeweils die maximal auftretende Leistung für beide Lastflussrichtungen als Mittelwert und Standardabweichung aller 10.000 Simulationsdurchgänge dargestellt.
+
+Es ist zu erkennen, dass in der untersuchten Netz- und Anlagenkonfiguration stets der Lastfall auslegungsrelevant ist, da in allen Kabelsträngen der Einspeisefall kleinere Belastungsspitzen hervorruft.
+
+Im Mittel wird der maximale Leistungsfluss durch Energy-Sharing am Anschlusspunkt der einzelnen Kabelstränge um 4,3 kW reduziert.
+
+Die mittlere Standardabweichung liegt mit 5,4 kW etwas höher, sodass der Einfluss der Anlagenpositionierung als größer zu bewerten ist als die Entscheidung, ob Energy-Sharing stattfindet oder nicht.
+
+In Abbildung 6 ist die Differenz des maximalen Leistungsflusses aus beiden Szenarien über alle 10.000 Simulationsdurchgänge in Form von Boxplots dargestellt.
+
+Dadurch soll gezeigt werden, in welchem Maße die Veränderung der Belastung durch die Standortvariation im Referenzszenario mit der Belastungsveränderung im Energy-Sharing-Szenario korreliert.
+
+In den allermeisten Konfigurationen zeigt sich eine Entlastung des Netzes durch Energy-Sharing, in bestimmten Konstellationen und an einzelnen Kabeln sogar um über 30 kW.
+
+Nur in Ausnahmefällen und kann sich durch Energy-Sharing die Kabelbelastung um bis zu 10 kW erhöhen.
+
+Anhand der dargestellten Ergebnisse ist zu erkennen, dass der Flexibilitätseinsatz durch Energy-Sharing ohne Berücksichtigung der tatsächlichen Netzbelastung erfolgt.
+
+Hinzu kommt, dass die Preisstruktur des österreichischen Konzepts zwar zur Mitgliedschaft in EGs motiviert, aber die Anreize zur Lastverschiebung im Vergleich zu dem wirtschaftlichen Vorteil der Eigenverbrauchsmaximierung nur ein Teil des Flexibilitätspotenzials freisetzen.
+
+Zusammen mit der Tatsache, dass nicht das gesamte Netzgebiet Teil einer EG ist, wird das verfügbare Flexibilitätspotenzial nicht vollständig und vor allem nicht zielgerichtet zur Reduktion der Netzbelastung eingesetzt.
+
+Es unterliegt also einem gewissen Zufall, ob und in welchem Maße eine Lastverschiebung durch Energy-Sharing zum Zeitpunkt der maximalen Netzbelastung erfolgt.
+
+Da in dem betrachteten Szenario nur 16 der 41 Haushalte am Energy-Sharing teilnehmen, ist nicht garantiert, dass zu jedem Zeitpunkt (und somit auch im Moment der Lastspitzen) ausreichend Potenzial zur Lastverschiebung vorhanden ist.
+
+In größeren EGs ist es dagegen wahrscheinlicher, dass immer ein gewisses Flexibilitätspotenzial verfügbar ist und zum Energy-Sharing genutzt wird, sodass sich möglicherweise auslegungsrelevante Vorteile ergeben.
+
+Dies gilt es in weiterführenden Studien zu untersuchen.
+
+Die Ergebnisse zeigen sowohl für den Transformator als auch für die Kabel nur einen geringfügigen Beitrag zur Entlastung des Niederspannungsnetzes durch Energy-Sharing.
+
+Dazu haben andere Faktoren, wie die Standortwahl der Anlagen oder die Zusammensetzung der EG einen größeren Einfluss auf die Netzbelastung.
+
+Da das konkrete Ausmaß dieser Einflüsse durch den Netzbetreiber im jeweiligen Anwendungsfall vor allem langfristig nicht vorhersehbar ist, ist eine Berücksichtigung von Energy-Sharing in zukünftigen Planungsprozessen von Niederspannungsnetzen nicht zu erwarten.
+
+Es kann aus der geringfügig reduzierten Netzbelastung durch Energy-Sharing also nicht unmittelbar auf eine Netzkostenreduktion geschlossen werden.
+
+Dennoch können sich in bestimmten Netzkonfigurationen Vorteile aus der reduzierten Netzbelastung durch Energy-Sharing ergeben: Unter günstigen Voraussetzungen ist es grundsätzlich möglich, dass eine größere Anzahl von Verbrauchern oder Erzeugungsanlagen installiert werden kann, bevor in dem Netz Grenzwertverletzungen auftreten.
+
+Das kann Netzbetreiber entlasten, da dadurch der ansonsten notwendige Netzausbau verzögert wird.
+
+Ziel der Untersuchung war es, die Einflüsse von proaktivem Energy-Sharing auf die Belastung von Transformatoren und Kabeln im Niederspannungsnetz zur Bewertung der netzkostensenkenden Wirkung zu analysieren.
+
+Dazu wurden zunächst optimierte Anlagenfahrpläne mit und ohne Anreiz zum Energy-Sharing ermittelt und anschließend Netzlastflussrechnungen als Monte-Carlo-Simulation unter Variation der Haushaltspositionierung durchgeführt.
+
+Die Untersuchungsergebnisse zeigen, dass sich proaktives Energy-Sharing in den meisten Situationen und Konfigurationen netzentlastend, in besonderen Fällen aber auch netzbelastend auf das Verteilnetz auswirkt.
+
+Dabei tritt netzentlastendes Verhalten nicht in allen auslegungsrelevanten Situationen auf, zum Beispiel wird in der vorliegenden Untersuchung die Jahreshöchstlast am Transformator durch Energy-Sharing im Einspeisefall nicht verändert, im Lastfall dagegen um 4,4 kW (4,2 %) reduziert.
+
+Die maximale Belastung der einzelnen Kabel wird durch Energy-Sharing im Mittel um 3,1 kW verringert.
+
+Dabei ist die Veränderung der Jahreshöchstlast in den einzelnen Kabelsträngen stark von der Positionierung der verschiedenen Haushalte abhängig und reicht von einer Reduktion um ca. 30 kW bis hin zu einer zusätzlichen Belastung durch Energy-Sharing um ca. 10 kW.
+
+Anhand dieser Ergebnisse lässt sich ein geringfügiger Beitrag zur Entlastung der Verteilnetze in Österreich durch Energy-Sharing ableiten.
+
+Allerdings kann daraus nicht unmittelbar auf eine Netzkostenreduktion geschlossen werden, da die tatsächliche Veränderung der Netzbelastung in den auslegungsrelevanten Situationen stark variiert und im Mittel gegenüber anderen Einflussfaktoren gering ist.
+
+Es konnte keine zuverlässige Reduktion der Netzbelastung in auslegungsrelevanten Situationen durch Energy-Sharing nachgewiesen werden, da zum einen bei der betrachteten, eher kleineren EG kein gesichertes Flexibilitätspotenzial in den Last- und Erzeugungsspitzen zur Verfügung steht und zum anderen die Preisgestaltung sowie der Vorteil der Eigenverbrauchsoptimierung das Potenzial zur Lastverschiebung weiter einschränkt.
+
+Es ist dennoch denkbar, dass in bestimmten Netzkonfigurationen durch Energy-Sharing eine größere Anzahl von Verbrauchern oder Erzeugungsanlagen installiert werden kann, bevor Grenzwertverletzungen auftreten, sodass vereinzelt Verzögerungen des Netzausbaus möglich sind.
+
+In weitergehenden Untersuchungen soll geprüft werden, ob sich die bilanziell residuallastmindernde Wirkung von Energy-Sharing positiv auf die Belastung des darüberliegenden Mittelspannungsnetzes auswirkt und eventuell dort auftretende Netzkosten senken kann.
+
+Außerdem ist es von Interesse, ob bei größeren EGs oder größeren Speichern die Verfügbarkeit von flexiblen Anlagen zu den Zeitpunkten der Belastungsspitzen signifikant erhöht.
+
+</TEXT></TimeML>

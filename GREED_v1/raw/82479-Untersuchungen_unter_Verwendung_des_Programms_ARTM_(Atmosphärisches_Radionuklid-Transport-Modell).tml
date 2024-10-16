@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>82479-Untersuchungen_unter_Verwendung_des_Programms_ARTM_(Atmosphärisches_Radionuklid-Transport-Modell)</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2010-01-01" temporalFunction="false" functionInDocument="CREATION_TIME">2010-01-01</TIMEX3></DCT>
+<TEXT>Neben der kontinuierlichen Überwachung der Kernkraftwerke im Hinblick auf die Freisetzung von radioaktiven Stoffen während des Betriebs durch Kernreaktor-Fernüberwachungssysteme (KFÜ) und die Bilanzierung der Ableitungen im Kernkraftwerk nach der Richtlinie zur Emissions- und Immissionsüberwachung kerntechnischer Anlagen zwecks Überwachung der Einhaltung der genehmigten Grenzwerte, stellt sich die Frage der aus den Ableitungen resultierenden Dosisbelastung der Bevölkerung.
+
+Die im Normalbetrieb erfolgenden radioaktiven Ableitungen sind viel zu gering, als dass sie in der Umgebung messtechnisch erfasst werden könnten.
+
+Um hier Aussagen machen zu können, kommen neben statistischen Methoden auch Langzeitausbreitungsrechnungen zur Ermittlung der gesamten radioaktiven Belastung zum Einsatz /1/, /2/, /3/.
+
+Typischerweise umfassen solche Rechnungen einen Zeitraum von bis zu einem Jahr.
+
+In der Regel kommt hierbei ein Gaußsches Fahnenmodell zur Anwendung, welches aufgrund zahlreicher Einschränkungen nicht mehr dem Stand von Wissenschaft und Technik entspricht.
+
+In jüngerer Zeit gibt es daher Bestrebungen, die Berechnungsgrundlagen dieser Vorschriften dahingehend zu modernisieren, dass ein Lagrangesches Ausbreitungsmodell zur Anwendung kommt.
+
+Im Rahmen der hier vorgestellten Untersuchungen zur Langzeitbetrachtung der radioaktiven Belastung kommt das Programm ARTM (Atmosphärisches Radionuklid-Transport-Modell) /4/, /5/ zum Einsatz.
+
+Dieses Programm wurde im Auftrag der Gesellschaft für Anlagen- und Reaktorsicherheit (GRS) entwickelt und steht frei im Internet zur Verfügung.
+
+Die Ergebnisse von Rechnungen mit ARTM dienen der Bestimmung der ungünstigsten Einwirkungsstelle im Hinblick auf die zu betrachtenden Emissionspfade: Betasubmersion: Betastrahlung innerhalb der Abluftfahne Gammasubmersion: Exposition durch Gammastrahlung aus der Abluftfahne Bodenstrahlung: Exposition durch Gammastrahlung der am Boden abgelagerten Stoffe Inhalation: Exposition durch Aufnahme radioaktiver Stoffe mit der Atemluft Ingestion: Exposition durch Aufnahme radioaktiver Stoffe mit der Nahrung Da sich ARTM auch für Kurzzeitausbreitungsrechnungen einsetzen lässt, liegt es nahe, das Programm mit den in der KFÜ Baden-Württemberg /6/, /7/ vorhandenen Modellen zur Simulation der Ausbreitung radioaktiver Schadstoffe zu vergleichen, um die erzielten Ergebnisse besser einordnen zu können.
+
+Des Weiteren werden für die einzelnen badenwürttembergischen Kraftwerksstandorte Langzeitausbreitungsrechnungen für die Jahre 2006 bis 2009 durchgeführt und die Ergebnisse analysiert.
+
+Nachfolgend werden die Ergebnisse beispielhaft für die Anlage Gemeinschaftskernkraftwerk Neckarwestheim Block II (GKN II) vorgestellt.
+
+Durch die Möglichkeit, mit ARTM Kurzzeitausbreitungsrechnungen durchführen zu können, bietet es sich an, die Ergebnisse von ARTM-Rechnungen mit Ergebnissen des Modells ABR (Ausbreitungsrechnungen) im Rahmen der KFÜ zu vergleichen, um die mit ARTM erzielten Ergebnisse besser einordnen zu können.
+
+Für die Vergleichsrechnungen wurde die ABR-Modellgebietsgröße „mittel“ gewählt.
+
+Dies entspricht einem Radius von 10 km um den 150 m hohen Kamin von GKN II.
+
+Das bei der ABR verwendete Geländemodell wurde entsprechend für die Verwendung in ARTM aufbereitet.
+
+Bedingt durch die unterschiedliche Zielrichtung der beiden Simulationssysteme sind die Ergebnisse nicht unmittelbar vergleichbar.
+
+Während bei der ABR die Verfolgung des zeitlichen und räumlichen Ausbreitungsvorgangs und die Bestimmung der Dosisbelastung im Vordergrund steht, ist ARTM darauf ausgelegt die räumliche Verteilung der langfristigen Mittelwerte der Belastung zu ermitteln.
+
+Eine Dosisberechnung selbst findet in ARTM nicht statt.
+
+Des Weiteren rechnet die ABR in der Regel mit Nuklidgemischen, während ARTM-Rechnungen jeweils nur mit einzelnen Nukliden durchgeführt werden können.
+
+Um einen besseren Vergleich der beiden Modelle zu ermöglichen, wurden sowohl für ARTM, als auch für die ABR Simulationsrechnungen mit einer Einheitsquelle von 1 Bq/sec und den Leitnukliden Jod (I131), Xenon (Xe133) und Cäsium (Cs137) durchgeführt.
+
+In den nachfolgenden Unterkapiteln werden die Ergebnisse von beiden Modellen hinsichtlich der Gammabodenstrahlung und der Edelgaskonzentration miteinander verglichen.
+
+Zum besseren Vergleich mit der Dosisberechnung der ABR wurden die Ergebnisse von ARTM in einzelnen Beispielen unter Anwendung der entsprechenden Dosisfaktoren /3/, /8/ umgerechnet.
+
+Die Abbildungen 1 und 2 zeigen die Gammabodenstrahlung aus Rechnungen mit ARTM (Abbildung 1) und der ABR (Abbildung 2) für den 23.08.2009 am Standort GKN II.
+
+Bei der Gammabodenstrahlung addieren sich die Beiträge von Jod und Cäsium, während Edelgase keinen Beitrag leisten.
+
+Das heißt, dass mit ARTM zwei Rechnungen durchgeführt und die Beträge von Jod und Cäsium extern aufaddiert wurden, während in der ABR die Berechnung der Dosis in einem Rechenlauf stattfindet.
+
+Die qualitative Übereinstimmung der räumlichen Verteilung zur ABR ist hinreichend.
+
+Die Abweichungen erklären sich durch das unterschiedliche Windprofil.
+
+In der ABR werden alle Windmesswerte des SODAR-Geräts von 40 bis 240 m Messhöhe verwendet, bei der ARTM-Rechnung kann nur eine Messhöhe, in diesem Beispiel die Messhöhe von 160 m des SODAR, verwendet werden.
+
+Abbildung 3 zeigt den Verlauf der Windrichtung während des Simulationszeitraums für das Messgerät SODAR in 160 m Höhe, die für die ARTM-Rechnung verwendet wurde, sowie in zwei weiteren Messhöhen (40 und 60 m), die in der ABR-Rechnung mitberücksichtigt wurden.
+
+Der ausgeprägte N- bis NO-Anteil (Windrichtung 0 bis 30 und 330 bis 360 Grad) des Windes im Bereich von 3:00 bis 10:00 Uhr ist im ARTM-Ergebnis gut zu erkennen.
+
+Ziel dieser Rechnungen war es herauszufinden, wie empfindlich ARTM auf Änderungen von Steuerparametern reagiert.
+
+Deshalb wurde mit ARTM eine Reihe von Rechenläufen mit gleichen meteorologischen Zeitreihen, unterschiedlichen topographischen Bedingungen und unterschiedlichen Steuerparametern durchgeführt.
+
+Als signifikantes Beispiel wurde ein Zeitraum gewählt, bei dem es zu einer kurzfristig erhöhten Abgabe von Edelgasen kam.
+
+Signifikant insofern, als hier diese Erhöhung von der Kamininstrumentierung erfasst wurde.
+
+So fanden am 23.8.2009 im Kraftwerk GKN II Wartungsarbeiten statt, bei denen routinemäßig auch der Reaktordruckbehälter zum Brennelementwechsel geöffnet wurde.
+
+Bei der Öffnung kommt es dabei prinzipiell zu einer kurzzeitigen Erhöhung der Fortluftabgabe von Edelgasen.
+
+Diese von der Kamininstrumentierung erfasste reale Erhöhung des Quellterms ging auch in die Quellverteilung der beiden Simulationsmodelle ein (siehe dazu auch Kapitel 4.).
+
+Bei der Rechnung mit ARTM wurde, wie schon in den Beispielen zuvor, als Windmessgerät das Messgerät in 160 m des SODARs verwendet.
+
+Bei dieser Untersuchung wurden im Wesentlichen die Parameter Qualitätsstufe und Rauigkeit variiert und die Rechnungen jeweils mit und ohne Topographie durchgeführt und ihr Einfluss auf das Ergebnis untersucht.
+
+Die hier angegebene Genauigkeit entspricht den Qualitätsstufen von ARTM.
+
+Sie beschreibt den Faktor, um den die Teilchenzahl erhöht wird.
+
+In Abbildung 4 ist die Gammasubmersion für die beiden Extremfälle, den Fall ohne Topographie, einfacher Genauigkeit und einer Rauigkeitszahl von 0,5 (links) und den Fall mit Topographie, 4facher Genauigkeit und der Rauigkeitszahl aus dem CORINE-Kataster (rechts) dargestellt.
+
+Es zeigt sich, dass sich die Ergebnisse hinsichtlich ihrer Form nur wenig unterscheiden.
+
+Zahlenmäßig liegt der Unterschied bei ca. 2%.
+
+Die Dosisbelastung der Bevölkerung aufgrund der tatsächlichen Ableitungen der Kernkraftwerke in Deutschland wird jährlich durch das Bundesamt für Strahlenschutz (BfS) nach der AVV zu § 47 StrlSchV /3/ berechnet.
+
+Die Ableitungen der Kernkraftwerke werden dabei nach der „Richtlinie zur Emissions- und Immissionsüberwachung kerntechnischer Anlagen“ (REI) /8/ von den Betreibern der einzelnen Anlagen ermittelt und den zuständigen Aufsichtsbehörden übermittelt.
+
+Hierbei handelt es sich in erster Linie um Daten von Labormessungen, die derzeit noch nicht vollständig in der KFÜ zur Verfügung stehen.
+
+Für Plausibilitätsbetrachtungen wurde daher auf die in der KFÜ vorliegenden Daten der Kamininstrumentierung zurückgegriffen.
+
+Dabei ist zu beachten, dass es sich in der Regel um Monitoring-Messgeräte handelt, die im Vergleich zu den Labormessgeräten für einen höheren Messbereich ausgelegt sind und daher im Normalbetrieb meist nur die Nachweisgrenzen des Messgeräts anzeigen.
+
+Dies führt bei der Aufsummierung zu Werten, die bis zu einem Faktor 100 über den offiziell berichteten Labormesswerten liegen.
+
+Bei der Langzeitausbreitungsrechnung für den Standort Neckarwestheim (GKN) wurde für die meteorologischen Daten Messdaten in 100 m Höhe für GKN zusammen mit den Abgaberaten für die Nuklidgruppen der Kamininstrumentierung für die Anlage GKN II für die Jahre 2006 bis 2009 herangezogen.
+
+Um eine zeitlich variierende Abgabe von Radionukliden für die Langzeitausbreitungsrechnung modellieren zu können, stellen sie taugliche Testdaten dar.
+
+In den nachfolgenden Beispielen ist jeweils die Edelgaskonzentration von Xe133 in Bodennähe dargestellt.
+
+Die Ergebnisse für die anderen Leitnuklide kommen zu analogen Resultaten, weshalb hier nur die Ergebnisse mit Xe133 beschrieben werden.
+
+Wie aus den Ergebnissen der Jahre 2006 bis 2009 (Abbildung 5 und 6) für den Standort GKN II hervorgeht, variiert die flächige Verteilung über die Jahre nur geringfügig.
+
+Dies geht ebenso aus der Windstatistik nach KTA 1508 /9/ für die Jahre 2008 und 2009 (Abbildung 7) hervor.
+
+Dabei ist zu beachten, dass die in der Windstatistik erfasste Windrichtung die Richtung angibt, aus der der Wind weht.
+
+Somit ergibt sich die flächige Verteilung der ARTM-Jahresdurchschnittswerte in erster Näherung als punktsymmetrische Spiegelung der Windstatistik, gewichtet mit der Variabilität der Quellstärke und des Niederschlags.
+
+Hinsichtlich der kumulierten Jahreswerte der Edelgasemissionen liegen diese in den Jahren 2006 bis 2008 auf etwa gleichem Niveau und sind 2009 aufgrund eines Brennelementschadens bei GKN II leicht angestiegen.
+
+Die ARTM-Ergebnisse bilden diese Entwicklung korrekt ab.
+
+In der Umgebung der Kernkraftwerke wird die Ortsdosisleistung durch Funksonden gemessen.
+
+Dabei wird sowohl der Beitrag der natürlichen als auch der künstlichen Strahlung erfasst (Bruttowert) und durch Abzug des langjährigen Mittels der Nettowert am Standort jeder Sonde bestimmt.
+
+Im KFÜ wird aus diesen Messwerten mit Hilfe der Czarnecki-Methode /10/ durch räumliche Mittelung über die Sonden eines Standortes ein Nettowert errechnet, bei dem z.B. großflächige Wettereinflüsse heraus gemittelt werden.
+
+Damit gelingt es, die Nachweisgrenze auf ca. 10 nSv/h zu senken und somit auch geringe Änderungen der Strahlungsintensität besser zu erfassen.
+
+Allerdings zeigen die Berechnungen, dass die zu erwartenden Messwerte immer noch deutlich unter dieser schon sehr niedrigen Nachweisgrenze liegen.
+
+Parallel zu den Messdaten wird vom Betreiber die Menge der freigesetzten Radionuklide bestimmt und in den so genannten REI-Berichten quartalsweise publiziert.
+
+Wie bereits zuvor erwähnt, liegen diese Daten im KFÜ nicht vollständig vor, so dass sie im Rahmen dieses Projekts nicht genutzt werden konnten.
+
+Als Ersatz für die nuklidspezifischen Labormessdaten wurden daher für die anstehenden Rechnungen die Nuklidgruppenwerte der Kamininstrumentierung der Kraftwerke verwendet.
+
+Diese stellen jedoch, solange keine Radionuklide freigesetzt werden, wie bereits zuvor erläutert, nur eine Aufsummierung der unteren Nachweisgrenzen dar und überschätzen die Laborwerte um mindestens zwei Größenordnungen.
+
+So beträgt die Jahresabgabe der Kamininstrumentierung bei GKN II laut ZDH in der Größenordnung von 2 E+12 Bq/a bei Edelgasen, der Laborwert für 2009 jedoch nur 5,8 E+11 Bq/a, während bei Jod die Kamininstrumentierung 5 E+8 Bq/a angibt, der Laborwert jedoch mit 9,6 E+4 knapp über der Nachweisgrenze liegt /11/.
+
+Die Genehmigungswerte liegen gemäß den Monatsberichten des Betreibers /11/ bei 1 E+15 Bq/a bei Edelgasen und 1,1 E+10 Bq/a bei Jod.
+
+Als Szenario für die Untersuchung der Beziehungen zwischen den Modell- und Messwerten wurde das in Kapitel 2 erwähnte Beispiel von GKN II verwendet, bei dem es bei der Revision zu einer kurzzeitigen Emission von Edelgasen kam.
+
+Die Abgaben lagen zwar weit unterhalb der genehmigten Grenzwerte, sie waren aber mit Hilfe der Kamininstrumentierung gut zu verfolgen.
+
+Für diesen Zeitraum im August 2009 wurde mit beiden Modellen eine Kurzzeitausbreitungsrechnung durchgeführt, ebenso ist der Zeitraum in der Langzeitausbreitungsrechnung für GKN II enthalten.
+
+IMM 505 IMM 507 Abbildung 9 zeigt das Ergebnis der Ausbreitungsrechnung mit Messdaten aus der ZDH (Zentrale Datenhaltung der KFÜ) für den Zeitpunkt 23.8.2009 10:40 kurz nach der erhöhten Emission mit einem Maximum der ODL an der Messstelle IMM505 von ca. 1 nSv/h, dieser Wert liegt deutlich unterhalb der Nachweisgrenze der Funksonden und kann daher bei den Messdaten der Funksonde (siehe Abbildung 8) nicht beobachtet werden.
+
+ARTM kann an vorgegebenen Beurteilungspunkten den Verlauf der ODL ebenfalls als Zeitreihe ausgeben.
+
+Damit lassen sich für die Standorte der Funksonden sowohl mit der ABR als auch mit ARTM zeitabhängige Verläufe der Ortsdosis berechnen.
+
+Abbildung 10 zeigt den zeitlichen Verlauf der berechneten Ortsdosisleistung am 23.8.2009 von 00:00 bis 15:00 Uhr, sowie den Verlauf der am Kamin gemessenen Edelgasabgabe (Legendenbezeichnung: K_GKN2_AbgaberateEdG).
+
+Dabei beziehen sich die Kurven mit der Legendenbezeichnung 505 und 507 auf die ABR-Rechnung, die Kurven mit der Legendenbezeichnung 505 ARTM und 507 ARTM auf die Kurzzeitausbreitungsrechnung mit ARTM am Ort der Funksonden IMM 505 und 507, deren Lage aus der Abbildung 9 hervorgeht.
+
+Die berechnete Ortsdosisleistung wird von der ABR als Summe über das Nuklidgemisch, der Gammasubmersion und der Bodenstrahlung gebildet, wobei in dem vorliegenden Fall die Bodenstrahlung gegenüber der Gammasubmersion um mehrere Größenordnungen kleiner und daher zu vernachlässigen ist.
+
+In der ABR-Simulation wurden die Nuklidgruppenwerte aus der Kaminmessung mit einem Nuklidvektor, der die relative Verteilung der Nuklide innerhalb einer Nuklidgruppe beschreibt und der der Unfallkategorie FK2 der deutschen Risikostudie A entspricht, für eine Abklingzeit des Reaktors von 0 Stunden verwendet.
+
+Für ARTM (Fall 5 aus Kapitel 3.3) wurde die zusätzliche Konzentrationsrate am Ort mit dem Umrechungsfaktor für das Leitnuklid gemäß der Tabelle 3.10 des Leitfadens für den Fachberater Strahlenschutz /12/ in eine Dosisrate umgerechnet.
+
+Damit wurden für den Nuklidvektor die gleichen Annahmen getroffen wie bei der ABR.
+
+Im Simulationszeitraum kam es um 4:00 und um 10:00 Uhr zu einer gemessenen kurzfristigen Erhöhung der Edelgasabgabe, welche eine minimale Erhöhung der ODL zur Folge haben muss.
+
+Diese wurde von beiden Modellen an den Standorten der Funksonden 505 und 507 berechnet.
+
+Die Größenordnung der aus der Edelgasabgabe resultierenden berechneten Ortsdosisleistung wurde in beiden Fällen zu maximal 2 nSv/h errechnet und liegt damit weit unter der Nachweisgrenze der Messgeräte, daher konnte die Erhöhung bei den Messgeräten auch nicht abgelesen werden.
+
+Mit dem Programm ARTM liegt nun ein Programm vor, mit dem sich Langzeitausbreitungsrechnungen durchführen lassen und das somit eine Erweiterung des Funktionsumfanges des im Rahmen der Kernreaktorfernüberwachung integrierten Systems zur Simulation der Ausbreitung radioaktiver Stoffe ermöglicht.
+
+Wie diese Studie gezeigt hat, liefern ARTM und ABR unter Berücksichtigung der unterschiedlichen Art der Ergebnisdaten – Konzentrationsmittelwerte bei ARTM und integrierte Dosiswerte bei der ABR – vergleichbare Resultate im Bereich der Kurzeitausbreitungsrechnung.
+
+Der Hauptunterschied zwischen beiden Systemen liegt darin, dass in ARTM bei der Verwendung von AKTerm nur eine Windmessstelle berücksichtigt wird, während die ABR mit komplexen Windfeldern aus mehreren Messstellen arbeitet.
+
+Betrachtet man die Ergebnisse der durchgeführten Langzeitausbreitungsrechnungen für den einzelnen Standort, variieren die Resultate aufeinanderfolgender Jahre innerhalb einer schmalen Bandbreite.
+
+Die Modelle ARTM und ABR sind geeignet, die Nettoortsdosisleistung in der Umgebung der Kernkraftwerke zu bestimmen.
+
+Im Fall einer leichten Erhöhung der Abgabe radioaktiver Stoffe durch den Kamin, wie beispielsweise bei Wartungsarbeiten, können mit den Modellen die Orte mit der höchsten Ortsdosisleistung bestimmt werden.
+
+Eine Korrelation zu den ODL-Sonden der KFÜ kann jedoch aufgrund der niedrigen Nettoortsdosisleistung nicht festgestellt werden.
+
+</TEXT></TimeML>

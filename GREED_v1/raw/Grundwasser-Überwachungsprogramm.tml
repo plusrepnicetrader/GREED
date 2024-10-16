@@ -1,0 +1,702 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>Grundwasser-Überwachungsprogramm</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-09-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-09-01</TIMEX3></DCT>
+<TEXT>Das Grundwassermonitoring der LUBW mit Ergebnisdokumentation und Berichterstattung an die Europäische Union ist elementarer Bestandteil des gewässerkundlichen Dienstes.
+
+Der vorliegende Bericht umfasst im Kapitel „Grundwassermenge“ Auswertungen der Grundwasserneubildung sowie der Grundwasserverhältnisse mit Messdaten aus dem Jahr 2022.
+
+Für das Kapitel „Grundwasserbeschaffenheit“ wurden Messdaten für Nitrat aus dem Jahr 2022 sowie für Pflanzenschutzmittel und deren Metabolite von 2021 ausgewertet.
+
+Insgesamt entsprachen die mittleren Grundwasserverhältnisse im Jahr 2022 langjährig unterdurchschnittlichen Verhältnissen und lagen auf niedrigerem Niveau als im vorangegangenen Jahr.
+
+Die Grundwasserstände haben im Jahr 2022 auf überdurchschnittlichem Niveau begonnen und entsprachen in der ersten Jahreshälfte meist überdurchschnittlichen Verhältnissen.
+
+Die anschließenden Rückgänge waren im heißen und trockenen Juli 2022 so ausgeprägt, dass sich die Grundwasserstände und Quellschüttungen im August auf sehr niedrigem Niveau bewegten.
+
+Dabei erreichten Quellschüttungen örtlich das extrem niedrige Niveau aus den vorangegangenen Jahren, insbesondere aus dem Jahr 2018.
+
+Der nasse September hat den Neubildungsprozess frühzeitig angestoßen und bis zum Jahresende einen durchgehenden Anstieg bewirkt.
+
+Im südlichen und nördlichen Oberrheingraben sowie im Illertal waren 2022 niedrige, in den nordöstlichen Landesteilen hingegen mittlere Grundwasservorräte zu verzeichnen.
+
+Die Anzahl der Messstellen mit rückläufiger Tendenz hat weiter zugenommen.
+
+2022 wurde der Schwellenwert der Grundwasserverordnung für Nitrat von 50 mg/l an rund 8,1 % und der Warnwert von 37,5 mg/l an etwa 19 % der untersuchten Messstellen überschritten.
+
+Somit stellt Nitrat weiterhin die Hauptbelastung im Grundwasser dar.
+
+Seit Beginn der systematischen Messungen in 1994 hat die mittlere Nitratkonzentration im Landesmessnetz Beschaffenheit um rund 24 % abgenommen.
+
+2020/2021 gab es eine zwischenzeitliche leichte Erhöhung der Nitratmittelwerte, die hauptsächlich durch Wechselwirkungen mit Niederschlagsmenge und Witterungsverlauf begründet werden kann.
+
+Seit der Novellierung der Schutzgebiets- und Ausgleichsverordnung (SchALVO) im Jahr 2001 haben sowohl die absoluten Flächen als auch der prozentuale Anteil der hoch belasteten Sanierungsgebiete an der gesamten Wasserschutzgebiet-Fläche deutlich abgenommen.
+
+Die mittleren Nitrat-Konzentrationen sind seitdem in den Sanierungsgebieten um rund 14 %, in den Problemgebieten um 12 % sowie in den Normalgebieten um etwa 6 % zurückgegangen.
+
+Schwellenwert-Überschreitungen durch Pflanzenschutzmittel-Wirkstoffe und deren relevante Metabolite kommen inzwischen nur noch an 1,7 % der untersuchten Messstellen vor.
+
+Allerdings werden nach wie vor bereits seit den 90er Jahren verbotene Wirkstoffe detektiert.
+
+Nicht relevante Metabolite werden in der Regel deutlich häufiger und auch in höheren Konzentrationen nachgewiesen als ihre Ausgangsubstanzen.
+
+Aufgrund der Vielzahl an in der Vergangenheit zugelassenen Wirkstoffen und den vorhandenen Ressourcen kann nicht das vollständige Substanzspektrum durch das Grundwassermonitoring der LUBW überwacht werden.
+
+Trotz rückläufiger Konzentrationen vieler Grundwasser-Schadstoffe werden die Schwellenwerte der Grundwasserverordnung nicht flächendeckend unterschritten.
+
+Das Beispiel der Pflanzenschutzmittel macht deutlich, wie langlebig Grundwasserbelastungen sein können.
+
+Daher sind Schutzmaßnahmen weiter umzusetzen bzw. zu verbessern.
+
+Es ist auch künftig weiterhin regelmäßig zu prüfen, ob die Befunde bereits bekannter Stoffe zurückgehen und ob bislang nicht untersuchte Substanzen die Grundwasserqualität gefährden oder nachteilige Veränderungen der Wasserbeschaffenheit herbeiführen können.
+
+Wesentliche Aufgabe der Wasserwirtschaftsverwaltung ist es, eine nachhaltige Grundwasserbewirtschaftung sicherzustellen und Grundwasserressourcen in qualitativer wie quantitativer Hinsicht für künftige Generationen zu erhalten.
+
+Dazu werden im Rahmen der Grundwasserüberwachung in Baden-Württemberg von der LUBW jährlich landesweit repräsentative Daten erhoben.
+
+Für den vorliegenden Bericht wurden Messergebnisse aus den Jahren 2021 bis 2022 berücksichtigt.
+
+Die Daten des jährlichen Grundwasser-Überwachungsprogramms Baden-Württemberg geben Auskunft sowohl über die Qualität (Grundwasserbeschaffenheit) als auch über die Quantität (Grundwasserstand und Quellschüttung) des Grundwassers, machen unerwünschte Entwicklungen und schädliche Einflüsse sichtbar, erlauben es, geeignete Maßnahmen zur Minimierung von schädlichen Einflüssen zu definieren und ihre Wirksamkeit zu überprüfen, sind die Grundlage für die Erfüllung von Berichtspflichten für Bundesvorgaben sowie für europäische Richtlinien wie insbesondere die Wasserrahmenrichtlinie (WRRL), die Grundwasserrichtlinie (GWRL) und die Nitratrichtlinie.
+
+Dafür werden Messdaten von folgenden Grundwassermessnetzen verwendet: LUBW-Landesmessnetz Menge / quantitatives Grundwassermessnetz: rund 400 Messstellen; drei Teilmessnetze je nach Messstellenart und Untersuchungsintervall LUBW-Landesmessnetz Beschaffenheit / qualitatives Grundwassermessnetz: rund 1.900 Messstellen; fünf Teilmessnetze je nach anthropogener Beeinflussung im Einzugsgebiet der Grundwassermessstelle Kooperationsmessnetz Wasserversorgung (WVU): rund 2.400 Messstellen.
+
+Aufgrund von Kooperationsverträgen von 1984 und 2003 zwischen dem Land Baden-Württemberg und der Wasserversorgungswirtschaft werden dem Land zusätzliche Messdaten zu Nitrat, Pflanzenschutzmitteln (PSM) und weiteren Parametern von den Wasserversorgern bereitgestellt.
+
+Diese Daten stammen im Regelfall von Messstellen in Wasserschutzgebieten (WSG) und werden jährlich unter www.grundwasserdatenbank.de veröffentlicht.
+
+Alle Messergebnisse stehen den Fachbehörden über die Grundwasserdatenbank (GWDB) innerhalb des Informationssystems Wasser, Immissionsschutz, Boden, Abfall, Arbeitsschutz (WIBAS) zur Verfügung.
+
+Aktuelle Informationen sowie der „Jahresdatenkatalog Grundwasser“ werden im Internet unter www.lubw.badenwuerttemberg.de/ wasser/grundwasser veröffentlicht.
+
+In Baden-Württemberg werden über 70 % des Trinkwassers aus Grund- und Quellwasser gewonnen.
+
+Die landesweite Charakterisierung mit Aussagen über den aktuellen Zustand und kurzfristige Entwicklungstendenzen der quantitativen Grundwasserverhältnisse wird anhand ausgewählter, für die Gesamtheit möglichst repräsentativer „Trendmessstellen“ durchgeführt.
+
+Das quantitative Grundwassermessnetz von Baden-Württemberg gibt einen landesweiten Überblick Die Niederschläge im Jahr 2022 entsprachen im langjährigen Vergleich unterdurchschnittlichen Verhältnissen.
+
+Das Flächenmittel der Niederschlagshöhe 2022 betrug in Baden-Württemberg 840 mm, das sind rund 86 % des Niederschlagsmittelwertes der Normalperiode 1991-2020 (Abbildung 1.2).
+
+Dies bedeutet ein Defizit von ca. 140 mm (bzw. l/m²).
+
+Im Jahresverlauf stechen die trockenen Monate März, Mai und insbesondere Juli deutlich hervor.
+
+Die in über Zustand und Entwicklung der Grundwasserverhältnisse.
+
+Die Tabelle 1.1 zeigt die Entwicklung der verschiedenen Mengenmessnetze 2021/2022.
+
+In der LUBW-Publikation „Grundwassermessnetze: Rahmen und Definitionen“ werden die genannten Messnetze beschrieben.
+
+Die Messstellen des Berichtsmessnetzes GUQ der LUBW werden über Datensammler beobachtet und ein bis zweimal im Jahr eine Vor-Ort Kontrolle durchgeführt.
+
+April und Herbst leicht überdurchschnittlichen und ansonsten mittleren Niederschläge konnten dieses Defizit nicht ausgleichen.
+
+Die landesweit höchsten Niederschlagsmengen wurden in den Höhenlagen des Schwarzwalds beobachtet (Abbildung 1.3): Der Jahreshöchstwert wurde in Freudenstadt mit 1.339 mm gemessen, der Monatshöchswert mit 211 mm Niederschlag im August 2022 in Konstanz registriert.
+
+Demgegenüber wurden im Minimum nur 5 mm Niederschlag im trockenen Juli 2022 im Raum Karlsruhe gemessen.
+
+Die Grundwasserneubildung aus Niederschlag ist von entscheidender Bedeutung für die Wiederauffüllung der Grundwasservorräte nach Trockenzeiten.
+
+Die Abfolgen von Perioden über- und unterdurchschnittlicher Niederschläge und der von ihnen beeinflussten, jahreszeitlich unterschiedlichen Versickerungsraten prägen den zeitlichen Verlauf der Grundwasserstände.
+
+Die Grundwasserneubildungsraten unterliegen sowohl zeitlichen – bei Jahreszeit sowie langfristiger Tendenz – als auch räumlichen Schwankungen.
+
+Bei normal ausgeprägtem Jahresgang ist der versickernde Anteil des Winterniederschlags erheblich höher als der des Sommerniederschlags.
+
+Dies liegt insbesondere an der im Winter geringeren Verdunstung infolge der niedrigeren Lufttemperatur.
+
+Die Niederschlagsmenge im hydrologischen Sommerhalbjahr ist in Baden-Württemberg durchschnittlich etwas höher (~55 %) als jene im Winterhalbjahr (~45 %).
+
+Der Niederschlag im Sommer wird jedoch zum großen Teil durch Verdunstung aufgebraucht.
+
+So trägt das Winterhalbjahr im Mittel ca. 75 % zur jährlichen Grundwasserneubildung bei, das Sommerhalbjahr nur ca. 25 %.
+
+Die landesweite Berechnung der Sickerwasserrate mit dem Bodenwasserhaushaltsmodell GWN-BW (Grundwasserneubildung und Bodenwasserhaushalt) ergibt – bezogen auf das 30jährige Mittel von 1991-2020 – nur für den Oktober 2022 eine überdurchschnittliche Sickerwasserrate (Abbildung 1.4).
+
+Vor allem der März aber auch die Monate Mai bis August lieferten weit unterdurchschnittliche Sickerwasserraten.
+
+Der Jahresverlauf 2022 zeigt hinsichtlich der Sickerwasserraten „normale“ Werte in den Monaten des hydrologischen Winterhalbjahres, ausgenommen im sehr trockenen März.
+
+Die Jahresniederschlagsmenge 2022 war jedoch deutlich zu gering.
+
+Die räumlich detaillierte Verteilung der jährlichen Grundwasserneubildung aus Niederschlag im Jahr 2022 sowie deren Umfang bezogen auf den Mittelwert 1991-2020 zeigt die Abbildung 1.5.
+
+Bis auf kleine Bereiche im Nordwesten dominierten 2022 deutlich unterdurchschnittliche Grundwasserneubildungsraten.
+
+Die durchschnittliche Sickerwasserrate erreichte lediglich rund 230 mm/a (unter 70 % vom Mittel).
+
+Die daraus resultierende Grundwasserneubildung blieb unter 120 mm/a und wies damit bezogen auf das 30jährige Mittel von 1991-2020 ein großes Defizit auf (unter 70 % vom Mittel).
+
+Der Vergleich der Niederschlags- und Sickerwassermengen bei den Lysimetern Elgersweier, Rielasingen und Bonlanden mit dem Grundwasserstand an benachbarten Messstellen zeigt deutlich, dass ein Zufluss zum Grundwasser und ein Anstieg des Grundwasserstands in erster Linie vom Winterniederschlag abhängen (Abbildung 1.6).
+
+Zahlreiche Ganglinien zeigen einen synchronen Verlauf mit dem für das Grundwasser ausschlaggebenden Niederschlag im Winterhalbjahr.
+
+Nur in Ausnahmefällen, wie es beispielsweise im Jahr 2021 der Fall gewesen war, können regenreiche Sommermonate Versickerungen bis ins Grundwasser bewirken.
+
+Der im Wesentlichen vom Niederschlag bestimmte oberflächennahe Grundwasserstand steigt normalerweise von November bis März an und fällt dann bis zum Ende des hydrologischen Jahres in den Monaten September / Oktober wieder ab.
+
+Zur Charakterisierung der Grundwasserneubildungsverhältnisse sind die Monatssummen der Niederschläge und die Versickerungsmengen der Jahre 2021 und 2022 an ausgewählten Lysimeterstationen mit den zugehörigen Grundwasserständen an Referenzmessstellen im Vergleich zu 20jährigen Monatsmittelwerten dargestellt (Abbildung 1.6).
+
+Die Beobachtungen an Lysimetern zeigen den verzögerten Beginn des Neubildungsprozesses im hydrologischen Winterhalbjahr 2021/2022, wobei die ersten Sickerungen im Oberrheingraben, im Iller-Riß-Gebiet sowie im Singener Becken zum Jahresende 2021 beobachtet wurden.
+
+Die Grundwasserneubildung konnte durch unterdurchschnittlichen Niederschlag zu Jahresbeginn 2022 nicht Fahrt aufnehmen und setzte im Laufe des trockenen Monats März nahezu aus.
+
+Im Winterhalbjahr 2021/2022 ist insgesamt ein deutliches Neubildungsdefizit entstanden.
+
+Regenreiche Episoden im 2.Quartal haben zwar temporäre Zunahmen der Sickerungen bewirkt, insbesondere im Illertal, diese hatten aber nur unerheblichen Einfluss auf die Grundwasserverhältnisse.
+
+Im anschließenden trockenen und heißen Sommer 2022 kam der Neubildungsprozess bis etwa Ende September vollständig zum Stillstand.
+
+Im Unterschied zu den vorangegangenen Trockenjahren fanden die ersten Sickerungen dank des regenreichen Spätsommers bereits sehr frühzeitig, vor Beginn des hydrologischen Winterhalbjahrs 2022/2023, statt.
+
+Die rasche Erholung der Bodenfeuchte im September hatte so gute Randbedingungen für den Neubildungsprozess geschaffen, dass die knapp durchschnittlichen Niederschläge im letzten Quartal von 2022 dennoch deutliche Versickerungen bis zum Jahresende bewirken konnten.
+
+Im Folgenden werden die regionale und landesweite Zustandsentwicklung der mengenmäßigen Verhältnisse im Grundwasser beschrieben und die im Jahr 2022 beobachteten Tendenzen dargestellt.
+
+In Abbildung 1.7 sind Ganglinien ausgewählter Trendmessstellen dargestellt.
+
+Der Normalbereich (grüne Fläche) repräsentiert den statistisch zu erwartenden Schwankungsbereich von Grundwasserstand oder Quellschüttung in einem bestimmten Monat.
+
+Dieser Bereich wird durch das 90. Perzentil als Obergrenze und das 10. Perzentil als Untergrenze der Monatswerte aus 20 Beobachtungsjahren definiert.
+
+Der langjährige Monatsmedian (20 Jahre) der Einzelmesswerte ist als grüne gestrichelte Linie, die Monatsextrema (20 Jahre, Minimum und Maximum) sind als schwarz gestrichelte Linien dargestellt.
+
+Die Grundwasserstände und Quellschüttungen im Hochrheintal, Wiesental und Klettgau schwankten zu Jahresbeginn sehr stark innerhalb des Normalbereichs.
+
+Ab dem trockenen März haben sich rückläufige Verhältnisse eingestellt, bereichsweise mit vorübergehender Erholungsphase im April.
+
+Im August bewegten sich die Grundwasserstände und Quellschüttungen vielerorts auf langjährigem Minimalniveau.
+
+Im weiteren Jahresverlauf haben niederschlagsbedingte Wiederanstiege für eine Entspannung der Grundwasserverhältnisse bis zum Jahreswechsel gesorgt (Messstelle 124/123-1 in Abbildung 1.7).
+
+Die 20jährigen Trends sind überwiegend ausgeglichen.
+
+Die Grundwasserstände im südlichen Oberrheingraben und in der Freiburger Bucht befanden sich im Jahr 2022 durchgehend auf unterdurchschnittlichem Niveau.
+
+Vielerorts wurden im August langjährige Niedrigstwerte erreicht.
+
+Zum Jahreswechsel hatten sich die Grundwasserverhältnisse meist nicht erholt (Messstelle 029/021-2 in Abbildung 1.7).
+
+Rheinnahe Messstandorte zeigten ein etwas höheres Niveau innerhalb des Normalbereichs.
+
+Die 20jährigen Entwicklungstendenzen sind insgesamt leicht rückläufig.
+
+Signifikante Grundwasseranstiege ab etwa Dezember 2021 haben die Grundwasserstände auf zeitweise überdurchschnittliches Niveau angehoben und für Entspannung im Bereich des mittleren Oberrheins gesorgt.
+
+Wenige trockene Wochen haben jedoch gereicht, diese positive Entwicklung zu stoppen und ab März eine Tendenzumkehr eingeleitet.
+
+Abgesehen von kurzzeitigen Wiederanstiegen im nassen April haben sich im Grundwasser rückläufige Verhältnisse bis auf teilweise historische Niedrigstände im Spätsommer eingestellt.
+
+Der nasse September bewirkte frühzeitige Anstiege, die sich bis zum Jahresende fortgesetzt haben.
+
+Ende Dezember 2022 waren leicht überdurchschnittliche Grundwasserverhältnisse zu verzeichnen (Messstelle 112/065-3 in Abbildung 1.7).
+
+Die 20jährigen Trends sind überwiegend ausgeglichen.
+
+Die Grundwasserstände im nördlichen Oberrhein und insbesondere im Rhein-Neckar-Raum weisen abgesehen von den rheinnahen Standorten eine geringe Schwankungsdynamik auf.
+
+Die Entwicklung im Jahr 2022 wiederholt annähernd den Verlauf von 2021.
+
+Die unterdurchschnittlichen Verhältnisse Ende 2021 haben sich zu Jahresbeginn 2022 niederschlagsbedingt nur gering erholt und waren im weiteren Jahresverlauf dauerhaft unterdurchschnittlich, teilweise unterhalb des Normalbereichs.
+
+Die Herbstniederschläge haben für eine leichte Entspannung gesorgt.
+
+Bis Jahresende stiegen die Grundwasserstände auf leicht unterdurchschnittliches Niveau an (Messstelle 119/307-5 in Abbildung 1.7).
+
+Die 20jährige Entwicklungstendenz ist in Rheinnähe wenig ausgeprägt, an den rheinfernen Standorten sind rückläufige Verhältnisse zu beobachten.
+
+Im Singener Becken und Bodenseebecken sowie im Argendelta haben sich die Grundwasserverhältnisse durchgehend im unteren Normalbereich rückläufig entwickelt, aber selten darunter.
+
+Die Niederschlagsereignisse hatten im Regelfall keinen nennenswerten Einfluss auf die Schwankungsdynamik.
+
+Die Grundwasserverhältnisse bewegten sich zum Jahresende 2022 an der Untergrenze des Normalbereichs (Messstelle 2034/522-3 in Abbildung 1.7).
+
+Die 20jährige Entwicklungstendenz ist immer noch ausgeglichen.
+
+Die Grundwasserverhältnisse im Rißtal und in Oberschwaben haben sich im gesamten Jahresverlauf 2022 dauerhaft rückläufig entwickelt.
+
+Bereichsweise wurden im Herbst die bisherigen langjährigen Niedrigstwerte unterschritten.
+
+Diese ungünstige Situation hat sich oft bis Jahresende fortgesetzt, lediglich gewässernahe Messstellen zeigten erwartungsgemäß niederschlagsbedingte Anstiege.
+
+Die 20jährige Entwicklungstendenz ist ausgeglichen.
+
+Die Entwicklung der Grundwasserstände in den quartären Talfüllungen des Donautals spiegelt das Niederschlagsgeschehen wider.
+
+Die Grundwasserstände schwanken im ersten Quartal 2022 entsprechend der Abfolge von feuchten und trockenen Abschnitten sehr stark im unteren Normalbereich.
+
+Nach den sommerlichen Rückgängen auf ein bereichsweise niedriges Niveau wird die Situation bis Jahresende durch markante Anstiege charakterisiert (Messstelle 165/568-0 in Abbildung 1.7).
+
+Die 20jährigen Trends sind ausgeglichen bis leicht rückläufig.
+
+Die Grundwasserverhältnisse im Illertal und im Bereich der Leutkircher Heide haben sich im Jahr 2022 unterschiedlich entwickelt.
+
+Der Jahresbeginn verlief insgesamt unauffällig auf mittlerem Niveau mit Rückgängen bis zum Spätsommer.
+
+Südlich von Aitrach bewegten sich die Grundwasserstände ab Mai vielfach unterhalb des Normalbereichs auf niedrigem Niveau mit leichten Anstiegen zu Jahresende (Messstelle 157/770-0 in Abbildung 1.7).
+
+Nördlich von Tannheim lagen die Grundwasserstände – abgesehen von der ausgeprägten Niedrigwassersituation im Spätsommer – etwas höher als im Süden innerhalb des unteren Normalbereichs und haben nach eindrucksvollen Anstiegen im September zum Jahresende ein mittleres Niveau erreicht.
+
+Die 20jährigen Trends sind ausgeglichen.
+
+Grundwasserstände und Quellschüttungen im Karstaquifer der Schwäbischen Alb reagieren zeitnah auf Niederschlagsereignisse.
+
+Dies spiegelt sich in der Grundwasserdynamik wider, mit Wechseln von ausgeprägten Rückgangsphasen und steilen Anstiegsphasen.
+
+Starke Niederschläge zum Jahresbeginn 2022 hatten kurzfristige Anstiege auf mittleres Niveau zur Folge.
+
+Mit Rückkehr der Trockenheit haben sich in Kürze rückläufige Tendenzen entwickelt, so dass bis zum Herbst meist niedrige Verhältnisse zu verzeichnen waren.
+
+Infolge der herbstlichen Anstiege wurde zu Jahresende wieder ein langjährig mittleres Niveau erreicht (Messstelle 601/517-7 in Abbildung 1.7 und Messstelle 600/665-7 in Abbildung 1.8).
+
+Der 20jährige Trend ist ausgeglichen bis leicht rückläufig.
+
+Im Bereich der Ostalb war die Grundwasserdynamik im Jahr 2022 geprägt vom Niederschlagsgeschehen.
+
+Grundwasserstände und Quellschüttungen schwankten im ersten und im letzten Quartal sehr stark innerhalb des Normalbereichs.
+
+Dazwischen waren die Grundwasserverhältnisse rückläufig auf überwiegend unterdurchschnittlichem Niveau.
+
+Niedrigwassersituationen kamen jedoch selten vor (Messstelle 102/762-4 in Abbildung 1.7).
+
+Die 20jährigen Trends sind bereichsweise signifikant rückläufig.
+
+Sowohl die Grundwasserstände im Neckarbecken als auch die Quellschüttungen in den Schwäbisch-Fränkischen Waldbergen spiegeln im Jahr 2022 das Niederschlagsgeschehen wider.
+
+Nach mehrfachen eindrucksvollen Anstiegen auf hohe Werte zu Jahresbeginn mit unmittelbar anschließenden Rückläufen bewegten sich die Grundwasserverhältnisse von Mai bis September auf unterdurchschnittlichem Niveau, zeitweise auch unterhalb des unteren Normalbereichs.
+
+Nach niederschlagsbedingten Anstiegen entsprechen die Grundwasserverhältnisse zum Jahresende den langjährigen Erfahrungswerten (Messstelle 20/558-6 in Abbildung 1.7).
+
+Die 20jährige Entwicklung der Grundwasserstände und Quellschüttungen ist ausgeglichen.
+
+Die Entwicklung der Grundwasserstände im Bereich der Flusstäler von Tauber, Kocher und Jagst ist von den Abflussbedingungen der benachbarten Fließgewässer geprägt.
+
+Signifikante und mehrmalige Anstiege zum Jahresbeginn von 2022 hatten eine deutliche Entspannung der Grundwasserverhältnisse bis zum Sommer zur Folge.
+
+Die Grundwasserstände waren anschließend rückläufig, aber meist noch innerhalb des unteren Normalbereichs.
+
+Starke Herbstniederschläge bewirkten ab etwa November steile Grundwasseranstiege auf ein überdurchschnittliches Niveau.
+
+Zum Jahresende bewegten sich die Grundwasserstände überwiegend auf mittlerem Niveau (Messstelle 5008/606-9 in Abbildung 1.7).
+
+Die 20jährigen Entwicklungstendenzen sind ausgeglichen.
+
+Steile niederschlagsbedingte Anstiege zum Jahresbeginn 2022 haben die Quellschüttungen in den Festgesteinen von Nord-Württemberg und Odenwald binnen weniger Tage auf überdurchschnittliches Niveau angehoben.
+
+Der Rückgang ab Mai 2022 entsprach der langjährigen Entwicklung.
+
+Nach kurzzeitig niedrigen Verhältnissen im Herbst waren erneut signifikante Zunahmen bis Jahresende zu verzeichnen (Messstelle 600/554-9 in Abbildung 1.7).
+
+Die langjährige Entwicklungstendenz ist ausgeglichen.
+
+Die Grundwasserverhältnisse haben sich im Kraichgau im Jahr 2022 entgegen der Erwartungen entspannt.
+
+Der gesamte Jahresverlauf 2022 verlief - abgesehen von niederschlagsbedingten Schwankungen im oberen Normalbereich bis April - unauffällig entlang der vieljährigen Mediankurve.
+
+Die in den anderen Landesteilen drastische Niedrigwassersituation im Spätsommer geht aus den Grundwasserstands- und Quellschüttungsganglinien im Kraichgau nicht hervor (Messstelle 600/309-4 in Abbildung 1.7).
+
+Im Kraichgau weisen die meisten Messstellen rückläufige 20jährige Trends auf.
+
+Die Quellen im Schwarzwald haben überwiegend kleinräumige Einzugsgebiete und weisen ausgeprägte, niederschlagsbedingte Schüttungsschwankungen auf.
+
+Nach Anstiegen zu Jahresbeginn entwickelten sich die Schüttungen bis in den Herbst 2022 rückläufig.
+
+Die Schüttungen waren monatelang zwischen Juni und September niedrig, wobei vielerorts die bisherigen langjährigen Niedrigstwerte unterschritten wurden.
+
+Die Auswirkungen der Herbstniederschläge waren örtlich unterschiedlich, hatten aber eine Erholung der Schüttungen zur Folge.
+
+Zum Jahresende bewegten sich die Schüttungen auf etwa mittlerem Niveau (Messstellen 600/121-0 und 006/269-9 in Abbildung 1.7 sowie 600/263-6 in Abbildung 1.8).
+
+Die 20jährigen Trends sind ausgeglichen.
+
+Eine Gesamtschau auf die quantitativen Grundwasserverhältnisse 2022 lässt sich auf der Grundlage 20jähriger Beobachtungsreihen durchführen.
+
+In Abbildung 1.9 sind hierzu die normierten Ganglinien von Trendmessstellen zusammengefasst dargestellt.
+
+Der langjährig mittlere Jahresgang (blaue Fläche) wird aus normierten und anschließend gemittelten Monatsmittelwerten der Einzelmessstellen berechnet.
+
+Das Berichtsjahr 2022 wird als Linie dargestellt.
+
+Die Abbildung 1.10 zeigt die messstellenbezogene Beurteilung der quantitativen Grundwasserverhältnisse auf der Grundlage der Mittelwerte im Jahr 2022 im 20jährigen Vergleich.
+
+Darüber hinaus wurden zur Beurteilung der Entwicklungstendenzen die linearen Trends aus 20 Beobachtungsjahren ausgewertet.
+
+Die aufgeführten Standorte sind für die zugehörigen Grundwasserlandschaften repräsentativ.
+
+Die verwendeten Farben veranschaulichen den standortspezifischen Zustand des Grundwasserdargebots im Vergleich zu den langjährigen Grundwasserverhältnissen.
+
+Die Symbole stehen für den zunehmenden, gleichbleibenden bzw. abnehmenden Trend.
+
+Im Jahr 2022 sind im Grundwasser drei aufeinanderfolgende Phasen erkennbar (Abbildung 1.9).
+
+Im ersten Zeitabschnitt bis Mai waren die Grundwasserverhältnisse geprägt durch ausgeprägte niederschlagsbedingte Schwankungen auf überdurchschnittlichem Niveau.
+
+Der trockene März hat zu einem sehr frühen und damit ungünstigen Zeitpunkt noch im Winterhalbjahr den Neubildungsprozess gestört und den Rückgang der Grundwasserstände und Quellschüttungen eingeleitet.
+
+Die starken Aprilniederschläge haben wiederum zu einer kurzzeitigen Entspannung zum Ende des hydrologischen Winterhalbjahres geführt.
+
+Die Schwankungen in der ersten Jahreshälfte 2022 an den gewässernahen Grundwasserstandsmessstellen und insbesondere an den Quellen waren so ausgeprägt, dass mitunter vieljährige Höchstwerte erreicht wurden.
+
+Der Versickerungsprozess ist innerhalb weniger Wochen nach Beginn des hydrologischen Sommerhalbjahrs erwartungsgemäß ins Stocken geraten.
+
+Die Rückgänge im Grundwasser begannen ab Mai.
+
+Diese Rückläufe waren im heißen und trockenen Juli 2022 besonders ausgeprägt mit der Konsequenz, dass sich die Grundwasserstände und Quellschüttungen im August auf niedrigem Niveau bewegten.
+
+Quellschüttungen erreichten dabei örtlich das extrem niedrige Niveau aus den vorangegangenen Jahren, insbesondere aus dem ausgeprägten Trockenjahr 2018.
+
+Der nasse September hat anschließend in den meisten Landesteilen den Neubildungsprozess frühzeitig angestoßen und dadurch eine willkommene Anstiegsphase bewirkt.
+
+Grundwasserstände und Quellschüttungen stiegen im weiteren Jahresverlauf unauffällig aber stetig innerhalb des Normalbereichs an.
+
+Die auf Niederschläge ausgeprägter reagierenden Quellschüttungen sprechen grundsätzlich direkter auf innerjährliche Schwankungen an und haben im letzten Quartal besonders stark zugenommen.
+
+Die Grundwasserverhältnisse waren zum Jahresende leicht überdurchschnittlich.
+
+Insgesamt entsprechen die durchschnittlichen Grundwasserstände im Jahr 2022 langjährig unterdurchschnittlichen Verhältnissen und liegen auf niedrigerem Niveau als im vorangegangenen Jahr.
+
+Die Grundwasservorräte haben auf überdurchschnittlichem Niveau begonnen und entsprachen in der ersten Jahreshälfte meist überdurchschnittlichen Verhältnissen.
+
+Nach markanten Rückgängen im Sommer hat sich die Situation nach den starken Spätsommerniederschlägen allmählich im Herbst entspannt.
+
+Im jährlichen Landesmittel waren die Grundwasserverhältnisse unterdurchschnittlich.
+
+Im südlichen und nördlichen Oberrheingraben sowie im Illertal waren 2022 teils niedrige, in den nordöstlichen Landesteilen hingegen – wie es bereits im Jahr 2021 der Fall gewesen war – mittlere Grundwasserverhältnisse zu verzeichnen (Abbildung 1.10).
+
+Die Messstellen zeigten bei den Quellen und den meisten Grundwasserständen einen insgesamt moderaten 20jährigen Trend mit Zuwachs an Messstellen mit rückläufiger Tendenz.
+
+Das qualitative Grundwassermessnetz (Landesmessnetz Beschaffenheit) wird von der LUBW betrieben und gibt einen landesweiten Überblick über Zustand und Entwicklung der Grundwasserqualität hauptsächlich im oberflächennahen Grundwasser.
+
+Es setzt sich zusammen aus Beobachtungsrohren, Quellen, unterschiedlich genutzten Brunnen wie Beregnungsbrunnen und Brauchwasserbrunnen von privaten Nutzern sowie Rohwasserbrunnen für die Trinkwassergewinnung von Wasserversorgungsunternehmen.
+
+Für eine Emittentenbezogene Auswertung der Zwischen dem 1.1.2021 und dem 31.12.2022 sind 27 Messstellen aus dem Landesmessnetz Beschaffenheit ausgeschieden.
+
+Ist eine Messstelle nicht mehr reparabel, zerstört bzw. defekt, sodass keine sachgerechte Probenahme mehr möglich ist, wird seitens des Messnetzbetriebs Grundwasser der LUBW geprüft, inwieweit eine andere bestehende Messstelle als Ersatz aus der Zuständigkeit der Land- oder Stadtkreise als Untere Wasserbehörde oder ggf. von Dritten in das Landesmessnetz übernommen werden kann.
+
+Ist eine ausreichende Abdeckung des Grundwasserkörpers mit bestehenden Messstellen gegeben, kann die Messstelle ersatzlos in die Zuständigkeit der Land- oder Stadtkreise abgegeben werden.
+
+Messnetz-Änderungen haben an Dynamik zugenommen.
+
+Die Fortschreibung des Landesmessnetzes macht einen erheblichen Anteil der Aufgaben im Messnetzbetrieb Grundwasser der LUBW aus.
+
+Dabei ist anzumerken, dass das gesamte Landesmessnetz Beschaffenheit zum 1.1.2021 Messdaten sind die Messstellen des Landesmessnetz Beschaffenheit seit Ende 2020 in ein Teilmessnetz Geogener Hintergrund (davor Basismessnetz) und vier Emittentenorientierte Teilmessnetze aufgeteilt (Tabelle 2.1).
+
+In der LUBW-Publikation „Grundwassermessnetze: Rahmen und Definitionen“ werden die genannten Messnetze beschrieben.
+
+Die Messstellen im Landesmessnetz Beschaffenheit werden seit 2022 im Regelfall zweimal im Jahr beprobt und auf Nitrat, Nitrit sowie Ammonium untersucht.
+
+umfangreich überarbeitet wurde und nicht nur Messstellen teilweise ausgeschieden bzw. neu hinzugekommen sind, sondern nach Prüfung der Landnutzung im Einzugsgebiet auch zwischen den Teilmessnetzen neu zugeordnet wurden.
+
+In den nachstehenden Kapiteln werden folgende Ergebnisse aus dem gesamten Landesmessnetz Beschaffenheit dargestellt: Nitrat von 2022; teilweise wurden auch Messdaten aus dem Kooperationsmessnetz Wasserversorgung ausgewertet.
+
+Pflanzenschutzmittel (PSM) und Metabolite von 2021 Nitrat ist ein grundlegender Nährstoff für die Pflanzenernährung und produktion.
+
+Grundwasser enthält von Natur aus wenig Nitrat, da in Gesteinen und in naturbelassenen Böden nur wenig leicht verfügbarer Stickstoff enthalten ist.
+
+Erst durch den Einsatz großer Mengen stickstoffhaltiger Dünger in Landwirtschaft und Gartenbau reichert sich Nitrat im Boden an.
+
+Dabei werden anorganische Dünger / Mineraldünger und organische Dünger – wie Gülle, Jauche, Mist – verwendet.
+
+Weitere stickstoffhaltige Düngemittel sind Gärreste und Komposte, welche aus der Verwertung organischer Abfälle in Biogas- und Kompostanlagen stammen.
+
+Der Großteil der Nitrateinträge in das Grundwasser stammt aus landwirtschaftlichen Nutzungen.
+
+In Siedlungsgebieten kann Stickstoff lokal durch die Düngung von Grünanlagen, Sportplätzen und Privatgärten sowie aus defekten Abwasseranlagen in den Boden gelangen.
+
+Eine weitere mögliche Quelle von Stickstoff - in Baden-Württemberg von untergeordneter Bedeutung - stellt in fließgewässernahem Grundwasser das in Fließgewässer eingeleitete gereinigte Abwasser dar.
+
+In geringen Mengen können weitere Stickstoffverbindungen - wie Stickoxide aus Verbrennungsvorgängen und Ammoniak aus der Nutztierhaltung - über die Luft und den Niederschlag in den Boden gelangen.
+
+Im Boden werden Stickstoffverbindungen zum großen Teil zu Nitrat umgewandelt.
+
+Nitrat ist sehr gut wasserlöslich, wird kaum an Bodenpartikeln gebunden und ist daher sehr mobil.
+
+Nitrat, das von den Pflanzen nicht aufgenommen wird, wird aus dem Boden ausgewaschen und gelangt mit dem Sickerwasser ins Grundwasser.
+
+Bei bis in die ungesättigte Bodenzone ansteigendem Grundwasserspiegel kann das Grundwasser Nitrat auch aus den Porenräumen des Bodens herauslösen.
+
+Im Grundwasser selbst, also außerhalb der belebten Bodenzone, wird Nitrat kaum abgebaut: Bei sauerstoffarmen und sauerstofffreien Bedingungen kann Nitrat zu Nitrit, Ammonium und Stickstoffgasen reduziert werden.
+
+Für Nitrat besteht eine Reihe von rechtlichen Regelungen (Tabelle 4.4).
+
+Für die Auswertung wurden der Schwellenwert (SW) der Grundwasserverordnung (GrwV) von 50 mg/l (entspricht dem Grenzwert (GW) der Trinkwasserverordnung (TrinkwV)) sowie der Warnwert (WW) des Grundwasser-Überwachungsprogramms von 37,5 mg/l (entspricht 75 % des Schwellenwertes) herangezogen.
+
+Nitrat wurde 2022 im gesamten Landesmessnetz Beschaffenheit (knapp 1.900 Messstellen) untersucht.
+
+Der Schwellenwert für Grundwasser wurde an 150 (8,1  %) und der Warnwert an 344 (19 %) der Messstellen überschritten (Tabelle 2.2).
+
+Der Höchstwert betrug 183 mg/l Nitrat.
+
+90 % der Messstellen lagen unter 47 mg/l Nitrat.
+
+Die verschiedenen Teilmessnetze zeigten dabei sehr unterschiedliche Belastungsniveaus (Tabelle 2.2, Abbildung 2.1, Abbildung 4.3): Das Teilmessnetz Geogener Hintergrund, welches aus anthropogen möglichst wenig beeinflussten Messstellen besteht, hatte das niedrigste Belastungsniveau mit einem Mittelwert von 6,2 mg/l und keiner Schwellen- /Warnwertüberschreitung.
+
+Das Teilmessnetz Landwirtschaft wies mit einem Mittelwert von 30 mg/l das höchste Belastungsniveau aller Teilmessnetze auf; der Schwellenwert wurde an 14 % der Messstellen überschritten, der Warnwert an 31 %.
+
+Die großräumige regionale Verteilung der Nitratbelastung war 2022 nahezu unverändert im Vergleich zu den Vorjahren (Abbildung 2.2).
+
+Die Gebiete zwischen Mannheim / Heidelberg und Bruchsal, der Kraichgau, der Neckarraum zwischen Stuttgart und Heilbronn, der Main-Tauber-Kreis, das Markgräfler Land sowie die Region Oberschwaben sind weiterhin stark belastet.
+
+Neben diesen Hauptbelastungsregionen gibt es noch einige kleinere Gebiete mit erhöhten Nitratkonzentrationen wie das Singener Becken, das mittlere Wutachgebiet zwischen den Orten Blumberg und Stühlingen, die Region nördlich des Kaiserstuhls um Forchheim und Weisweil, das Gebiet um Neuried im Ortenaukreis sowie Teile des östlichen Ostalbkreises und des Landkreises Schwäbisch Hall.
+
+2022 wurde erstmals das gesamte Landesmessnetz Beschaffenheit sowohl im Frühjahr als auch im Herbst auf Nitrat untersucht.
+
+Aus April/Mai lagen von 1803 Messstellen und aus September von 1626 Messstellen auswertbare Nitratwerte vor.
+
+Davon waren 1580 Messstellen konsistent, d.h. von diesen Messstellen gab es sowohl vom Frühjahr als auch vom Herbst belastbare Messwerte für Nitrat.
+
+Die vergleichende Betrachtung der Nitrat-Konzentrationsverteilung bei den konsistenten Messstellen (Abbildung 2.3) zeigt, dass die Nitratwerte im Frühjahr leicht höher lagen.
+
+Manche Messstellen zeigen regelmäßige jahreszeitliche Schwankungen (Abbildung 2.4).
+
+Bei Bedarf werden diese Messstellen viermal im Jahr untersucht.
+
+In den letzten 10 Jahren zeigt die Überschreitungshäufigkeit des Schwellenwerts einen nahezu kontinuierlichen Rückgang von 10,2 auf 8,1 % der jeweils untersuchten Messstellen (Abbildung 2.5).
+
+Mittelwert und Median verändern sich nicht wesentlich.
+
+Bei der Überschreitungshäufigkeit des Warnwertes lassen sich im betrachteten 10-Jahreszeitraum zwei Phasen mit jeweils unterschiedlichen Prozentzahlen unterscheiden: um die 20 % bis 2016 und um die 18 % ab 2017.
+
+Zwischen 1994 und 2022 hat die mittlere Nitratkonzentration der kontinuierlichen untersuchten, d.h. konsistenten Messstellen, im gesamten Landesmessnetz Beschaffenheit um 6,9 mg/l (24 %) abgenommen (Abbildung 2.6.).
+
+Im Teilmessnetz Geogener Hintergrund ist das Niveau gegenüber dem Beginn der Datenreihe um 1,5 mg/l (20 %) gesunken.
+
+Im Teilmessnetz Landwirtschaft ist die durchschnittliche Belastung seit 1994 um 8,1  mg/l (21  %) zurückgegangen.
+
+2022 lagen die Nitrat-Mittelwerte im Vergleich zu 2021 wieder niedriger: Im gesamten Landesmessnetz sowie im Teilmessnetz Landwirtschaft waren die Nitrat-Mittelwerte allerdings 2022 noch leicht höher als in 2020.
+
+Im Teilmessnetz Geogener Hintergrund liegen die Nitrat-Mittelwerte seit 2014 bei 6,0 ± 0,1 mg/l.
+
+Der zwischenzeitliche Anstieg in 2021 kann auf den schon seit vielen Jahren beobachteten Zusammenhang der Nitratgehalte mit Niederschlagsmenge und Witterungsverlauf zurückgeführt werden.
+
+2018 und 2020 waren die mittleren Jahresniederschläge in Baden-Württemberg besonders niedrig, während 2021 das erste Jahr seit 2013 mit durchschnittlichen Jahresniederschlägen war.
+
+2022 lagen die mittleren Jahresniederschläge wiederum bei 86 % des langjährigen Mittels (Abbildung 1.2).
+
+Zwischenzeitliche Anstiege wurden v.a. 1999 sowie 2013 beobachtet.
+
+Diesen gingen in der Regel relativ trockene Jahre (1997, 2011) voraus.
+
+In trockenen Jahren mit wenig Sickerwasserbildung und niedrigen Grundwasserständen wird vergleichsweise mehr Stickstoff im Boden gespeichert.
+
+In darauffolgenden Jahren mit normalen oder erhöhten Niederschlagsmengen mit mehr Sickerwasserbildung wird das im Boden gespeicherte Nitrat in das Grundwasser gelöst.
+
+Durch steigende Grundwasserspiegel wird außerdem Nitrat aus der in den trockenen Jahren ungesättigten Aquiferzone rückgelöst.
+
+In 2021 wurde das gesamte Landesmessnetz im Frühjahr beprobt und rund 1.000 Messstellen im Herbst.
+
+In den Vorjahren wurde hingegen der Großteil der Messstellen im Herbst und ein kleinerer Anteil im Frühjahr auf Nitrat untersucht.
+
+2022 wurden die meisten Messstellen sowohl im Frühjahr als auch im Herbst auf Nitrat untersucht.
+
+Maßnahmen zur Reduzierung der Nitrateinträge ins Grundwasser resultieren in Baden-Württemberg neben der Düngeverordnung (DüV) insbesondere aus der Schutzgebiets- und Ausgleichsverordnung (SchALVO) und dem in 2015 aufgelegten Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl (FAKT) bzw. davor dem Marktentlastungs- und Kulturlandschaftsausgleichsprogramm (MEKA).
+
+Die SchALVO dient dem Schutz des Grundwassers in WSG vor Beeinträchtigungen durch Stoffeinträge aus der Landwirtschaft.
+
+In mit Nitrat und / oder PSM belasteten Gebieten gelten besondere Auflagen für die Landwirtschaft, für die entsprechende Ausgleichszahlungen beantragt werden können.
+
+Zur Bewertung der Nitratsituation stufen die unteren Verwaltungsbehörden (UVB) die rechtlich festgesetzten WSG anhand der Nitratgehalte, gemittelt über die vergangenen zwei Jahre, wie folgt ein: Nitratklasse 1: Normalgebiete mit Nitrat ≤ 25 mg/l oder Nitratklasse 2: Problemgebiete mit Nitrat ≥ 35 mg/l oder Nitratklasse 3: Sanierungsgebiete mit Nitrat ≥ 50 mg/l Darüber hinaus werden PSM-Sanierungsgebiete festgelegt, wenn die Konzentration an zugelassenen PSM oder deren Abbauprodukten ≥ 0,1 µg/l liegt.
+
+Stand 01.01.2023 gibt es kein PSM-Sanierungsgebiet.
+
+Nitrat zwischen 25 und 35  mg/l ohne ansteigenden Trend Nitrat ≥ 25 mg/l mit ansteigendem Trend oder Nitrat ≥ 40 mg/l mit ansteigendem Trend Die Ersteinstufung erfolgte im Jahr 2001 und wurde mit der sogenannten „Deklaratorischen Liste“ im Gesetzblatt Baden-Württemberg am 28.02.2001 veröffentlicht.
+
+Seitdem wird jeweils zum 1.Januar eines Jahres die Einstufung der WSG durch die unteren Verwaltungsbehörden fortgeschrieben.
+
+Seit 2011 wird die Deklaratorische Liste jährlich auf der Internetseite der LUBW veröffentlicht: www.lubw.
+
+badenwuerttemberg.de/wasser/wasserschutzgebiete.
+
+Durch Neuausweisung, Aufhebung, Zusammenlegung und Erweiterung von WSG ändern sich die Gesamtanzahlen und –flächen von Jahr zu Jahr.
+
+Landesweit hat die Gesamtfläche von 2001 bis 2023 um knapp 145.000 ha auf rund 965.000 ha zugenommen (Abbildung 2.7).
+
+Dies entspricht rund 27 % der Landesfläche.
+
+Zum Stichtag 01.01.2023 sind rund 82 % der WSG-Flächen als Normalgebiet eingestuft, etwa 17 % als Problemgebiet und rund 1,6 % als Sanierungsgebiet.
+
+Seit 2001 haben sowohl die absoluten Flächen als auch der prozentuale Anteil der Sanierungsgebiete an der gesamt WSG-Fläche deutlich abgenommen.
+
+In den Sanierungsgebieten sind die mittleren Nitrat-Konzentrationen seit 2001 um insgesamt 7,4 mg/l (14 %) zurückgegangen (Abbildung 2.8, WSG gemäß SchALVO-Ersteinstufung von 2001).
+
+Seit 2015 liegen sie auf einem Niveau von 43,5 ± 0,6 mg/l.
+
+In den Problemgebieten sind die Nitrat-Konzentrationen seit 2001 um 4,4 mg/l (12 %) gesunken.
+
+Hier stagnieren sie seit 2012 auf einem Niveau von 32 ±  0,7 mg/l.
+
+In den Normalgebieten sanken die mittleren Nitratwerte seit 2001 um 0,9 mg/l (6 %).
+
+Für diese Auswertung wurden neben den Nitratdaten aus dem Landesmessnetz Beschaffenheit auch Nitratdaten der Wasserversorger (Kooperationsmessnetz WVU) verwendet.
+
+Für das Jahr 2022 wurden der LUBW bis zum 19.07.2023 durch die Grundwasserdatenbank Wasserversorgung (GWD-WV) insgesamt 4.153 Nitratwerte von 2.155 Messstellen übermittelt.
+
+Stand Dezember 2021 waren in der Bundesrepublik Deutschland 281 PSM-Wirkstoffe in gut 1.800 Handelsprodukten auf dem Markt.
+
+Im Jahr 2021 betrug der Inlandsabsatz gut 29.000 Tonnen Wirkstoffe; mit 56 % machten Herbizide dabei den mengenmäßig größten Anteil aus, gefolgt von Fungiziden mit 33 %.
+
+Die meisten PSM werden in der Landwirtschaft eingesetzt.
+
+Nur 1,6 % der abgesetzten Wirkstoffmenge geht an nichtberufliche Verwender   (https://www.bvl.bund.de/DE/Arbeitsbereiche/04_Pflanzenschutzmittel/01_Aufgaben/02_ZulassungPSM/03_ PSMInlandsabsatzAusfuhr/psm_PSMInlandsabsatzAusfuhr_node.html).
+
+Pflanzenschutzmittel dürfen gemäß Pflanzenschutzgesetz (Gesetz zum Schutz der Kulturpflanzen) nur auf Freilandflächen angewendet werden, die landwirtschaftlich, gärtnerisch oder forstwirtschaftlich genutzt werden.
+
+Insbesondere Herbizide werden aber auch auf Nichtkulturland, wie Böschungen, gepflasterten oder nicht versiegelten Brach- und Betriebsflächen, Flugplätzen, Gleisanlagen, Straßen sowie auf Parkplätzen angewendet, um diese beispielsweise zur Wahrung der Verkehrs- und Betriebssicherheit von Pflanzenbewuchs freizuhalten.
+
+Diese Anwendungen bedürfen nach Pflanzenschutzgesetz jeweils einer Ausnahmegenehmigung durch die zuständige untere Verwaltungsbehörde oder das Regierungspräsidium.
+
+Pflanzenschutzmittel werden in der Umwelt abgebaut und umgewandelt, so dass aus den ausgebrachten Wirkstoffen Metabolite entstehen.
+
+Bei der Bewertung werden relevante Metabolite (rM) und nicht relevante Metabolite (nrM) unterschieden.
+
+Relevante Metabolite haben eine definierte pestizide (Rest-)Aktivität und/oder ein pflanzenschutzrechtlich relevantes humantoxisches oder ökotoxisches Wirkungspotenzial.
+
+Nicht relevante Metabolite haben zwar keine solche Wirkungen mehr, zeigen aber in Versickerungsstudien unter worstcase Bedingungen auffällige Konzentrationen.
+
+Es handelt sich um grundwasserfremde Stoffe, deren Eintrag ins Grundwasser aus Gründen eines nachhaltigen Ressourcenschutzes so weit wie möglich zu vermeiden ist.
+
+Die Zulassung von PSM erfolgt durch das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL).
+
+Befunde von zugelassenen PSM und deren relevanten Metaboliten über 0,1 µg/l bzw. von deren nicht relevanten Metaboliten über 10 µg/l können dem BVL gemeldet werden, das auf dieser Grundlage den Zulassungsinhaber mit einer Fundaufklärung beauftragen kann.
+
+Fundaufklärungsverfahren können in Anwendungsbeschränkungen resultieren.
+
+Das BVL kann außerdem die Anwendung bestimmter zugelassener PSM in Wasserschutzgebieten verbieten, wenn das Grundwasser mit nicht relevanten Metaboliten belastet ist.
+
+Dafür haben die Wasserversorger die Möglichkeit, erhöhte Befunde von nicht relevanten Metaboliten an das BVL zu melden.
+
+Pflanzenschutzmittel haben gemäß ihrem Anwendungszweck toxische Wirkung, so dass eine Reihe von rechtlichen Regelungen (Tabelle 4.5) besteht.
+
+Für die Auswertung wurde der Schwellenwert der Grundwasserverordnung von 0,1 µg/l für einzelne Wirkstoffe / relevante Metabolite sowie von 0,5 µg/l für deren Summe herangezogen.
+
+Die Summe PSM wurde gebildet aus allen gemessenen Wirkstoffen / relevanten Metaboliten, wobei Werte kleiner der Bestimmungsgrenze gleich Null gesetzt wurden.
+
+Nicht relevante Metabolite wurden anhand ihrer gesundheitlichen Orientierungswerte (GOW, 1 bzw. 3 µg/l) bewertet (Tabelle 2.7).
+
+LUBW-Untersuchungen auf Wirkstoffe / relevante Metabolite laufen seit 1989 und auf nicht relevante Metabolite seit 2006.
+
+Aufgrund der großen Wirkstoff- und Produktvielfalt am Markt und dem wechselnden Zulassungsgeschehen wurden in den vergangenen Jahren über 200 Einzelstoffe analysiert.
+
+Bislang nicht untersuchte Stoffe wurden dabei zunächst pilotmäßig an risikobasiert ausgewählten Messstellen und je nach Befundlage anschließend im gesamten Landesmessnetz Beschaffenheit untersucht.
+
+Durch dieses Monitoring steht für viele PSM eine große und statistisch verlässliche Datenbasis zur Verfügung.
+
+Aufgrund der Vielzahl an in der Vergangenheit zugelassenen Wirkstoffen kann allerdings nur ein Teil des Substanzspektrums durch das Grundwassermonitoring der LUBW überwacht werden.
+
+Die PSM-Messdaten aus Baden-Württemberg fließen auch in die bundesweiten PSM-Berichte der LAWA (Bund-/ Länderarbeitsgemeinschaft Wasser) ein.
+
+Die Daten 2013-2016 wurden in 2019 veröffentlicht: https://www.lawa.de/documents/lawaberichtzurgwbeschaffenheit-psm_2_1558355266.pdf.
+
+Aktuell wird die entsprechende bundesweite Veröffentlichung der Daten 2017-2021 vorbereitet.
+
+2021 wurden 17 Wirkstoffe und drei relevante Metabolite (siehe Tabelle 2.4 für eine Liste der analysierten Einzelstoffe) im gesamten Landesmessnetz Beschaffenheit (knapp 1.900 Messstellen) untersucht.
+
+Der am häufigsten nachgewiesene Wirkstoff war das bereits seit 1990 nicht mehr zugelassene Atrazin, welches an 52 (2,8 %) der Messstellen nachgewiesen wurde (Abbildung 2.10).
+
+An 141 (7,6 %) der Messstellen wurde außerdem sein relevanter Metabolit Desethylatrazin gefunden.
+
+An mehr als 1 % der Messstellen wurden der Wirkstoff Bentazon und der relevante Metabolit Desisopropylatrazin nachgewiesen.
+
+Die Wirkstoffe Chlortoluron, MCPA (4-Chlor-2methylphenoxyessigsäure), Metalaxyl und Nicosulfuron wurden an keiner Messstelle gefunden.
+
+Die Nachweisquoten lagen 2021 für einige Substanzen niedriger als bei der letzten landesweiten Untersuchung auf PSM in 2017-2019.
+
+Dies liegt zu einem Teil daran, dass 2021 mehr Analysen mit einer höheren Bestimmungsgrenze gemessen wurden als in den Jahren 2017-2019.
+
+Die höchste Konzentration wurde mit 2,1 µg/l für Bentazon, dessen Zulassung in 2018 endete, gemessen.
+
+Gefolgt von Bromacil mit 0,89 µg/l und Hexazinon mit 0,43 µg/l.
+
+Für die meisten Stoffe lag die gemessene Maximalkonzentration unter 0,25 µg/l.
+
+Für alle Stoffe lagen mehr als 90 % der Messwerte unter der Mindestbestimmungsgrenze von 0,05 µg/l.
+
+An 31 (1,7 %) Messstellen wurde der Schwellenwert für Grundwasser von mindestens einem Wirkstoff / relevanten Metabolit überschritten.
+
+Insgesamt verursachten zehn verschiedene Wirkstoffe / relevante Metabolite Schwellenwert-Überschreitungen.
+
+Bentazon, Bromacil und Hexazinon verursachten Schwellenwert-Überschreitungen an mehr als fünf Messstellen.
+
+An sechs Messstellen wurde zudem auch der Schwellenwert für die Summe PSM überschritten (Tabelle 2.5).
+
+An den meisten Messstellen wurden diese Überschreitungen in erster Linie durch Bromacil verursacht und auf die Ausbringung von PSM auf Gleisanlagen zurückgeführt.
+
+Landwirtschaftliche Nutzung wurden an diesen höchstbelasteten Messstellen nicht als Ursache der PSM-Belastung identifiziert.
+
+2021 wurden elf nicht relevante Metabolite (siehe Tabelle 2.7 für eine Liste der analysierten Einzelstoffe) im gesamten Landesmessnetz Beschaffenheit (knapp 1.900 Messstellen) untersucht.
+
+Nicht relevante Metabolite werden deutlich häufiger nachgewiesen als die zugehörigen Wirkstoffe.
+
+Desphenylchloridazon wurde sowohl an den meisten Messstellen (829, 45 %) als auch in der höchsten Konzentration (10 µg/l) gefunden (Abbildung 2.11).
+
+Den zweithöchsten Maximalwert wies der Metabolit NOA 413173 mit 9 µg/l auf.
+
+Auch N,N-Dimethylsulfamid (DMS) und Methyldesphenylchloridazon wurden an mehr als einem Viertel der untersuchten Messstellen mit Maximalkonzentrationen um die 7  µg/l detektiert.
+
+Alle untersuchten nicht relevanten Metabolite wurden an mindestens 16 (0,9 %) Messstellen nachgewiesen.
+
+Für gut die Hälfte der Substanzen lagen mindestens 90 % der Messwerte unter der Bestimmungsgrenze von 0,05 µg/l.
+
+Desphenylchloridazon und DMS zeigten eine erhöhte Anzahl an Überschreitungen des gesundheitlichen Orientierungswert: an 24 (1,3 %) bzw. 33 (1,8 %) der untersuchten Messstellen.
+
+An vier Messstellen lag die Summe nicht relevanter Metabolite > 10 µg/l (Tabelle 2.6), was auf landwirtschaftliche Nutzung zurückgeführt werden kann.
+
+Die Messstellen mit Schwellenwert-Überschreitung durch die Hauptbelastungsstoffe Atrazin und seinen Metabolit Desethylatrazin sowie Bentazon, Bromacil und Hexazinon liegen über das ganze Land verteilt (Abbildung 2.12).
+
+Atrazin wurde vor seinem Verbot hauptsächlich als Maisherbizid verwendet, aber auch auf Nichtkulturland und auf Bahngleisen eingesetzt.
+
+Auch Bromacil und Hexazinon wurden in der Vergangenheit als Totalherbizide insbesondere auf Nichtkulturland wie Gleisanlagen eingesetzt.
+
+Dementsprechend befinden sich viele Messstellen mit Schwellenwert-Überschreitungen durch diese seit Anfang der 90er Jahre verbotenen Wirkstoffe in der Nähe von Bahngleisen.
+
+Aufgrund zahlreicher Bentazon-Befunde in den letzten Jahren wurde die Zulassung nicht erneuert.
+
+Nach einer Abverkaufsfrist bis zum 31.07.2018 endete am 31.07.2019 auch die Aufbrauchfrist.
+
+Seitdem dürfen demnach keine Bentazonhaltigen PSM mehr ausgebracht werden.
+
+Nichtdestotrotz lag das Herbizid Bentazon 2021 nach wie vor an sieben Messstellen über dem Schwellenwert (Abbildung 2.12).
+
+Zwei dieser Messstellen liegen auf Kläranlagen – ansonsten überwiegt in den jeweiligen Einzugsgebieten meist landwirtschaftliche Landnutzung.
+
+Bei den Messstellen mit Überschreitungen der gesundheitlichen Orientierungswerte durch Desphenylchloridazon und N,N-Dimethylsulfamid fallen einige Cluster auf (Abbildung 2.12): Desphenylchloridazon-Überschreitungen treten nur im nordwestlichen Bereich von Baden-Württemberg auf.
+
+Bis auf zwei Messstellen liegen diese alle in Landkreisen mit mindestens 3 % Zuckerrübenanbau (Gesamtanbaufläche in % der Ackerfläche 2010, https://www.lelweb.de/app/ds/lel/a3/Online_Kartendienst_ extern/Karten/66818/index.html).
+
+Bei Chloridazon wurde zur Verringerung der Einträge im Frühjahr 2007 zunächst eine freiwillige Vereinbarung mit den Herstellern abgeschlossen.
+
+Inzwischen ist Chloridazon nicht mehr zugelassen: Nach der Abverkaufsfrist bis zum 30.06.2019 endete am 30.06.2020 auch die Aufbrauchfrist.
+
+Im Landkreis Offenburg mit der zweithöchsten Baumobst-Anbaufläche Baden-Württembergs (2010, https://www.lelweb.de/app/ds/lel/a3/Online_Kartendienst_extern/ Karten/92163/index.html) liegt die höchste Anzahl von Messstellen mit Überschreitung des gesundheitlichen Orientierungswertes durch N,N-Dimethylsulfamid.
+
+Darüber hinaus sind N,N-Dimethylsulfamid-Überschreitungen vor allem in der Vorbergzone der Oberrheinebene und dem mittleren Neckarraum sowie am Bodensee zu finden, wo Weinbau, Obstbau und Gemüseanbau in größerem Umfang betrieben werden.
+
+Die Zulassung von Tolylfluanidhaltigen Mitteln wurde bereits Ende 2008 widerrufen, so dass es seitdem keine Eintragsquelle für N,N-Dimethylsulfamid mehr geben darf.
+
+Landwirtschaftliche Aktivitäten sind die Haupteintragsquelle für PSM in das Grundwasser.
+
+Im Teilmessnetz Landwirtschaft liegen die Konzentrationen insgesamt deutlich höher als in den anderen Teilmessnetzen (Abbildung 2.13).
+
+Das 75. Perzentil liegt z.B. im Teilmessnetz Landwirtschaft bei 1,1 µg/l, während es in den Teilmessnetzen Industrie bzw. Siedlung 0,25 bzw. 0,22 µg/l beträgt.
+
+Insgesamt ist die Belastung mit PSM in Baden-Württemberg seit den 90er Jahren deutlich zurückgegangen (Abbildung 2.14).
+
+Auch bei den nicht relevanten Metaboliten zeigt die Grundwasser-Belastung rückläufige Tendenzen.
+
+Dies ist in erster Linie auf den Rückgang der nicht mehr zugelassenen Wirkstoffe zurückzuführen.
+
+Das Verbot problematischer Wirkstoffe, d. h. das Beseitigen der Eintragsmöglichkeit, stellt die wirksamste Maßnahme zur Verringerung erhöhter Belastungen im Grundwasser dar.
+
+Dass auch nach Jahrzehnten des Verbots PSM-Belastungen wie z.B. durch Atrazin (Anfang der 1990er Jahre verboten) noch deutlich messbar sind, zeigt die Langlebigkeit problematischer PSM im Grundwasser.
+
+Es ist davon auszugehen, dass sich auch die aktuellen Maßnahmen zur Verringerung des PSM-Eintrags wie die Verbote von Bentazon und Chloridazon in den letzten Jahren aufgrund der mittleren Verweilzeiten in Boden und Grundwasser erst nach Jahren positiv auswirken werden.
+
+
+
+
+
+
+
+
+
+
+</TEXT></TimeML>

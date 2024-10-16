@@ -1,0 +1,700 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10199-Immissionsbelastung_für_Baden-Württemberg_2016_-_2025</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2021-02-01" temporalFunction="false" functionInDocument="CREATION_TIME">2021-02-01</TIMEX3></DCT>
+<TEXT>Im Projekt „Flächendeckende Ermittlung der Immissionsbelastung für Baden-Württemberg 2016 und Prognose für 2025 – Ausbreitungsrechnungen unter Verwendung des landesweiten Emissionskatasters und unter Berücksichtigung von gemessenen Immissionsdaten“ wurde im Auftrag der Landesanstalt für Umwelt Baden-Württemberg (LUBW) die Immissionsbelastung für das gesamte Gebiet von Baden-Württemberg ermittelt.
+
+Der vorliegende Bericht fasst die ausführliche Dokumentation in IVU Umwelt [2020], die kostenfrei bei der LUBW angefordert werden kann, zusammen.
+
+Die Immissionsbelastungen sind dabei als die für das Jahr 2016 ermittelten Konzentrationen der Luftschadstoffe Stickstoffdioxid (NO2), Partikel der Größenklassen PM10 und PM2,5, Ozon, NH3 und Benzo[a]pyren (B[a]P) in Baden-Württemberg zu verstehen.
+
+Da bei NH3 und B[a]P deutlich weniger Messdaten als bei den übrigen Stoffen vorliegen und bei B[a]P zusätzlich noch die Qualität der Emissionsdaten nicht der der übrigen Stoffe entspricht, haben die ermittelten Immissionsbelastungen für diese beiden Stoffe eher einen indikativen Charakter.
+
+Die Berechnungen wurden mit einer Auflösung von 500 × 500 m2 durchgeführt.
+
+Die Immissionsbelastung wurde dabei flächendeckend für das Jahr 2016 und als Prognose für das Jahr 2025 bestimmt.
+
+Um zu flächendeckenden Aussagen der Luftschadstoffbelastung zu kommen, gibt es zwei grundsätzliche Verfahren.
+
+Zum einen kann auf der Basis eines möglichst dichten Messnetzes mit mathematischen Methoden der Interpolation der Raum zwischen den Messpunkten gefüllt werden.
+
+Dieses Verfahren hat den Vorteil, dass die flächenhaften Ergebnisse an den Messstellen und in deren näherer Umgebung den gemessenen Werten weitgehend entsprechen.
+
+Zum anderen können auf der Basis eines Emissionskatasters und meteorologischer Daten mit Modellen Ausbreitungsrechnungen durchgeführt werden, die flächendeckende Modellergebnisse liefern.
+
+Dieses Verfahren hat den Vorteil, in Gebieten, die weit von Messstationen entfernt sind, realistischere Werte zu liefern als eine Interpolation, da Emissionsstrukturen und die Ausbreitung beeinflussende Parameter berücksichtigt werden.
+
+Außerdem lassen sich auf Basis von Modellen Szenarien und Prognosen berechnen.
+
+Um die jeweiligen Vorteile beider Verfahren zu nutzen, besteht ein dritter Ansatz in der Kombination der beiden Verfahren.
+
+Im hier vorliegenden Projekt wurde dieser kombinierte Ansatz gewählt und die Methoden der Ausbreitungsmodellierung auf der Basis von hochauflösenden Emissionskatastern und Daten zur Meteorologie mit denen der Interpolation von gemessenen Schadstoffkonzentrationen in stündlicher Auflösung kombiniert.
+
+Die dazu durchgeführten Arbeitsschritte sind: ◼Aufbereitung des Emissionskatasters, ◼Aufbereitung der Meteorologie, ◼Ausbreitungsrechnungen, ◼Aufbereitung der Messdaten, ◼Interpolation der Messdaten, ◼Datenassimilation der Modellergebnisse, ◼Kombination von Modell- und Messdaten, ◼Qualitätssicherung, ◼Berechnung der Prognose und ◼Kartenerstellung.
+
+Der vorliegende Bericht beschreibt kurz das Untersuchungsgebiet (Kapitel 2) und die Grundlagen der verwendeten Daten sowie ihre Aufbereitung (Kapitel 3).
+
+Anschließend werden die durchgeführten Arbeiten zur Ermittlung der Immissionsbelastung (Kapitel 4) und die Ergebnisse zusammenfassend (Kapitel 5) dargestellt.
+
+Das in diesem Projekt betrachtete Gebiet umfasst die Fläche des Landes Baden-Württemberg, die als Untersuchungsgebiet bezeichnet wird.
+
+Da für die  Ausbreitungsrechnungen ein rechteckiges Modellgebiet erforderlich ist, wurde als Untersuchungsgebiet des RCG-Modells für die Ausbreitungsrechnung ein Rechteck um Baden-Württemberg definiert, das als RCG-Untersuchungsgebiet bezeichnet wird.
+
+Die Ausbreitungsrechnungen erfolgen aufgrund der Netzschachtelung bis in die europäische Ebene in einem geographischen Koordinatensystem (siehe Abschnitt 4.2.1).
+
+Diese größeren Gebiete, die das RCG-Untersuchungsgebiet beinhalten, werden als Modellgebiete bezeichnet.
+
+Baden-Württemberg weist eine Gesamtfläche von 35 751 km2 auf, mit einer räumlichen Ausdehnung von maximal ca. 240 km in Nord-Süd-Richtung und ca. 190 km in West-Ost-Richtung.
+
+Baden-Württemberg hat insgesamt 1 124 km Binnengrenzen mit den drei Bundesländern Bayern, Hessen und Rheinland-Pfalz, zudem grenzt es an die drei europäischen Nachbarstaaten Frankreich, Schweiz und Österreich [lpb bw 2008].
+
+In der Rückprojektion des in geographischen Koordinaten definierten RCG-Untersuchungsgebiets auf das in Baden-Württemberg verwendete UTM32-Koordinatensystem ergibt sich für die Ausbreitungsrechnungen das RCG-Untersuchungsgebiet, das in Abbildung 2.1 dargestellt ist.
+
+Die Darstellung aller RCG-Modellgebiete in geographischen Koordinaten findet sich in Abschnitt 4.2.2.
+
+Die Auflösung von circa 500 × 500 m2 führt zu einem das Land umfassenden Gitter mit 428 × 640, also etwa 270 000, Gitterzellen.
+
+Das RCG-Modell benötigt für das Modellgebiet in der gewählten Maschenweite zahlreiche meteorologischen Größen in stündlicher Auflösung als zwei- oder dreidimensionale Felder.
+
+Diese meteorologischen Daten wurden auf Basis von Daten der Modellkette des Deutschen Wetterdienstes erstellt (siehe Abschnitt 4.1).
+
+Das meteorologische Referenzjahr ist 2016.
+
+In den Ausbreitungsrechnungen ist die Topographie zu berücksichtigen.
+
+Von der LUBW wurde dafür ein Digitales Geländemodell mit einer Gitterauflösung von 100 m für das Gebiet des Landes Baden-Württemberg bereitgestellt.
+
+Da die Modellierung rechteckige Modellgebiete benötigt, waren ergänzende Höheninformationen außerhalb Baden-Württembergs erforderlich.
+
+Dazu wurde auf das DGM der Shuttle Radar Topography Mission (SRTM) aus dem Jahr 2000 zurückgegriffen, das fast weltweit in ca. 90 m  Auflösung zur Verfügung steht [CGIAR 2008].
+
+Daten zur Land- bzw. Flächennutzung werden im  Rahmen des Projekts für die Ausbreitungsmodellierung und für die räumliche Verteilung aggregierter Emissionsdaten benötigt.
+
+Als Landnutzungsdaten wurden von der LUBW die Flächennutzung des Basis-DLM bzw. DLM25 aus dem Amtlichen Topographisch-Kartographischen Informationssystem (ATKIS) sowie ein flächendeckendes Landnutzungsraster in 30 m Auflösung auf Basis von LANDSAT-Fernerkundungsdaten des Jahres 2010 bereitgestellt.
+
+Für die räumliche Verteilung der gemeindeweise aggregierten Emissionsdaten der kleinen und mittleren Feuerungsanlagen wurde nicht auf die Landnutzung zurückgegriffen, sondern eine Verteilung über die Gebäudevolumina durchgeführt.
+
+Dazu wurde von der LUBW ein Levelof-Detail-1-Gebäudemodell (LoD1, auch als „Klötzchenmodell“ bezeichnet) für Baden-Württemberg, u. a. mit Angaben zur Nutzungsart, bereitgestellt.
+
+Zur Berechnung der Immissionsbelastung im RCG-Untersuchungsgebiet mit dem RCG-Modell wurde ein möglichst detaillierter und aktueller Emissionsdatensatz für die Stoffe NOx, PM10, PM2,5, CO, NMVOC, SO2, NH3 und B[a]P benötigt.
+
+Innerhalb Baden-Württembergs wurden die von der LUBW für das Bezugsjahr 2016 für Baden-Württemberg zur Verfügung gestellten Emissionsdaten verwendet.
+
+Diese Daten und die Methodik der Emissionsermittlung sind zuletzt im Bericht zum Emissionskataster Baden-Württemberg 2014 [LUBW 2017]beschrieben.
+
+Das landesweite Emissionskataster für Baden-Württemberg enthält mit Stand 2016 Angaben zu den Quellengruppen bzw. Einzelgruppen  ◼ Industrie,  ◼ Gewerbe,  ◼ Kleine und mittlere Feuerungsanlagen,  ◼ Kfz-Verkehr,  ◼ Schienenverkehr,  ◼ Schiffsverkehr,  ◼ Motorsport  ◼ Flughäfen,  ◼ biogene Quellen und  ◼ sonstige technische Einrichtungen.
+
+Alle Emissionsdaten wurden als GIS-Datensätze oder Tabellen, z. T. mit weiterer Differenzierung in Unter-Quellengruppen, als Punkt- oder Linienquellen oder als gemeindebezogene Summenwerte (Flächenquellen) zur Verfügung gestellt.
+
+Die Punktquellen konnten mit ihrer Lage direkt in das RCG-Modell übernommen werden.
+
+Linienquellen wurden für die Verwendung in RCG mit den RCG-Gitterzellen verschnitten und die Emissionen entsprechend anteilig auf die RCG-Gitterzellen verteilt.
+
+Die Flächenquellen in Form gemeindebezogener Summenwerte wurden zunächst – abhängig von der Quellengruppe – unter Verwendung von Flächennutzungs- oder Gebäudedaten räumlich disaggregiert und dann mit den RCG-Gitterzellen verschnitten und die Emissionen entsprechend anteilig auf die RCG-Gitterzellen verteilt.
+
+Bei der Quellengruppe Industrie wurden zusätzlich die in den Daten enthaltenen Angaben zu den Quelleigenschaften Höhe, Volumenstrom, Abgastemperatur und Sektor an das Modell übergeben und in den Berechnungen berücksichtigt.
+
+Zudem wurde bei Staubemissionen flächenhafter Emissionsquellen größerer Ausdehnung wie Lager, Halden oder Umschlagplätzen die räumliche Verteilung solcher  relevanter Quellen auf Basis von Orthophotos verfeinert.
+
+Für die Emissionen der vier Flughäfen Stuttgart, Friedrichshafen, Baden-Airpark und Lahr wurden dreidimensionale räumliche Verteilungen erstellt, mit denen die Emissionen des Flugverkehrs auf die einzelnen Gitterzellen am Boden und in verschiedenen Höhenschichten verteilt wurden.
+
+Bei den NVMOC-Emissionen der Teilgruppe „natürliche Vegetation“ der biogenen Quellen wurden nicht die gemeindebezogenen Daten des Emissionskatasters verwendet, sondern sie wurden auf Basis der Landnutzungsanteile der RCG-Gitterzellen direkt vom RCG-Modell berechnet.
+
+Biogene Emissionen durch Pflanzen werden in RCG während des Modelllaufes auf der Basis der Landnutzungsdaten, der lokalen Temperatur und der lokalen Einstrahlungsverhältnisse stündlich berechnet.
+
+Da diese Emissionen sehr stark temperatur- und strahlungsabhängig sind und damit großen zeitlichen Schwankungen unterliegen, müssen sie für den im Modell verwendeten chemischen Algorithmus in stündlicher Auflösung vorliegen und konsistent zur verwendeten Landnutzungsdatenbasis und insbesondere der meteorologischen Datenbasis sein, was sich über eine räumliche und zeitliche Disaggregation der gemeindebezogenen Jahreswerte nicht erreichen lässt.
+
+In Tabelle 3.1 und Tabelle 3.3 sind die NMVOC-Emissionen der natürlichen Vegetation aus dem Emissionskataster der LUBW demnach nur nachrichtlich aufgeführt.
+
+Weitere Details zu den Quellengruppen und der räumlichen Verteilung der Emissionen können Abschnitt 3.5 der ausführlichen Projektdokumentation [IVU Umwelt 2020] entnommen werden.
+
+In Tabelle 3.1 sind die Emissionen der einzelnen Quellengruppen und ihre Anteile an den Gesamtemissionen in Baden-Württemberg für die acht betrachteten Stoffe NOx, PM10, PM2,5, CO, NMVOC, SO2, NH3 und B[a]P zusammengestellt.
+
+In Abbildung 3.1 findet sich eine grafische Darstellung der Anteile der Quellengruppen.
+
+Für die Modellierung mit RCG, die in der europäischen Skala beginnt und bei der auch das feinste Gitter noch Zellen außerhalb Baden-Württembergs beinhaltet, sind auch Emissionsdaten für diese Gebiete erforderlich.
+
+Für Deutschland liegt beim Umweltbundesamt (UBA) mit dem Gridding Emission Tool for ArcGIS (GRETA) [UBA 2016] eine Software vor, die es erlaubt, auf der Grundlage von als nationale Jahressummen verfügbaren quellengruppenspezifischen Emissionsdaten mit Hilfe verschiedener Verteilparameter räumlich hoch aufgelöste Emissionsdatensätze zu generieren.
+
+Für das vorliegende Projekt wurden die GRETA-Daten für 2016 aus der Berichterstattung 2019 verwendet, die vom UBA in einer Gitterauflösung von 1/64° × 1/128° (ca. 1 × 1 km2) bereitgestellt wurden.
+
+Sie enthalten Emissionsdaten zu allen hier benötigten Stoffen mit Ausnahme von B[a]P.
+
+Für Europa wurden die zum Zeitpunkt der Bearbeitung neuesten offiziell verfügbaren europäischen Emissionskatasterdaten verwendet.
+
+Dies ist das von der TNO  erstellte CAMS-REGv1.1-Inventar [KUenen et al. 2014; eccad.
+
+aerisdata.fr], das in einer Auflösung von 1/8° × 1/16° (ca. 7 × 8 km2) nach Staaten und Sektoren differenzierte Emissionsdaten für das Bezugsjahr 2015 enthält.
+
+Auch in diesem Kataster sind Emissionsdaten zu allen hier benötigten Stoffen mit Ausnahme von B[a]P verfügbar.
+
+Die Daten konnten in diesen Auflösungen direkt für alle Berechnungen in Nest 0 und Nest 1 (siehe Abschnitt 4.2.2) verwendet werden, wobei für das Gebiet von Deutschland die Daten aus CAMS-REGv1.1 durch die GRETA-Daten ersetzt wurden.
+
+Für die Berechnungen in Nest 2 und Nest 3 wurden die Daten für alle Gebiete in Europa und Deutschland außerhalb von Baden-Württemberg auf die entsprechende Gitterauflösung verfeinert, wobei innerhalb jeder Ursprungsgitterzelle eine Gleichverteilung angenommen werden musste.
+
+Innerhalb von Baden-Württemberg wurden die GRETA-Daten durch die Daten des Emissionskatasters der LUBW ersetzt.
+
+Da in den GRETA-Daten keine Zuordnung der Emissionen zu einzelnen Bundesländern enthalten ist, wurde bei RCG-Gitterzellen, die von der Grenze Baden-Württembergs mit anderen Bundesländern geschnitten werden, die GRETA-Emissionen nur entsprechend dem außerhalb Baden-Württembergs liegenden Flächenanteil der Gitterzelle angesetzt.
+
+Wie bereits erwähnt, liegen in den für die außerhalb von Baden- Württemberg liegenden Gebieten verwendeten Emissionsinventaren keine Angaben zu B[a]P-Emissionen vor.
+
+Von der TNO wurden im Rahmen von TRANSPHORM [2014] u. a. für B[a]P Emissionen für Europa für die Jahre 2005, 2020 und 2030 in einer Auflösung von 1/8° × 1/16° (ca. 7 × 8 km2) bestimmt.
+
+Diese Daten wurden dankenswerterweise von der TNO bereitgestellt, allerdings versehen mit dem Hinweis, dass die Qualität der B[a]P-Emissionen und insbesondere auch ihrer räumlichen Verteilung nicht der von anderen Luftschadstoffen in anderen Emissionsinventaren entspricht.
+
+Mangels alternativer Datenquellen wurden diese Daten dennoch für die B[a]P-Emissionen außerhalb von Baden-Württemberg verwendet und entsprechend dem oben geschilderten Vorgehen aufbereitet.
+
+Wie in Abbildung 3.2 deutlich wird, weisen die B[a]P-Emissionen aus TRANS-PHORM in der Tat gegenüber den B[a]P-Emissionen aus dem Kataster der LUBW ein deutlich anderes Niveau auf, was zu einem stark ausgeprägten Emissionsgradienten an den Grenzen von Baden-Württemberg, und insbesondere zu Hessen, Rheinland-Pfalz, Frankreich und der Schweiz führt.
+
+Für das Prognose-Szenario müssen die Emissionsdaten für das Jahr 2025 fortgeschrieben werden.
+
+Für die Fortschreibung der Daten für Baden-Württemberg und Deutschland wurden vom UBA zur Verfügung gestellte Daten aus dem „Nationalen Luftreinhalteprogramm der Bundesrepublik Deutschland“ [BMU 2019] genutzt.
+
+In Abstimmung mit der LUBW wurde für die Fortschreibung das Szenario „WAM“ (With  Additional Measures) gewählt.
+
+Für B[a]P wurden die Prognosen aus TRANSPHORM [2014] genutzt (siehe Abschnitt 3.5.2).
+
+Aus diesen Daten wurden die in Tabelle 3.2 aufgeführten quellengruppenspezifischen Faktoren für die Fortschreibung der Emissionen der einzelnen Stoffe bestimmt und damit die Emissionen von Baden-Württemberg und von GRETA von 2016 nach 2025 fortgeschrieben.
+
+Damit ergeben sich die in Tabelle 3.3 zusammengestellten und als Verhältnisse in Abbildung 3.3 dargestellten Emissionen der einzelnen Quellengruppen in Baden-Württemberg im Jahr 2025.
+
+Summarisch ergeben sich damit Abnahmen zwischen 5 % bei NMVOC und 39 % bei NOx.
+
+Für die europäischen Daten wurde von der TNO eine  Tabelle mit nach Ländern und Sektoren differenzierten Fortschreibungsfaktoren für die Emissionen des Jahres 2015 aus CAMS-REGv1.1 für die Jahre 2020 und 2030 bereitgestellt.
+
+Für die Fortschreibung nach 2025 wurde jeweils der Mittelwert der Fortschreibungsfaktoren für 2020 und 2030 angesetzt.
+
+Diese Fortschreibungsfaktoren basieren auf dem „Climate and Energy Package“ der EU und liegen inhaltlich für die fünf in der NEC-Richtlinie [EU 2016] geregelten  Stoffe SO2, NOx, NMVOC, NH3 und Feinstaub durch für sie definierte Obergrenzen nahe am „WAM“-Szenario aus dem „Nationalen Luftreinhalteprogramm der Bundesrepublik Deutschland“, das für die Fortschreibung der Emissionen in Deutschland und Baden-Württemberg verwendet wurde.
+
+Als Eingangsgrößen für die flächendeckende Ermittlung der Immissionsbelastung in Baden-Württemberg wurden neben den Ergebnissen der RCG-Ausbreitungsrechnungen Schadstoff-Messdaten für das Bezugsjahr 2016 benötigt.
+
+Zur Ermittlung der Immissionsbelastung wurden ausschließlich Messstationen des städtischen und ländlichen Hintergrunds herangezogen.
+
+Verkehrsnahe Messstationen wurden nicht verwendet, da diese sehr direkt von einer Quelle beeinflusst werden und nur eine geringe räumliche Repräsentativität haben, die unterhalb der Gitterauflösung der Berechnung liegt.
+
+Die Schadstoff-Messdaten werden in FLADIS einer Interpolation unterzogen, deren Ergebnis bei der Berechnung der Immissionsbelastung in FLADIS weiterverwendet wird (siehe Abschnitt 4.3.1).
+
+Eine Interpolation von Messdaten ist streng genommen nur innerhalb der konvexen Hülle1 der zur Verfügung stehenden Messdaten möglich.
+
+Außerhalb dieser konvexen Hülle werden Daten extrapoliert.
+
+Das Extrapolationsverhalten ist stark davon abhängig, welche Daten dabei verwendet wurden.
+
+Um die Fläche des Landes Baden-Württemberg möglichst umfassend mit interpolierten Werten abdecken zu können, wurden für die Interpolation nicht nur Messdaten von Stationen innerhalb Baden-Württembergs verwendet, sondern zusätzlich Messdaten von Stationen um Baden-Württemberg herum, d. h. aus den angrenzenden Bundesländern Bayern, Hessen und Rheinland-Pfalz sowie aus den angrenzenden Staaten Frankreich, Schweiz und Österreich, die aus der Air Quality e-Reporting Plattform der European Environment Agency [EEA 2018] extrahiert wurden.
+
+Die Messdaten standen dabei als Stunden oder Tagesmittelwerte zur Verfügung.
+
+Lediglich bei B[a]P und NH3 sind die Mittelungszeiträume i. d. R. deutlich länger und umfassen einen Monat oder explizit definierte Messzeiträume von ca. 4 Wochen, z. T. liegen auch nur Jahresmittelwerte vor.
+
+Abbildung 3.4 gibt beispielhaft für NO2 eine Übersicht über die Lage der in FLADIS verwendeten Hintergrundmessstationen in und um Baden-Württemberg.
+
+Tabellarische Zusammenstellungen der für die einzelnen Stoffe verwendeten Messstationen finden sich in Abschnitt 3.6 der ausführlichen Projektdokumentation [IVU Umwelt 2020].
+
+Die Anwendung von RCG erfolgte über vier Skalen mit ca. 30 km, ca. 8 km, ca. 2 km und ca. 500 m  Gitterauflösung ( siehe Abschnitt 4.2.2).
+
+Die jeweils gröber aufgelöste Rechnung liefert dabei die Hintergrundkonzentrationen für die jeweils feiner aufgelöste Rechnung („onewaynesting“).
+
+Entsprechend wurden auch die meteorologischen Eingangsdaten für RCG in den vier Auflösungen benötigt.
+
+Für die beiden gröberen Auflösungen von 30 km und 8 km wurden die Assimilations-Analysen der DWD-Modelle COSMO-EU [DWD 2014a] bzw. ICON-EU [DWD 2017] verwendet.
+
+Für die Auflösung von 2 km wurden die Assimilations-Analysen des DWD-Modells COSMO-DE [DWD 2014b] aufbereitet.
+
+Zur Erstellung der meteorologischen RCG-Eingangsdaten für das 500 m-Raster wurden die meteorologischen RCG-Eingangsdaten für das 2 km-Raster unter Berücksichtigung der Topographie in 500 m Gitterauflösung gemäß der Methodik des meteorologischen Modells CALMET [ScIre et al. 2000] auf das 500 m-Raster interpoliert.
+
+In den Daten der DWD-Modelle werden nicht alle  Größen bereitgestellt, die von RCG benötigt werden.
+
+Diese zusätzlich erforderlichen Daten wurden aus bereitgestellten  Größen der DWD-Modelle abgeleitet.
+
+Die rechnerische Bestimmung der Beiträge von bestimmten Emittentengruppen zu den NO2-, PM10-, PM2,5-, Ozon- und NH3-Immissionen erfordert die Anwendung eines chemischen Transportmodells, da NO2 und insbesondere Ozon überwiegend über chemische Prozesse gebildet werden.
+
+Auch die Partikel-Immissionen werden nicht nur durch die direkten Emissionen verursacht, sondern zu einem großen Teil durch die sekundäre Aerosolbildung, in der aus gasförmigen Vorläuferstoffen wie NO2, SO2 und NH3 sekundäre Partikel wie Sulfate, Nitrate und Ammonium entstehen.
+
+Das hier verwendete chemische Transportmodell ist REM-CALGRID (RCG), das an der FU Berlin entwickelt wurde [Stern 2003, 2006a, 2010; Stern et al. 2008].
+
+Es wurde in den letzten Jahren vielfach auf Bundes- und Länderebene im Rahmen der Erstellung von Luftreinhalteplänen und der  Berechnung von  Hintergrundkonzentrationen [z.
+
+B. IVU  Umwelt 2009, 2014, 2017], der Maßnahmenanalyse oder zur Analyse grenzüberschreitender Stofftransporte [z.
+
+B. Stern 2006b] eingesetzt und ist das Ausbreitungsmodell im vom UBA beauftragten PAREST-Projekt zur Entwicklung von Strategien zur Verminderung der Feinstaubbelastung [bUIltjeS et al. 2012; Stern 2013] und dem Nachfolgeprojekt „Luftqualität 2020/2030“ [UBA 2014].
+
+Das Modell wird auch vom UBA selbst zur Berechnung von Immissionsbelastungen in Deutschland eingesetzt [z.
+
+B. DaUert und KeSSInger 2019 und norDmann et al. 2020].
+
+Das RCG-Modell berechnet die Konzentration von Stoffen in Abhängigkeit von Emissionen, physikalischen und chemischen Prozessen während des Transportvorgangs in der Atmosphäre sowie von meteorologischen und topographischen Einflüssen.
+
+Dazu wird das Modellgebiet mit einem dreidimensionalen Gitter überspannt, für dessen Zellen die Berechnung der Konzentrationen erfolgt.
+
+Das Modell verarbeitet jahresspezifische Emissionsdaten für alle benötigten Spezies unterteilt nach Verursachergruppen, die dem Modell in Form von Punkt- oder Flächenquellen vorgegeben werden.
+
+Für jede Verursachergruppe werden im Modell, ausgehend von den Jahreswerten, stündliche Emissionen abgeleitet.
+
+Die dazu verwendeten Monats-, Wochentag- und Stundenfaktoren berücksichtigen die Zeit- und Temperaturabhängigkeit der Emissionen der einzelnen Verursachergruppen.
+
+Es muss erwähnt werden, dass die Modellierung der Partikel-Immissionen auch heute noch mit beträchtlichen Schwierigkeiten verbunden ist.
+
+Generell werden die zeitweise beobachteten hohen Konzentrationen von den Modellen in den meisten Fällen nicht reproduziert.
+
+Dies betrifft sowohl nur lokal gemessene kurzzeitige Spitzenkonzentrationen als auch durch Ferntransport verursachte großflächigere Konzentrationsanstiege [Stern et al. 2008].
+
+Die Ergebnisse mehrerer internationaler Modellvergleiche zeigen, dass diese Unsicherheiten in den meisten Modellrechnungen mit chemischen Transportmodellen in der Regel zu einer Unterschätzung der beobachteten Partikelmasse führen [Stern et al. 2008; Sartelet et al. 2007; VaUtarD et al. 2007; whyatt et al. 2007, beSSagnet et al. 2016; Im et.
+
+al. 2015; pranK et al. 2016].
+
+Das allgemeine Partikel-Konzentrationsniveau wird von den Modellen in den meisten Fällen reproduziert, die an einzelnen Tagen auftretenden hohen Spitzenwerte werden aber nicht erreicht und die mögliche Nicht-Erfassung beobachteter  lokaler und auch großflächig auftretender Spitzenwerte bleibt ein generelles Problem der Modellrechnung.
+
+Die Anwendung des RCG-Modells erfolgte in den 4 Skalen:  ◼ europäische Skala in einer Auflösung von circa 28 × 32 km2 (Modellgebiet Nest 0),  ◼ nationale Skala in einer Auflösung von circa 7 × 8 km2 (Deutschland und Randgebiete angrenzender Staaten, Modellgebiet Nest 1),  ◼ regionale Zwischenskala in einer Auflösung von 2 × 2 km2 (Baden-Württemberg und Randgebiete umliegender Bundesländer und Staaten, Modellgebiet Nest 2) und  ◼ regionale Skala mit hoher Auflösung von circa 440 × 500 m2 (Baden-Württemberg und Randgebiete umliegender Bundesländer und Staaten, RCG-Untersuchungsgebiet Nest 3).
+
+Die europaweite Rechnung liefert dabei die Hintergrundkonzentrationen für die überregionale Skala (Nest 1) und diese wiederum die Hintergrundkonzentrationen für die regionale Skala mit 2 km Auflösung (Nest 2).
+
+Die Randbedingungen für die hoch aufgelösten Baden-Württemberg-Rechnungen (Nest 3) werden dann aus den Ergebnissen für Nest 2 abgeleitet („onewaynesting“).
+
+Die Zwischenstufe der regionalen Skala mit grober Auflösung (Nest 2) wurde eingeführt, um die über die Grenzen des eigentlichen RCG-Untersuchungsgebiets (Nest 3) einströmenden Stoffmassen in höherer Auflösung berücksichtigen zu können.
+
+Die vom Modell benötigten meteorologischen Daten für das Bezugsjahr 2016 wurden für alle Skalen auf Basis der DWD-Modelldaten erstellt (siehe Abschnitt 4.1).
+
+Da die eigentliche Anwendung des Modells für Baden-Württemberg genestet in der europaweiten Anwendung erfolgen muss, wurde das RCG-Untersuchungsgebiet für Baden-Württemberg in das Horizontalgitter des übergeordneten Nestes eingepasst, um eine direkte Übergabe der Randbedingungen zu ermöglichen.
+
+Dies ist nur in einem geographischen Koordinatensystem möglich, da die großräumigen Datenbasen und damit alle überregionalen Rechnungen nur in solch einem System vorliegen.
+
+Der Betrieb des RCG-Modells erfolgte damit in einem geographischen Koordinatensystem und dementsprechend auch die Aufbereitung der Eingangsdaten und die Bereitstellung der unmittelbaren Modellergebnisse.
+
+Die Umsetzung der Modellergebnisse in das kartesische UTM32-Koordinatensystem erfolgte dann im Rahmen der Kombination der Modelldaten mit den Messdaten (siehe Abschnitt 4.3).
+
+Das RCG-Modell wurde für die europaweite Rechnung auf das in Abbildung 4.1 links in braun dargestellte Modellgebiet  angewendet.
+
+Die horizontale Auflösung beträgt in  einem geographischen Koordinatensystem 0,5° Länge und 0,25° Breite (circa 28 × 32 km2).
+
+Die Rechnung für Deutschland und Teilgebiete der umliegenden Staaten in der nationalen Skala (Nest 1, blau dargestellt) erfolgte mit einer Auflösung von 0,125°  Länge und 0,0625° Breite (7 × 8 km2).
+
+Die Berechnung für ganz Baden-Württemberg und die umliegenden Bundesländer bzw. Teilgebiete der umliegenden Staaten im Nest 2, in Abbildung 4.1 rechts in grün dargestellt, erfolgte mit einer Auflösung von 0,03125° Länge und 0,015625°  Breite (2 × 2 km2).
+
+Nest 2 dient lediglich dazu, den Sprung in den Maschenweiten von Nest 1 zu Nest 3 zu verkleinern und ist daher nur geringfügig größer als Nest 3.
+
+Nest 3 umfasst Baden-Württemberg und die an Baden-Württemberg angrenzenden Teilgebiete der benachbarten Bundesländer und Staaten.
+
+Dieses Gebiet ist so gewählt, dass alle relevanten Emissionsgebiete im Umfeld von Baden-Württemberg und damit der Transport nach Baden-Württemberg in dieser Auflösung gerechnet werden können.
+
+Die Berechnungen im Nest 3 für Baden-Württemberg erfolgen dann, der hohen Auflösung von circa 500 m entsprechend, im geographischen Koordinatensystem für Gitterzellen mit 1/128° Länge und 1/256° Breite (circa 440 × 500 m2).
+
+Diese Auflösung führt zu einem das Land umfassenden Gitter mit 428 × 640, also etwa 270 000, Gitterzellen.
+
+Das Nest 3 ist das eigentliche Untersuchungsgebiet.
+
+Es ist in Abbildung 4.1 rechts in rot sowie z. B. auch in Abbildung 2.1 im UTM-Koordinatensystem dargestellt.
+
+Die Anwendung des Modells erfolgte in den oben genannten Skalen, wobei nur die Ergebnisse der regionalen Skala mit hoher Auflösung (Nest 3) betrachtet werden.
+
+Die unterste Gitterzelle des Modells hat eine vertikale Ausdehnung von 25 m. Die für diese unterste Gitterzelle berechneten Konzentrationen wurden ausgewertet.
+
+Bei den Landnutzungs-, Topographie- und Emissionsdaten wurde im Nest 2 und Nest 3 innerhalb von Baden-Württemberg auf die von der LUBW für Baden-Württemberg bereitgestellten Daten zurückgegriffen, die zusammengestellt und an die vom RCG-Modell verlangten Datenformate angepasst wurden (siehe Kapitel 2).
+
+Außerhalb von Baden-Württemberg wurden im Nest 2 und Nest 3 die GRETA-Emissionsdaten verwendet, die in einer Auflösung von 1/64° × 1/128° vorliegen.
+
+Für die im Nest 2 und 3 liegenden Gebiete der angrenzenden Staaten wurden die CAMS-Daten verwendet, die in einer Auflösung von 1/8° × 1/16° Breite vorliegen (siehe Abschnitt 3.5.2).
+
+Diese beiden Emissionsdatensätze wurden auf die jeweilige Auflösung von Nest 2 und Nest 3 herunter gebrochen.
+
+Für die Berechnungen im Nest 0 und Nest 1 wurden für ganz Deutschland die GRETA-Daten und für die übrigen Staaten die CAMS-Daten verwendet.
+
+Die Berechnung der landesweiten Immissionsbelastung wurde mit dem System FLADIS [DIegmann und wIeganD 2000; IVU Umwelt 2018] durchgeführt.
+
+FLADIS bietet die Möglichkeit, die flächenhafte Immissionsbelastung entweder durch reine Interpolation aus Punktmessungen  abzuleiten oder durch Kopplung der Interpolationsergebnisse mit Modellergebnissen einer Ausbreitungsrechnung.
+
+Abbildung 4.2 zeigt das Ablaufschema von FLADIS.
+
+Für jeden Zeitschritt, für den Daten vorliegen, wird wahlweise eine reine Interpolation von Messdaten oder eine gewichtete Kopplung der Interpolationsergebnisse mit Modellergebnissen gemäß Abschnitt 4.3.1.1 durchgeführt.
+
+Es stehen verschiedene Interpolationsverfahren zur Verfügung.
+
+Modellergebnisse können sowohl von internen als auch von externen Modellen bezogen werden.
+
+Werden interpolierte Messdaten und Modelldaten miteinander kombiniert, so stellt FLADIS die Option zur Verfügung, vor der Kopplung eine Datenassimilation für die Modelldaten durchzuführen, d. h. die Modelldaten gegen die Messdaten zu ziehen.
+
+Als Assimilationsverfahren wird in FLADIS die Optimale Interpolation eingesetzt.
+
+Im vorliegenden Projekt wird die gewichtete Kopplung interpolierter Messwerte mit RCG-Modelldaten, die zuvor einer Datenassimilation unterzogen wurden, eingesetzt (Abschnitt 4.3.2).
+
+Um das für die gegebene Datengrundlage am besten geeignete Interpolationsverfahren ermitteln zu können, ist in FLADIS ein Kreuzvalidierungsverfahren entsprechend der VDI-Richtlinie 4280 Blatt 5 „Ermittlung der Unsicherheit räumlicher Beurteilungen der Luftqualität“ [KrDl 2009] implementiert.
+
+Dieses Verfahren kann auch zur Optimierung des Messnetzes eingesetzt werden.
+
+Zur Berechnung der flächenhaften Immissionsbelastung in einem Prognosejahr, für das nur Modell- und keine Messdaten vorliegen, bietet FLADIS die Delta-Methode [Stern 2006a] an (Abschnitt 4.3.1.4), die auf Basis von Ausbreitungsrechnungen für ein Basis- und das Prognosejahr eine Abschätzung der im Prognosejahr an den Stationen des Messnetzes zu erwartenden Messwerte vornimmt.
+
+Die mit Hilfe der Delta-Methode prognostizierten Messdaten werden dann gemäß Abschnitt 4.3.1.1 mit den Modellergebnissen der Ausbreitungsrechnung für das Prognosejahr gekoppelt.
+
+Da FLADIS die flächenhafte Immissionsbelastung in der zeitlichen Auflösung der Eingangsdaten interpoliert, im Rahmen dieses Projekts also in stündlicher bzw. täglicher Auflösung, kann FLADIS während der Berechnung alle in der EU-Richtlinie 2008/50/EG [EU 2008] aufgeführten Kenngrößen wie Stundenmittel, Tagesmittel, Jahresmittel und Überschreitungshäufigkeiten sowie deren Unsicherheiten ebenso wie Perzentilwerte ermitteln.
+
+Wenn die Modelldaten in einem anderen Koordinatensystem vorliegen, als es für die Ergebnisse gewünscht ist, kann FLADIS beim Einlesen der Modelldaten eine Übertragung in das Ziel-Koordinatensystem vornehmen.
+
+Die Kopplung EKopp von Interpolationsergebnissen EI und Modellergebnissen EM erfolgt für jeden betrachteten Zeitschritt über eine lineare Wichtungsfunktion: EKopp = (1 − a) × EI + a × EM Zur Bestimmung des Wichtungsfaktors a wird in FLADIS der Korrelationskoeffizient zwischen den gemessenen Konzentrationen und den Modellergebnissen an den Messstationsorten verwendet.
+
+Der Korrelationskoeffizient sagt jedoch allein noch nichts darüber aus, ob der Zusammenhang zwischen den Modellergebnissen und den Messungen signifikant ist.
+
+Daher wird zusätzlich als Signifikanztest ein Student-Test durchgeführt.
+
+Nur wenn dieser Test eine Signifikanz zeigt, wird der berechnete Korrelationskoeffizient als Wichtungsfaktor benutzt.
+
+Die Korrelation ist als signifikant definiert, wenn beim Signifikanztest eine Irrtumswahrscheinlichkeit von 5 % unterschritten wird.
+
+Als Interpolationsverfahren für die räumliche Verteilung der Messwerte bietet FLADIS verschiedene Optionen an, u. a.  ◼ Shepard-Verfahren, auch als IDW (Inverse Distance  Weighting) bezeichnet,  ◼ Hardy-Verfahren,  ◼ lineare Interpolation nach Triangulierung und  ◼ Optimale Interpolation.
+
+Um bei der Kombination von Modell und Messung gemäß Abschnitt 4.3.1.1 einen möglichst hohen Anteil der  Modellergebnisse und damit der in die Modellierung eingeflossenen Informationen (Orographie, Emissionsstruktur etc.) zu erhalten, bietet sich eine Kalibrierung der Modellergebnisse mit den Messdaten an, um gegebenenfalls auftretende Differenzen zwischen Messungen und Modell zu reduzieren.
+
+Die Frage der Kalibrierung von Modelldaten mit Messdaten ist ein klassisches Einsatzgebiet der Datenassimilation, die hierfür z. B. in der Meteorologie routinemäßig eingesetzt wird.
+
+Die in FLADIS implementierte Optimale Interpolation (OI) gehört zu den Assimilationsverfahren, die zu diesem Zweck verwendet werden.
+
+Dabei werden im ersten Schritt die Modelldaten durch einen OI-Lauf an die Messdaten herangezogen.
+
+Die auf diese Weise kalibrierten Modellergebnisse dienen dann als Modellfeld für die eigentliche Interpolation der Messwerte mit Modellhintergrund zur flächenhaften Darstellung der Immissionen in FLADIS.
+
+Die in FLADIS implementierte Delta-Methode nach Stern [2006a] dient dazu, Messreihen eines Bezugsjahrs mit Hilfe von Modellprognoserechnungen so zu modifizieren, dass sie eine Beschreibung und flächenhafte Darstellung der zukünftigen Immissionssituation in einem Modellgebiet erlauben.
+
+Dazu werden im ersten Schritt die für das Prognosejahr zu erwartenden Messwerte für jeden Einzelwert der zugrunde liegenden Basismessreihe mit der Delta-Methode bestimmt.
+
+Die so prognostizierten Messwerte werden im zweiten Schritt wie eine herkömmliche Messreihe ohne oder mit Modellhintergrund des Prognosejahres in die Fläche interpoliert.
+
+Die Abschätzung zukünftiger Messwerte an Stationsorten durch Modellprognosen beruht auf der Überlegung, dass eine direkte Übertragung der Prognoserechnungen auf diskrete Orte zwar schwierig ist, weil die berechneten zeitlichen und räumlichen Konzentrationsverteilungen nicht immer mit gemessenen Werten übereinstimmen, dass aber davon auszugehen ist, dass die wesentlichen ablaufenden physikalischen und chemischen Prozesse vom Modell hinreichend genau erfasst werden und daher die berechnete Immissionsänderung, die sich zwischen den Modellrechnungen für ein Bezugsjahr und ein Prognosejahr ergibt, zur Prognose der mittleren Änderung der Messwerte an den Stationsorten und darauf aufbauend zur Bewertung von Maßnahmen verwendet werden kann.
+
+Dazu wird zunächst aus den Stundenwerten der Konzentrationen des Basislaufs eine klassifizierte Häufigkeitsverteilung gebildet.
+
+Anschließend wird jeder Klasse des Basislaufs eine klassenspezifische mittlere Änderung zugeordnet, die sich berechnet als Mittelwert aller Änderungen, die die dieser Klasse zugeordneten Stundenwerte des Basislaufs in der Prognoserechnung erfahren.
+
+Auf diese Weise wird der Zeit- und Ortsbezug der einzelnen Stundenwerte aufgegeben.
+
+Die zu erwartenden Messwerte können nun abgeschätzt werden, indem zu jedem einzelnem Messwert des Bezugsjahrs die berechnete klassenspezifische Änderung für diesen Wert addiert wird.
+
+Beobachtete Konzentrationen, die höher als der höchste berechnete Wert sind, werden nur um die der höchsten Klasse zugeordneten Änderung modifiziert.
+
+Die prognostizierte Zeitreihe behält damit die zeitliche Struktur der Basismessreihe, das Konzentrationsniveau jeder einzelnen Messung ist aber um den Betrag verändert, der durch die Prognoserechnung vorgegeben wird.
+
+Bei der Interpretation der Prognoseergebnisse ist zu berücksichtigen, dass insbesondere die prognostizierten Messwerte nur generalisierte Aussagen erlauben, da durch die Bildung der klassifizierten Häufigkeitsverteilung und durch die Zuordnung der klassenspezifischen mittleren Änderungen der Zeit- und Ortsbezug der Einzelwerte aufgegeben wird und so auch nicht wieder herzustellen ist.
+
+Für die vier Stoffe NO2, Ozon, PM10 und PM2,5 wurde die landesweite Immissionsbelastung in Baden-Württemberg mit FLADIS zunächst für den Basisfall mit Bezugsjahr 2016 in 500 m Auflösung ermittelt.
+
+Die in Abschnitt 3.6 beschriebenen Schadstoff-Messdaten wurden interpoliert und mit den Ergebnissen der RCG-Ausbreitungsrechnungen aus Abschnitt 4.2 gemäß Abschnitt 4.3.1.1 gekoppelt.
+
+Die RCG-Ergebnisse wurden vor der Kopplung einer Datenassimilation unterzogen, wie sie in Abschnitt 4.3.1.3 beschrieben ist.
+
+Zudem wurde in FLADIS eine Transformation der im geographischen Koordinatensystem verorteten RCG-Ergebnisse auf UTM32 (Bezugssystem ETRS89) sowie eine Umrechnung auf in UTM32 quadratische Zellen in 500 m Auflösung vorgenommen.
+
+Um das für die vorliegende Datenbasis am besten geeignete Interpolationsverfahren zu bestimmen, wurden die  Rechnungen im Basisfall für die vier Stoffe NO2, Ozon, PM10 und PM2,5 jeweils mit den in Abschnitt 4.3.1.2 beschriebenen Interpolationsverfahren durchgeführt und mit Hilfe der Kreuzvalidierung bewertet.
+
+Die Darstellung der zukünftigen landesweiten Immissionsbelastung im Jahr 2025 wurde für die vier Stoffe NO2, Ozon, PM10 und PM2,5 mit Hilfe der Delta-Methode (Abschnitt 4.3.1.4) auf Basis der RCG-Prognoserechnungen für 2025, des RCG-Basislaufs für 2016 und der Schadstoff-Messdaten aus Abschnitt 3.6 berechnet, wobei das im Basisfall als am besten geeignete Interpolationsverfahren verwendet wurde.
+
+In Abhängigkeit von der zeitlichen Auflösung der Messdaten (Abschnitt 3.6) wurden die FLADIS-Rechnungen für NO2 und Ozon auf Stundenmittelwertbasis und die FLADIS-Rechnungen für PM10 und PM2,5 auf Tagesmittelwertbasis durchgeführt.
+
+Für NH3 und B[a]P lagen Messdaten nur an verhältnismäßig wenig Stationen vor: 8 für NH3 und 19 für B[a]P, davon 11 in Baden-Württemberg.
+
+Die Mittelungszeiträume der Messdaten an den einzelnen Stationen reichten von Tages- über Monats- bis zu Jahresmittelwerten.
+
+Aufgrund der Datenlage wurden daher für B[a]P und NH3 die reinen RCG-Modellergebnisse 2016 und 2025 als landesweite Immissionsbelastung verwendet.
+
+Weitere Details zur Durchführung der FLADIS-Berechnungen zur Kombination der Modelldaten mit Messdaten können Abschnitt 4.3 der ausführlichen Projektdokumentation [IVU  Umwelt 2020] entnommen werden.
+
+Die Richtlinie EU 2008/50/EG [EU 2008] fordert bei der Anwendung von Modellen in der Luftreinhaltung einen Vergleich von Messwerten und Modellergebnissen.
+
+Zur Qualitätssicherung wurden daher sowohl für die reinen RCG-Ergebnisse als auch für die berechneten flächenhaften Immissionsbelastungen auf Basis der RCG-Ergebnisse nach Datenassimilation und Kopplung mit den interpolierten Messdaten Scatterplots erstellt, in denen die Jahresmittelwerte der Modelldaten an den Stationsorten den Jahresmittelwerten der entsprechenden Messdaten gegenübergestellt sind und hinsichtlich dem Bestimmtheitsmaß und den Genauigkeitsvorgaben für Ausbreitungsrechnungen nach der Richtlinie 2008/50/EG [EU 2008] ausgewertet.
+
+In Erweiterung der Qualitätssicherung wurde auch das im Rahmen der FAIRMODE-Initiative entstandene DELTA-Tool für „Assessment und Planning“ (A und P) [thUnIS und  cUVelIer 2018; FAIRMODE 2018] angewendet.
+
+Dieses Analysetool bewertet Modellergebnisse für NO2, Ozon, PM10 und PM2,5 im Vergleich mit Messungen hinsichtlich definierter Qualitätsziele.
+
+Die Modellierungsqualitäts-Ziele des DELTA-Tools werden hier für alle vier Komponenten bereits für die reinen RCG-Modellergebnisse erfüllt und in der Konsequenz auch für die als Immissionsbelastung verwendeten Ergebnisse mit Datenassimilation und Kopplung mit den interpolierten Messdaten.
+
+Für weitere Informationen zur Qualitätssicherung wird auf Abschnitt 4.4 in IVU Umwelt [2020] verwiesen.
+
+Die Ergebnisse der in den vorangegangenen Abschnitten beschriebenen Arbeitsschritte sind im Folgenden als räumliche Verteilung der Jahresmittelwerte kartographisch dargestellt und tabellarisch zusammengefasst.
+
+Die kartographischen Darstellungen sind so aufgebaut, dass der jeweils vorkommende Wertebereich gleichmäßig – vom Maximalwert ausgehend – in 12, auf ganze µg bzw. % gerundete, Klassen aufgeteilt ist.
+
+Die unteren Randklassen weichen dabei z. T. von der gleichmäßigen Schrittweite ab und umfassen größere oder kleinere Spannbreiten.
+
+Bei den Darstellungen für PM10 wurde von dieser Systematik teilweise abgewichen, da dort große Wertebereiche bei gleichzeitig hoher Differenzierung in den niedrigen Bereichen vorliegen, die sich mit einer einheitlichen Schrittweite nicht zufriedenstellend darstellen lassen.
+
+Daher vermindert sich bei einigen Legenden die Schrittweite ab einem bestimmten Wert.
+
+Weiterhin musste auch bei NH3 und B[a]P die oberen Legendenklassen mit deutlich vergrößerten Schrittweiten dargestellt werden.
+
+Bei beiden Stoffen gibt es Gitterzellen mit Werten, die sehr viel größer sind als im Großteil vom Untersuchungsgebiet, so dass dort bei einheitlichen Legendenklassen nur wenig Struktur in den Konzentrationsfeldern erkennbar wäre.
+
+Die Zuweisung der ermittelten Werte für die einzelnen Gitterzellen zu den Farbklassen entspricht einer kaufmännischen Rundung, bei der für jede Klasse die Werte ihrer oberen Grenze noch innerhalb der Klasse dargestellt sind.
+
+In der Abbildung 5.1 der mittleren NO2-Belastung enthält demnach die erste Legendenklasse alle Werte vom Minimum bis einschließlich 3,49 µg/m3, die zweite Klasse alle Werte ab 3,5 bis einschließlich 6,49 µg/m3 usw. Für negative Werte, wie sie bei den relativen Veränderungen gegenüber dem Basisfall auftreten, wurde die Aufteilung in Klassen und die Zuweisung zu den Werteklassen entsprechend gespiegelt.
+
+In den Darstellungen zu Ozon treten teilweise positive und negative Werte auf.
+
+Hier wurde beim Vorzeichenwechsel 0,0 als Klassengrenze angesetzt.
+
+Die mittleren Belastungen 2016 und 2025 wurden für die einzelnen Stoffe in der jeweils gleichen Klassifizierung dargestellt, um eine direkte Vergleichbarkeit zu ermöglichen.
+
+Dies führt dazu, dass sich die ermittelten Minimal- und Maximalwerte der einzelnen Stoffe in den einzelnen Fällen nicht immer aus den Karten ableiten lassen und dass einzelne Legendenklassen am unteren oder oberen Rand unbesetzt sein können.
+
+Für den Basisfall 2016 zeigen die Darstellungen in Abbildung 5.1 bis Abbildung 5.5 für NO2, PM10, PM2,5 und Ozon die Ergebnisse der Modellrechnungen mit RCG, die an die Messwerte assimiliert wurden und mit FLADIS mit den mit dem Hardy-Verfahren interpolierten Messwerten gekoppelt wurden (siehe Abschnitt 4.3).
+
+Bei PM10 ist zusätzlich zu den Jahresmittelwerten die Anzahl der Tage mit einem Tagesmittelwert > 50 µg/m3 dargestellt.
+
+Bei mehr als 35 solchen Tagen liegt eine Grenzwertüberschreitung gemäß der 39. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Luftqualitätsstandards und Emissionshöchstmengen – 39. BImSchV) [39. bImSchV 2018] vor.
+
+Für NH3 und B[a]P wurde weder eine Datenassimilation noch eine Kopplung mit den Messwerten durchgeführt ( siehe Abschnitt 4.3.2).
+
+Für diese beiden Stoffe sind die reinen RCG-Modellergebnisse als landesweite Immissionsbelastung in Abbildung 5.6 und Abbildung 5.7 dargestellt.
+
+Für die in den Abbildungen dargestellten Kenngrößen sind in Tabelle 5.1 die Minimal- und Maximalwerte aufgeführt.
+
+Die mittlere NO2-Belastung ist gekennzeichnet durch hohe Belastungen entlang der großen Verkehrsachsen und in den Großstädten bzw. Ballungsräumen und geringen Belastungen in den ländlichen Räumen, insbesondere auf den Höhenlagen des Schwarzwalds und der Schwäbischen Alb (siehe Abbildung 5.1).
+
+Bei der PM10-Belastung (Jahresmittelwerte) zeigt sich in Abbildung 5.2 grundsätzlich eine ähnliche Raumstruktur, die aber – aufgrund des gegenüber NO2 deutlich höheren Beitrags der außerhalb Baden-Württembergs liegenden Quellen – nivellierter ist.
+
+Die Werte liegen flächendeckend, auch in den Ballungsräumen, zwischen 5 und ca. 19 µg/m3. Vereinzelt treten bei PM10 sehr kleinräumig höhere Belastungen bis zu 25 µg/m3 auf, die durch Quellen mit relevanten Emissionen in geringen Austrittshöhen verursacht werden.
+
+Bei den PM10-Überschreitungstagen zeigt Abbildung 5.3, dass flächendeckend meist höchstens ein Überschreitungstag ermittelt wird und auch in den Ballungsräumen i. d. R. nicht mehr als 5 Tage.
+
+Punktuell treten an mehreren Orten im Modellgebiet mehr Überschreitungstage auf, wobei Werte über 10 nur im Umfeld eines Standorts im äußersten Südwesten von Baden-Württemberg auftreten und auch dort der Maximalwert von 19 weit unter dem Grenzwert von 35 liegt.
+
+Alle diese Orte sind durch vergleichsweise hohe PM10-Emissionen aus niedrigen Quellen der Quellengruppe Industrie und Gewerbe gekennzeichnet.
+
+Bei der Bewertung der Berechnungen müssen die speziellen Eigenschaften eines Gittermodells, wie RCG es ist, berücksichtigt werden.
+
+In einem Gittermodell werden die in eine Zelle des Modellgebiets eingegebenen Emissionen unmittelbar in dieser Zelle verteilt.
+
+Eine  Quelle trägt damit bei allen Windrichtungen zur Konzentration in der entsprechenden Gitterzelle bei.
+
+Ein Messgerät neben der Quelle würde dagegen nur beaufschlagt werden, wenn der Wind von der Quelle in Richtung Messgerät weht.
+
+Ein Gittermodell liefert damit, im Gegensatz zu einer Messung in Quellnähe, eine integrale Betrachtung des Beitrags der Quelle in dieser Zelle.
+
+Dies kann unter Umständen zu einer zu konservativen Abschätzung der Konzentrationen in unmittelbarer Quellnähe führen.
+
+Der Integraleffekt wird  allerdings abgeschwächt durch die sofortige Verdünnung der Emissionen im Zellvolumen.
+
+Welcher Effekt überwiegt, die windrichtungsunabhängige Belastung in einer Zelle oder die sofortige Verdünnung der Emissionen, kann nur durch entsprechende Einzelbetrachtungen geklärt werden.
+
+Das räumliche Muster der PM2,5-Belastung in Abbildung 5.4 entspricht weitgehend dem der Jahresmittelwerte der PM10-Belastung, auch wenn sich im Detail die Strukturen unterscheiden.
+
+Die vereinzelten kleinräumig höheren Belastungen treten gegenüber PM10 etwas weniger auf und sind auch weniger ausgeprägt.
+
+Aufgrund der Ozon-Bildungsprozesse (siehe dazu auch die Anmerkungen in Abschnitt 5.2) zeigt sich in Abbildung 5.5 für Ozon eine zu NO2 komplementäre Situation mit den höchsten Belastungen in den quellfernen Regionen auf den Schwarzwaldhöhen und den geringsten Belastungen in den Großstädten bzw. Ballungsräumen.
+
+Die mittlere NH3-Belastung liegt in überwiegenden Teilen Baden-Württembergs unter 4 µg/m3. In stärker landwirtschaftlich genutzten Gebieten, vor allem mit viel Viehhaltung, sind die Werte höher und erreichen, insbesondere im Allgäu, auch für größere zusammenhängende Flächen  Werte über 8 µg/m3. Werte über 14 µg/m3 werden nur für 2 Gitterzellen à 500 × 500 m2 ermittelt.
+
+Die eine liegt mit knapp über 14 µg/m3 bei Laufenburg an der Grenze zur Schweiz und wird durch relativ hohe schweizer NH3-Emissionen aus dem europäischen Emissionskataster jenseits der Grenze verursacht, die generell entlang großer Teile der Grenze für hohe NH3-Belastungen in Baden-Württemberg sorgen.
+
+Der höchste Wert wird mit knapp über 26 µg/m3 für eine Gitterzelle im Hohenlohischen ermittelt.
+
+Hier liegt eine Quelle aus der Quellengruppe „Industrie und  Gewerbe“, die in 10 m Höhe ca. 35 t NH3 pro Jahr emittiert und direkt für die dort modellierte hohe Belastung verantwortlich ist.
+
+Der Einflussbereich dieser Quelle ist recht beschränkt und schon ab zwei Gitterzellen Entfernung werden nur noch Werte unter 10 µg/m3 ermittelt.
+
+Die mittlere B[a]P-Belastung weist ein untypisches Muster auf (Abbildung 5.7).
+
+Generell werden für das gesamte  Gebiet von Baden-Württemberg flächendeckend mit nur wenigen Ausnahmen Werte unter 0,4 ng/m3 berechnet.
+
+Lediglich für zwei Stellen im Westen Baden-Württembergs werden  Werte von 1 ng/m3 ermittelt, die beide auch durch Quellen der Quellengruppe „Industrie und Gewerbe“ hervorgerufen werden.
+
+Alle weiteren hohen Werte ab 1 ng/m3 werden nur für Gitterzellen in der Nähe der Landesgrenze ermittelt und dort sind die Belastungen durch Emissionen von außerhalb von Baden-Württemberg verursacht, deren Wirkung bis über 20 km in das Bundesland reicht.
+
+Werte über 6 ng/m3  finden sich lediglich ganz im Südwesten in 8 Gitterzellen, an der Grenze zu Frankreich und insbesondere der Schweiz, die alle nicht vollständig in Baden-Württemberg liegen.
+
+Auf die eingeschränkte Qualität der B[a]P-Emissionsdaten außerhalb von Baden-Württemberg wurde in Abschnitt 3.5.2 bereits hingewiesen.
+
+Aus Abbildung 3.2 wird zudem der enorme Gradient der Emissionen an der Landesgrenze von Baden-Württemberg, insbesondere im Westen und Süden, deutlich.
+
+Die außerhalb von Baden-Württemberg liegenden hohen B[a]P-Emissionen sind für die sehr hohen B[a]P-Werte in den grenznahen Gebieten verantwortlich.
+
+Die für die Prognose verwendeten Emissionsdaten sind in Abschnitt 3.5.3 dokumentiert.
+
+Es sei angemerkt, dass für die Prognose-Berechnungen für 2025 nicht nur für die Emissionen in Baden-Württemberg, sondern auch für die Emissionen außer halb des Bundeslandes, also im übrigen Deutschland und in Europa, der prognostizierte Stand 2025 verwendet wurde.
+
+Zur Erstellung neuer Randbedingungen unter der Berücksichtigung dieser großräumigen Emissionsveränderungen mussten für die Prognose 2025 daher auch die übergeordneten Nester (Europa und Deutschland) neu berechnet werden.
+
+Für die Prognose 2025 zeigen die Darstellungen in Abbildung 5.8 bis Abbildung 5.12 die Ergebnisse der  Modellrechnungen mit RCG, die an Messwerte assimiliert wurden und mit FLADIS mit den mit dem Hardy-Verfahren interpolierten Messwerten gekoppelt wurden (siehe Abschnitt 4.3).
+
+Als hypo thetische Messwerte für 2025 wurden dabei die mit der Delta-Methode für das Jahr 2025 angepassten Messwerte angesetzt (siehe Abschnitt 4.3.1.4).
+
+Bei PM10 ist entsprechend Abschnitt 5.1 zusätzlich zu den Jahres mittelwerten die Anzahl der Tage mit einem Tagesmittelwert > 50 µg/m3 dargestellt.
+
+Für NH3 und B[a]P sind, entsprechend Abschnitt 5.1, die reinen RCG-Modellergebnisse für 2025 in Abbildung 5.13 und Abbildung 5.14 dargestellt.
+
+In Abbildung 5.8 bis Abbildung 5.14 finden sich auch jeweils zwei ergänzende Darstellungen der absoluten und  relativen Veränderungen der Prognose 2025 gegenüber 2016 für die Jahresmittelwerte von NO2, PM10, PM2,5, Ozon, NH3 und B[a]P.
+
+Da es sich hier um Differenzen handelt, die z. T. auch nur einen Wertebereich von wenigen µg/m3 oder Prozent aufweisen, wurden die Differenzen nicht als gerundete Werte, sondern direkt als die Differenzen zwischen den nicht gerundeten Werten für 2016 und der Prognose 2025 dargestellt.
+
+Die Klassengrenzen sind dabei an ihrem jeweiligen größeren Wert einschließend, so dass beispielsweise eine Abnahme des NO2-Jahresmittelwerts in Höhe von -1,0 µg/m3 in Abbildung 5.15 in der Klasse -2 bis -1 dargestellt wird.
+
+Für die in den Abbildungen dargestellten Kenngrößen sind in Tabelle 5.2 die Minimal- und Maximalwerte, zusammen mit denen des Basisfalls, aufgeführt.
+
+Tabelle 5.3 enthält die mini malen und maximalen Änderungen der Prognose gegen über 2016.
+
+Dabei ist zu beachten, dass die einzelnen Minimal- und Maximalwerte in den beiden Fällen nicht unbedingt an den gleichen Orten auftreten müssen.
+
+Ebenso wenig müssen die Orte der minimalen und maximalen Änderungen zwischen den  Fällen aus Tabelle 5.3 mit denen der minimalen und maximalen  Absolutwerte aus Tabelle 5.2 zusammenfallen.
+
+Tabelle 5.2 und Tabelle 5.3 sowie Abbildung 5.8 bis Abbildung 5.14 zeigen im Vergleich mit dem Basisfall 2016 bei NO2, PM10, PM2,5 und NH3 flächendeckend Rückgänge der Belastungen, die in Quellnähe deutlich ausgeprägter sind.
+
+Bei Ozon zeigen sich in der Prognose leichte Abnahmen der Maximalwerte und eine gewisse Nivellierung des Belastungsniveaus.
+
+Insgesamt sind bei Ozon die Unterschiede zum Basisfall jedoch sehr gering.
+
+Bei B[a]P gibt es bei generell leichten Abnahmen an der südwestlichen Landesgrenze zu Frankreich und insbesondere zur Schweiz leichte Zunahmen, die auf die Emissionen in diesen beiden Ländern zurückzuführen sind.
+
+Insgesamt nehmen die NOx-Emissionen in Baden- Württemberg von 2016 bis 2025 um 39 %, für den Straßenverkehr  sogar um etwa 60 % ab (siehe Tabelle 3.1 bis Tabelle 3.3).
+
+Die NO2-Belastung verringert sich von 2016 bis 2025 um bis zu 15 µg/m3 mit den höchsten Abnahmen entlang der  großen Verkehrsachsen (siehe Abbildung 5.8).
+
+Die geringsten absoluten Abnahmen werden in den emissionsarmen  Gebieten und im direkten Umfeld von Einzelquellen, für deren Quellengruppe die Reduktionsfaktoren eher gering sind, berechnet.
+
+Entsprechend der hohen Minderungs raten bei den Emissionen des Straßenverkehrs werden im Bereich der Verkehrsachsen auch die höchsten relativen Abnahmen (circa 40 bis 48 %) berechnet.
+
+Ansonsten liegen die erreichbaren NO2-Minderungen großflächig im Bereich von ca. 30 bis 40 %.
+
+Entsprechend den geringeren PM10-Emissionsminderungen (-19 % über alle Quellengruppen) sind auch die bis 2025 für die PM10-Jahresmittelwerte erreichbaren Abnahmen geringer als bei NO2 (siehe Abbildung 5.9).
+
+Die absoluten PM10-Minderungen liegen im Bereich von 1 bis 3 µg/m3. Die verkehrsbedingten PM10-Emissionen nehmen bis 2025 wegen des hohen Anteils der Aufwirbelungs- und Abriebemissionen im Vergleich zu NOx deutlich weniger ab, dementsprechend zeichnen sich in den Karten der Änderungen die Gebiete hoher Verkehrsdichte auch sehr viel weniger in der Flächendarstellung ab, als bei den NO2-Minderungen.
+
+Die relativen PM10-Abnahmen bewegen sich im Bereich von 8 bis etwas über 16 %, mit den geringsten Abnahmen im Einflussbereich der industriellen Quellen.
+
+Abbildung 5.10 zeigt die für 2025 berechnete Anzahl von Tagen mit einem PM10-Tagesmittelwert > 50 µg/m3. Der Vergleich mit den Ergebnissen für 2016 in Abbildung 5.3 zeigt eine deutliche Verringerung der Anzahl von Überschreitungs tagen.
+
+Während für 2016 noch bis zu 19 Tage mit  Überschreitungen eines Tagesmittelwerts von 50 µg/m3 berechnet wurden (siehe Abschnitt 5.1), werden für 2025 flächendeckend nur bis zu 2 Tage und, mit Ausnahme von 3 Gitterzellen, maximal 5 Tage berechnet.
+
+Für 2 Gitter zellen im äußersten Südwesten, werden 7 bzw. 10 Tage und für eine weitere in der Nähe von Heilbronn ebenfalls 7 Tage ermittelt.
+
+In beiden Fällen handelt es sich um Fälle mit Standorten der Quellengruppe „Industrie“.
+
+Bei PM2,5 zeigt sich, aufgrund der sich für beide Stoffe nur wenig unterscheidenden Fortschreibungsfaktoren, ein zu PM10 sehr ähnliches Bild.
+
+Die absoluten Abnahmen sind, entsprechend dem insgesamt geringeren Konzentrationsniveau bei PM2,5, mit 0,5–2 µg/m3 etwas geringer, die relativen Abnahmen decken mit 5–17 % fast den gleichen Wertebereich ab (siehe Abbildung 5.11), sind dabei aber im Mittel relativ etwas höher als bei PM10.
+
+Abnahmen der Ozonjahresmittelwerte (siehe Abbildung 5.12) bis zu 3 µg/m3 bzw. 3 % werden hauptsächlich in den emissions armen Regionen des Schwarzwalds und der Schwäbischen Alb mit hohen Ozon-Konzentrationen im Jahr 2016 (siehe Abbildung 5.5) berechnet.
+
+Zunahmen bis zu 8 µg/m3 bzw. bis zu 25 % ergeben sich in Regionen mit hohen NOx-Emissionen und relativ niedrigen Ozon-Konzentrationen im Jahr 2016.
+
+Die Ursachen für dieses gegensätzliche Verhalten werden im Folgenden kurz skizziert.
+
+Die Ozon-Konzentrationen sind im Gegensatz zu den NO2-Konzentrationen und, in verminderter Form auch den Partikel-Konzentrationen, sehr stark durch einen hohen Hintergrund (Troposphärisches Ozon) bestimmt.
+
+Dieser Hinter grund dominiert das mittlere Ozonniveau, auf das während photochemisch aktiver Perioden das durch biogene und anthropogene Vorläufer gebildete Ozon aufsetzt.
+
+Wegen der Zeitskala der komplexen chemischen Reaktionen wird Ozon weitgehend nicht in der direkten Quellumgebung gebildet, sondern erst während des Transports mit dem Wind.
+
+Die Ozonbildung wird angetrieben von der Sonnenstrahlung.
+
+Ozonabbau erfolgt über photochemische Reaktionen, die direkte Reaktion von Ozon mit NO (Titrationseffekt) und über die in Boden nähe ablaufenden Prozesse der trockenen Deposition (Abbau von Ozon durch chemische Reaktionen an pflanzlichen und nicht- pflanzlichen Oberflächen am  Boden).
+
+Bei fehlender Einstrahlung überwiegt der Ozonabbau, was am Boden insbesondere bei nächtlichen stabilen atmosphärischen Bedingungen zu einem ausgeprägten Ozontagesgang mit hohen Konzentrationen am Tage und niedrigen Konzentrationen in der Nacht führt.
+
+Der Beitrag des Titrations effekts zum Ozonabbau ist besonders hoch in den Gebieten mit hohen NO-Emissionen.
+
+Sinkt nun dieses NO durch Emissionsreduzierungen, wird der Titrationseffekt abgeschwächt, d. h. es wird weniger Ozon abgebaut, was sich im Vergleich zum Basisfall im Mittel durch eine Zunahme der Ozon-Konzentrationen bemerkbar macht.
+
+Eine verminderte Ozonproduktion durch die Verminderung der Vorläuferemissionen macht sich im Allgemeinen erst in größerer Quellentfernung und dann vor allem durch eine Abnahme der Spitzenwerte bemerkbar.
+
+Die Höhe des Minderungseffekts hängt zudem von der Größe des Gebiets ab, in dem die Emissionen gemindert werden.
+
+Im hier vorliegenden Fall wurden die Emissionen für ganz Europa gemindert (siehe Abschnitt 3.5.3).
+
+Damit lässt sich festhalten, dass es infolge von NOx-Emissions minderungen bei den gegenwärtigen Emissionsverhältnissen in den emissionsbelasteten Regionen Baden-Württembergs zu Zunahmen der Ozonjahresmittelwerte kommen kann, die hauptsächlich aus der Zunahme der nächtlichen Ozon-Konzentrationen als Folge der  Abnahme des Titrationseffekts resultieren.
+
+Abnahmen der Ozonjahres mittelwerte treten – wenn überhaupt – nur in eher  ländlichen Regionen mit geringen NOx-Emissionen auf.
+
+Da die ländlichen Regionen im Mittel mehr mit Ozon belastet sind als die städtischen Regionen, führt die Ozonzunahme in den städtischen Regionen zu einer gewissen räumlichen Nivellierung des Konzentrationsniveaus.
+
+Bei Bewertungsgrößen, die mehr auf die maximalen Ozon-Konzentrationen abzielen, wie den so genannten AOT40-Werten für die Vegetation oder der Anzahl von Überschreitungen eines maximalen 8h-Mittel wertes von 120 µg/m3 Ozon, werden die Auswirkungen von Minderungsmaßnahmen deutlicher.
+
+So wurde im PAREST-Projekt [Stern 2013] gezeigt, dass die Emissionsprognose 2020 in Deutschland zwar gebietsweise auch zu Zunahmen der Ozonjahresmittelwerte führt, die AOT40-Werte und die Anzahl von Tagen mit Überschreitungen eines maximalen 8h-Mittwelwerts von 120 µg/m3 Ozon aber nahezu im gesamten Untersuchungsgebiet abnehmen.
+
+Ähnliches ist für Baden-Württemberg auch zu erwarten.
+
+Bei NH3 ähneln sich die Abbildungen für 2016 und 2025 sehr.
+
+Das Belastungsniveau nimmt flächendeckend absolut um bis zu 3 µg/m3 ab.
+
+Lediglich direkt bei der Einzelquelle im Hohenlohischen ergeben sich höhere Abnahmen von bis zu 6 µg/m3. Außerhalb von landwirtschaftlich genutzten Flächen sind die Abnahmen i. d. R. unter 1 µg/m3 (siehe Abbildung 5.13).
+
+Die relativen Änderungen sind in den ländlichen Gebieten am größten und erreichen dort großflächig Werte von 15 bis zu 23 %.
+
+Die geringsten Abnahmen finden sich in den Großstädten und Ballungsräumen.
+
+Auch bei B[a]P gibt es nur geringe Unterschiede zwischen den beiden Bezugsjahren und die Differenzdarstellungen sind durch fast flächendeckende geringe Abnahmen bis zu 0,03 ng/m3 geprägt.
+
+Lediglich an der Grenze zur Schweiz gibt es einige Bereiche, bei denen die B[a]P-Konzentrationen leicht um bis zu 0,03 ng/m3 zunehmen.
+
+Dies ist in den gemäß TRANSPHORM [2014] für manche Sektoren in der Schweiz leicht steigenden Emissionen begründet.
+
+Stärkere Abnahmen um bis zu 0,2 ng/m3 gibt es in den Großstädten und bei einzelnen industriellen Standorten (siehe Abbildung 5.14).
+
+Bei der Darstellung der relativen Differenzen treten die durch die fast um die Hälfte reduzierten Emissionen des Straßenverkehrs hervorgerufenen Abnahmen in den Großstädten und Ballungsräumen sowie entlang der Hauptverkehrsachsen deutlicher hervor.
+
+In dem hier dokumentierten Projekt wurde die Immissionsbelastung für das Gebiet von Baden-Württemberg für die Stoffe NO2, PM10, PM2,5, Ozon, NH3 und Benzo[a]pyren (B[a]P) in einer Auflösung von 500 × 500 m2 ermittelt.
+
+Die Ergebnisse wurden tabellarisch und insbesondere karto graphisch aufbereitet und dargestellt.
+
+Für den Basisfall 2016 ist die mittlere NO2-Belastung gekennzeichnet durch hohe Belastungen entlang der großen Verkehrsachsen und in den Großstädten bzw. Ballungsräumen und geringen Belastungen in den ländlichen Räumen, insbesondere auf den Höhenlagen des Schwarzwalds und der Schwäbischen Alb.
+
+Bei PM10 und PM2,5 zeigen sich grundsätzlich ähnliche Raumstrukturen, die aber – aufgrund des gegenüber NO2 deutlich höheren Beitrags der außerhalb Baden-Württembergs liegenden Quellen – nivellierter sind.
+
+Aufgrund der komplexen Ozon-Bildungs- und - Abbauprozesse zeigt sich für die Ozonjahresmittelwerte eine zu NO2 komplementäre Situation mit den höchsten Belastungen in den quellfernen Regionen auf den Schwarzwaldhöhen.
+
+Bei NH3, für die aufgrund der schmalen Datenbasis keine Anpassung der modellierten Daten an Messwerte erfolgte, ist die mittlere Belastung in den überwiegenden Teilen Baden-Württembergs gering.
+
+In stärker landwirtschaftlich genutzten Gebieten, vor allem mit viel Viehhaltung, insbesondere im Allgäu, sind die Werte deutlich höher.
+
+Bei B[a]P, für das ebenfalls keine Anpassung an Messwerte erfolgte, werden grundsätzlich für das gesamte Gebiet von Baden-Württemberg flächendeckend geringe Belastungen ermittelt.
+
+Allerdings  werden in der Nähe der Landesgrenze, insbesondere im Westen, deutlich höhere Belastungen ermittelt, die sich aufgrund von Emissionen außerhalb Baden-Württembergs ergeben.
+
+Die Prognose für 2025 beruht auf einer ganz Europa umfassenden Emissionsentwicklung.
+
+In Baden-Württemberg zeigt die Prognose 2025 großflächig Rückgänge der Belastungen gegenüber dem Basisfall 2016 zwischen circa 30 und 40 % bei NO2 und circa 12 bis 16 % bei PM10 und PM2,5.
+
+Für Ozon ergeben sich in der Prognose leichte Abnahmen der Jahresmittelwerte bis zu circa 3 % in ländlichen Regionen, wo die höchsten Konzentrationen auftreten, verbunden mit Zunahmen bis zu über 20 % in den emissionsbelasteten Regionen.
+
+Bei NH3 sind die Abnahmen in den ländlichen Gebieten am größten und erreichen dort großflächig Werte von 15 bis 23 %.
+
+Die geringsten Abnahmen finden sich in den Großstädten und Ballungsräumen.
+
+Für B[a]P ergeben sich eher geringe Abnahmen, die großflächig unter 3 % liegen.
+
+In den Großstädten und Ballungsräumen sind die berechneten Abnahmen doppelt bis drei Mal so groß.
+
+Um zu qualitativ möglichst guten Aussagen zu kommen, wurden für den Basisfall 2016 und eine Prognose für 2025 mit dem FLADIS-System interpolierte Schadstoffmesswerte mit räumlich hoch aufgelösten Simulationsergebnissen des dreidimensionalen chemischen Transportmodells RCG in stündlicher Auflösung kombiniert.
+
+Da bei NH3 und B[a]P deutlich weniger  Messdaten als bei den übrigen Stoffen vorliegen, konnte eine solche Kombination mit Mess daten nicht durchgeführt werden und für diese beiden Stoffe haben die ermittelten Immissionsbelastungen eher einen indikativen Charakter.
+
+Bei B[a]P kommt noch hinzu, dass die Qualität der Emissionsdaten nicht der der übrigen Stoffe entspricht.
+
+Als Grundlage für die Modellrechnungen wurden zunächst für das Bezugsjahr 2016 auf Basis von Daten des Deutschen Wetterdiensts dreidimensionale meteorologische Felder zum Antrieb des chemischen Transportmodells erzeugt.
+
+Für eine Ausbreitungsmodellierung in hoher räumlicher Auflösung ist zudem ein Emissionskataster in möglichst hoher räumlicher Differenzierung als Eingangsdatensatz erforderlich.
+
+Da die Emissionen vieler relevanter Quellengruppen in Baden-Württemberg nur als gemeindebezogene Summenwerte vorlagen, mussten sie räumlich disaggregiert werden.
+
+Dies wurde auf Basis von Gebäude- und Landnutzungsdaten quellengruppenspezifisch mit einem geographischen Informationssystem durchgeführt.
+
+Für die Prognose 2025 wurden die Emissionen entsprechend deutschlandweiter Szenarien fortgeschrieben.
+
+Für die Kombination der Mess- und der Modelldaten zum Gesamtergebnis wurden die Messdaten aus Baden-Württemberg um Daten benachbarter Bundesländer und Staaten ergänzt und damit verschiedene Interpolationsverfahren getestet.
+
+Die Ergebnisse wurden mit dem „leaveoneout“-Verfahren zur Kreuz validierung entsprechend der VDI Richtlinie zur „Ermittlung der Unsicherheit  räumlicher Beurteilungen der Luftqualität“ vergleichend bewertet und ein einheitliches Verfahren für die drei  untersuchten Komponenten ausgewählt.
+
+Die im Rahmen dieser Arbeits schritte erstellten Auswertungen und Abbildungen zeigen, dass, trotz der hohen Erklärungswerte der reinen Modellergebnisse, eine Assimilation an die Messwerte und anschließende Kombination mit einer Interpolation in stündlicher Auflösung eine deutliche Qualitätsverbesserung liefert.
+
+Die Qualitätssicherung erfolgte auch mit dem FAIRMODE DELTA-Tool für die dort verfügbaren Stoffe NO2, PM10, PM2,5 und Ozon.
+
+Bereits die reinen RCG-Modell rechnungen ohne Anpassung an die Mess daten erfüllen dabei das Qualitätskriterium für alle Stoffe.
+
+Bei den hier ermittelten Immissionsbelastungen als Kombination von Modell- und Messwerten verbessert sich auch bei diesem Ansatz zur Qualitätssicherung die Güte der Ergebnisse signifikant.
+
+Mit dem hier angewendeten System der Assimilierung der Ergebnisse von Modellierungen mit Chemietransportmodellen mit Messungen zu Flächendarstellungen der Immissionen wird es möglich, Strukturen, die durch die Orographie und die räumliche Verteilung der Emissionen hervorgerufen werden, adäquat abzubilden.
+
+Ein rein auf Messungen basierendes Interpolationsverfahren kann dies selbst bei einer hohen Messstationsdichte nur sehr begrenzt leisten.
+
+Der hier vorliegende Bericht fasst die ausführliche Projektdokumentation aus IVU Umwelt [2020], die kostenfrei bei der LUBW angefordert werden kann, zusammen.
+
+
+
+
+</TEXT></TimeML>

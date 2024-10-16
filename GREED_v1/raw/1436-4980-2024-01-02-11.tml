@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>1436-4980-2024-01-02-11</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-01-02" temporalFunction="false" functionInDocument="CREATION_TIME">2024-01-02</TIMEX3></DCT>
+<TEXT>Im Pariser Klimaabkommen von 2015 verpflichteten sich 195 Staaten ihre Emissionen zu reduzieren, mit dem Ziel, den Klimawandel einzudämmen [1].
+
+Aus diesem Grund wurde der Europäische Green Deal für 27 EU-Mitgliedsstaaten eingeführt, um bis 2045 Klimaneutralität zu erreichen [2].
+
+In Deutschland sollen die Treibhausgasemissionen bis 2030 um mindestens 65 % im Vergleich zu 1990 gesenkt werden.
+
+Ein weiteres Ziel ist es, bis 2040 die Emissionen um 88 % zu reduzieren [3].
+
+Der Industriesektor ist nach der Energiewirtschaft die zweitgrößte Emissionsquelle für Treibhausgase in Deutschland – mit einem Anteil von 22 % an den Gesamtemissionen [4].
+
+Steigende Energiekosten, zunehmende Umweltbelastungen und gesetzliche Vorgaben zur Reduzierung von Treibhausgasemissionen stellen Unternehmen vor die Herausforderung, ihre Energieeffizienz zu steigern.
+
+In diesem Zusammenhang haben sich Energiemanagementsysteme (EnMS) als wichtiges Instrument zur Über wachung, Steuerung und Optimierung des Energieverbrauchsetabliert.
+
+Mit EnMS lassen sich Ressourcen effizienter nutzen und Kosten senken.
+
+Dieser Beitrag stellt Analysen vor, die auf empirischen Er hebungen des Energieeffizienz-Index basieren.
+
+Im Folgenden werden die Grundlagen von Energieeffizienz und Energiemanagementsystemen erörtert, bevor eine detailliertere Analyse der Daten und Ergebnisse vorgestellt werden.
+
+Energieeffizienz spielt aufgrund globaler Herausforderungen eine bedeutende Rolle [5].
+
+Energieeffizienz wird als das Verhältnis von erzieltem Nutzen zu eingesetzter Energie definiert.
+
+Die Erhöhung der Effizienz in der Industrie bringt wirtschaftliche L. Jung, K. Torolsan, A. Gergert, F. Förster, A. Sauer Vorteile durch die Reduzierung des Energieverbrauchs und der damit verbundenen Energiekosten.
+
+Sie leistet zudem einen Beitrag zur Reduzierung von Treibhausgasemissionen und zu einer geringeren Abhängigkeit von fossilen Brennstoffen.
+
+Die Steigerung der Energieeffizienz spielt also eine wichtige Rolle in der Entwicklung von nachhaltigen industriellen Wirtschaftsstrukturen.
+
+Das Institut für Energieeffizienz in der Produktion (EEP)  der Universität Stuttgart erforscht Lösungen zur Reduzierung des Energieverbrauchs in der industriellen Produktion.
+
+Aufgrund der hohen Relevanz der Energieeffizienz wurde das Ziel verfolgt, Fortschritte in diesem Bereich messbar zu machen, um einen Entscheidungsleitfaden für Industrie, Politik und Wissenschaft zu schaffen.
+
+Der Energieeffizienz-Index der deutschen Industrie (EEI) wird seit 2013 halbjährlich erhoben [6].
+
+Ziel ist es, ein Stimmungsbild der deutschen Industrie zum Thema Energieeffizienz zu erhalten.
+
+Darüber hinaus werden halbjährlich wechselnde aktuelle Sonderthemen abgefragt.
+
+Die Berechnung des Energieeffizienz-Index erfolgt anhand von drei Teilindizes: Bedeutung der Energieeffizienz (Teilindex EBI), Energieproduktivität im Unternehmen (Teilindex EPI) und Investitionen in Energieeffizienz (Teilindex EII).
+
+Die Teilindizes bilden zusammen den Energieeffizienz-Index (EEI).
+
+[6] Der Teilindex „Bedeutung“ ist eine Abfrage der persönlichen Einschätzung der befragten Unternehmen zum Thema Energieeffizienz.
+
+Sowohl die aktuelle Bedeutungseinschätzung als auch die Bedeutungserwartung für die nächsten 12 Monate werden abgefragt und im Teilindex abgebildet.
+
+Der Teilindex „Investitionen“ berücksichtigt, welchen Anteil an den Gesamtinvestitionen die befragten Unternehmen aktuell und im kommenden Jahr in Energieeffizienz investieren (werden).
+
+Analog dazu wird im Teilindex „Produktivität“ das Verhältnis von Umsatz zu Energieverbrauch für den aktuellen Zeitrahmen und die künftigen Erwartungen abgebildet.
+
+Ein höherer Indexwert deutet auf einen Fortschritt hin.
+
+Der Teilindex Bedeutung ist über die letzten drei Jahre konstant geblieben, während die Teilindizes für Investitionen und Produktivität einen signifikanten Rückgang im Jahr 2023 verzeichnet haben (Bild 1).
+
+Die Auswirkungen der Pandemie und der Ausbruch des Ukrainekriegs haben sich negativ auf die Investitionsbereitschaft im Bereich der Energieeffizienz ausgewirkt.
+
+Die Industrie hatte in dieser Zeit mit vielen Problemen zu kämpfen, wie etwa der Aufrechterhaltung der Produktion und der Lieferketten, einem Abschwung der Wirtschaft und hohen Energiepreisen.
+
+Wirtschaftliche Unsicherheit, finanzielle Belastungen, höhere Inflation und Energiepreise haben die Investitionstätigkeit gedämpft [7].
+
+Der Klimainvestitionsbericht der Europäischen Investitionsbank EIB zeigt, dass zunehmend mehr Unternehmen in den Klimaschutz investieren.
+
+Allerdings gelten hohe Unsicherheiten als Hindernis für diese Investitionen [8].
+
+Angesichts dieser Herausforderungen sind Energieeffizienzmaßnahmen wichtig.
+
+Ein Drittel der Energieeinsparmaßnahmen lassen sich ohne große Investitionen realisieren [9].
+
+Vor allem die Erfassung und Analyse des Energieverbrauchs kann sich als Entscheidungskriterium etablieren und Einsparungen bei energieintensiven Prozessen ermöglichen.
+
+Die Umfrage wird in Zusammenarbeit mit erfahrenen Marktforschungsinstituten durchgeführt, um eine hohe Qualität sowohl bei telefonischen als auch Online-Befragungen zu gewährleisten.
+
+Die wichtigsten Branchen in Deutschland sind durch eine festgelegte Verteilung repräsentiert, was eine Gewichtung der Branchen ermöglicht.
+
+Durch die hohe Teilnehmerzahl wird eine konstante Datenbasis erreicht, welche eine gleichbleibende Berechnung der Indizes und eine aussagekräftige Bewertung der verschiedenen Branchen in der Industrie in Deutschland erlaubt.
+
+Die Ergebnisse lassen sich nach Unternehmensgröße (Kleinstunternehmen, Kleinunternehmen, mittlere Unternehmen), nach Bundesländern, nach Wirtschaftszweigen oder nach Energieintensitätsklassen auswerten.
+
+giemanagementsysteme (EnMS).
+
+Die Erfassung und Analyse der Energiedaten stellt Trends oder Spitzenverbrauchszeiten dar und kann zur Optimierung des Energiebedarfs sowie zur Senkung der Energiekosten beitragen.
+
+Zudem können Effizienzmaßnahmen abgeleitet werden, die sich durch die Verringerung des Energieverbrauchs wirtschaftlich und emissionsreduzierend auswirken.
+
+Die Einführung eines EnMS leistet somit einen Beitrag, um die Wirtschaftlichkeit und Wettbewerbsfähigkeit eines Unternehmens zu steigern [9].
+
+Rahmen für die Etablierung, Implementierung, Aufrechterhaltung und Verbesserung eines EnMS.
+
+Die Norm verfolgt einen kontinuierlichen Verbesserungsprozess der energiebezogenen Leistung, um die Ziele der Energieeffizienz und des Energieverbrauchs auf allen Ebenen einer Organisation zu erreichen.
+
+Dieser Prozess basiert auf der Methode Plan-Do-Check-Act (PDCA).
+
+Er umfasst die Planung, Umsetzung, Überprüfung und Verbesserung.
+
+In der Planungsphase werden ein Energiebeauftragter oder ein Energieteam benannt und eine initiale Bewertung der Energiesituation des Unternehmens vorgenommen.
+
+Die Umsetzung besteht aus der Einführung klarer Ziele und Prozesse, deren Einhaltung und Bewertung in der Überprüfungsphase durch interne Audits kontrolliert wird.
+
+Anschließend werden in der Verbesserungsphase die energierelevanten Prozesse optimiert und neue Ziele formuliert [11].
+
+Unternehmen müssen gemäß ISO 50001 ein Energiemanagementsystem implementieren und aufrechterhalten, um die Zertifizierung gemäß der Norm zu erlangen.
+
+die verschiedene Aspekte des Energiemanagements abdecken.
+
+Die EN 16247 [12] ist eine europäische Norm für Energieaudits, die eine systematische Untersuchung des Energieverbrauchs erlaubt.
+
+Diese Norm ergänzt die ISO 50001, indem sie mit Erkenntnissen die Implementierung eines Energiemanagementsystems unter-Die Überwachung des Energieverbrauchs erfolgt durch Ener-Die ISO-50001-Zertifizierung [10] bietet Unternehmen einen Neben ISO 50001 existieren weitere Normen und Standards, stützt.
+
+Die ISO 14001 [13] ist ein weltweit verbreiteter Standard für Umweltmanagementsysteme.
+
+Sie befasst sich mit verschiedenen Umweltaspekten, wie Ökobilanzen und Umweltleistungskennzahlen.
+
+Diese Norm kann effektiv mit ISO 50001 kombiniert werden, um sowohl die Umwelt- als auch Energieleistung einer Organisation zu verbessern.
+
+Das Eco-Management and Audit Scheme (EMAS) ist ein Umweltmanagement- und Auditprogramm der Europäischen Union, welches die Anforderungen der ISO 14001 übernimmt und erweitert.
+
+EMAS verlangt als Erweiterung die Veröffentlichung einer Umwelterklärung, die von einem zugelassenen Umweltgutachter zu prüfen ist [14].
+
+Für energieintensive Unternehmen kann die Einführung einer Zertifizierung nach EMAS oder ISO 50001 eine finanzielle Entlastung bedeuten.
+
+Unternehmen können dadurch von reduzierten EEG (Erneuerbare-Energien-Gesetz)-Umlagen und von einem Spitzenausgleich, welcher eine Ermäßigung der Strom- und Energiesteuern einschließt, profitieren.
+
+Ziel dieser Maßnahmen ist es, die Implementierung von EnMS zu fördern und durch finanzielle Anreize Investitionen in Energieeffizienz attraktiver zu machen [15].
+
+Im Jahr 2022 verzeichnete die Internationale Organisation für Normung (ISO) in Deutschland etwa 5523 Zertifikate für ISO 50001, als Teil der weltweiten Gesamtzahl von 27 765  Zertifikaten.
+
+Die Verbreitung der Zertifizierung nach ISO 14001 ist noch größer, mit rund 13 383 Zertifikaten in Deutschland von insgesamt 529 853 weltweit [16].
+
+Die Einführung von Energiemanagementsystemen wird durch das vom Bundestag beschlossene Energieeffizienzgesetz (EnEfG) weiter gefördert.
+
+Das EnEfG verpflichtet Unternehmen mit einem hohen Energieverbrauch (durchschnittlich mehr als 7,5 GWh) zur Einführung von Energie- oder Umweltmanagementsystemen.
+
+Zudem sollen Unternehmen mit einem jährlichen Gesamtendenergieverbrauch von über 2,5 GWh wirtschaftliche Energieeffizienzmaßnahmen in Umsetzungsplänen erfassen und diese veröffentlichen [17].
+
+Seit Einführung der ISO 50001 im Jahr 2011 [10] ist die Zahl der Zertifizierungen in Deutschland stetig gewachsen.
+
+Die Umfragen des Energieeffizienz-Index haben über die letzten Jahre eine kontinuierliche Steigerung gezeigt.
+
+Bild 2 illustriert den zeitlichen Verlauf des Anstiegs der ISO-50001-Zertifizierungen in Deutschland von 2015 bis 2023.
+
+Die Ergebnisse der Umfrage zeigen eine Zunahme der Verbreitung von Zertifizierungen in Unternehmen.
+
+Vier Jahre nach der Einführung waren im Jahr 2015 etwa 5,3 % der befragten Unternehmen zertifiziert.
+
+Im Jahr 2023 beträgt der Anteil an ISO-50001-Zertifizierungen 36 %.
+
+Dies weist auf eine wachsende Umsetzung des Standards hin.
+
+Der Anstieg lässt sich auch an der Zahl an Zertifizierungen der letzten Jahre, dokumentiert durch die ISO in Deutschland, erkennen: Etwa 3402 Zertifizierungen im Jahr 2015 und 5523 im Jahr 2022 [16].
+
+Es ist zu erwarten, dass der prozentuale Einsatz in den kommenden Jahren weiter zunimmt, da das Energieeffizienzgesetz (EnEfG) neu eingeführt wurde.
+
+Aktuelle Umfrageergebnisse aus dem Jahr 2023 in Bild 2 rechts zeigen, dass die Unternehmen zunehmend Wert auf international anerkannte Normen legen.
+
+Dabei wird neben der ISO 50001 besonders die ISO 14001 für Umweltmanagementsysteme verfolgt.
+
+Diese Normen sind entscheidend für Firmen, die ihre Energieeffizienz steigern möchten.
+
+Im Gegensatz dazu sind europäische Standards wie die EN 16247 oder das EMAS weniger verbreitet.
+
+Diese Entwicklung zeigt, dass die ISO 50001 eine wichtige Richtlinie für Unternehmen ist, die ihre Nachhaltigkeitspraktiken verbessern möchten.
+
+Die digitale Erfassung des Energieverbrauchs spielt eine zentrale Rolle bei der Implementierung von Energiemanagementsystemen und für eine ISO-50001-Zertifizierung.
+
+Der Energie effizienz-Index 2022 [18] zeigte, dass rund 52 % der 860 befragten Unternehmen bereits eine digitalisierte Erfassung ihres Energieverbrauchs eingeführt haben oder dies planen.
+
+Es zeigt sich eine Korrelation zu den Umfrageergebnissen von 2022 und 2023.
+
+In 2022 hatten bereits 36 % der Unternehmen eine digitale Erfassung ihres Energieverbrauchs umgesetzt (Bild 2).
+
+Auch in 2023 haben etwa 36 % der Unternehmen eine ISO-50001-Zertifizierung angestrebt (Bild 2 rechts).
+
+Wie in Bild 3 dargestellt, bevorzugen 28 % der Unternehmen die Nutzung von standardisierter Software für die Erfassung von Energiedaten.
+
+Lediglich rund 8 % entscheiden sich für die Entwicklung eigener Softwarelösungen.
+
+Eine Analyse dieser Ergebnisse nach Unternehmensgröße zeigt, dass insbesondere bei Großunternehmen mit hohem Energieverbrauch die digitale Erfassung weit verbreitet ist: Etwa 82 % dieser Unternehmen halten sie für relevant.
+
+Davon nutzen bereits 68 % ein digitales System, während 14 % sich in der Planungs phase befinden.
+
+Auch die Eigenentwicklung von Software ist bei Großunternehmen mit 17 % stärker verbreitet.
+
+Bild 3 rechts veranschaulicht, dass die digitale Erfassung von elektrischer Energie besonders verbreitet ist.
+
+Von den 36 % der Unternehmen, die eine digitalisierte Erfassung ihres Energieverbrauchs implementiert haben, erfassen alle ihren Verbrauch an elektrischer Energie digital.
+
+Rund 40 % dieser Unternehmen nutzen ihre Systeme auch zur Überwachung des Verbrauchs von Wärme oder Erdgas.
+
+Die Verfolgung des Druckluftverbrauchs findet bei 18 % der Unternehmen statt, wobei Druckluft nicht in allen Unternehmen als Energieträger eingesetzt wird.
+
+men, um zu ermitteln, wie und wofür diese ihr Energiemanagementsystem (EnMS) einsetzen.
+
+Etwa die Hälfte der befragten Unternehmen gab an, bereits ein EnMS implementiert zu haben.
+
+Von den 860 Unternehmen nutzen 44 % das System zur Entscheidungsunterstützung, vor zur Optimierung von Prozessabläufen und dem Energiebezug (Bild 4).
+
+gesammelten Daten für statistische Analysen oder zur Visualisierung.
+
+Circa 30 % setzen das EnMS ein, um Störungen frühzeitig zu erkennen und Prognosen über den zukünftigen elektrischen Lastverbrauch zu erstellen.
+
+Ein EnMS ist ein effektives Werkzeug, um die Energieeffizienz zu erhöhen und Kosteneinsparung zu erzielen.
+
+Die Umfrage von 2023 [7] richtete sich an 860 Unterneh-Rund 35 % der Unternehmen verwenden die durch das EnMS Im Jahr 2023 [7] bewerteten die Unternehmen den Mehrwert eines EnMS unabhängig davon, ob sie eines implementiert hatten oder nicht.
+
+Neben allgemeinen Zielen wie Energiekostenein sparungen und dem Beitrag zur Nachhaltigkeit gaben rund 50 % der Befragten an, dass der hohe Grad an Datenerfassung und verfügbarkeit den größten Mehrwert bietet (Bild 5).
+
+Ungefähr 14 % sehen einen wesentlichen Vorteil in der Erkennung von Lastspitzen, um ihren zukünftigen Energiebedarf präziser vorherzusagen und Strategien für Energieeffizienz zu entwickeln.
+
+Ebenfalls 14 % der Unternehmen betonen den Mehrwert durch die Möglichkeit zur Automatisierung innerhalb des Unternehmens.
+
+Durch die Integration der Daten in automatisierten Umgebungen können sie den Energieverbrauch effektiver anpassen und steuern.
+
+Das Potenzial von Maßnahmen zur Energieflexibilität und die Fähigkeit, auf volatile Energiepreise zu reagieren, wird nur von etwa 10 % der Befragten wahrgenommen, was auf ein hohes Entwicklungspotenzial in diesem Bereich hinweist.
+
+Die Analyse der empirischen Daten des Energieeffizienz-Index zeigt einen deutlichen positiven Trend bei der Einführung von ISO-50001-Zertifikaten sowie der Nutzung digitalisierter Plattformen zur Erfassung des Energieverbrauchs.
+
+Seit der Einführung im Jahr 2011 haben etwa 36 % der Unternehmen Systeme für die digitale Erfassung implementiert oder streben eine Zertifizierung gemäß ISO 50001 an, um ihre Energieeffizienz zu steigern.
+
+Vor allem die Erfassung des elektrischen Verbrauchs, gefolgt von Erdgas und Wärme, ist für die Unternehmen von hoher Bedeutung.
+
+Die Wichtigkeit dieser systematischen Ansätze wird durch das neue Energieeffizienzgesetz noch verstärkt, das energieintensive Unternehmen zur Einführung solcher Systeme verpflichtet.
+
+Die Auswertung der Daten zeigt, dass Großunternehmen, die häufig in diese Kategorie fallen, bereits zu etwa 68 % ein solches System nutzen, während 14 % die Einführung planen.
+
+Dieser hohe Grad an Datenverfügbarkeit soll Unternehmen insbesondere bei der Entwicklung von Entscheidungen zur Optimierung ihres Energieverbrauchs unterstützen und eine Möglichkeit bieten, Energieeffizienzmaßnahmen ohne höhere Investitionen durchzuführen.
+
+
+
+</TEXT></TimeML>

@@ -1,0 +1,1043 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>95109-Leitfaden</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2016-10-01" temporalFunction="false" functionInDocument="CREATION_TIME">2016-10-01</TIMEX3></DCT>
+<TEXT>Bei vielen industriellen oder gewerblichen Herstellungs- und Verarbeitungsprozessen fällt Abwasser an, das ord­ nungsgemäß entsorgt werden muss.
+
+Das Abwasser kann dementsprechend Schadstoffe enthalten, die durch be­ triebliche Behandlungsverfahren nach dem Stand der Technik entfernt werden müssen.
+
+Im Einzelfall werden an die Einleitung zusätzliche gewässerbezogene Anforderun­ gen gestellt.
+
+Erst wenn eine entsprechende Abwasserreini­ gung erfolgt ist, darf Abwasser – direkt oder indirekt – in ein Gewässer eingeleitet werden.
+
+Die ordnungsgemäße Entsorgung des angefallenen Abwassers ist daher ein Grundpfeiler des vorsorgenden Gewässerschutzes sowie des integrierten Umweltschutzes in Industrie und Gewer­ be.
+
+Wasserwirtschaftlich unterscheidet man bei Abwasserein­ leitungen grundsätzlich zwischen Indirekteinleitern und Direkteinleitern.
+
+Als Indirekteinleiter werden solche Be­ triebe bezeichnet, bei denen das angefallene Abwasser über eine kommunale Kläranlage in ein Gewässer einge­ leitet wird.
+
+Gelangen neben biologisch gut abbaubaren Stoffen auch solche Substanzen in das Abwasser, die auf einer kommunalen Kläranlage nicht ausreichend eliminiert werden oder die möglicherweise die Funktion der Kläran­ lage beeinträchtigen, muss das Abwasser vor Einleitung in das kommunale Abwassersystem in einer betrieblichen Abwasserbehandlungsanlage vorbehandelt werden.
+
+In Ba­ den-Württemberg ist dies etwa in einem Drittel der Be­ triebe mit immissionsschutzrechtlich  genehmigungsbe­ dürftigen Anlagen der Fall.
+
+Das metallbe- und verarbeitende Gewerbe nimmt dabei eine herausragende Stellung ein, die Branchen Chemie und Textilveredlung sind ebenfalls stark vertreten.
+
+Mengenmäßig bedeutsam sind vor allem bei den unteren Wasserbehörden auch meh­ rere tausende Tankstellen, Kfz-Werkstätten und Zahnarzt­ praxen, deren Abwasser über Leichtstoff- bzw. Amalgamab­ scheider gereinigt wird, bevor es in die Kanalisation gelangt.
+
+Als Direkteinleiter werden solche Betriebe be­ zeichnet, die ihr Abwasser – in der Regel nach einer Vorbe­ handlung – direkt in ein Gewässer einleiten.
+
+In Baden-Württemberg sind etwa 380 Betriebe Direkteinleiter.
+
+Darunter fallen insbesondere die Branchen Papier- und Zellstoffherstellung, die chemische und pharmazeutische Industrie sowie die Nahrungsmittel- und Getränkeherstel­ lung.
+
+Im Bereich der unteren Wasserbehörden gehören Steinbrüche zu den häufigsten Direkteinleitern.
+
+Für den Betrieb der Abwasseranlagen ist grundsätzlich der Betreiber verantwortlich.
+
+Die Aufgabe der Wasserbehör­ den ist es zu überwachen, dass der Betreiber seinen Ver­ pflichtungen in ordnungsgemäßer Art und Weise nach­ kommt.
+
+Die wesentlichen Grundlagen der Abwasserüberwachung – deren Hauptaugenmerk auf der Abwasserbeschaffenheit liegt – sind zwar seit Jahrzehnten etabliert; gleichwohl hat sich die behördliche Überwachungspraxis im Laufe der Zeit weiterentwickelt.
+
+Dem Erhalt des Wissensstands um die Details der Abwas­ serüberwachung und der Beurteilungskompetenz im Hin­ blick auf die abwasserrelevanten Vorgänge kommt eine er­ hebliche Bedeutung zu.
+
+Aufgrund neuer Vorgaben gehören überdies die systema­ tische Bewertung der von der Anlage ausgehenden Ri­ siken, die Sicherstellung einer regelmäßigen Überwachung vor Ort, Dokumentationspflichten sowie die Bereitstellung von Daten für Berichte zunehmend zum Arbeitsalltag.
+
+Der vorliegende Leitfaden zielt darauf ab, einen landesein­ heitlichen Vollzug abwasserrechtlicher Regelungen sicher­ zustellen.
+
+Er stellt die bestehende Überwachungspraxis zusammenfassend dar und beschreibt neue Anforderun­ gen, die insbesondere aufgrund der nationalen Umsetzung der Industrieemissions-Richtlinie hinzugekommen sind.
+
+Die wesentlichen rechtlichen Grundlagen wurden dabei dem technischen Teil vorangestellt.
+
+Der Leitfaden bietet somit Informationen nicht nur für Einsteiger, sondern auch für erfahrene Mitarbeiterrinnen und Mitarabeiter sowie Führungskräfte.
+
+Er richtet sich glei­ chermaßen an die Beschäftigten der unteren Verwaltungs­ behörden und der Regierungspräsidien.
+
+Erst im Zusammenhang mit der Neuordnung der Gesetz­ gebungskompetenzen durch die Föderalismusreform von 2006 erhielt der Bund die Zuständigkeit für Vollregelungen zum Wasserhaushalt.
+
+Bis dahin stellte das Wasserhaushalts­ gesetz (WHG) nur eine Rahmengesetzgebung dar.
+
+Mit dem WHG vom 31.07.2009, in Kraft seit dem 01.03.2010, regelt der Bund nun abschließend den anlagenbezogenen Gewässerschutz, soweit das WHG nicht Öffnungsklauseln vorsieht.
+
+Beispielsweise verlangt § 58 WHG nunmehr zwar grundsätzlich eine Genehmigung für das Einleiten von Ab­ wasser in öffentliche Abwasseranlagen (Indirekteinlei­ tungsgenehmigung), lässt aber Regelungen der Länder zu, die anstelle einer Genehmigung nur eine Anzeige fordern.
+
+Die Vorgaben des WHG wurden im Wassergesetz (WG) und in der Indirekteinleiterverordnung (IndVO) des Lan­ des Baden-Württemberg umgesetzt.
+
+Wesentliche Änderungen des WHG und der Abwasserver­ ordnung (AbwV) im Bereich des anlagenbezogenen Ge­ wässerschutzes wurden 2013 zur Umsetzung der Indus­ trieemissions-Richtlinie (IE-Richtlinie) erforderlich.
+
+Während die Zulassung und Überwachung der meisten sogenannten IE-Anlagen im Bundesimmissionsschutzrecht oder in der Deponieverordnung (DepV) geregelt werden, stellen eigenständig betriebene Abwasserbehandlungsanla­ gen insofern eine Ausnahme dar, als sie die einzigen IE-Anlagen sind, die ausschließlich im Wasserrecht geregelt werden.
+
+Die Genehmigungsbedürftigkeit dieser Anlagen ist in § 60 Absatz 3 Satz 1 Nummer 2 WHG festgelegt.
+
+Die europäischen Anforderungen an die Zulassung und Über­ wachung von Industriekläranlagen, die Abwasser aus einer IE-Anlage behandeln, wurden in der Industriekläranlagen-Zulassungs- und Überwachungsverordnung (IZÜV) umge­ setzt.
+
+Die Anhänge der AbwV werden jeweils nach Veröf­ fentlichung der entsprechenden BVT-Schlussfolgerungen (siehe Kapitel 2.2.3) an den Stand der Technik angepasst.
+
+Zudem wurde die Direktgeltung für bestimmte Anforde­ rungen der AbwV eingeführt (siehe Kapitel 2.2.3).
+
+Der in der AbwV verankerte Stand der Technik gilt grundsätzlich – soweit nicht ausdrücklich etwas anderes geregelt ist – auch für Abwasserbehandlungsanlagen und Einleitungen, die nicht unter die IE-Richtlinie fallen.
+
+Das Gesetz zur Ordnung des Wasserhaushalts (Wasser­ haushaltsgesetz - WHG) stellt die erforderlichen Rege­ lungen, Bestimmungen und Vorschriften zum Schutz und zur Nutzung des Wasserhaushalts zur Verfügung.
+
+Das Was­ sergesetz für Baden-Württemberg (WG) führt diese Rege­ lungen aus und ergänzt sie, soweit durch das WHG keine abschließende oder bestimmte Regelung getroffen wurde oder aber bestimmte Regelungsbereiche dem Landesrecht eröffnet sind.
+
+Die gesamte wasserwirtschaftliche Überwachung wird in den Wassergesetzen als „Gewässeraufsicht“ bezeichnet.
+
+Sie hat zum Ziel, die Beeinträchtigungen der Gewässer in de­ ren Eigenschaft als Trinkwasserreservoir, als Bestandteil des Naturhaushalts und als Lebensraum für Tiere und Pflanzen zu vermeiden und bereits eingetretene Beein­ trächtigungen zu beseitigen.
+
+Auch der Grundsatz, mit dem Allgemeingut „Wasser“ sparsam umzugehen, gehört zu den wasserwirtschaftlichen Zielen.
+
+In § 100 WHG sind die für die Gewässeraufsicht relevanten Regelungen als „Aufgaben der Gewässeraufsicht“ formu­ liert, nämlich die Gewässer und die öffentlichrechtlichen Verpflichtungen aufgrund der Wassergesetze des Bundes und der Länder zu überwachen.
+
+Darunter fällt auch die Überwachung der nach §§ 8, 9, 58 und 60 WHG erteilten Zulassungen für die Direkt- und Indirekteinleitungen und für genehmigungsbedürftige Anlagen sowie die Überwa­ chung der nach § 48 WG bzw. der IndVO zugelassenen Anlagen und Einleitungen.
+
+Die Regelungen in § 100 Ab­ satz 1 und 2 WHG gelten als sogenannte „Generalklausel der Gewässeraufsicht“.
+
+Für die Gewässeraufsicht enthält § 100 Absatz 1 WHG eine allgemeine Eingriffsermächtigung.
+
+Die zuständigen Wasser­ behörden können damit Maßnahmen anordnen, die z. B. zur Erfüllung von Verpflichtungen aus dem WHG, darauf gestützter Rechtsverordnungen sowie zur Erfüllung landes­ rechtlicher Vorschriften erforderlich sind.
+
+In § 100 Absatz 2 WHG sind außerdem regelmäßige und anlassbezogene Überprüfungen der erteilten wasserrecht­ lichen Zulassungen vorgeschrieben.
+
+Eine Überprüfung der Zulassung ist dann erforderlich, wenn die Anforderungen in dem für die Abwasserherkunft relevanten Anhang zur AbwV an den Stand der Technik angepasst wurden.
+
+Die in den branchenbezogenen Anhängen der AbwV gekenn­ zeichneten Emissionsgrenzwerte gelten dabei als im Zulas­ sungsbescheid festgesetzt (Direktwirkung, siehe Kapitel 2.2.3), soweit nicht im Einzelfall weitergehende Anforde­ rungen gestellt wurden.
+
+Nachträgliche Inhalts- oder Ne­ benbestimmungen zu einer Zulassung können nach § 13 Absatz 1 WHG angeordnet werden.
+
+§ 101 WHG stellt der Überwachungsaufgabe die Befug­ nisse der Gewässeraufsicht als Detailregelung an die Seite.
+
+Insbesondere werden das Auskunftsrecht und das Recht zur Betretung der Betriebsgrundstücke und räume klarge­ stellt.
+
+§ 102 WHG enthält eine Sondervorschrift für die Überwachung der Anlagen und Einrichtungen der Vertei­ digung, die zur Wirksamkeit einer entsprechenden Verord­ nung des Bundes bedarf.
+
+Aufgrund der Tatsache, dass die behördlichen Überwa­ chungsaufgaben durch die Regelungen des WHG generell formuliert sind, nimmt das WG in § 75 „Allgemeine Ge­ wässeraufsicht“ lediglich auf diese Regelungen Bezug und ergänzt diese explizit um „die Gefahrenabwehr auf dem Gebiet der Wasserwirtschaft“.
+
+In § 75 Absatz 1 Satz 2 WG der landesrechtlichen Regelung wird zudem ausgeführt, dass die Wasserbehörde zur Wahrnehmung dieser Aufga­ ben – also auch zur Gefahrenabwehr – diejenigen Anord­ nungen treffen kann, die ihr nach pflichtgemäßem Ermes­ sen erforderlich erscheinen.
+
+Das Landesrecht verdeutlicht in § 75 Absatz 1 Satz 3 WG darüber hinaus, dass auch Sachverständige zur Erfüllung der Überwachungsaufgaben herangezogen werden kön­ nen.
+
+Die Kosten für diese Überwachung sind von den Be­ nutzern eines Gewässers oder den Betreibern von Anlagen zu tragen, soweit sich die Überwachung auf die Einhaltung der Betreiberpflichten bezieht.
+
+Neben der behördlichen Überwachung ist die Selbstüber­ wachung durch die Gewässerbenutzer bzw. die Betreiber von Abwasseranlagen in § 61 WHG vorgeschrieben.
+
+§ 61 Absatz 3 sieht eine bundesrechtliche Eigenkontrollverord­ nung vor.
+
+Der Bund hat von dieser Regelungsermächti­ gung bislang keinen Gebrauch gemacht.
+
+Insofern ist in Ba­ den-Württemberg die Eigenkontrollverordnung des Landes Baden-Württemberg (EKVO) gültig (siehe Kapitel 2.2.4).
+
+Die Selbstüberwachung dient zunächst dem Nutzer selbst, um seinen Abwasserstrom zu beobachten und gegebenen­ falls selbstständig Maßnahmen zu ergreifen, die die Einhal­ tung der erforderlichen Abwasserqualität gewährleisten.
+
+Sie dient aber auch der Erleichterung der staatlichen Ge­ wässeraufsicht.
+
+Insofern ist die Kombination von behörd­ licher Überwachung und Selbstüberwachung Ausdruck des allgemeinen umweltrechtlichen Kooperationsprinzips (Vier-Augen-Prinzip).
+
+Die Anforderungen der Selbstüber­ wachung sind Teil der den Anlagenbetreibern obliegenden Betreiberpflichten.
+
+Dazu gehören nicht nur Maßnahmen zur Verbesserung der Abwasserbehandlung, sondern auch Maßnahmen im Produktionsprozess.
+
+Im Zusammenhang mit der Selbstüberwachung sind auch die bundesrechtlich in § 24 Absatz 1 WHG geregelten Er­ leichterungen für EMAS-Standorte (Eco-Management and Audit Scheme) zu nennen.
+
+Behördliche Kontrollen kön­ nen für EMAS-Standorte reduziert werden (siehe Kapitel 4.2).
+
+Voraussetzung für die Überwachung einer Abwasseranlage ist die Kenntnis der Wasserbehörde von deren Existenz.
+
+Diese ist gegeben, soweit eine wasserrechtliche Genehmi­ gung erforderlich und vorhanden ist oder soweit eine An­ zeige für die Errichtung bzw. die Inbetriebnahme einer nicht genehmigungspflichtigen Anlage erforderlich ist und vorgelegt wurde.
+
+Die wasserrechtliche Genehmigung von industriellen und gewerblichen Abwasseranlagen erfolgt in der Regel nach § 48 WG im Zusammenhang mit einer immissionsschutz­ rechtlich genehmigungsbedürftigen Anlage wird die Ab­ wasseranlage nach § 13 Bundesimmissionsschutzgesetz (BImSchG) in der immissionsschutzrechtlichen Genehmi­ gung konzentriert.
+
+Eine Ausnahme hiervon bilden selbst­ ständig betriebene Abwasserbehandlungsanlagen im Sinne von Nummer 6.11 Anhang I der IE-RL.
+
+Diese werden nach § 60 Absatz 3 Satz 1 Nummer 2 WHG genehmigt.
+
+Neben der anlagenbezogenen Genehmigung für die Ab­ wasserbehandlungsanlage ist  für Direkteinleiter eine Einleitungserlaubnis erforder­ lich,  für Indirekteinleiter eine Genehmigung oder Anzeige der Indirekteinleitung erforderlich, wenn Anforderungen für den Ort des Anfalls oder vor Vermischung (Teil D oder E der Anhänge) festgelegt sind.
+
+Die Fälle, in denen für eine Indirekteinleitung in Baden-Württemberg eine Anzeige ausreichend ist, werden auf der Grundlage der Ermächtigung in § 58 Absatz 2 und 3 WHG nach Landesrecht in der Indirekteinleiterverordnung (IndVO) geregelt.
+
+Wird Abwasser aus industriellen Abwasseranlagen in ein Gewässer eingeleitet, ist eine an der Schadstofffracht be­ messene Abgabe zu entrichten, die durch die Länder erho­ ben wird.
+
+Die Abwasserabgabe ist ein Instrument, um die Reinigungsleistung der Abwasseranlagen zu verbessern und damit die direkte Einleitung der Schadstofffrachten zu minimieren.
+
+Sie wird im Abwasserabgabengesetz (AbwAG) des Bundes geregelt.
+
+Nach § 4 AbwAG wird die Zahl der Schadstoffeinheiten anhand der „Festlegungen des die Abwassereinleitung zu­ lassenden Bescheides“ ermittelt.
+
+Die Einhaltung des Be­ scheides ist im Rahmen der Gewässerüberwachung nach den wasserrechtlichen Vorschriften durch staatliche oder staatlich anerkannte Stellen zu überwachen (§ 4 Absatz 2 AbwAG), d. h., hierfür sind die Analysenergebnisse der amtlichen Probenahme maßgeblich (nicht die Ergebnisse der Eigenkontrollen).
+
+Eine davon abweichende Regelung findet sich in § 4 Absatz 5 AbwAG für Fälle, in denen der Einleiter die im Bescheid festgelegten Werte „herab er­ klärt" (siehe Kapitel 4.4).
+
+Im Wassergesetz für Baden-Württemberg sind zudem Re­ gelungen zur Abwasserabgabe in §§ 115 bis 124 WG mit den Verknüpfungen zum Abwasserabgabengesetz festge­ legt.
+
+Zum Thema Abwasserabgabe sei hier auf die Arbeitshilfe der LUBW: „Leitfaden Abwasserabgabe - Arbeitshilfe für die Festsetzungsbehörden“ verwiesen.
+
+Die Abwasserverordnung (AbwV) konkretisiert als Bun­ desverordnung in ihren Anhängen den Stand der Technik für die einzelnen Branchen.
+
+Die Anforderungen an das Ab­ wasser werden auf der Grundlage des § 57 WHG festge­ legt.
+
+Die allgemeinen Anforderungen sowie die Anforde­ rungen für den Ort des Anfalls des Abwassers oder vor seiner Vermischung gelten auch für Indirekteinleiter (§ 58 Absatz 1 Satz 1 und Absatz 2 WHG).
+
+In Kapitel 8.1 ist die Struktur der AbwV näher erläutert.
+
+Auf europäischer Ebene werden die besten verfügbaren Techniken (BVT) für eine Branche in den BVT-Merkblät­ tern beschrieben.
+
+Die verbindlichen Anforderungen und die einzuhaltenden Emissionsbandbreiten sind für Anla­ gen, die der IE-Richtlinie unterliegen, in den BVT-Schluss­ folgerungen festgelegt.
+
+Die wasserrechtlichen Anforderun­ gen der BVT-Schlussfolgerungen werden national in den Anhängen der AbwV umgesetzt.
+
+Die Anforderungen werden in der AbwV branchenbezo­ gen für 53 Produktionsbereiche sowohl für vorhandene als auch für neue Einleitungen festgelegt.
+
+Es wird hierbei nicht zwischen Anlagen, die unter die IE-Richtlinie fallen, und anderen Anlagen, die nicht in deren Geltungsbereich fal­ len, unterschieden.
+
+In der Regel ist der Stand der Technik für alle Anlagen einer Branche gleich.
+
+Werden also in der AbwV keine anderslautenden Regelungen getroffen, so gelten die dort genannten Anforderungen und Fristen für alle Anlagen, die unter diesen Anhang fallen.
+
+Mit den Änderungen des WHG und der AbwV im Jahr 2013 wurde die unmittelbare Wirkung (Direktwirkung) der AbwV eingeführt (§ 57 Absatz 4 WHG und § 1 Absatz 2 AbwV).
+
+Die Verordnung richtet sich nunmehr nicht nur an die Behörden, sondern unmittelbar auch an den Einlei­ ter.
+
+Die Direktwirkung gilt für die besonders gekennzeich­ neten Emissionsgrenzwerte sowie für die allgemeinen An­ forderungen der AbwV.
+
+Diese müssen somit nicht von der Behörde angeordnet werden, um wirksam zu werden.
+
+Die Direktwirkung der allgemeinen Anforderungen und – soweit Anforderungen an den Ort des Anfalls oder vor Ver­ mischung vorhanden sind – der gekennzeichneten Emissi­ onsgrenzwerte greift auch bei Indirekteinleitern (§ 58 Absatz 1 bis 3 WHG).
+
+Die übrigen Anforderungen der Anhänge sind von der Be­ hörde bei der Erteilung einer wasserrechtlichen Zulassung für das Einleiten von Abwasser festzusetzen.
+
+Die in § 1 Absatz 2 AbwV zitierte Kennzeichnung der Emissions­ grenzwerte findet sich in den seit dem Jahr 2014 novel­ lierten Anhängen der AbwV, z. B. in den Anhängen Eisen- und Stahlerzeugung (Anhang 29), Glasherstellung (Anhang 41) oder Steinkohleverkokung (Anhang 46).
+
+Sie werden im Zuge der nächsten Novellierungen der AbwV sukzessive in alle Anhänge eingeführt.
+
+Für vorhandene Einleitungen werden Abweichungen vom Verordnungsgeber nur dann festgelegt, wenn dies aus Gründen der Verhältnismäßigkeit geboten ist.
+
+Soweit für vorhandende Einleitungen abweichend von der unmittelbaren Geltung Umsetzungsfristen für die allgemei­ nen Anforderungen und gekennzeichneten Emissions­ grenzwerte festgelegt werden, sind diese im betreffenden Anhang in Abschnitt F genannt.
+
+Die Eigenkontrollverordnung (EKVO) des Landes Baden-Württemberg wurde aufgrund des § 83 WG a.F. erlassen.
+
+Diese Vorschrift wurde im WG vom 3.
+
+Dezember 2013 er­ satzlos gestrichen, die Verordnung bleibt aber aufgrund der Übergangsregelung des § 128 Absatz 3 WG n.F. in Kraft.
+
+Die Eigenkontrolle dient in erster Linie der Überprüfung einer ordnungsgemäßen Funktion der Abwasseranlagen und der Abwasserqualität, insbesondere  der Kontrolle der Einleitungsbedingungen,  der Überprüfung der Reinigungsleistung der Abwasser­ behandlungsanlagen bezüglich wesentlicher Parameter sowie  der Erkennung von Unregelmäßigkeiten und Störungen im Produktionsbereich.
+
+Die EKVO konkretisiert daher die Selbstüberwachungs­ vorschrift des § 61 WHG im Hinblick auf den Überwa­ chungsumfang wie z. B. Zustand, Funktionstüchtigkeit, Unterhaltung und Betrieb der Anlage, Einsatzstoffe, Art und Menge des Abwassers und der Abwasserinhaltsstoffe.
+
+Für Eigenkontrollen im Bereich des Industrie- und Gewer­ beabwassers sind speziell die Regelungen des Anhangs 2 der EKVO (Industrieanhang) einschlägig.
+
+Dort wird neben den analytischen Eigenkontrollen des Abwassers die täg­ liche Kontrolle der einzelnen Behandlungsanlagen sowie eine in bestimmten Abständen durchzuführende Dicht­ heitsprüfung bei nicht einsehbaren Abwasserkanälen und becken gefordert.
+
+Im Hinblick auf den Boden- und Grund­ wasserschutz kommt der Prüfung der Abwasserkanäle und becken eine hohe Bedeutung zu.
+
+Die Betriebsdokumenta­ tion (Anhang 2 Nummer 7 der EKVO) ist eine wesentliche Grundlage für die Behörde, um den bestimmungsgemäßen Betrieb zu überprüfen.
+
+Die 2016 novellierte AbwV bestimmt in der Anlage 2 den Inhalt und den Umfang der Betriebsdokumentation, so­ weit die EKVO nicht weitergehende Regelungen vorsieht.
+
+Die EKVO gilt für den Betreiber bzw. Einleiter unmittel­ bar.
+
+Mit der Eigenkontrolle wird – unbeschadet der amtlichen Überwachung – die Einhaltung der die Abwasseranlagen und Einleitung betreffenden wasserrechtlichen Vorschrif­ ten und Verpflichtungen nachgewiesen.
+
+Mit der Industriekläranlagen-Zulassungs- und Überwa­ chungsverordnung (IZÜV) wurde eine neue Bundesver­ ordnung erlassen, die die Vorgaben der IE-Richtlinie zur Zulassung und Überwachung industrieller Abwasserbe­ handlungsanlagen und Gewässerbenutzungen im Wasser­ recht umsetzt.
+
+Die Bundesverordnung ersetzt die bis dahin geltende Landesregelung (Verordnung des Umweltministe­ riums zur Umsetzung der IVU-Richtlinie im Wasserrecht - IVU-VO Wasser).
+
+Der Anwendungsbereich der IZÜV umfasst  die Zulassung und Überwachung von selbstständig betriebenen Abwasserbehandlungsanlagen nach Nummer 6.11 des Anhangs I der IE-Richtlinie (ge­ nehmigungsbedürftige Anlagen nach § 60 Absatz 3 Satz 1 Nummer 2 WHG),  die Zulassung und Überwachung von Gewässerbe­ nutzungen (Direkteinleitungen), wenn Abwasser aus einer IE-Anlage (nach § 3 der Verordnung über ge­ nehmigungsbedürftige Anlagen - 4.
+
+BImSchV - bzw. § 60 Absatz 3 Nummer 2 WHG) eingeleitet wird,  sowie die Überwachung von genehmigungsbedürf­ tigen Indirekteinleitungen nach §§ 58, 59 WHG, wenn das Abwasser aus einer IE-Anlage (nach § 3 der Verordnung über genehmigungsbedürftige Anlagen - 4.
+
+BImSchV  - bzw. § 60 Absatz 3 Nummer 2 WHG) stammt.
+
+Als wesentliche Elemente sind die Erstellung von Überwa­ chungsplänen und Überwachungsprogrammen (§ 9 Absatz 1 bis 3 IZÜV) sowie die Durchführung von regelmäßigen Vor-Ort-Besichtigungen (§ 9 Absatz 5 IZÜV) zu nennen.
+
+Die Regelungen der §§ 8 und 9 IZÜV konkretisieren § 100 Absatz 1 Satz 2 WHG als Ermächtigungsgrundlage für das Einschreiten der Gewässeraufsichtsbehörde.
+
+Zum Schutz von Grundwasser (und Boden) und mittelbar der Oberflächengewässer müssen Anlagen zum Umgang mit wassergefährdenden Stoffen entsprechend dem bun­ desrechtlichen Besorgnisgrundsatz in § 62 Absatz 1 WHG so beschaffen sein, „dass eine nachteilige Veränderung der Eigenschaften von Gewässern nicht zu besorgen ist“.
+
+Überwachungsmaßnahmen im Bereich der Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen (VAwS) dienen dazu festzustellen, ob die Anlage noch dicht ist und die Sicherheitseinrichtungen noch funk­ tionieren.
+
+Abwasser ist kein wassergefährdender Stoff im Sinne der VAwS.
+
+Die Überwachung von Abwasseranlagen unterliegt daher nicht den Anforderungen der VAwS.
+
+Abwasseranla­ gen können aber als Rückhalteeinrichtungen für wasserge­ fährdende Stoffe genutzt werden (§ 21 VAwS).
+
+In diesen Fällen werden die Abwasseranlagen zusätzlich entspre­ chend den Anforderungen der VAwS überwacht (siehe Ka­ pitel 4.1 und 4.3.2).
+
+Die Verordnung des Umweltministeriums Baden-Württ­ emberg über die dezentrale Beseitigung von Niederschlags­ wasser vom 22. März 1999 bestimmt die Anforderungen an die erlaubnisfreie Beseitigung von Niederschlagswasser (vgl. § 46 WHG).
+
+Das Hauptkriterium für die Erlaubnis­ freiheit ist die „schadlose Beseitigung“.
+
+Die Niederschlagswasserbeseitigung von gewerblich oder industriell genutzten Flächen ist grundsätzlich nicht er­ laubnisfrei.
+
+Konkrete Anforderungen an das Abwasser sind in der Niederschlagswasserverordnung nicht enthalten.
+
+Niederschlagswasser unterliegt auch nicht der AbwV.
+
+An­ forderungen sind daher – soweit dies zur schadlosen Besei­ tigung erforderlich ist – gegebenenfalls im Einzelfall zu stellen.
+
+Der Umfang der Überwachung richtet sich dann nach den in der Erlaubnis festgelegten Anforderungen.
+
+Un­ beschadet dessen gilt produktspezifisch verunreinigtes Niederschlagswasser als Abwasser und unterliegt dann den Anforderungen des jeweiligen Anhangs der AbwV.
+
+In Baden-Württemberg obliegt die Abwasserbeseitigung in der Regel der Gemeinde (§ 46 Absatz 1 WG).
+
+Sie regelt durch Satzung, unter welchen Voraussetzungen Abwasser als angefallen gilt und in welcher Weise und Zusammen­ setzung ihr das Abwasser zu überlassen ist.
+
+Die Gemeinde kann das Abwasser auch von der Beseitigung ausschließen (§ 46 Absatz 4 WG).
+
+Die Regelung des § 56 WHG be­ stimmt, dass Abwasser von juristischen Personen des öf­ fentlichen Rechts, die nach Landesrecht hierzu verpflichtet sind, zu beseitigen ist.
+
+Wer die Abwasserbeseitigungspflicht ausübt, ist landesrechtlich in § 46 Absatz 1 WG konkreti­ siert.
+
+Demnach ist in der Regel die Gemeinde die Abwas­ serbeseitigungspflichtige.
+
+Die Kommune kann die Einlei­ tung auch ablehnen (vgl. dazu § 46 Absatz 4 Satz 2 WG).
+
+Satzungen sind kommunale Regelungen, die gegenüber denjenigen, die ihr Abwasser der Kommune überlassen müssen, wie materielles Recht wirken.
+
+Satzungen müssen inhaltlich hinreichend bestimmt sein (Art.
+
+20 Absatz 3 GG).
+
+Die Gemeinde hat nach § 46 Absatz 6 WG auch da­ rüber zu wachen, dass die satzungsrechtlichen Vorschriften eingehalten und die auferlegten Pflichten erfüllt werden.
+
+Sie erhält durch diese landeswassergesetzliche Regelung auch die Ermächtigung, nach pflichtgemäßem Ermessen die erforderlichen Anordnungen zu treffen.
+
+Diese Ermäch­ tigung lässt die Regelungen der §§ 100 und 101 WHG so­ wie § 75 WG unberührt.
+
+Aktuell regelt das Schreiben des Umweltministeriums Ba­ den-Württemberg vom 06.10.2014 zur integrierten Überwa­ chung von immissionsschutzrechtlich genehmigten Anla­ gen die Fristen für die Häufigkeit von Begehungen vor Ort als Teil der staatlichen Überwachung für Anlagen, die nicht unter die IE-Richtlinie fallen.
+
+Damit werden auch die Ab­ wasseranlagen auf dem Betriebsgelände erfasst, die (Pro­ duktions-)Abwasser aus immissionsschutzrechtlich geneh­ migten Anlagen behandeln, soweit sie nicht unter die Kommunalabwasserrichtlinie fallen, sowie gegebenenfalls dazugehörige Gewässerbenutzungen gemäß § 9 Absatz 1 Nummer 4 WHG (Direkteinleitungen).
+
+Die Einzelheiten sind in Kapitel 4.2.2 beschrieben.
+
+Erläuterungen und Auslegungshinweise zur Überwachung nach der IZÜV sind in der Arbeitshilfe für den Vollzug der nationalen Rechtsvorschriften zur Umsetzung der IE-Richtlinie mit Stand vom 8.
+
+August 2014 beschrieben.
+
+Die Zuständigkeiten im Bereich der wasserwirtschaftlichen Überwachung sind in § 82 WG für Baden-Württemberg geregelt: Nach Absatz 1 ist die untere Wasserbehörde sach­ lich für die Überwachung zuständig, „wenn nichts anderes bestimmt ist“.
+
+Davon abweichend sind nach Absatz 2 die höhere Wasserbehörde für Betriebsgelände zuständig, auf denen sich mindestens eine Anlage nach Artikel 10 i.V.m. Anhang I der Richtlinie 2010/75/EU (IE-Richtlinie) bzw. ein Betriebsbereich nach § 3 Absatz 5a BImSchG (Be­ triebsbereich nach der Störfall-Verordnung) befindet.
+
+Diese Zuständigkeit für „Zaunbetriebe“ erstreckt sich auch auf die Überwachungsaufgaben.
+
+Im Zulassungsverfahren für eine industrielle Abwasseran­ lage oder einleitung werden die Antragsunterlagen darauf­ hin geprüft, ob die Anforderungen nach dem Stand der Technik bzw. den allgemein anerkannten Regeln der Tech­ nik (a.a.R.d.T.) eingehalten werden.
+
+Der Stand der Technik wird wasserrechtlich auf nationaler Ebene unter Berück­ sichtigung der europäischen BVT-Merkblätter bzw. BVT-Schlussfolgerungen in der AbwV und den entsprechenden Anhängen hierzu festgelegt.
+
+Es kann davon ausgegangen werden, dass die BVT-Schlussfolgerungen in den aktuali­ sierten Anhängen vollständig und rechtmäßig umgesetzt sind.
+
+Eine eigene Prüfung der BVT-Schlussfolgerungen durch die Vollzugsbehörden ist für den Abwasserbereich nicht erforderlich.
+
+Im Einzelfall kann es jedoch hilfreich sein, bei Zweifelsfragen die BVT-Schlussfolgerungen zur Interpretation von Anforderungen heranzuziehen.
+
+Der Stand der Technik umfasst auch die im einschlägigen Anhang im Teil B festgelegten allgemeinen Anforderungen.
+
+Je nach Herkunftsbereich und Anlagentyp können dies Anforderungen für den Einsatz wassersparender Verfahren bei Wasch- und Reinigungsvorgängen und für die Indirekt­ kühlung, für den Einsatz von schadstoffarmen Betriebs- und Hilfsstoffen sowie für die prozessintegrierte Rückfüh­ rung von Stoffen etc. sein.
+
+Die diesbezüglichen Ausführungen in den Antragsunterlagen sind auch Grund­ lage für die Beurteilung des zulassungskonformen Betriebs im Rahmen der Überwachung, soweit der Bescheid keine abweichenden Regelungen enthält.
+
+Im Zulassungsbescheid werden Anforderungen an die An­ lage und an das Abwasser vor der Einleitung ins Gewässer oder in die Kanalisation festgelegt.
+
+Die einzuhaltenden Überwachungswerte im Abwasser ergeben sich aus den je­ weils geltenden Anhängen der AbwV.
+
+Sie werden zur Ge­ samtbeurteilung der Einleitung um notwendige Parameter ergänzt.
+
+Hierzu gehören in jedem Fall die Abwassermenge und anlagenbezogene Parameter, die einen den a.a.R.d.T. entsprechenden Betrieb der Abwasseranlagen gewährlei­ sten sollen (z.
+
+B. abfiltrierbare Stoffe, pH-Wert, Leitfähig­ keit).
+
+Weitere gegebenenfalls festzulegende Parameter sind z. B. die Temperatur bei Kühlwasser und Wärmeeinlei­ tungen oder Kohlenwasserstoffe bei UF-Anlagen.
+
+Die Überwachung der Anlage vor Ort vereinfacht sich für Betreiber und Behörde, wenn die grundlegenden Überwa­ chungsanforderungen im Bescheid klar formuliert sind.
+
+Weitere Anforderungen an die Einleitung können in der Erlaubnis bzw. Genehmigung auf der Grundlage der §§ 12, 13, 57 Absatz 2 WHG festgelegt werden.
+
+So kann es in besonderen Fällen nötig sein, in der wasser­ rechtlichen Erlaubnis weitergehende Anforderungen fest­ zulegen, z. B. wenn trotz Einhaltung der Mindestanforde­ rungen der AbwV Gewässergütedefizite bestehen.
+
+Dann können beispielsweise gewässerökologische Untersu­ chungen gefordert werden (siehe Arbeitshilfe der LUBW „Leitfaden Gewässerbezogene Anforderungen an Abwas­ sereinleitungen“).
+
+Im Bereich des Bodensees gibt es Anfor­ derungen aufgrund der Bodensee-Richtlinien, die als ent­ sprechende Nebenbestimmungen umgesetzt werden müssen.
+
+Eine Indirekteinleitergenehmigung darf nur erteilt werden, wenn die Erfüllung der Anforderungen an die kommunale Kläranlage aufgrund der Indirekteinleitung nicht gefährdet ist.
+
+Dies kann z. B. bei Einleitung von Nitrifikationshem­ mern gegeben sein.
+
+Indirekteinleitungen unterliegen dem Doppelregime staat­ licher (wasserrechtlicher) und kommunaler (satzungsrecht­ licher) Anforderungen.
+
+Näheres zu diesem Thema wird im Leitfaden des Regierungspräsidiums Stuttgart „Indirektein­ leitung und Satzungsrecht“ ausgeführt.
+
+Danach gehören satzungsrechtliche Anforderungen ohne Anlagenbezug nicht zum Regelungsinhalt des Zulassungsbescheides.
+
+Wenn aus bestimmten Gründen dennoch Anforderungen von Kommunen in die entsprechende wasserrechtliche Zulassung übernommen wurden oder bereits enthalten sind, werden diese von der zuständigen Wasserbehörde mit überwacht.
+
+Eine darüber hinausgehende Überwachung von satzungsrechtlichen Anforderungen der Kommunen kann auf freiwilliger Basis erfolgen.
+
+Die Anforderungen der EKVO zur Eigenkontrolle der Ab­ wasserbeschaffenheit, zur Überprüfung der Kanalisation, der Regenwasserbehandlung und der Oberflächengewäs­ ser, der Durchflussmessung sowie die Anforderungen an die Betriebsdokumentation gelten für den Betreiber un­ mittelbar.
+
+Die Vorgaben bei den genannten Parametern und Häufigkeiten stellen den Mindestumfang der Eigen­ kontrollen dar.
+
+Im Bescheid können jedoch abweichende Bestimmungen festgelegt werden, soweit dies aufgrund von Größe und Relevanz der Anlage bzw. der Einleitung erforderlich ist.
+
+Diese sind zu begründen.
+
+Ein gutes Bei­ spiel hierfür sind Parameter, die nicht in der EKVO enthal­ ten sind, deren Gewässerrelevanz allerdings eine Untersu­ chung erfordert.
+
+Bei biologischen Abwasserbehandlungs­ anlagen ist hier der Parameter PO4-P als Indikator für den pflanzenverfügbaren Phosphor und dessen Bedeutung für die Bewirtschaftung der Wasserkörper zu nennen.
+
+Die Betreiberpflichten nach Abschnitt H der Anhänge zur AbwV gelten – anders als bei der EKVO – nicht unmittel­ bar und müssen im Zulassungsbescheid – gegebenenfalls nachträglich – festgelegt werden.
+
+Die Überwachung industrieller Abwasseranlagen und einleitungen umfasst sämtliche Belange des anlagenbe­ zogenen Gewässerschutzes insbesondere:  Die Übereinstimmung der Anlage und ihres Betriebs mit der betreffenden wasserrechtlichen Zulassung und die Einhaltung der darin festgelegten Inhalts- und Nebenbestimmungen (§ 100 Absatz 1 WHG), die Antragsunterlagen sind dabei Teil der wasser­ rechtlichen Zulassung.
+
+ Regelmäßige und anlassbezogene Überprüfung der erteilten wasserrechtlichen Zulassungen (§ 100 Ab­ satz 2 WHG),  Verpflichtungen des Betreibers, die sich direkt erge­ ben  aus den unmittelbar geltenden Anforderungen der  aus der EKVO des Landes Baden-Württemberg Die Überwachung der wasserrechtlichen Belange obliegt der Wasserbehörde auch dann, wenn die wasserrechtliche Genehmigung im Rahmen der Konzentrationswirkung nach § 13 BImSchG erteilt wurde.
+
+Die Konzentrationswir­ kung erstreckt sich nur auf das Genehmigungsverfahren, nicht aber auf die Überwachung.
+
+Im Bereich des anlagenbezogenen Gewässerschutzes wer­ den Überwachungsmaßnahmen in einigen Teilbereichen in die betriebliche Eigenverantwortung verwiesen oder auf anerkannte Sachverständige delegiert.
+
+Diese „delegierte Überwachung“ entbindet die Wasserbehörden nicht von ihrer grundsätzlichen Pflicht zu einer ganzheitlichen be­ hördlichen Überwachung.
+
+Abgesehen davon ist auch die Einhaltung dieser delegierten Überwachung zu kontrollie­ ren.
+
+Deren Ergebnisse sind zu beurteilen und gegebenen­ falls sind entsprechende Folgemaßnahmen zu veranlassen.
+
+AbwV (§§ 57 Absatz 4 Nummer 2 und 100 Absatz 1 WHG i.V.m. § 1 Absatz 2 AbwV), Die Überwachung der Betriebe durch die Wasserbehör­ de umfasst grundsätzlich die Überprüfung des gesamten
+  „Abwasserweges“ im Betrieb.
+
+Dazu gehören:  Einhaltung von Anforderungen an die produktionsin­ tegrierte Abwasservermeidung, an die Einsatzstoffe sowie die Verringerung der Schadstofffracht („allge­ meine Anforderungen“)  Abwasseranfallstellen im Betrieb  Abwasseranlagen  Abwasserbeschaffenheit (amtliche Probenahme)  Abfallentsorgung insbesondere der bei der Abwasser­ reinigung anfallenden (z.
+
+B. Galvanikschlamm) oder dem Abwasser ferngehaltenen Rückstände  Betriebsdokumentation der Eigenkontrolle oder an­ dere Dokumentationspflichten (z.
+
+B. Abwasserkata­ ster) Anlagen innerhalb eines Prozesswasserkreislaufes, aus de­ nen nicht unmittelbar abgeleitet wird, sind keine Abwas­ seranlagen und unterliegen insofern im Regelfall nicht der amtlichen Überwachung.
+
+Sie können jedoch gegebenen­ falls für die Qualität des Abwassers bedeutsam sein, z. B. wenn Abwasser gelegentlich anfällt (Anlagen zur Badpfle­ ge in der Metallindustrie) oder wenn bestimmte Kreislauf­ stoffströme einzuhalten sind (Galvanik, mineralölhaltiges Abwasser, wassersparende Verfahren) und sie aus diesen Gründen in die Überwachung einbezogen werden.
+
+Abwas­ ser, das als Abfall entsorgt werden muss, fällt ebenfalls in den Überwachungsumfang.
+
+Bei Abwasseranlagen, die als Rückhalteeinrichtung für An­ lagen zum Umgang mit wassergefährdenden Stoffen ge­ nutzt werden, ersetzt die Sachverständigenprüfung nach VAwS nicht die amtliche Überwachung der Abwasseranla­ ge, da dort der Erfolg von Abwasserbehandlungsmaß­ nahmen nicht Gegenstand des Prüfumfangs ist.
+
+Wenn aufgrund einer Vorgabe im Anhang der AbwV bestimmte Überwachungswerte als eingehalten gelten, müssen diese in der amtlichen Abwasserprobe nicht untersucht werden.
+
+In diesen Fällen unterliegen jedoch die Bedingungen und Voraussetzungen der Einhaltefiktion (z.
+
+B. Verwendungsverbot von Stoffen) der Überwachung (siehe Kapitel 4.4.4).
+
+Zur Überwachung weiterer Anforderungen der wasser­ rechtlichen Zulassung siehe Kapitel 4.3.3.
+
+Als Folge der seit 2013 eingeführten unmittelbaren Gel­ tung der AbwV ergibt sich für die Überwachung, dass im Falle einer Änderung eines Anhangs der AbwV neben der Überprüfung der Genehmigung gegebenenfalls auch zu prüfen ist, ob und wie neue allgemeine Anforderungen der AbwV im Betrieb umgesetzt werden.
+
+Ein Beispiel: In den allgemeinen Anforderungen für die Lederindustrie (An­ hang 25) wird der Verzicht auf den Einsatz bestimmter Chemikalien sowie ein Nachweis gefordert, dass die zu ver­ arbeitenden Häute frei von bestimmten Bioziden sind.
+
+Die Einhaltung dieser Anforderungen wird im Rahmen der Überwachung geprüft.
+
+Wenn notwendig, kann die Umset­ zung der Anforderungen durch eine nachträgliche Anord­ nung eingefordert werden.
+
+Ergänzend zur Überwachung der Einhaltung der Zulas­ sung sind in § 100 Absatz 2 WHG regelmäßige oder anlass­ bezogene Überprüfungen der erteilten wasserrechtlichen Zulassungen vorgeschrieben.
+
+Im Falle einer Änderung eines Anhangs der AbwV ist zu prüfen, ob die Zulassung z. B. aufgrund der Weiterentwicklung des Stands der Technik angepasst werden muss.
+
+Solche Anpassungen können aber auch aufgrund betrieblicher Veränderungen (z.
+
+B. Ände­ rung der Abwassermenge) erforderlich werden.
+
+Zum Überwachungsumfang gehört auch die Kontrolle der Eigenkontrollen des Betreibers nach den Bestimmungen der Eigenkontrollverordnung - EKVO - des Landes Baden-Württemberg vom 20.02.2001 in der jeweils gültigen Fas­ sung bzw. gegebenenfalls nach den in der Zulassung aufge­ führten Anforderungen (siehe Seite 31).
+
+Die Überwachung der Gewässer selbst und der Vollzug der Oberflächengewässerverordnung fallen nicht in den Zu­ ständigkeitsbereich der Abwasserüberwachung.
+
+Es kann allerdings zu Überschneidungen kommen, wenn mit den Anforderungen an die Einleitung auch Ziele im Gewässer verbunden sind und beispielsweise neben einer Maximal­ temperatur des eingeleiteten Abwassers auch eine maxi­ male Temperaturerhöhung im Gewässer festgelegt wird.
+
+Die Überwachung kann grundsätzlich regelmäßig und an­ lassbezogen erfolgen: Eine regelmäßige Überwachung ist bei Betrieben mit Anforderungen an die Abwasserbeschaf­ fenheit in Abhängigkeit von der Relevanz der Einleitung für das Gewässer oder nachfolgende Abwasseranlagen vor­ zusehen.
+
+Unabhängig davon besteht die Verpflichtung zur Abwehr konkreter Gefahren und anlassbezogener Überwa­ chung aufgrund von Feststellungen, Havarien, konkreten Anhaltspunkten oder Beschwerden (siehe Kapitel 4.2.5).
+
+Sowohl bei der regelmäßigen als auch bei der anlassbezo­ genen Überwachung ist zwischen verschiedenen Überwa­ chungsmaßnahmen zu unterscheiden:  	Amtliche Abwasserprobenahme  	Überwachung vor Ort*  	Prüfung von Analysenergebnissen, Sachverständigen­ berichten, Dokumentationen des Betreibers etc., die sowohl im Betrieb als auch „am Schreibtisch“ des Sachbearbeiters erfolgen können Für die amtliche Probenahme und die Überwachung vor Ort werden die Kriterien für eine Priorisierung von Betrie­ ben und die Häufigkeit regelmäßiger Überwachungsmaß­ nahmen in den Kapiteln 4.2.1 bis 4.2.4 beschrieben.
+
+Im Abwasserbereich stellt die amtliche Abwasserprobe­ nahme und anschließende Analyse in einem zugelassenen und von der Wasserbehörde bestimmten Untersuchungsla­ bor ein zentrales Element der Überwachung dar.
+
+Die Ab­ wasserbeschaffenheit soll regelmäßig amtlich überwacht werden.
+
+Für jede Abwasseranlage wird eine Überwa­ chungshäufigkeit festgelegt, die der wasserwirtschaftlichen Relevanz entspricht.
+
+Die Festlegung der Überwachungs­ häufigkeiten wird von der Wasserbehörde dokumentiert, gegebenenfalls mit zusätzlichen Erläuterungen (z.
+
+B. Be­ sonderheiten).
+
+Eine Übersicht über die zu überwachenden Betriebe der Wasserbehörde einschließlich der zugeord­ neten Häufigkeit der Abwasserprobenahmen erleichtert eine einheitliche Handhabung, stellt transparent den Überwachungsbedarf dar und dokumentiert nach innen und außen, nach welchen Prioritäten bei der Abwasser­ überwachung vorgegangen wird.
+
+Eine jährliche Anpassung sorgt dafür, dass die Übersicht immer dem aktuellen Stand entspricht.
+
+Bei der Festlegung der Häufigkeit der Abwasserprobe­ nahme soll die wasserwirtschaftliche Relevanz berück­ sichtigt und dazu folgende Aspekte betrachtet werden:  Abwassermenge, Art der Schadstoffe, Schadstofffrach­ ten  Komplexität der Abwassermatrix und der Abwasser­ behandlung  Direkt- oder Indirekteinleiter  Zuverlässigkeit des Betreibers  Verhältnis zwischen eingeleiteten Schadstofffrachten und Belastung der kommunalen Kläranlage bzw. des Gewässers  EMAS-Standort gemäß § 3 Nummer 12 WHG Unter Berücksichtigung dieser Gesichtspunkte sind ein bis vier amtliche Abwasserprobenahmen pro Jahr die Re­ gel.
+
+Dürfen bestimmte Stoffe nach den Vorgaben der AbwV nicht ins Abwasser gelangen, so soll dies – wenn andere Nachweise nicht ausdrücklich zugelassen sind – durch ge­ legentliche Stichproben überprüft werden.
+
+Neben der An­ zahl der Probenahmen kann auch für einzelne Parameter eine unterschiedliche Häufigkeit festgelegt werden.
+
+Die Anzahl der Probenahmen ist dann zu erhöhen, wenn  die Überwachungswerte überschritten sind,  die Abwasseranlage nicht dem Stand der Technik genügt,  die Abwasseranlage mangelhaft gewartet wird,  Produktionsprozesse und damit die Abwasserinhalts­ stoffe stark schwanken,  die Eigenkontrolle stark schwankende Werte aufweist oder nach der Eigenkontrollverordnung nur lückenhaft erfolgt.
+
+Bei bestimmten Branchen soll eine Probenahme minde­ stens dann durchgeführt werden, wenn konkrete Ver­ dachtsmomente hinsichtlich Verletzungen wasserrecht­ licher und abfallrechtlicher Pflichten bestehen: Steinmetze/Schleifereien Hersteller von Kunststein Bauunternehmen Fertigbetonmischanlagen Maler und Stuckateure, Abbeizer, Fassadenreiniger Gebäudereiniger Arztpraxen, Apotheken, Labore Frisöre Speditionen Verkehrsbetriebe, Busunternehmen Sägewerke Schwimmbäder Krankenhäuser, Kurkliniken und Reha-Zentren Winzerbetriebe Gaststätten, Hotels, Catering-Betriebe Kfz-Betriebe Chemische Reinigungen Die Überwachung satzungsrechtlicher Anforderungen, z. B. die Einleitung von Stoffen, die lediglich in der Sat­ zung geregelt sind, liegt in der Zuständigkeit der jewei­ ligen Kommune.
+
+Mit Erlass des Umweltministeriums vom 06.10.2014 wurde das Konzept zur integrierten Überwachung von immissi­ onsschutzrechtlich genehmigten Anlagen eingeführt.
+
+Es regelt die Durchführung von Begehungen als Teil der staat­ lichen Überwachung und gilt für alle immissionsschutz­ rechtlich genehmigten Anlagen, die nicht unter die euro­ päische IE-Richtlinie fallen (in Anhang 1 der 4.
+
+BImSchV in Spalte d nicht mit einem „E“ gekennzeichnet sind), ein­ schließlich der zugehörigen Nebeneinrichtungen.
+
+Erfasst werden dabei auch alle Abwasserbehandlungsanlagen auf dem Betriebsgelände, die (Produktions-)Abwasser aus der immissionsschutzrechtlich genehmigten Anlage behandeln und nicht unter die Kommunalabwasserrichtlinie fallen, sowie gegebenenfalls dazugehörige Gewässerbenutzungen gemäß § 9 Absatz 1 Nummer 4 WHG (Direkteinleitungen).
+
+Bei der Begehung einer Anlage kann die Behörde Schwer­ punkte setzen.
+
+Eine Delegation auf Externe kann die Bege­ hung durch die Behörde nicht ersetzen.
+
+Unbeschadet von anlassbezogenen Begehungen wird insbesondere ein Turnus von vier oder sechs Jahren für die regelmäßige Begehung je nach der Umweltrelevanz der immissionsschutzrechtlich genehmigungsbedürf­ tigen Anlage festgelegt.
+
+Diese Fristen können um ein oder zwei Jahre verkürzt oder verlängert werden.
+
+Bei besonderer Empfindlichkeit der örtlichen Umgebung oder bei besonderer Relevanz des Produktionsabwas­ sers soll die Frist um mindestens ein Jahr verkürzt wer­ den.
+
+Diese Voraussetzungen liegen vor bei  berechtigten Nachbarschaftsbeschwerden,  Lage der Anlage in einem Wasserschutzgebiet,  Anfall von Abwasser, an das Anforderungen für den Ort des Anfalls oder vor der Vermischung (Abschnitt D und E eines Anhangs zur Abwasserverordnung) zu stellen sind,  Direkteinleitungen von Produktionsabwasser aus der Anlage.
+
+Es ist zu empfehlen, eine gemeinsame, von der Immissi­ onsschutzbehörde koordinierte Begehung durchzuführen.
+
+Falls eine gemeinsame Begehung nicht stattfinden kann, soll ein Informationsaustausch zwischen den Behörden über die Ergebnisse der Überwachung erfolgen.
+
+Im Falle einer Direkteinleitung oder der Behandlung des Produktionsabwassers in einer Anlage auf dem Betriebsge­ lände, die von der immissionsschutzrechtlichen Genehmi­ gung nicht erfasst ist, ist die Wasserbehörde regelmäßig zu beteiligen.
+
+Für die Überwachung von Anlagen und Gewässerbenut­ zungen, die unter die IE-Richtlinie fallen, müssen die zu­ ständigen Behörden regelmäßig Überwachungsprogramme erstellen bzw. aktualisieren (§ 52 a BImSchG, § 9 Absatz 2 und § 3 IZÜV und § 47 KrWG).
+
+Dabei handelt es sich um immissionsschutzrechtlich genehmigte Anlagen, die in der 4.
+
+BImSchV in Anhang 1 Spalte d mit „E“ gekennzeichnet sind, und um eigenständig betriebene Industriekläranlagen nach § 60 Absatz 3 Satz 1 Nummer 2 WHG, gegebenen­ falls mit den zugehörigen Gewässerbenutzungen (§ 1 Ab­ satz 3 IZÜV), sowie um Deponien nach § 22a Absatz 3 DepV.
+
+Die zuständigen Behörden sind in Baden-Württem­ berg die vier Regierungspräsidien Freiburg, Karlsruhe, Stuttgart und Tübingen.
+
+Die Grundlage für die Überwa­ chungsprogramme ist der Überwachungsplan des Landes Baden-Württemberg.
+
+Der Überwachungsplan kann auf der Internetseite  https://um.badenwuerttemberg.de/filead­ min/redaktion/mum/intern/Dateien/Dokumente/3_Um­ welt/Schutz_natuerlicher_Lebensgrundlagen/Luft/IE-Richt­ linie/Ueberwachungsplan_Baden-Wuerttemberg.pdf,  die Überwachungsprogramme können auf der Internetseite der  LUBW  (http://www.lubw.badenwuerttemberg.de/ servlet/is/225638/) eingesehen werden.
+
+In den Überwachungsprogrammen ist angegeben, in wel­ chem Zeitraum die Anlagen und Gewässerbenutzungen besichtigt werden müssen.
+
+Der Zeitraum wird von den Re­ gierungspräsidien mithilfe einer systematischen Beurtei­ lung der mit der Anlage verbundenen Umweltrisiken zwi­ schen ein und drei Jahren festgelegt.
+
+Die systematische Beurteilung erfolgt in Baden-Württemberg einheitlich mit der EDV-Anwendung SYBURIAN, der insbesondere folgende Kriterien zugrunde liegen:  Mögliche und tatsächliche Auswirkungen der Anlage oder Gewässerbenutzung auf die menschliche Ge­ sundheit und auf die Umwelt unter Berücksichti­ gung der Emissionswerte und typen, der Empfind­ lichkeit der örtlichen Umgebung und des von der Anlage oder der Gewässerbenutzung ausgehenden Unfallrisikos.
+
+Bei der Bewertung der Empfindlichkeit der örtlichen Umgebung werden z. B. Wasserschutz­ gebiete, Einzugsgebiete von Wasserwerken, Über­ schwemmungsgebiete, Landschaftsschutzgebiete, Na­ turschutzgebiete, FFH-Gebiete berücksichtigt.
+
+ Bisherige Einhaltung der Zulassungsanforderungen  Eintragung eines Unternehmens in ein Verzeichnis gemäß den Artikeln 13 bis 15 der Verordnung (EG) Nr.
+
+1221/2009 über die freiwillige Teilnahme von Or­ ganisationen an einem Gemeinschaftssystem für Um­ weltmanagement und Umweltbetriebsprüfung Die Relevanz wird in SYBURIAN stufenweise höher be­ wertet, wenn die Anlage  kein betriebliches Abwasser einleitet,  als Indirekteinleiter betriebliches Abwasser einleitet,  ohne bzw. mit Anforderungen für den Ort des An­  als Direkteinleiter betriebliches Abwasser einleitet.
+
+ ohne bzw. mit Anforderungen für den Ort des An­ Bei der Vor-Ort-Besichtigung der Anlage kann die Behör­ de Schwerpunkte setzen.
+
+Die Intervalle sind auch für jede zu der Anlage zugehörige Gewässerbenutzung einzuhalten und können anhand einer Neubewertung in SYBURIAN durch die Behörde verkürzt werden.
+
+falls oder vor Vermischung (nach Teil D und E eines Anhangs zur AbwV) oder falls oder vor Vermischung (nach Teil D und E eines Anhangs zur AbwV) Für wasserrechtlich genehmigte Anlagen bestimmter Bran­ chen ist aufgrund ihrer wasserwirtschaftlichen Relevanz eine regelmäßige Überwachung vor Ort angezeigt, auch wenn die Anlagen weder unter die IE-Richtlinie noch un­ ter das Konzept zur Überwachung immissionsschutzrecht­ lich genehmigter Anlagen fallen.
+
+Dies betrifft insbesonde­ re die Branchen Leder (Anhang 25) sowie Metall (Anhang 40).
+
+Als Beispiel seien hier Galvaniken mit einem Wirk­ badvolumen unter 30 m³ genannt, die zwar immissions­ schutzrechtlich nicht genehmigungsbedürftig sind, aber aufgrund der dort verwendeten Chemikalien eine hohe wasserwirtschaftliche Relevanz aufweisen.
+
+Ebenso kann es sinnvoll sein, bestimmte Direkteinleitungen bei den regel­ mäßigen Begehungen zu berücksichtigen (z.
+
+B. Einlei­ tungsstellen von Steinbrüchen).
+
+Es ist zu empfehlen, sol­ che Betriebe zu identifizieren, einen Turnus für eine regelmäßige Vor-Ort-Begehung unter Berücksichtigung der in Kapitel 4.2.2 beschriebenen Kriterien festzulegen und dies in einer Übersicht zu dokumentieren.
+
+Sofern es sich weder um IE-Anlagen handelt noch um An­ lagen, für die in Kapitel 4.2.2 oder im obigen Kapitel eine regelmäßige Überwachung vor Ort angezeigt ist und keine sonstigen besonderen Umstände vorliegen (z.
+
+B. Anlagen in Wasserschutz- oder Überschwemmungsgebieten, kon­ krete Gefahren oder Verdachtsmomente), unterliegen in­ direkt einleitende Abwasseranlagen folgender Branchen keinen speziellen Anforderungen an eine regelmäßige Überwachung vor Ort.
+
+Sie sind aber gegebenenfalls anlass­ bezogen (siehe Kapitel 4.2.5) entsprechend zu überwa­ chen.
+
+Steinmetze/Schleifereien Hersteller von Kunststein Bauunternehmen Fertigbetonmischanlagen Maler und Stuckateure, Abbeizer, Fassadenreiniger Gebäudereiniger Arztpraxen, Apotheken, Labore Frisöre Speditionen Verkehrsbetriebe, Busunternehmen Sägewerke Schwimmbäder Krankenhäuser, Kurkliniken und Reha-Zentren Winzerbetriebe Gaststätten, Hotels, Catering-Betriebe Kfz-Betriebe (siehe Kappitel 4.3.4) Chemische Reinigungen Unberührt von den Vorgaben zur Überwachungshäufigkeit bleibt die Verpflichtung zur Abwehr konkreter Gefahren und die Überwachung zu bestimmten Anlässen sowie auf­ grund von Festgestellungen, Havarien, konkreten Anhalts­ punkten oder Beschwerden.
+
+Eine anlassbezogene Überwachung vor Ort soll zeitnah insbesondere erfolgen  bei bestehendem Verdacht von Verstößen gegen 
+ wasserrechtliche Vorschriften,  bei Ereignissen mit Umweltauswirkungen (z.
+
+B. nach­ teilige Veränderungen im Gewässer oder nachteilige Wirkungen auf die aufnehmende kommunale Klär­ anlage),  bei Überschreitungen von Abwassergrenzwerten,  bei Beschwerden wegen Umweltbeeinträchtigungen,  nach einer erstmaligen Inbetriebnahme nach Ertei­ lung einer Neugenehmigung oder wasserrechtlichen Erlaubnis.
+
+Anlass für eine Überwachung vor Ort kann auch die Pla­ nung von abwasserrelevanten Änderungen in der Produk­ tion, der Abwasserbehandlungsanlage oder der Abwasser­ behandlung sowie eine durchgeführte Betriebsänderung aufgrund einer immissionsschutzrechtlichen oder wasser­ rechtlichen Zulassung sein.
+
+Es ist zu empfehlen, sich bei einer Überwachung vor Ort einen Gesamteindruck über den Abwasserweg zu verschaf­ fen.
+
+Die Überwachung der Abwasseranlagen, der Kontroll­ stellen und der Einleitungsstellen ist im Allgemeinen eine Prüfung durch Inaugenscheinnahme.
+
+Der Zustand der An­ lage lässt auch Rückschlüsse auf die Sorgfalt des Betreibers beim Anlagenbetrieb und bei der Wartung zu.
+
+Wenn bei komplexen Betrieben nicht bei jeder regelmä­ ßigen Überwachung der gesamte Abwasserweg geprüft werden kann, liegt es im Ermessen des Sachbearbeiters, Schwerpunkte zu setzen.
+
+Der Betreiber der Anlage hat die behördliche Überwa­ chung zu dulden und den Bediensteten der Wasserbehör­ de oder den beauftragten Sachverständigen jederzeit Zu­ tritt zu gestatten.
+
+Unterlagen, Arbeitskräfte und Hilfsmittel sind bei Bedarf zur Verfügung zu stellen und technische Ermittlungen und Prüfungen zu ermöglichen (§ 101 Absatz 1 WHG).
+
+a)	 Vorbereitung der Überwachung Eine Vorbereitung der Überwachung beginnt mit der Durchsicht der Akten und der vorhandenen Genehmi­ gungsunterlagen.
+
+Aspekte und Fragestellungen bei der Vorbereitung der Überwachung:  Abwasserherkunft
+ Aus welchem Herkunftsbereich kommt das Abwas­ ser?
+
+Welcher Anhang der AbwV ist anzuwenden?
+
+ Anforderungen nach der AbwV  Welche allgemeinen Anforderungen (Teil B des  Lässt sich nach Aktenlage erkennen, wie der Stand  Abwasserbehandlung
+ Wie funktioniert die Anlage?
+
+Eine Kopie des Fließ­ bildes erleichtert die Orientierung vor Ort.
+
+ Genehmigungssituation  Wie ist die Anlage genehmigt?
+
+ Welche Nebenbestimmungen gibt es?
+
+ Wurde der Stand der Technik fortgeschrieben?
+
+Anhangs), welche Anforderungen an das Abwasser (Teil C bzw. D und E) sind darin festgelegt?
+
+der Technik im Betrieb umgesetzt ist, z. B.: Was­ sersparmaßnahmen/Spültechnik, Kreislaufführung, standzeitverlängernde Maßnahmen in der Produk­ tion?
+
+Weitere Erkenntnisse:  Wie sehen die Ergebnisse der bisherigen amtlichen Probenahme und der betrieblichen Eigenkontrolle aus?
+
+ Kam es zu Grenzwertüberschreitungen?
+
+ Gab es besondere Vorkommnisse (z.
+
+B. Betriebsstö­ rungen, Unfälle, Beschwerden)?
+
+ Welche Verbesserungsmaßnahmen wurden durchge­ führt?
+
+ Sind Gewässerprobleme bzw. Probleme an der Ein­ leitungsstelle bekannt?
+
+Ein Informationsaustausch mit der für die entsprechende Kläranlage (bei Indi­ rekteinleiter) bzw. der für Gewässerschutz zuständi­ gen Wasserbehörde ist sinnvoll.
+
+b)	 Überwachung vor Ort Aspekte und Fragestellungen bei der Überwachung vor Ort:  Baulicher Zustand  Sind die Anlagenteile in Betrieb?
+
+ Sind die Anlagen in einem guten Wartungszu­  Wie ist der Zustand des Bodens und der Auffang­  Gibt es Anlagenteile (Rohrleitungen, Behälter),  Hier sollte genauer hingeschaut werden: 
+  Betrieb der Anlage  Entspricht die Anlage noch dem genehmigten Zu­  Sind die Nebenbestimmungen der Genehmigung stand?
+
+räume?
+
+die nicht einsehbar sind?
+
+bei erkennbaren Leckagen an Behältern, Rohrlei­ tungen und Pumpen, bei Spuren von Überfüllung an Behältern, bei Abwasseransammlungen in Rückhalteeinrichtungen und Pumpensümpfen, Zustand des Endkontrollschachts (z.
+
+B. erkenn­ bare Ablagerungen, veränderte Verrohrungen), Schaltschrank (Aufzeichnung von Messwerten) stand?
+
+eingehalten?
+
+ Wurden Veränderungen (z.
+
+B. Verfahrenstechnik,  Gibt es ein Alarm- und Störungsmanagement?
+
+ Wird die Eigenkontrolle durchgeführt?
+
+ Produktionsintegrierter Gewässer-/Umweltschutz  Personal  Stimmen die für die Abwasserbehandlungsanlage  Ist eine ausreichende Betreuung der Anlage durch  Gibt es eine Betriebsanweisung für das Bedienper­ c)	 Überwachung der Eigenkontrolle Das Hauptelement der Überwachung der Eigenkontrolle ist die Überprüfung der Betriebsdokumentation nach An­ hang 2 der EKVO, in dem sowohl die anlagenbezogenen als auch die ablaufbezogenen Daten aufgezeichnet sein müssen.
+
+Die Behörde kann die Betriebsdokumentation vom Betreiber anfordern oder vor Ort einsehen.
+
+Aspekte und Fragestellungen bei der Überwachung der Eigenkontrolle:  Welche Analyseverfahren (Betriebsmethoden) wer­ den eingesetzt?
+
+ Welche Maßnahmen zur analytischen Qualitätssiche­ rung werden durchgeführt?
+
+ Welche Messgeräte werden wie häufig und durch wen kalibriert?
+
+ Wie ist der Zustand der Alarm- und Messeinrich­ tungen?
+
+ Werden diese regelmäßig gewartet und kalibriert?
+
+Chemikalien, Abwassermenge etc.) vorgenom­ men?
+
+(siehe Kapitel 4.3.3) 
+ Ist der Stand der Technik im Betrieb umgesetzt, z. B. Wassersparmaßnahmen/Spültechnik, Kreis­ laufführung, standzeitverlängernde Maßnahmen in der Produktion?
+
+Werden kritische, z. B. nitrifikati­ onshemmende Stoffe eingesetzt?
+
+verantwortliche Person und deren Stellvertretung mit den der Behörde mitgeteilten Personen über­ ein?
+
+geschultes Personal sichergestellt?
+
+sonal?
+
+ Welche Betriebsdokumentation liegt vor (Betriebs­ tagebuch, Dokumentation der Eigenkontrolle, 
+ Wartungs- und Reinigungspläne etc.)?
+
+ Entspricht die Dokumentation der Ziffer 7 des 
+ Anhangs 2 der EKVO?
+
+ Ist die Betriebsdokumentation von der Geschäfts­ leitung unterschrieben?
+
+ Wird eine Einsatzstoffliste geführt?
+
+ Wird eine tägliche Kontrolle auf ordnungsgemäße Funktion und Betriebsweise der Anlage durch­ geführt?
+
+ Wird die Dichtheit von Kanälen entsprechend An­ hang 2 der EKVO fristgerecht geprüft?
+
+ Werden anlagenbezogene und ablaufbezogene Prü­ fungen nach Tabelle 3 und 4 des Anhangs 2 der 
+ EKVO durchgeführt und dokumentiert?
+
+ Bei Direkteinleitungen: Gibt es aus der Zusammen­ schau der Überwachung der Gewässerqualität und der Eigenkontrolle bedeutende Indizien für eine nicht ordnungsgemäße Abwassereinleitung?
+
+In einer anschließenden Besprechung mit dem Anlagen­ betreiber soll das Ergebnis der Überprüfung zusammen­ gefasst und das weitere Vorgehen erläutert werden.
+
+Die Wasserbehörde kann im Rahmen ihrer Zuständigkeit die Anlagen- und Betriebsüberwachung einschließlich Ab­ wasserprobenahme mit Beurteilung an anerkannte Sach­ verständige übertragen (siehe Kapitel 2).
+
+Dies gilt nicht für die Vor-Ort-Besichtigung bzw. Begehung vor Ort.
+
+Die Planung und anschließende fachtechnische Prüfung vor Inbetriebnahme durch denselben Sachverständigen ist unzulässig.
+
+Ebenso sollte die Untersuchung der Abwasser­ proben zur Eigenkontrolle nicht von demselben Untersu­ chungslabor durchgeführt werden, das die amtlichen Proben analysiert (siehe auch Kapitel 5.1).
+
+Auf Kosten des Betreibers können Zustand und Betrieb der Anlage geprüft und die Abwasserproben physikalisch, chemisch und biologisch durch beauftragte sachverstän­ dige Stellen untersucht werden.
+
+Die Wasserbehörde be­ stimmt die näheren Einzelheiten der Probenahme und der Untersuchung.
+
+Zu den Einzelheiten siehe Kapitel 5.
+
+Eine Bauüberwachung kann auf Anordnung der Wasserbe­ hörde durch anerkannte Sachverständige oder durch aner­ kannte sachverständige Stellen erfolgen (§ 78 WG).
+
+Eine Abnahme findet statt, wenn sie von der Wasserbehörde angeordnet wurde.
+
+Soweit dann erforderlich, wird die Aus­ führung der Anlage auf Grundlage der genehmigten Pläne und Beschreibungen sowie der festgesetzten Bedingungen und Auflagen kontrolliert und der Abnahmeschein erteilt.
+
+Wird eine Abwasseranlage als Rückhalteeinrichtung für Anlagen zum Umgang mit wassergefährdenden Stoffen ge­ nutzt, so ist sie in die nach VAwS/AwSV vorgeschriebene Sachverständigenprüfung mit einzubeziehen.
+
+Der Sachver­ ständige kann auf die Prüfberichte der Überwachung der Abwasseranlage (z.
+
+B. Dichtheitsprüfung im Rahmen der Generalinspektion) zurückgreifen.
+
+Deshalb ist es erforder­ lich, die Prüfungstermine zeitlich zu koordinieren.
+
+Die Ab­ wasseranlage ist in das Anlagenkataster bzw. die Anlagen­ dokumentation der Anlage zum Umgang mit wassergefährdenden Stoffen mit aufzunehmen.
+
+Im Rahmen einer wasserrechtlichen Zulassung sind auch andere öffentlichrechtliche Vorschriften (Baurecht, Um­ welt- oder Arbeitsschutz) zu berücksichtigen; deren Über­ wachung obliegt regelmäßig den dafür zuständigen Behör­ den.
+
+Die allgemeinen Anforderungen der Anhänge zur AbwV enthalten auch prozessintegrierte Anforderungen an die Vermeidung von Abfall, an die Ressourcen- und Energie­ effizienz, die sich mittelbar auf das Abwasser auswirken oder in Bezug zum Abwasserbereich stehen.
+
+Diese sind im Rahmen der Überwachung ebenfalls durch die Wasserbe­ hörde zu überprüfen.
+
+Soweit die Wasserbehörde keine Fachkompetenz in dem betreffenden Bereich hat, ist die jeweils zuständige Fachbehörde (z.
+
+B. Immissionsschutz- oder Abfallbehörde) hinzuzuziehen.
+
+Aspekte und Fragstellungen bei der Überwachung:  Abfallbeseitigung  Welche Abfälle entstehen beim Betrieb der Ab­  Entstehen beim Produktionsprozess flüssige Rück­  Gibt es eine ordnungsgemäße Nachweisführung?
+
+ Produktionsintegrierter Umweltschutz  Einsatz schadstoffarmer Betriebs- und Hilfsstoffe  Standzeitverlängernde Maßnahmen  Prozessintegrierte Rückführung von Stoffen, be­  Einsatz wassersparender Verfahren bei Wasch- und Für den Bau und den Betrieb der unter § 48 Absatz 1 Nummer 4 bis 6 WG genannten Abwasseranlagen entfällt die Genehmigungspflicht.
+
+Jedoch ist die Inbetriebnahme der Wasserbehörde mitzuteilen (z.
+
+B. Leichtflüssigkeitsab­ scheider, Kontaktwasseraufbereitungsanlagen, Fettab­ scheider).
+
+Damit soll sichergestellt werden, dass auch sol­ che Anlagen überwacht werden können.
+
+Im Falle der Behandlung von Abwasser mit Anforderun­ gen für den Ort des Anfalls oder vor Vermischung (z.
+
+B. Leichtflüssigkeitsabscheider, Kontaktwasseraufbereitungs­ anlagen) ist dabei zusätzlich eine Anzeige für die Indi­ rekteinleitung nach § 5 IndVO erforderlich.
+
+Tabelle 1 enthält eine Übersicht über die erforderlichen Genehmigungs- und Anzeigepflichten.
+
+Abwasseranlagen mit einem bauaufsichtlichen Verwend­ barkeitsnachweis (i.d.R. mit allgemeiner bauaufsichtlicher Zulassung bzw. bei bestehenden Anlagen mit baurecht­ lichem Prüfzeichen), die entsprechend der Zulassung ein­ wasseranlage?
+
+stände, die nicht der Abwasserbehandlung zuge­ führt werden, sondern als Abfall beseitigt werden?
+
+Die Nachweisführung unterliegt zwar dem Abfall­ recht.
+
+Jedoch können sich hieraus auch Indizien ergeben, ob der Betreiber flüssigen Abfall über den Abwasserpfad entsorgt.
+
+triebsinterne Kreislaufführung von Einsatzstoffen Reinigungsvorgängen, Spültechnik, Indirektküh­ lung gebaut, betrieben, regelmäßig gewartet und nach den tech­ nischen Regeln überprüft werden und bei denen die wesentlichen Anforderungen als eingehalten gelten, unter­ liegen keinen speziellen Anforderungen an eine regelmäßi­ ge Vor-Ort-Überwachung.
+
+Auch gelten nach den verschie­ denen Anhängen der AbwV bestimmte Überwachungswerte als eingehalten und müssen bei der amtlichen Überwa­ chung nicht untersucht werden.
+
+Bei Abwasseranlagen mit allgemeiner bauaufsichtlicher Zulassung, die entsprechend der Zulassung eingebaut, be­ trieben, regelmäßig gewartet und nach den technischen Regeln überprüft werden, gelten die wesentlichen Anfor­ derungen als eingehalten.
+
+Die Bedingungen, aufgrund de­ rer die Überwachungswerte als eingehalten gelten, unter­ liegen ebenfalls der Überwachung der zuständigen Wasserbehörde.
+
+Wenn aufgrund der technischen Regeln bzw. der Vorgaben der Zulassung Prüfungen durchzuführen sind (z.
+
+B. Gene­ ralinspektion nach EN 858/DIN 1999-100 bei Leichtstoff­ abscheidern), lassen sich die Wasserbehörden die Prüfbe­ richte vorlegen und verfolgen gegebenenfalls die Mängelbeseitigung.
+
+Detaillierte Hinweise zur Überwachung von Abwasseran­ lagen für mineralölhaltiges Abwasser enthält auch das „Handbuch mineralölhaltiges Abwasser“ (https://www.lubw.
+
+badenwuerttemberg.de/servlet/is/21118/).
+
+Grundlage für die amtliche Probenahme ist ein Probenah­ meplan mit Angaben zu Häufigkeit und Umfang der Pro­ benahme sowie Besonderheiten der Abwasseranfallstelle (siehe Kapitel 4.2.1).
+
+Die Abwasserprobenahme führt entweder die zuständige Behörde oder ein beauftragtes, für die Probenahme aner­ kanntes Labor bzw. Institut durch (zur Vergabe von Aufträ­ gen siehe Kapitel 5).
+
+Die Probenahme soll ohne Voran­ kündigung gegenüber dem Einleiter/Anlagenbetreiber erfolgen und in der Reihenfolge mehrerer Probenahmen keine erkennbare Ordnung aufweisen.
+
+Sie ist in einem Pro­ benahmeprotokoll zu dokumentieren (siehe Anlage 8.3).
+
+In dem Protokoll sind alle für die Analyse und die spätere Bewertung erforderlichen Angaben einzutragen.
+
+Das Pro­ tokoll ist von einem Beschäftigten der Betreiberfirma zu unterzeichnen.
+
+Die Proben sind gemäß der AbwV nach den Vorgaben der DIN 38402-11 (DEV A11) zu entneh­ men.
+
+Werden an der Anlage Unregelmäßigkeiten, Störungen oder auffallende Verfärbungen des Abwassers festgestellt, ist dies ebenfalls zu protokollieren und der Wasserbehörde zeitnah mitzuteilen.
+
+Bei einer Chargenanlage wird die Abwasserprobe aus dem Endkontrollschacht durch eine einmalige Entnahme (Stichprobe) gezogen.
+
+Aufgrund der Rahmenbedingungen ist diese als gleichwertig zu einer qualifizierten Stichprobe anzusehen.
+
+Der Zeitpunkt der Probenahme sollte das Ein­ leitverhalten möglichst repräsentativ widerspiegeln, z. B. durch wechselnde Tageszeiten und Wochentage.
+
+Außer­ dem wird vor Ort der pH-Wert und die elektrische Leitfä­ higkeit gemessen und in das Protokoll eingetragen.
+
+Da äußere Einflüsse, die Art und Weise des Probentrans­ ports, die Konservierung und Lagerung und nicht zuletzt auch der Probenahmebehälter sich auf das Messergebnis auswirken können, ist bei der Probenahme sorgfältig vor­ zugehen; gegebenenfalls sind besondere Umstände zu do­ kumentieren.
+
+Diese Einzelheiten sind in DIN-EN-Normen geregelt (Anlage zu § 4: Analysen- und Messverfahren).
+
+Aus den im Rahmen der amtlichen Überwachung genom­ men Proben (i.d.R. qualifizierte Stichproben) sind auch Rückstellproben herzustellen.
+
+Dazu ist das genommene Probevolumen ausreichend zu homogenisieren und in Teilproben aufzuteilen.
+
+Die Rückstellproben  sollen mindestens ein Volumen von 1 l umfassen,  sind zu kennzeichnen (Probenahmestelle, Probeneh­ mer, Datum, Uhrzeit),  sind bei unter -18 °C tiefzugefrieren und  sind mindestens sechs Wochen beim beauftragten La­ bor aufzubewahren.
+
+Wenn eine Behörde die Probenahme selbst durchführt, ist zu empfehlen, dass der zuständige Sachbearbeiter in einem Probenahmelehrgang für diese Aufgabe qualifiziert wird.
+
+Die Proben, die der Probenehmer zum beauftragten Labor (sachverständige Stelle) bringt, sind als amtliche Proben zu werten.
+
+Die Analysenergebnisse sind als Ergebnis der amt­ lichen Überwachung zu werten.
+
+Der Betreiber soll ebenfalls eine entsprechende Teilprobe analysieren (lassen) bzw. ebenfalls eine Rückstellprobe un­ ter den genannten Rahmenbedingungen aufbewahren.
+
+Die Bewertung der Analysenergebnisse obliegt in jedem Fall der zuständigen Wasserbehörde.
+
+Bei der Bewertung von Untersuchungsberichten sind so­ wohl für Direkteinleiter als auch für Indirekteinleiter die Regelungen der AbwV zu berücksichtigen.
+
+Folgende Punkte sind zu beachten:  Deutsche Einheitsverfahren (§ 4 AbwV): 
+ Die Anforderungen in den Anhängen der AbwV bezie­ hen sich auf die sog. Deutschen Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung.
+
+Diese Verfahren sind in der Anlage 1 zu § 4 AbwV angegeben.
+
+ 4 von 5 Regel (§ 6 Abs.1 AbwV):
+ Ist ein in der wasserrechtlichen Zulassung festgesetzter Wert nach dem Ergebnis einer Überprüfung im Rah­ men der staatlichen Überwachung nicht eingehalten, gilt er dennoch als eingehalten, wenn die Ergebnisse dieser und der vier vorausgegangenen staatlichen Über­ prüfungen in vier Fällen den jeweils maßgebenden Wert nicht überschreiten und kein Ergebnis den Wert um mehr als 100 % übersteigt.
+
+Überprüfungen, die län­ ger als drei Jahre zurückliegen, bleiben unberücksich­ tigt.
+
+Die Bewertungsregelungen nach § 6 Abs.
+
+1 AbwV gelten für Parameter aus einem Anhang der AbwV, so­ fern im einzelnen Anhang keine abweichende Einhal­ tungsregel vorgegeben wird (z.
+
+B. Anhang 33 Teil D), nicht aber für betriebliche Parameter wie pH-Wert, Temperatur oder Abwasservolumenstrom.
+
+In der Fachanwendung werden Überschreitungen bis zum Dop­ pelten des Grenzwertes gelb und Überschreitungen des doppelten Grenzwertes rot angezeigt.
+
+ Rundungsregel (§ 6 Abs.
+
+2 AbwV):
+ Messergebnisse sind auf mindestens zwei signifikante Stellen des zugehörigen Analysen- und Messverfahrens anzugeben.
+
+Dies ist wichtig, da einige Messverfahren die Angaben der signifikanten Stellen nicht genau vor­ geben.
+
+Es könnte dann die Anforderung um fast 50 % überschritten werden und dennoch  als eingehalten gelten (beispielsweise Anforderung 1 mg/l; Messwert 1,49 mg/l, d. h. durch Abrundung Möglichkeit des Ein­ haltens der Anforderung).
+
+ Salzkorrektur: 
+ Die in § 6 Absatz 4 AbwV beschriebene „Salzkorrektur“ wird nur für die Überprüfung der Einhaltung von Grenzwerten der AbwV angewendet, nicht aber im Hinblick auf die Berechnung der Abwasserabgabe.
+
+ Die Eigenkontrollwerte können nicht für die Berech­ nung der Abwasserabgabe herangezogen werden.
+
+Dies bedeutet, dass auch Überschreitungen der EK-Werte für die Abwasserabgabe nicht maßgeblich sind.
+
+Bei 
+ Heraberklärungen verlangt das AbwAG ein Messpro­ gramm durch den Betreiber (Eigenkontrolle).
+
+Das 
+ Messprogramm muss von der Behörde bestätigt wer­ den.
+
+Die Ergebnisse der Eigenkontrollen des Messpro­ gramms sind zusammen mit den amtlichen Kontroller­ gebnissen für die Abwasserabgabe relevant.
+
+Weiteres Vorgehen: Bei Grenzwertüberschreitungen im Rahmen der amtlichen Kontrollen wird der Betreiber um eine Stellungnahme zu den Ursachen und den eingeleiteten bzw. geplanten Maß­ nahmen gebeten; gegebenenfalls werden Sofortmaßnah­ men eingeleitet.
+
+Das weitere Vorgehen richtet sich nach der Art der Einleitung (Direkt- oder Indirekteinleiter), dem Parameter und der Höhe und Dauer der Überschrei­ tung.
+
+Bei Direkteinleitern sind die Auswirkungen auf das Gewässer zu prüfen.
+
+Gegebenenfalls kann die Häufigkeit der amtlichen Probenahme erhöht werden, um den Erfolg von Maßnahmen zu kontrollieren.
+
+Ergeben sich bei der Inaugenscheinnahme Verdachtsmo­ mente, z. B. auf Umgehung von Abwasseranlagen, Fehlan­ schlüsse, undichte oder beschädigte Rohrleitungen oder andere technische Mängel, ordnet die zuständige Behörde gemäß § 100 Absatz 1 Satz 2 WHG nach pflichtgemäßem Ermessen die Maßnahmen an, die im Einzelfall notwendig sind, um Beeinträchtigungen des Wasserhaushalts zu ver­ meiden oder zu beseitigen oder um die Erfüllung von Ver­ pflichtungen nach Satz 1 sicherzustellen.
+
+Sie kann bei­ spielsweise eine Detailprüfung durch eine Fachfirma oder einen Sachverständigen veranlassen.
+
+Die Maßnahmen kön­ nen im Einzelfall bis hin zu einer Untersagung der Abwas­ sereinleitung reichen.
+
+Insbesondere im Falle von Grenzwertüberschreitungen, er­ heblichen Verstößen gegen wasserrechtliche Vorschriften oder besonderen Vorkommnissen soll die für den Gewäs­ serschutz zuständige Wasserbehörde und bei Indirektein­ leitern der Betreiber der öffentlichen Abwasseranlagen in­ formiert werden.
+
+Auf der Grundlage der Erkenntnisse aus der Eigenkontrol­ le ergeben sich keine ordnungsrechtlichen Konsequenzen; sie kommen allerdings dann in Betracht, wenn der Betrei­ ber seinen Verpflichtungen zur Eigenkontrolle nicht nach­ kommt.
+
+Bei Grenzwertüberschreitungen im Rahmen der Eigenkontrolle kann die zuständige Behörde weitere amt­ liche Kontrollen veranlassen.
+
+Dies sollte insbesondere dann erfolgen, wenn beispielsweise die Ursache der Über­ schreitung unklar oder nicht offensichtlich behoben ist oder wenn aufgrund von Chargenbetrieb Schwankungen nicht auszuschließen sind.
+
+Stellt die Behörde im Rahmen der Überwachung fest, dass Einleitungen (sowohl Direkt- als auch Indirekteinlei­ tungen) oder der Zulassungsbescheid nicht (mehr) dem Stand der Technik entsprechen, so sind die erforderlichen Maßnahmen zu veranlassen.
+
+Hinsichtlich der Fristen für die Umsetzung sind § 57 Absatz 4 und 5, § 58 Absatz 3 WHG sowie Abschnitt F des betreffenden Anhangs zur AbwV zu beachten.
+
+Die Kosten der amtlichen Probenahme sind vom Betreiber zu tragen.
+
+In der Regel beauftragt die Behörde ein Unter­ suchungslabor, das die Rechnung dann direkt an den Be­ treiber sendet.
+
+Für die amtliche Probenahme durch den Sachbearbeiter kann die Höhe der Kosten der Probenah­ me durch Sachverständige als Orientierung dienen.
+
+Für die Überwachungstätigkeit bei IE-Anlagen erheben die Regierungspräsidien Gebühren nach der Gebührenverord­ nung des Umweltministeriums.
+
+Die unteren Verwaltungs­ behörden erheben Gebühren für die Überwachungstätig­ keit, soweit entsprechende Satzungen der Stadt- und Landkreise eine solche Erhebung vorsehen.
+
+Zur Überwachung der Einleitungen ist die Entnahme und Untersuchung von Abwasserproben erforderlich (amtliche Kontrolle).
+
+Die Wasserbehörden können zur Erfüllung dieser Überwachungsaufgabe im erforderlichen Umfang Sachverständige heranziehen.
+
+Dies ist durch § 75 Absatz 1 Satz 3 WG ausdrücklich vorgesehen.
+
+Mit Überwachungsaufgaben dürfen nur Untersuchungsla­ boratorien beauftragt werden, die über eine Anerkennung (Notifizierung) verfügen (siehe Kapitel 6).
+
+In der Daten­ bank ReSyMeSa (www.resymesa.de) ist die Recherche nach den von den Bundesländern in den Umweltbereichen Ab­ fall, Boden/Altlasten, Immissionsschutz und Wasser notifi­ zierten Stellen und Sachverständigen möglich.
+
+Für den Be­ reich Abwasser gilt das Fachmodul Wasser.
+
+Gleichwertige behördliche Anerkennungen anderer Länder gelten auch in Baden-Württemberg.
+
+Alle Stellen, die in ReSyMeSa geli­ stet sind, erfüllen diese Voraussetzung.
+
+Wegen der besonderen Rolle, die die Untersuchungslabo­ ratorien im Rahmen der hoheitlichen Überwachung im Auftrag der Behörde erfüllen, ist deren Zuverlässigkeit und Leistungsfähigkeit von besonderer Bedeutung.
+
+Die Labora­ torien müssen hinsichtlich der im Rahmen der Überwa­ chung ausgeübten Tätigkeiten unabhängig sein.
+
+Insbeson­ dere sollte kein Zusammenhang zwischen dieser Tätigkeit und einer weisungsgebundenen Tätigkeit bei dem zu über­ wachenden Einleiter oder Anlagenbetreiber bestehen (In­ teressenskonflikt).
+
+Ein Interessenskonflikt kann dann vor­ liegen, wenn das Untersuchungslabor sowohl die Untersuchungsaufträge des Betriebs als auch die amtlichen Kontrollen bei ein und demselben Betreiber durchführt.
+
+Dies ist im Einzelfall durch die beauftragende Behörde zu entscheiden.
+
+Es ist den Wasserbehörden anheimgestellt, ob die Probe­ nahme von den zuständigen Sachbearbeitern erfolgen soll oder in die Beauftragung von Sachverständigen einbezogen wird.
+
+Wird die Probenahme mit beauftragt, so sollen jeweils Auf­ träge für die einzelne Probenahmestelle oder den einzel­ nen Betrieb erteilt werden, wobei sich der Auftrag auf mehrere Probenahmen erstrecken kann (Sammelaufträge).
+
+Um Aufträge flexibel und kurzfristig erteilen zu können, sind Faxaufträge bzw. Aufträge per E-Mail empfehlenswert.
+
+Es ist ebenfalls empfehlenswert, diese aus dem System der Fachanwendung (Modul Iabw, Reiter „Probenahmepla­ nung“) anzulegen und auszudrucken.
+
+Die vom Labor durchzuführenden Arbeiten sind in der Be­ auftragung zu regeln.
+
+Dies gilt insbesondere für über die Probenahme hinausgehenden Untersuchungen vor Ort, die zu untersuchenden Parameter und Besonderheiten, die sich aus den wasserrechtlichen Bescheiden ergeben.
+
+Dem einzelnen Auftrag sollen in der Regel allgemeine Bedin­ gungen für die Durchführung von Aufträgen zur Entnahme und/oder Untersuchungen von Abwasserproben zugrunde gelegt werden (siehe Kapitel 8.2).
+
+Mit dem Auftrag ist die Übermittlung der Untersuchungs­ ergebnisse zu regeln.
+
+Zusätzlich zur Papierform sind die vollständigen Analysenergebnisse zeitnah (d.
+
+h. innerhalb von drei Wochen) auch in elektronischer Form (LABDÜS) zu übersenden.
+
+Die Vergütung für die Probenahme sollte in den Vereinba­ rungen mit den Untersuchungslaboratorien pro Behörde einheitlich (als Pauschale) geregelt werden.
+
+Die Vergütung beinhaltet die Kosten für Anfahrt, Probenahme und Mes­ sungen bestimmter Parameter vor Ort (z.
+
+B. pH-Wert, Tem­ peratur, Leitfähigkeit).
+
+Die Kosten für Probenahme und Probenanalyse durch Sachverständige sind nach § 75 Absatz 2 Satz 1 WG vom Betreiber der Abwasseranlage bzw. vom Einleiter zu tragen, soweit sich die Überwachung auf die Einhaltung der Be­ treiberpflichten bezieht.
+
+Sachverständige Stellen, die nach Anordnung der Wasser­ behörde nach § 61 Absatz 1 WHG Stoffe untersuchen, be­ dürfen einer Anerkennung nach der „Verordnung des Um­ weltministeriums über sachverständige Stellen in der Wasserwirtschaft“ vom 2.
+
+Mai 2001.
+
+Die Anerkennungen werden von der LUBW durchgeführt.
+
+Sachverständige Stellen im Sinne der Verordnung sind Prüflaboratorien oder Institute,  die chemischphysika­ lische Prüfungen von Abwasserproben sowie Probenah­ men durchführen.
+
+Die Verordnung regelt die Anforderun­ gen, die von diesen Stellen zu erfüllen sind.
+
+Dazu gehören personelle, räumliche und gerätetechnische Mindeststan­ dards, die der Anerkennungsstelle nachzuweisen sind.
+
+Die Anforderungen beruhen auf der DIN EN ISO 17025 („All­ gemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien“).
+
+Zusätzlich wurden von den Län­ dern in den sog. Fachmodulen (hier: Fachmodul Wasser) konkrete Anforderungen für den gesetzlich geregelten Umweltbereich formuliert (Verwaltungsvereinbarung über den Kompetenznachweis und die Notifizierung von Prüf­ laboratorien und Messstellen im gesetzlich geregelten Um­ weltbereich, Bundesanzeiger vom 30.10.2002, S. 220).
+
+Prüflaboratorien, die sich als sachverständige Stelle aner­ kennen lassen wollen, stellen bei der LUBW einen Antrag auf Anerkennung.
+
+Der Antrag kann für einzelne Untersu­ chungsbereiche und/oder für die Probenahme erfolgen.
+
+Um anerkannt zu werden, muss die Kompetenz für die beantragten Bereiche nachgewiesen werden.
+
+In der Regel geschieht dies durch Vorlage einer Akkreditierung nach DIN EN ISO 17025 der Deutschen Akkreditierungsstelle (DAkkS).
+
+Bei der Akkreditierung müssen die Anforderun­ gen des Fachmoduls Wasser ebenfalls geprüft und nachge­ wiesen werden.
+
+Die Kompetenzfeststellung kann alterna­ tiv auch durch eine Laborbegutachtung durch die LUBW erfolgen.
+
+Prüflaboratorien, die alle Voraussetzungen erfül­ len, werden als sachverständige Stellen anerkannt.
+
+Die An­ erkennung kann für verschiedene Untersuchungsbereiche und/oder für die Probenahme erteilt werden.
+
+Die Untersu­ chungsbereiche richten sich nicht nach den Anhängen der AbwV, sondern orientieren sich an chemischphysika­ lischen Kriterien.
+
+Anerkannt werden die gesetzlich vorge­ schriebenen Verfahren oder die im Fachmodul Wasser auf­ gelisteten gleichwertigen Verfahren.
+
+Der genaue Umfang der Anerkennung einer sachverständigen Stelle ist im An­ hang zum Anerkennungsbescheid aufgelistet.
+
+Anerkannte sachverständige Stellen werden in der Daten­ bank ReSyMeSa (Recherchesystem Messstellen und Sach­ verständige, www.resymesa.de) veröffentlicht.
+
+In dieser Datenbank sind alle von den Ländern anerkannten Prüfla­ boratorien und Sachverständige der verschiedenen Um­ weltmedien gelistet.
+
+Die anerkannten sachverständigen Stellen in der Wasserwirtschaft finden sich im Modul Wasser.
+
+Nach dem LAWA-AQS-Merkblatt A-1 „Hinweise für die Notifizierung von Untersuchungsstellen“ (Beschluss der 143.
+
+LAWA-Vollversammlung am 22./23.03.2012 in Mag­ deburg) gelten Notifizierungen nach dem Fachmodul Was­ ser bundesweit.
+
+In der Datenbank kann zwar nach Unter­ suchungsstellen gesucht werden, die ihren Geschäftssitz in Baden-Württemberg haben, aber nicht gezielt nach Stellen, die in Baden-Württemberg anerkannt wurden.
+
+In den „De­ tails zu den Stellen“ sind diese Informationen einsehbar.
+
+Auch der Anhang zum Anerkennungsbescheid, aus dem der detaillierte Anerkennungsumfang eines Prüflaboratori­ ums ersichtlich ist, ist in ReSyMeSa hinterlegt.
+
+Anerkannte sachverständige Stellen sind verpflichtet, re­ gelmäßig an externen Qualitätssicherungsmaßnahmen teil­ zunehmen.
+
+Dazu gehören Überwachungsbegutachtungen durch die DAkkS oder die LUBW und vor allem die Teil­ nahme an Ringversuchen.
+
+Im Wasserbereich finden ­ mindestens zwei bis drei Ringversuche pro Jahr statt, so­ dass alle anerkannten Untersuchungsbereiche im Zeitraum von ca. zwei Jahren überwacht werden können.
+
+Die LUBW prüft die Teilnahme bei allen von ihr anerkannten Laboren.
+
+Bei wiederholter nicht erfolgreicher Teilnahme werden die anerkannten Stellen zur Stellungnahme aufgefordert.
+
+Ge­ gebenenfalls erfolgt ein Widerruf der Anerkennung.
+
+Bei Zweifeln an der Qualität von Analysen kann die LUBW bei den von ihr anerkannten Prüflaboratorien Laborbegut­ achtungen auch außerhalb der regelmäßigen Überwa­ chungen  durchführen.
+
+Alle Informationen zum Anerkennungsverfahren sind auf der Internetseite der LUBW unter Angebote/Leistungen und Produkte/Dienstleistungen/Anerkennung von Unter­ suchungsstellen (https://www.lubw.badenwuerttemberg.
+
+de/leistungenundprodukte/anerkennungvonuntersu­ chungsstellen) verfügbar.
+
+Auf der Internetseite finden sich die Adressen der Ansprechpartner in der LUBW sowie der Link zur Liste der anerkannten sachverständigen Stellen.
+
+Die Dokumentation der Überwachung ist zentraler Be­ standteil des Verwaltungshandelns einer Behörde.
+
+Sie dient der Nachvollziehbarkeit der durchgeführten Über­ wachung, der Dokumentation der Ergebnisse sowie gege­ benenfalls weiterer Schritte bei festgestellten Mängeln und ist auch für interne Zwecke, zur Erfüllung von Berichts­ pflichten und für die Beurteilung der Zuverlässigkeit des Betreibers notwendig.
+
+Das Ergebnis der Überwachung wird in der Regel in einem Aktenvermerk mit den relevanten Feststellungen bezüglich der Einhaltung der Genehmigung sowie Schlussfolge­ rungen zur etwaigen Notwendigkeit weiterer Maßnahmen festgehalten.
+
+Wenn erforderlich, werden die Mängel und (vereinbarte) Maßnahmen zur Mängelbeseitigung in einem Revisionsschreiben dem Betreiber mitgeteilt.
+
+In der Fachanwendung Industrieabwasser werden in der Registerklappe „Überwachung“ die Analysenergebnisse der amtlichen Überwachung dokumentiert.
+
+Es handelt sich hierbei in der Regel um Abwasseruntersuchungen, die im Rahmen der laufenden Überwachung durch eine sachver­ ständige Stelle durchgeführt wurden.
+
+Die Daten werden in der Regel über die LABDÜS- Schnittstelle in die Fachan­ wendung eingelesen.
+
+Es können aber auch zusätzlich Rohabwasseranalysen oder die Ergebnisse der Eigenkon­ trolle des Betreibers eingegeben werden.
+
+Die Maske glie­ dert sich in eine Liste der Probenahmen sowie der hierzu jeweils zugehörigen Messergebnisse.
+
+Die Auswertung der eingelesenen Ergebnisse erfolgt für den Sachbearbeiter au­ tomatisch, wobei die Überschreitungen der wasserrecht­ lichen Zulassung angezeigt werden.
+
+Der Datenpflege kommt eine besondere Bedeutung zu, da neben der Voll­ zugsunterstützung die Daten für Berichtspflichten genutzt werden.
+
+Zu den Pflichtangaben in der Fachanwendung gehört auch die Angabe, ob die Produktion und die Abwasseranlage den Stand der Technik erfüllen bzw. der wasserrechtliche Bescheid dem Stand der Technik entspricht, soweit die AbwV Anforderungen nach dem Stand der Technik vorsieht.
+
+Weitere Informationen können den Hilfetexten der ­ Fachanwendung entnommen werden.
+
+Die Dokumentation der Begehung vor Ort, die Fristen und jede Änderung wird in der EDVgestützten Fachanwen­ dung erfasst.
+
+Für alle immissionsschutzrechtlich ­ genehmigten Anlagen, die entsprechend dem „Konzept zur integrierten Überwachung immissionsschutzrechtlich genehmigter Anlagen (die nicht unter die Industrieemissi­ ons-Richtlinie fallen)“ überwacht werden, steht für die Do­ kumentation ein Muster für einen Aktenvermerk zur Ver­ fügung.
+
+Dieses Muster kann auch für die Überwachung vor Ort für die unter Kapitel 4.2.4 genannten Anlagen verwen­ det werden.
+
+Für IE-Anlagen wird die Risikobeurteilung einheitlich mit dem Bewertungsschema SYBURIAN durchgeführt und in der Akte dokumentiert.
+
+Die Berichte über die Vor-Ort-Besichtigungen werden in standardisierten Formularen elektronisch erstellt, in einem Zeitraum von zwei Monaten den Betreibern übermittelt und in einem Zeitraum von vier Monaten von der LUBW der Öffentlichkeit zugänglich gemacht (http://www4.lubw.badenwuerttemberg.de/serv­ let/is/225638/).
+</TEXT></TimeML>

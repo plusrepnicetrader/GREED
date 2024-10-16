@@ -1,0 +1,475 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10200-Klimaleitplanken_2</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2021-04-01" temporalFunction="false" functionInDocument="CREATION_TIME">2021-04-01</TIMEX3></DCT>
+<TEXT>Es wird allerhöchste Zeit den Klimaschutz zu verstärken und Anpassungsmaßnahmen an die unvermeidbaren Folgen des Klimawandels in <PLACE id="p1" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> zu ergreifen.
+
+Die Auswertungen <TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">aktueller</TIMEX3> Klimamodelldaten für <PLACE id="p2" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> gehen von einer noch stärkeren Erwärmung als bisher angenommen aus, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Der Weltklimarat (Intergovernmental Panal on Climate Change, kurz IPCC) hat in seinem letzten Sachstandsbericht aus <TIMEX3 tid="t2" type="DATE" value="2014">dem Jahr 2014</TIMEX3> anstelle der bisherigen Emissionsszenarien, die sogenannten repräsentativen Konzentrationspfade (Representative Concentration Pathways, RCP), vorgestellt [vgl. IPCC <TIMEX3 tid="t3" type="DATE" value="2014">2014</TIMEX3>].
+
+In dieser Auswertung für <PLACE id="p3" type="" geo="DEBKGGND00001BBR">Baden- Württemberg</PLACE> wurde das RCP 8.5 verwendet.
+
+Dieses Szenario steht für einen nicht ausreichend effektiven Klimaschutz mit einem weiteren globalen Anstieg der Treibhausgasemissionen.
+
+Dieses spiegelt die <TIMEX3 tid="t4" type="DATE" value="PRESENT_REF">derzeitige</TIMEX3> Situation wider und zeigt die <TIMEX3 tid="t5" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Klimaentwicklung bei „einem weiter wie bisher“ im Klimaschutz warnend auf.
+
+Auf Basis der globalen RCP-Szenarien wurden im Rahmen der Projekte EURO-CORDEX und ReKliEs-De regionale Klimamodellläufe mit einer räumlichen Auflösung von 12 km erstellt [vgl. reklies.hlnug.de].
+
+Alle Modelle wurden einer Plausibilitätsprüfung unterzogen [vgl. LfU <TIMEX3 tid="t6" type="DATE" value="2020">2020</TIMEX3>].
+
+Dieses zunächst für <PLACE id="p4" type="" geo="DEBKGGND00001H6V">Bayern</PLACE> durchgeführte Audit wurde im Rahmen der Kooperation KLIWA "Klimawandel und Konsequenzen für die Wasserwirtschaft" und des Bund-Länder-Fachgesprächs auch für das bundesweite Gebiet angewendet und zeigte die Eignung des Ensembles.
+
+Für das RCP 8.5 (ohne effektiven Klimaschutz) liegt somit ein qualitätsgesichertes Ensemble aus zehn Modellen vor, das hinsichtlich der Temperatur und des Niederschlages für <PLACE id="p5" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> ausgewertet wurde.
+
+Damit werden sowohl die wesentlichen Rahmenbedingungen des Klimas in Baden-Württemberg in der nahen (<TIMEX3 tid="t7" type="DATE" value="2021">2021</TIMEX3>  – <TIMEX3 tid="t8" type="DATE" value="2050">2050</TIMEX3>) und fernen Zukunft (<TIMEX3 tid="t9" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t10" type="DATE" value="2100">2100</TIMEX3>) als auch regionale Aussagen zum Klimawandel in Baden-Württemberg aufgezeigt.
+
+Für alle Kennzahlen der Temperatur ergeben sich deutliche Veränderungen der Werte in <TIMEX3 tid="t11" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> im Vergleich zum Referenzzeitraum und somit ein starkes Klimasignal mit hoher Richtungssicherheit.
+
+Es kann von einem Temperaturanstieg in der Zukunft ausgegangen werden, die laut den Modellen im Jahresmittel über das Land von +0,8 bis +1,8 °C in der nahen Zukunft und von +3 bis +4,5 °C in der fernen Zukunft im Vergleich zum <TIMEX3 tid="t12" type="DURATION" beginPoint="t13" endPoint="t14" value="P30Y">Referenzzeitraum</TIMEX3> <TIMEX3 tid="t13" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t14" type="DATE" value="2000">2000</TIMEX3> mit 8,4 °C reicht.
+
+Im Vergleich zu den Auswertungen <TIMEX3 tid="t15" type="DATE" value="2013">2013</TIMEX3> zeigt sich damit eine stärkere Erwärmung als mit dem damals verwendeten A1B-Szenario [vgl. LUBW <TIMEX3 tid="t16" type="DATE" value="2013">2013</TIMEX3>].
+
+Im A1B-Szenario wurde eine ausgewogene Nutzung nichtfossiler und fossiler Energiequellen angenommen.
+
+Allerdings zeigt sich, dass das A1B-Szenario <TIMEX3 tid="t17" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> nicht als ausreichend realistisch für <TIMEX3 tid="t18" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> anzunehmen ist: Die <TIMEX3 tid="t19" type="DURATION" value="P1Y">Jahresmitteltemperaturen</TIMEX3> steigen weiter und die Treibhausgasemission nehmen global nahezu ungebremst zu.
+
+Vor diesem Hintergrund wurde das RCP 8.5-Szenario ausgewählt, weil es die Entwicklung aufzeigt, wenn weiterhin hauptsächlich fossile Energiequellen eingesetzt werden.
+
+Der Klimaparameter Niederschlag ist schwieriger zu simulieren und zu interpretieren als die Temperatur.
+
+Entsprechend sind die Bandbreite der Modellergebnisse und die Unsicherheit größer.
+
+Die Stärke des Klimasignals ist je nach Kennzahl unterschiedlich und die Richtung ist weniger eindeutig als bei den Kennzahlen der Temperatur.
+
+Dennoch machen die Ergebnisse deutlich, dass sich die Niederschlagsverteilung innerhalb <TIMEX3 tid="t20" type="SET" freq="EVERY" value="P1Y">des Jahres</TIMEX3> ändern wird.
+
+Vor allem in <TIMEX3 tid="t21" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> ist gegenüber <TIMEX3 tid="t22" type="DURATION" beginPoint="t22" endPoint="t23" value="P30Y">dem Referenzzeitraum</TIMEX3> <TIMEX3 tid="t23" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t24" type="DATE" value="2000">2000</TIMEX3> von einer Abnahme der Niederschläge im <TIMEX3 tid="t25" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> (von ca. +4 bis -19 %) und einer Zunahme im Winter (ca. +8 bis +28 %) auszugehen.
+
+Zudem muss vor allem in <TIMEX3 tid="t26" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> mit intensiveren Niederschlagsereignissen gerechnet werden.
+
+Gemittelt über ganz <PLACE id="p6" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> zeigen alle Modelle einen Anstieg des 99. Perzentils des Niederschlages.
+
+Im <TIMEX3 tid="t27" type="DURATION" beginPoint="t27" endPoint="t28" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t28" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t29" type="DATE" value="2050">2050</TIMEX3> reicht diese von knapp +3 % bis fast +12 %.
+
+Bis zum <TIMEX3 tid="t30" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> könnte das 99. Perzentil des Niederschlages zwischen +9 % und +24 % im Vergleich zum Referenzzeitraum ansteigen.
+
+Der <TIMEX3 tid="t31" type="SET" freq="EVERY" value="XXXX-SP">Frühling</TIMEX3> wird aufgrund der steigenden Temperaturen sehr wahrscheinlich früher einsetzen als im <TIMEX3 tid="t32" type="DURATION" beginPoint="t32" endPoint="t33" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t33" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t34" type="DATE" value="2000">2000,</TIMEX3> das heißt die Pflanzen werden zeitiger anfangen zu blühen.
+
+Die Vegetationsperiode beginnt per Definition sobald das erste Mal im <TIMEX3 tid="t35" type="DATE" value="XXXX">Jahr</TIMEX3> <TIMEX3 tid="t36" type="DURATION" value="P6D">sechs aufeinanderfolgende Tage</TIMEX3> mit einer <TIMEX3 tid="t37" type="DURATION" value="P1D">Tagesmitteltemperatur</TIMEX3> von mindestens 5 °C auftreten.
+
+In <TIMEX3 tid="t38" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> könnte danach die Vegetationszeit im landesweiten Mittel statt <TIMEX3 tid="t39" type="SET" freq="EVERY" value="XXXX-03" mod="MID">Mitte März</TIMEX3> bereits <TIMEX3 tid="t40" type="SET" freq="EVERY" value="XXXX-03" mod="START">Anfang März</TIMEX3> starten, am Oberrhein noch viel früher.
+
+Im <TIMEX3 tid="t41" type="DURATION" beginPoint="t40" endPoint="t41" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t42" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t43" type="DATE" value="2100">2100</TIMEX3> wäre laut der Modelle sogar ein Blühbeginn <TIMEX3 tid="t44" type="SET" freq="EVERY" value="XXXX-02" mod="START">Anfang Februar</TIMEX3> möglich.
+
+Die Pflanzen könnten damit, vor allem in <TIMEX3 tid="t45" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> und in den Höhenlagen, vermehrt Spätfrösten ausgesetzt sein.
+
+<TIMEX3 tid="t46" type="SET" freq="EVERY" value="XXXX-SU">Die Sommer</TIMEX3> könnten deutlich trockener und heißer werden; besonders am Oberrhein und in der Rhein-Neckar-Region.
+
+Im <PLACE id="p7" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> könnten zum <TIMEX3 tid="t47" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> statt an <TIMEX3 tid="t48" type="DURATION" value="P14D">14 Tagen</TIMEX3> (Mittel <TIMEX3 tid="t49" type="DURATION" beginPoint="t48" endPoint="t49" value="P30Y">des Referenzzeitraums</TIMEX3> <TIMEX3 tid="t50" type="DATE" value="1971">1971</TIMEX3>  – <TIMEX3 tid="t51" type="DATE" value="2000">2000</TIMEX3>) an <TIMEX3 tid="t52" type="DURATION" value="P70D" mod="EQUAL_OR_LESS">bis zu 70 Tagen</TIMEX3> <TIMEX3 tid="t53" type="SET" freq="EVERY" value="P1Y">im Jahr</TIMEX3>, also <TIMEX3 tid="t54" type="DURATION" value="P2M" mod="MORE_THAN">mehr als 2 Monate</TIMEX3> lang, Temperaturen über 30 °C herrschen und es zwischen 20 und 40 Tropennächte geben.
+
+Damit haben sich die bisherigen Einschätzungen aus <TIMEX3 tid="t55" type="DATE" value="2013">dem Jahre 2013</TIMEX3> manifestiert.
+
+<TIMEX3 tid="t56" type="DURATION" value="PXW">Wochenlange</TIMEX3> Hitzeperioden könnten dann die Folge sein, was besonders für ältere Menschen, Menschen mit Vorerkrankungen oder Kleinkinder problematisch wäre.
+
+Entsprechend könnte sich der Kühlbedarf im Extremfall mehr als verdoppeln und zum <TIMEX3 tid="t57" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> sogar mehr als verfünffachen.
+
+Das Zusammenspiel zwischen höheren Temperaturen und früherem Einsetzen sowie Verlängerung der Vegetationsperiode könnte zu einer höheren Verdunstung und in Kombination mit geringeren Sommerniederschlägen zu einem Rückgang der Wasserreserven führen.
+
+Dies hat sich bereits in <TIMEX3 tid="t58" type="DURATION" value="PXY">den letzten Jahren</TIMEX3> gezeigt und könnte sich in <TIMEX3 tid="t59" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> noch verstärken.
+
+Trockenheiße <TIMEX3 tid="t60" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> wie sie <TIMEX3 tid="t61" type="DATE" value="PRESENT_REF">heute</TIMEX3> zum Beispiel in der Toskana oder im Latium bekannt sind wären die Folge.
+
+<TIMEX3 tid="t62" type="SET" freq="EVERY" value="XXXX-FA">Der Herbst</TIMEX3> wird wahrscheinlich früher einsetzen und länger andauern, da der <TIMEX3 tid="t63" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> infolge der steigenden Temperaturen immer kürzer wird.
+
+Die Vegetationszeit wird sich folglich verlängern.
+
+Im <TIMEX3 tid="t64" type="DURATION" beginPoint="t63" endPoint="t64" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t65" type="DATE" value="1971">1971</TIMEX3>  – <TIMEX3 tid="t66" type="DATE" value="2000">2000</TIMEX3> lagen zwischen Beginn und Ende der Vegetationszeit <TIMEX3 tid="t67" type="DURATION" value="P239D">239 Tage</TIMEX3>.
+
+In <TIMEX3 tid="t68" type="DURATION" value="P30Y">den nächsten 30 Jahren</TIMEX3> könnte sich die Dauer der Vegetationsperiode zwischen <TIMEX3 tid="t69" type="DURATION" value="P16D">16</TIMEX3> und <TIMEX3 tid="t70" type="DURATION" value="P26D">26 Tagen</TIMEX3> und in <TIMEX3 tid="t71" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> zwischen <TIMEX3 tid="t72" type="DURATION" value="P52D">52</TIMEX3> und <TIMEX3 tid="t73" type="DURATION" value="P69D">69 Tagen</TIMEX3> verlängern.
+
+Besonders in den niedrigeren Lagen könnten <TIMEX3 tid="t74" type="SET" freq="EVERY" value="XXXX-WI">die Winter</TIMEX3> überwiegend frostfrei sein und sich die Vegetationszeit sehr weit ausdehnen.
+
+In den Hochlagen des Schwarzwaldes könnte die Vegetationsperiode so lange sein wie es <TIMEX3 tid="t75" type="DATE" value="PRESENT_REF">heute</TIMEX3> in den Niederungen, etwa dem <PLACE id="p8" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE>, der Fall ist.
+
+<TIMEX3 tid="t76" type="SET" freq="EVERY" value="XXXX-WI">Der Winter</TIMEX3> wird in <TIMEX3 tid="t77" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> nicht mehr dem <TIMEX3 tid="t78" type="DATE" value="PAST_REF">der Vergangenheit</TIMEX3> gleichen.
+
+Schnee, Eis und Frost werden schon in <TIMEX3 tid="t79" type="DURATION" value="P30Y">den nächsten 30 Jahren</TIMEX3> immer seltener und könnten bis zum <TIMEX3 tid="t80" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> in weiten Teilen Baden-Württembergs ganz <TIMEX3 tid="t81" type="DATE" value="PAST_REF">der Vergangenheit</TIMEX3> angehören.
+
+<TIMEX3 tid="t82" type="SET" freq="EVERY" value="XXXX-WI">Die Winter</TIMEX3> könnten <TIMEX3 tid="t83" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> also kürzer, sehr viel milder und regenreicher sein.
+
+Aus den neuen Klimaleitplanken ergeben sich keine guten Aussichten für das <TIMEX3 tid="t84" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Klima Baden-Württembergs, wenn die Treibhausgasimmissionen wie bisher weiter steigen (RCP 8.5).
+
+Bereits jetzt haben wir die untere Bandbreite bei <TIMEX3 tid="t85" type="DURATION" value="P1Y">der Jahresmitteltemperatur</TIMEX3> des Szenarios RCP 8.5 für <TIMEX3 tid="t86" type="DATE" value="FUTURE_REF">die nahe Zukunft</TIMEX3> (<TIMEX3 tid="t87" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t88" type="DATE" value="2050">2050</TIMEX3>) erreicht.
+
+Wie wird das Klima in <PLACE id="p9" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> in <TIMEX3 tid="t89" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> sein?
+
+Wie stark werden die Temperaturen noch steigen und sich die Niederschläge ändern?
+
+Werden <TIMEX3 tid="t90" type="SET" freq="EVERY" value="XXXX-WI">die Winter</TIMEX3> schneearm und milder?
+
+Gibt es Regionen in Baden-Württem berg, die besonders vom Klimawandel betroffen sein werden?
+
+Dies sind nur einige der Fragen, die sich hinsichtlich des Themas Klimawandel und dessen Auswirkungen stellen.
+
+Es gilt sie zu beantworten, um auf die Folgen des Klimawandels vorbereitet zu sein und sich möglichst gezielt anpassen zu können.
+
+Grundvoraussetzung um diese Fragen beantworten zu können, ist die Kenntnis über das Klima <TIMEX3 tid="t91" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3>, welches mit Klimamodellen simuliert werden kann.
+
+Der Mensch nimmt vor allem durch die Menge ausgestoßener Treibhausgase Einfluss auf das Klima und verändert dieses.
+
+Daher ist es wichtig dieses Handeln in den Klimamodellen mit abzubilden.
+
+Hierzu bedient man sich verschiedener Annahmen oder auch Szenarien.
+
+Klimamodelle simulieren somit ein mögliches <TIMEX3 tid="t92" type="DATE" value="FUTURE_REF">zukünftiges</TIMEX3> Klima anhand physikalischer Gesetzmäßigkeiten und verschiedener wissenschaftlicher Annahmen.
+
+Im letzten Sachstandsbericht des Weltklimarates (Intergovernmental Panal on Climate Change, kurz IPCC) aus <TIMEX3 tid="t93" type="DATE" value="2014">dem Jahr 2014</TIMEX3> wurden vier repräsentative Emissionsszenarien vorgestellt.
+
+Diese bilden jeweils unterschiedliche <TIMEX3 tid="t94" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Entwicklungen des zusätzlichen Strahlungsantriebs durch erhöhte Konzentrationen klimarelevanter Treibhausgase ab.
+
+Sie werden daher auch als repräsentative Konzentrationspfade (Representative Concentration Pathways) oder kurz RCP-Szenarien bezeichnet.
+
+Dabei gibt es Szenarien, die eine höhere oder weniger hohe <TIMEX3 tid="t95" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Entwicklung der Treibhausgaskonzentration in der Atmosphäre mit einer daraus resultierenden zusätzlichen „Energiezufuhr“ (Strahlungsantrieb) für das Klima bis <TIMEX3 tid="t96" type="DATE" value="2100">2100</TIMEX3> abbilden.
+
+Im Szenario RCP 8.5 wird beispielsweise davon ausgegangen, dass im <TIMEX3 tid="t97" type="DATE" value="2100">Jahr 2100</TIMEX3> 8,5 W/m² zusätzlich zur solaren Einstrahlung der vorindustriellen Zeit zur Erwärmung beitragen.
+
+Diese resultiert aus einem fortgesetzten Anstieg der Treibhausgasemissionen bis zum <TIMEX3 tid="t98" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> (ohne wirksamen Klimaschutz).
+
+Das RCP 2.6, mit dem das 2 °-Ziel erreicht werden könnte, weist hingegen Emissionsspitzen zwischen <TIMEX3 tid="t99" type="DATE" value="2010">2010</TIMEX3> bis <TIMEX3 tid="t100" type="DATE" value="2020">2020</TIMEX3> auf und geht von einer sich anschließenden substanziellen Treibhausgasabnahme durch Klimaschutzmaßnahmen aus (effektiver Klimaschutz).
+
+Dazwischen liegen die beiden mittleren Szenarien, das RCP4.5 und das RCP6.0.
+
+Die <TIMEX3 tid="t101" type="DATE" value="PRESENT_REF">derzeitigen</TIMEX3> tatsächlichen globalen CO2-Konzentrationen von etwa 412 ppm und die fossilen CO2-Emissionen von ca. 34,1  Gt CO2/<TIMEX3 tid="t102" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> [Global Carbon Project <TIMEX3 tid="t103" type="DATE" value="2020">2020</TIMEX3>] liegen im Bereich der Annahmen des RCP8.5.
+
+Daher beschränken sich die vorliegenden Auswertungen auf das RCP 8.5.
+
+Sie verdeutlichen mit welchen Folgen zu rechnen ist, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Globale Klimamodelle, wie sie im IPCC-Bericht von <TIMEX3 tid="t104" type="DATE" value="2014">2014</TIMEX3> verwendet werden, sind mit ihrer Auflösung von etwa 100 km für eine kleinräumige Auswertung zu grob.
+
+Daher werden regionale Klimamodelle genutzt, um die Ergebnisse unter Berücksichtigung der lokalen Besonderheiten zu verfeinern.
+
+Mit Abschluss der Verbundprojekte EURO-CORDEX und ReKliEs-De <TIMEX3 tid="t105" type="DATE" value="2017" mod="END">Ende 2017</TIMEX3> liegen umfangreiche Auswertungen regionaler Klimamodelle mit den oben dargestellten RCP-Szenarien für <PLACE id="p10" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> vor [vgl. https://euro- cordex.net/ und reklies.hlnug.de].
+
+Die räumliche Auflösung der Projektionen konnte dabei im Gegensatz zu den Vorgängermodellen nochmals verbessert werden.
+
+Sie liegt bei 12 km gegenüber 25 km der bisherigen Modelle.
+
+Zudem wurden alle Modelle der Projekte EURO-CORDEX und ReKliEs-De durch den Deutschen Wetterdienst (DWD) für das Expertennetzwerk des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI) fehlerkorrigiert (BIASadjustiert) und auf ein einheitliches Raster von 5 x 5 km interpoliert [vgl. Brienen et al. <TIMEX3 tid="t106" type="DATE" value="2020">2020</TIMEX3>].
+
+In einem weiteren Schritt wurden alle Modelle durch das Bayrische Landesamt für Umwelt einer Plausibilitätsprüfung (Auditierung) unterzogen [LfU <TIMEX3 tid="t107" type="DATE" value="2020">2020</TIMEX3>].
+
+Mit dem Klimaaudit wurde geprüft, welche regionalen Klimamodelle der Projekte EURO-CORDEX und ReKliEs-De das <TIMEX3 tid="t108" type="DATE" value="PRESENT_REF">derzeitige</TIMEX3> Klima möglichst realitätsnah abbilden.
+
+Dieses zunächst für den bayrischen Raum durchgeführte Audit wurde im Rahmen der Kooperation KLIWA „Klimaveränderung und Konsequenzen für die Wasserwirtschaft“ und des Bund-Länder-Fachgesprächs auch für das bundesweite Gebiet angewendet.
+
+Das Ergebnis ist ein Ensemble aus zehn dynamischen Modellen für das RCP 8.5, welches durch die LUBW für Baden-Württem berg ausgewertet wurde.
+
+Das Bilden eines Ensembles aus mehreren Modellen ist wichtig, da den Modellen unterschiedliche Modellansätze und eigenschaften zugrunde liegen.
+
+Diese unterschiedlichen Modellansätze ergeben sich daraus, dass nicht alle klimatischen Prozesse sowie die natürlichen klimatischen Schwankungen vollständig erforscht sind.
+
+Durch die Zusammenführung der verschiedenen Modelle in einem Ensemble werden verschiedene wissenschaftliche Ansätze zur Beschreibung der komplexen klimatischen Zusammenhänge genutzt und Unsicherheiten verringert.
+
+Dennoch sind die Klimamodellergebnisse weder zeitlich noch räumlich als punktgenaue Vorhersagen zu verstehen, sondern beschreiben vielmehr ein mögliches <TIMEX3 tid="t109" type="DATE" value="FUTURE_REF">zukünftiges</TIMEX3> Klima über einen langen Zeitraum.
+
+Das Modellensemble wurde daher für mehrere <TIMEX3 tid="t110" type="DURATION" value="P30Y">30-Jahreszeiträume</TIMEX3>, den <TIMEX3 tid="t111" type="DURATION" beginPoint="t107" endPoint="t108" value="P30Y">Referenzzeitraum</TIMEX3> (<TIMEX3 tid="t112" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t113" type="DATE" value="2000">2000</TIMEX3>), die <TIMEX3 tid="t114" type="DURATION" beginPoint="t110" endPoint="t111" value="P30Y">nahe Zukunft</TIMEX3> (<TIMEX3 tid="t115" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t116" type="DATE" value="2050">2050</TIMEX3>) und <TIMEX3 tid="t117" type="DURATION" beginPoint="t113" endPoint="t114" value="P30Y">die ferne Zukunft</TIMEX3> (<TIMEX3 tid="t118" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t119" type="DATE" value="2100">2100</TIMEX3>), ausgewertet.
+
+Die zehn unterschiedlichen Flächenmittel für den Raum <PLACE id="p11" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> für jeden einzelnen Kennwert als Ergebnis der zehn Modelle werden der Größe nach sortiert, so dass sich für jeden Kennwert eine bestimmte Bandbreite ergibt.
+
+Dabei stellt der unterste Werte, d. h. das Minimum, den unteren Bereich und der oberste, also das Maximum, den oberen Bereich der Bandbreite dar.
+
+Zusätzlich wird das 50. Perzentil bzw. der Median berechnet.
+
+Der Median ist der Wert, für den jeweils die Hälfte der Modellsimulationen höhere bzw. niedrigere Änderungen zeigen.
+
+Er repräsentiert innerhalb des Ensembles ein mittleres Klimaänderungssignal.
+
+Die Werte dieser Bandbreite werden auch als <TIMEX3 tid="t120" type="DATE" value="FUTURE_REF">zukunftsbezogene</TIMEX3> „klimatische Leitplanken“ verstanden, da durch die Angabe des Minimums und des Maximums ein Bereich berechnet wird, in dem der Klimawandel in Baden-Württem berg mit dem RCP  8.5 Szenario wahrscheinlich eintreten wird.
+
+Aus der Änderung der Werte für beide <TIMEX3 tid="t121" type="DATE" value="FUTURE_REF">Zukunftszeiträume</TIMEX3> im Vergleich zum Referenzzeitraum ergeben sich die Klimasignale für jede Kennzahl.
+
+Für die Jahresmitteltemperatur erhält man beispielsweise für den Median in <TIMEX3 tid="t122" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> ein Klimaänderungssignal bzw. eine Temperaturerhöhung von +1,4 °C aus der Differenz des mittleren Referenzwertes (hier 8,4 °C) und dem Wert für die Temperatur <TIMEX3 tid="t123" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> (9,8 °C).
+
+Neben der Berechnung eines Flächenmittelwertes für das ganze Land sind auch regionale Unterschiede wichtig.
+
+Daher wurden auch regional differenzierte Kartendarstellungen, jeweils für das Minimum, den Median und das Maximum <TIMEX3 tid="t124" type="DURATION" beginPoint="t119" endPoint="t120" value="P30Y">der nahen</TIMEX3> (<TIMEX3 tid="t125" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t126" type="DATE" value="2050">2050</TIMEX3>) und <TIMEX3 tid="t127" type="DURATION" beginPoint="t122" endPoint="t123" value="P30Y">der fernen Zukunft</TIMEX3> (<TIMEX3 tid="t128" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t129" type="DATE" value="2100">2100</TIMEX3>), erstellt.
+
+So können beispielsweise Gebiete in <PLACE id="p12" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, die besonders vom Klimawandel betroffen sein werden, identifiziert werden.
+
+Die <TIMEX3 tid="t130" type="DURATION" value="P1Y">Jahresmitteltemperatur</TIMEX3> ist seit <TIMEX3 tid="t131" type="DATE" value="1881">1881</TIMEX3> im Landesmittel bereits um 1,5  °C angestiegen.
+
+Besonders in <TIMEX3 tid="t132" type="DURATION" value="P30Y">den letzten 30 Jahren</TIMEX3> ging der Temperaturanstieg rasant von statten.
+
+Vergleicht man den <TIMEX3 tid="t133" type="DURATION" beginPoint="t127" endPoint="t128" value="P30Y">Referenzzeitraum</TIMEX3> <TIMEX3 tid="t134" type="DATE" value="1971">1971</TIMEX3>  – <TIMEX3 tid="t135" type="DATE" value="2000">2000</TIMEX3> mit <TIMEX3 tid="t136" type="DURATION" beginPoint="t130" endPoint="t131" value="P30Y">dem Zeitraum</TIMEX3> <TIMEX3 tid="t137" type="DATE" value="1991">1991</TIMEX3> – <TIMEX3 tid="t138" type="DATE" value="2020">2020</TIMEX3> stieg die Jahresmitteltemperatur <PLACE id="p13" type="" geo="DEBKGGND00001BBR">Baden- Württembergs</PLACE> von 8,4 °C auf 9,2 °C und damit um 0,8 °C an (s.
+
+Tabelle 2.1).
+
+Somit ist die untere Bandbreite des hier verwendeten RCP 8.5-Szenarios bereits erreicht.
+
+In <TIMEX3 tid="t139" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> wird die Temperatur weiter ansteigen, dies zeigen alle Modelle.
+
+Gemittelt über ganz <PLACE id="p14" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> könnte nach dem Szenario RCP 8.5 der Temperaturanstieg im Vergleich zum <TIMEX3 tid="t140" type="DURATION" beginPoint="t134" endPoint="t135" value="P30Y">Referenzzeitraum</TIMEX3> <TIMEX3 tid="t141" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t142" type="DATE" value="2000">2000</TIMEX3> in <TIMEX3 tid="t143" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> +0,8 bis +1,8 °C und in <TIMEX3 tid="t144" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> +3,0 bis +4,5 °C betragen.
+
+Damit liegt der Median für <TIMEX3 tid="t145" type="DATE" value="FUTURE_REF">die ferne Zukunft</TIMEX3> 0,5 °C und das Maximum fast 1 °C über den Ergebnissen der Vorgängersimulationen.
+
+Die Temperatur könnte in <TIMEX3 tid="t146" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> also noch stärker zunehmen als es die bisherigen Modellauswertungen aus <TIMEX3 tid="t147" type="DATE" value="2013">dem Jahr 2013</TIMEX3> ergeben hatten [LUBW <TIMEX3 tid="t148" type="DATE" value="2013">2013</TIMEX3>].
+
+Im damals verwendeten A1B-Szenario wird eine ausgewogene Nutzung nichtfossiler und fossiler Energiequellen angenommen.
+
+Das A1B-Szenario ist aber <TIMEX3 tid="t149" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> nicht als ausreichend realistisch für <TIMEX3 tid="t150" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> anzunehmen, da <TIMEX3 tid="t151" type="DURATION" value="P1Y">die Jahresmitteltemperaturen</TIMEX3> weiter steigen und die Treibhausgasemission global nahezu ungebremst zunehmen.
+
+Momentan bewegen wir uns somit entlang der projizierten Entwicklung des RCP 8.5 [Global Carbon Project <TIMEX3 tid="t152" type="DATE" value="2020">2020</TIMEX3>, SchWaLm et al. <TIMEX3 tid="t153" type="DATE" value="2020">2020</TIMEX3>].
+
+Die Auswertungen auf Basis dieses Szenarios verdeutlichen also, mit welcher Klimaentwicklung zu rechnen ist, wenn nicht effektivere Klimaschutzmaßnahmen ergriffen werden.
+
+Regional betrachtet werden der <PLACE id="p15" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> und der Rhein-Neckar-Raum, wie <TIMEX3 tid="t154" type="DATE" value="PRESENT_REF">heute</TIMEX3> auch, die höchsten Temperaturen zu verzeichnen haben.
+
+Die Jahresmitteltemperatur könnte hier in <TIMEX3 tid="t155" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> bei maximal bis zu 16 °C liegen und damit Temperaturen wie <TIMEX3 tid="t156" type="DATE" value="PRESENT_REF">heute</TIMEX3> in der Toskana oder im Latium in der Gegend um Rom aufweisen, wenn keine effektiven Klimaschutzmaßnahmen ergriffen werden.
+
+In den Hochlagen des Schwarzwaldes könnten die Temperaturen derart stark ansteigen, dass diese zum <TIMEX3 tid="t157" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> durchschnittlich denen der <TIMEX3 tid="t158" type="DATE" value="PRESENT_REF">heutigen</TIMEX3> Temperaturen im <PLACE id="p16" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> entsprechen würden.
+
+Der Niederschlag wird auch <TIMEX3 tid="t159" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> sowohl <TIMEX3 tid="t160" type="SET" freq="EVERY" value="XXXX">innerhalb des Jahres</TIMEX3> als auch regional sehr unterschiedlich ausfallen.
+
+An der Jahressumme von etwa 1 000 mm wird sich in <TIMEX3 tid="t161" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> nach <TIMEX3 tid="t162" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Erkenntnissen wahrscheinlich nicht viel ändern.
+
+Sowohl in der nahen als auch in <TIMEX3 tid="t163" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> gibt es Modelle, die geringe Abnahmen aber auch Modelle, die eine relativ geringe Zunahme zeigen (vgl. Tabelle 2.1).
+
+Für die Erarbeitung von Anpassungsmaßnahmen ist insbesondere die Entwicklung von Extremereignissen, wie Starkregen und Trockenheit sowie die Änderung der Verteilung des Niederschlags <TIMEX3 tid="t164" type="SET" freq="EVERY" value="XXXX">innerhalb eines Jahres</TIMEX3> entscheidend.
+
+Starkregen sind Ereignisse mit einer hohen Niederschlagsmenge in einer bestimmten Zeit.
+
+Es wird zwischen großräumigen langandauernden Ereignissen und konvektiven Ereignissen unterschieden.
+
+Konvektive Starkregen treten meist lokal begrenzt in Form kürzerer Schauer oder Gewitter auf, so dass deren Messung sehr schwierig ist.
+
+Nur selten stehen Messstationen genau dort, wo gerade ein konvektives Starkregenereignis auftritt.
+
+Aufgrund der Seltenheit von Starkregenereignissen ist die zur Verfügung stehende Datengrundlage gering und Aussagen zur <TIMEX3 tid="t165" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Veränderung sind schwierig zu treffen bzw. mit Vorsicht zu interpretieren.
+
+Zudem handelt es sich bei den hier betrachteten Klimamodelldaten um Tageswerte, so dass insbesondere die Betrachtung konvektiver Starkregenereignisse nur eingeschränkt möglich ist.
+
+Hier werden <TIMEX3 tid="t166" type="DURATION" value="PXD">Tage</TIMEX3> mit einer Menge von 20 mm Niederschlag oder mehr als Starkregentage definiert.
+
+Zudem wird die Änderung des 99. Perzentils des Niederschlags betrachtet.
+
+Während bei der Anzahl der <TIMEX3 tid="t167" type="DURATION" value="PXD">Starkregentage</TIMEX3> kaum Änderungen bis zu einer leichten Zunahme modelliert werden, zeigen die Modelle beim 99. Perzentil des Niederschlages einen generellen Anstieg.
+
+Im <TIMEX3 tid="t168" type="DURATION" beginPoint="t265" endPoint="t266" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t169" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t170" type="DATE" value="2050">2050</TIMEX3> reicht diese von knapp +3 % bis fast +12 %.
+
+Bis zum <TIMEX3 tid="t171" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> könnte das 99. Perzentil des Niederschlages zwischen +9 % und +24 % im Vergleich zum Referenzzeitraum ansteigen.
+
+Dementsprechend müsste vor allem in <TIMEX3 tid="t172" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> mit intensiveren Niederschlagsereignissen gerechnet werden.
+
+Trockenereignisse werden mittels sogenannter <TIMEX3 tid="t173" type="DURATION" value="PXD">Trockentage</TIMEX3>, also <TIMEX3 tid="t174" type="DURATION" value="PXD">Tage</TIMEX3> ohne Niederschlag und der maximalen Dauer von Trockenperioden, also der maximalen Länge aufeinanderfolgender <TIMEX3 tid="t175" type="DURATION" value="PXD">Tage</TIMEX3> ohne Niederschlag, betrachtet.
+
+Sowohl bei den <TIMEX3 tid="t176" type="DURATION" value="PXD">Trockentagen</TIMEX3> als auch bei der maximalen Länge von Trockenperioden werden für beide <TIMEX3 tid="t177" type="DATE" value="FUTURE_REF">Zukunftszeiträume</TIMEX3> Abnahmen aber auch Zunahmen projiziert.
+
+In <TIMEX3 tid="t178" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> zeigt jedoch die Mehrheit der Modelle einen stärkeren Anstieg an Trockenereignissen.
+
+Eindeutiger sieht es hingegen aus, wenn man sich <TIMEX3 tid="t179" type="DURATION" value="PXD">die Trockentage</TIMEX3> in der Vegetationszeit, also im <TIMEX3 tid="t180" type="DURATION" beginPoint="t277" endPoint="t278" value="P7M">Zeitraum</TIMEX3> <TIMEX3 tid="t181" type="DATE" value="XXXX-04">April</TIMEX3> bis <TIMEX3 tid="t182" type="DATE" value="XXXX-10">Oktober</TIMEX3>, anschaut.
+
+Bis auf das Minimum in <TIMEX3 tid="t183" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3>, zeigt sich eine generelle Zunahme <TIMEX3 tid="t184" type="DURATION" value="PX">der Trockentage</TIMEX3> in der Vegetationszeit.
+
+Im Vergleich zum <TIMEX3 tid="t185" beginPoint="t282" endPoint="t283" type="DURATION" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t186" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t187" type="DATE" value="2000">2000</TIMEX3> könnte es in <TIMEX3 tid="t188" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> im Landesmittel bis zu <TIMEX3 tid="t189" type="DURATION" value="P18D" mod="APPROX">rund 18 mehr Trockentage</TIMEX3> in der Vegetationsperiode geben.
+
+Die geringeren Sommerniederschläge im Zusammenspiel mit höheren Temperaturen und früherem Einsetzen sowie Verlängerung der Vegetationsperiode könnten zu einer höheren Verdunstung und damit zu einem Rückgang der Wasserreserven führen.
+
+In <TIMEX3 tid="t190" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> könnte es daher besonders in den wärmeren Regionen wie dem Oberrhein oder der Rhein-Neckar-Region häufiger zu einem Wasserdefizit kommen.
+
+<TIMEX3 tid="t191" type="DURATION" value="PXY">Trockenheiße Jahre</TIMEX3>, wie zuletzt <TIMEX3 tid="t192" type="DATE" value="2018">2018</TIMEX3>, könnten die Regel sein.
+
+Die deutlichste Änderung im <TIMEX3 tid="t193" type="SET" freq="EVERY" value="XXXX-SP">Frühjahr</TIMEX3> ist der frühere Beginn der Pflanzenblüte, die hauptsächlich auf die steigenden Temperaturen, wie die milderen Wintertemperaturen, und einen früheren Anstieg der Temperaturen im <TIMEX3 tid="t194" type="SET" freq="EVERY" value="XXXX">Jahr</TIMEX3>, zurückzuführen ist.
+
+Die Vegetationszeit hat sich bereits in der Vergangenheit merklich verfrüht, was sich beispielsweise anhand des Blühbeginns verschiedener Wildpflanzen über einen längeren Zeitraum gut beobachten lässt.
+
+Bei den Modellauswertungen kann auf diese Methode nicht zurückgriffen werden.
+
+Daher wird der Beginn der Vegetationszeit über die Temperatur bestimmt, also ein thermischer Index berechnet.
+
+In der vorliegenden Untersuchung wird zur Berechnung des Vegetationsbeginns eine neue Definition nach dem European Climate Assessment und Dataset (ECA und D) verwendet, weshalb die Werte nicht mit der Auswertung <TIMEX3 tid="t195" type="DATE" value="2013">2013</TIMEX3> vergleichbar sind.
+
+Die Vegetationsperiode beginnt demnach sobald das erste Mal <TIMEX3 tid="t196" type="DURATION" value="P1Y">im Jahr</TIMEX3> <TIMEX3 tid="t197" type="DURATION" value="P6D">sechs aufeinanderfolgende Tage</TIMEX3> mit einer Tagesmitteltemperatur von mindestens 5 °C auftreten [vgl. ECA und D <TIMEX3 tid="t198" type="DATE" value="2013">2013</TIMEX3>].
+
+Im Referenzzeitraum beginnt sie im landesweiten Mittel am 77. Tag des Jahres (<TIMEX3 tid="t199" type="DATE" value="XXXX-03-17">17. März</TIMEX3>/<TIMEX3 tid="t200" type="DATE" value="XXXX-03-16">16. März</TIMEX3> in Schaltjahren); am Oberrhein bereits <TIMEX3 tid="t201" type="DATE" value="XXXX-06" mod="START">Anfang März</TIMEX3>.
+
+In <TIMEX3 tid="t202" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> wird der Blütenbeginn sehr wahrscheinlich viel früher einsetzen, dies zeigen alle Modelle.
+
+In <TIMEX3 tid="t203" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> könnte die Vegetationszeit im Landesmittel bereits <TIMEX3 tid="t204" type="DATE" value="XXXX-03" mod="START">Anfang März</TIMEX3> starten, am Oberrhein und der Rhein-Neckar-Region sogar <TIMEX3 tid="t205" type="SET" freq="EVERY" value="XXXX-02" mod="START">Anfang</TIMEX3> oder <TIMEX3 tid="t206" type="SET" freq="EVERY" value="XXXX-02" mod="MID">Mitte Februar</TIMEX3>.
+
+Im <TIMEX3 tid="t207" type="DURATION" beginPoint="t304" endPoint="t305" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t208" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t209" type="DATE" value="2100">2100</TIMEX3> wäre laut der Modelle im Landesmittel ein Blühbeginn <TIMEX3 tid="t210" type="SET" freq="EVERY" value="XXXX-02" mod="START">Anfang Februar</TIMEX3> möglich und in den Niederungen <TIMEX3 tid="t211" type="SET" freq="EVERY" value="XXXX-01" mod="START">Anfang</TIMEX3> bis <TIMEX3 tid="t212" type="SET" freq="EVERY" value="XXXX-01" mod="MID">Mitte Januar</TIMEX3>.
+
+In den Hochlagen, wie dem <PLACE id="p17" type="" geo="DEBKGGND00000YKT">Schwarzwald</PLACE>, der <PLACE id="p18" type="" geo="DEBKGGND00000YGF">Schwäbischen Alb</PLACE> oder dem <PLACE id="p19" type="" geo="DEBKGGND00000YJL">Odenwald</PLACE>, könnte im <TIMEX3 tid="t213" type="DURATION" beginPoint="t310" endPoint="t311" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t214" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t215" type="DATE" value="2050">2050</TIMEX3> die Vegetationszeit <TIMEX3 tid="t216" type="DATE" value="XXXX-03" mod="END">Ende März</TIMEX3> oder <TIMEX3 tid="t217" type="DATE" value="XXXX-04" mod="START">Anfang April</TIMEX3> und in <TIMEX3 tid="t218" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> <TIMEX3 tid="t219" type="DATE" value="XXXX-03" mod="MID">Mitte März</TIMEX3> beginnen, also wie <TIMEX3 tid="t220" type="DATE" value="PRESENT_REF">heute</TIMEX3> in den niederen Lagen Baden-Württembergs.
+
+Berücksichtigt werden muss jedoch, dass der Blühbeginn vieler Pflanzen nicht nur durch die Temperatur, sondern auch durch das Licht gesteuert wird [vgl. renner und  Zohner <TIMEX3 tid="t221" type="DATE" value="2018">2018</TIMEX3>, FLynn und WoLkovich <TIMEX3 tid="t222" type="DATE" value="2018">2018</TIMEX3>], welches in der Berechnung des thermischen Index nicht berücksichtig wird.
+
+Die Verfrühung des Blühbeginns wird daher sehr wahrscheinlich ihre Grenzen haben und durch den thermischen Index überschätzt.
+
+Dennoch wird die Vegetationsperiode früher einsetzen und sich somit insgesamt verlängern.
+
+Eine solche Verfrühung birgt aber auch Risiken.
+
+So können früher blühende Pflanzen durch Spätfröste geschädigt werden.
+
+Dies wird vor allem in <TIMEX3 tid="t223" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> der Fall sein, da in diesem Zeitraum zu <TIMEX3 tid="t224" type="SET" freq="EVERY" value="P1Y" mod="START">Beginn des Jahres</TIMEX3> noch mit <TIMEX3 tid="t225" type="DURATION" value="PXD">Tagen</TIMEX3> um den Gefrierpunkt (Eis- und Frosttagen) zu rechnen ist.
+
+Weiter könnte ein früherer Blühbeginn zur Folge haben, dass lang bestehende und aufeinander abgestimmte Abfolgen zwischen Pflanzen und deren Bestäubern oder Räuber-Beute-Beziehungen gestört werden [renner und  Zohner <TIMEX3 tid="t226" type="DATE" value="2018">2018</TIMEX3>.
+
+Vor allem bei Frühjahrsblühern kann sich ein klimabedingter zeitlicher Versatz zwischen dem Öffnen der Blüten und dem Erwachen der Bienen aus der Winterruhe einstellen.
+
+Hinzu kommt, dass Bienen auch bei günstigen Witterungsverhältnissen nicht sofort ausfliegen können, da sie Zeit benötigen, um die Stärke ihres Volkes zu erhöhen.
+
+Dadurch entstehen einerseits Bestäubungsdefizite, aber auch neue Konkurrenzverhältnisse mit anderen Insektenarten (TaUTZ und heiLmann <TIMEX3 tid="t227" type="DATE" value="2007">2007</TIMEX3>, ThomSon <TIMEX3 tid="t228" type="DATE" value="2010">2010</TIMEX3>).
+
+Ferner sind auch Auswirkungen auf andere Tiere möglich, beispielsweise Vögel, die sich von Insekten ernähren und/ oder diese für die Aufzucht ihrer Jungen benötigen.
+
+Der Niederschlag im <TIMEX3 tid="t229" type="SET" freq="EVERY" value="XXXX-SP">Frühling</TIMEX3> könnte <TIMEX3 tid="t230" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> zunehmen.
+
+In <TIMEX3 tid="t231" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> bis zu 22 % und in <TIMEX3 tid="t232" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> sogar bis zu 32 %.
+
+Der meiste Niederschlag ist dabei, wie in der Vergangenheit auch, an den Berghängen des Schwarzwaldes sowie des Alpenvorraumes zu erwarten.
+
+Die <TIMEX3 tid="t233" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> <TIMEX3 tid="t234" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> in <PLACE id="p20" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> könnten sehr heiß und trocken werden: Laut der Projektionen wird die Temperatur <TIMEX3 tid="t235" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t236" type="DATE" value="2050">2050</TIMEX3> zwischen +1,0 bis 2,3 °C und in <TIMEX3 tid="t237" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> +3,2 bis 5,2 °C über den Sommertemperaturen <TIMEX3 tid="t238" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t239" type="DATE" value="2000">2000</TIMEX3> mit durchschnittlich 16,6 °C liegen.
+
+Folglich würde die Durchschnittstemperatur im ganzen Land von <TIMEX3 tid="t240" type="SET" freq="EVERY" value="XXXX-06">Juni</TIMEX3> bis <TIMEX3 tid="t241" type="SET" freq="EVERY" value="XXXX-08">August</TIMEX3> im Extremfall in <TIMEX3 tid="t242" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> fast 22 °C betragen.
+
+Mit dem Anstieg der mittleren Temperaturen nimmt auch die Anzahl der Hitze anzeigenden Kennwerte, wie <TIMEX3 tid="t243" type="DURATION" value="PXD">die Sommertage</TIMEX3> mit maximalen Temperaturen über 25  °C, zu.
+
+Es wird somit nicht nur wärmer, sondern auch heißer.
+
+Zum <TIMEX3 tid="t244" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> könnten es im Extremfall landesweit durchschnittlich <TIMEX3 tid="t245" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> 38 statt bisher <TIMEX3 tid="t246" type="DURATION" value="P5D" mod="APPROX">etwa 5 Heiße Tage</TIMEX3> mit Temperaturen von 30 °C und mehr sein.
+
+<TIMEX3 tid="t247" type="DATE" value="2003-SU">Sommer</TIMEX3> wie im <TIMEX3 tid="t248" type="DATE" value="2003">Jahr 2003</TIMEX3> mit <TIMEX3 tid="t249" type="DURATION" value="P27D">27 Heißen Tagen</TIMEX3> oder im <TIMEX3 tid="t250" type="DATE" value="2018">Jahr 2018</TIMEX3>, in dem es in <PLACE id="p21" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> an <TIMEX3 tid="t251" type="DURATION" value="P21D">21 Tagen</TIMEX3> über 30  °C wurde, wären dann nur noch unterdurchschnittlich heiße <TIMEX3 tid="t252" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3>.
+
+Es ist zu berücksichtigen, dass es sich hierbei um den 30-Jahresdurchschnitt gemittelt über das ganze Land handelt.
+
+Dies bedeutet, dass zum einen sehr viel wärmere, aber auch kühlere <TIMEX3 tid="t253" type="DURATION" value="PXY">Einzeljahre</TIMEX3> auftreten können.
+
+Zum anderen werden in einzelnen Regionen, wie dem <PLACE id="p22" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> oder der Rhein-Neckar-Region, die Anzahl <TIMEX3 tid="t254" type="DURATION" value="PXD">der Sommertage</TIMEX3> und Heißen <TIMEX3 tid="t255" type="DURATION" value="P1D">Tage</TIMEX3> sehr wahrscheinlich weit höher liegen.
+
+So könnten zum Beispiel im <PLACE id="p23" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> statt bisher an <TIMEX3 tid="t256" type="DURATION" value="P14D" mod="APPROX">ca. 14 Tagen</TIMEX3> <TIMEX3 tid="t257" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> an <TIMEX3 tid="t258" type="DURATION" value="P70D" mod="EQUAL_OR_LESS">bis zu 70 Tagen</TIMEX3> Temperaturen über 30 °C erreicht werden.
+
+Den ganzen <TIMEX3 tid="t259" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> über wäre es am Oberrhein folglich sehr heiß (vgl. Abbildung 2.6).
+
+Diese Hitzebelastung ist besonders für empfindliche Personengruppen, wie ältere Menschen, Menschen mit Vorerkrankungen oder Kleinkinder, problematisch.
+
+Zudem führt der Anstieg von Tropennächten dazu, dass es auch in der Nacht häufig nicht mehr zu einer Abkühlung kommt.
+
+Zum <TIMEX3 tid="t260" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> könnte die Anzahl von Tropennächten, also <TIMEX3 tid="t261" type="DURATION" value="PXD">Tagen</TIMEX3>, an denen das Thermometer nicht unter 20  °C fällt, sehr stark ansteigen.
+
+Regional werden wiederum der <PLACE id="p24" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> und die Rhein-Neckar-Region besonders betroffen sein.
+
+Hier könnte es in <TIMEX3 tid="t262" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> statt bisher etwa einer Tropennacht <TIMEX3 tid="t263" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> zwischen 20 und 40  Tropennächte geben.
+
+Entsprechend langandauernde Hitzebelastungen könnten dann die Folge sein.
+
+Analog zu den Sommer- und Heißen <TIMEX3 tid="t264" type="DURATION" value="PXD">Tagen</TIMEX3> werden dann auch die sogenannten <TIMEX3 tid="t265" type="DURATION" value="PXD">Kühlgradtage</TIMEX3> ansteigen.
+
+Zunächst sind <TIMEX3 tid="t266" type="DURATION" value="PXD">Kühltage</TIMEX3> <TIMEX3 tid="t267" type="DURATION" value="PXD">Tage</TIMEX3>, an denen eine Kühlung von Gebäuden nötig ist.
+
+Definitionsgemäß ist dies bei Überschreitung einer mittleren Temperatur von 18,3 °C der Fall.
+
+Zur Berechnung der <TIMEX3 tid="t268" type="DURATION" value="PXD">Kühlgradtage</TIMEX3> wird nun die Differenz zwischen der Tagesmitteltemperatur und dem Schwellenwert von 18,3 °C gebildet und diese Differenz für alle <TIMEX3 tid="t269" type="DURATION" value="PXD">Kühltage</TIMEX3> aufsummiert.
+
+Im Unterschied zu den Heißen <TIMEX3 tid="t270" type="DURATION" value="PXD">Tagen</TIMEX3> oder Tropennächten wird damit nicht nur gezählt, wie häufig ein Schwellenwert überschritten wird, sondern auch wie stark diese Überschreitung war.
+
+<TIMEX3 tid="t271" type="DURATION" value="PXD">Kühlgradtage</TIMEX3> haben die Einheit Kelvin × <TIMEX3 tid="t272" type="DURATION" value="PXD">Tage</TIMEX3>.
+
+Der Bedarf an Kühlung bzw. Klimaanlagen wird laut Auswertung der Klimamodelle <TIMEX3 tid="t273" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3>, vor allem am Oberrhein und der Rhein-Neckar-Region, stark ansteigen.
+
+In <TIMEX3 tid="t274" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> könnte sich der Kühlbedarf gemessen an den <TIMEX3 tid="t275" type="DURATION" value="PXD">Kühlgradtagen</TIMEX3> im Extremfall mehr als verdoppeln und zum <TIMEX3 tid="t276" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> sogar mehr als verfünffachen.
+
+Zusätzlich zur Hitze wird es sehr wahrscheinlich im <TIMEX3 tid="t277" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> <TIMEX3 tid="t278" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> weniger regnen: Im <TIMEX3 tid="t279" type="DURATION" beginPoint="t272" endPoint="t273" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t280" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t281" type="DATE" value="2050">2050</TIMEX3> liegt die Bandbreite bei -10 % bis +3 % und <TIMEX3 tid="t282" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t283" type="DATE" value="2100">2100</TIMEX3> bei -19 % bis +5 % des Niederschlages im <TIMEX3 tid="t284" type="DURATION" beginPoint="t277" endPoint="t278" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t285" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t286" type="DATE" value="2000">2000</TIMEX3>.
+
+Zu berücksichtigen ist dabei, dass die Entwicklung der Niederschläge räumlich sehr unterschiedlich ist.
+
+So könnte es im südlichen <PLACE id="p25" type="" geo="DEBKGGND00000YKT">Schwarzwald</PLACE> in <TIMEX3 tid="t287" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> bis zu 40 % weniger Sommerniederschlag geben als <TIMEX3 tid="t288" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t289" type="DATE" value="2000">2000</TIMEX3>.
+
+Auf der <PLACE id="p26" type="" geo="DEBKGGND00000YGF">Schwäbischen Alb</PLACE> wäre die Veränderung hingegen mit bis zu 20 % weniger Niederschlag <TIMEX3 tid="t290" type="DATE" value="2071">2071</TIMEX3> – <TIMEX3 tid="t291" type="DATE" value="2100">2100</TIMEX3> im Vergleich zum Referenzzeitraum deutlich geringer.
+
+Dadurch, dass es laut der Modelle gleichzeitig sehr viel wärmer bzw. heißer wird sowie die Vegetationsperiode früher beginnt und sich verlängert, wird zudem mehr Wasser verdunsten als in der Vergangenheit.
+
+Dies könnte insgesamt zu einem Rückgang der Wasserreserven führen.
+
+Sehr heiße und trockene Sommer könnten also in <TIMEX3 tid="t292" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> auf uns zukommen, die sowohl für die Bevölkerung als auch für die Natur und Umwelt problematisch sein werden.
+
+Die Vegetationszeit hat sich in der Vergangenheit nicht nur merklich verfrüht, sondern ist auch deutlich länger geworden.
+
+Vor allem der <TIMEX3 tid="t293" type="SET" freq="EVERY" value="XXXX-FA">Herbst</TIMEX3> setzte früher ein und endete später im <TIMEX3 tid="t294" type="SET" freq="EVERY" value="XXXX">Jahr</TIMEX3>.
+
+Die deutliche Verschiebung über viele unterschiedliche Beobachtungsstandorte und lange Zeiträume hinweg lässt sich klar auf die veränderten klimatischen Verhältnisse zurückführen.
+
+Hauptgrund ist der Anstieg der Temperatur und damit der kürzere <TIMEX3 tid="t295" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3>.
+
+Ähnlich wie beim Blühbeginn lässt sich das Vegetationsende bei den Modellauswertungen nur über die Temperatur ermitteln.
+
+Auch hierbei wurde zur Berechnung eine neue Definition nach dem European Climate Assessment und Dataset (ECA und D) verwendet.
+
+Die Vegetationszeit endet demnach sobald in <TIMEX3 tid="t296" type="SET" freq="EVERY" value="XXXX-2HY">der zweiten Jahreshälfte</TIMEX3> erstmals <TIMEX3 tid="t297" type="DURATION" value="P6D">sechs aufeinanderfolgende Tage</TIMEX3> Temperaturen unter 5  °C aufweisen [vgl. ECA und D <TIMEX3 tid="t298" type="DATE" value="2013">2013</TIMEX3>].
+
+Die Länge der Vegetationszeit ist dann der Zeitraum zwischen dem Blühbeginn und dem Ende der Vegetationsperiode.
+
+Im Zeitraum <TIMEX3 tid="t299" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t300" type="DATE" value="2000">2000</TIMEX3> lagen zwischen Beginn und Ende der Vegetationszeit <TIMEX3 tid="t301" type="DURATION" value="P239D">239 Tage</TIMEX3>.
+
+In <TIMEX3 tid="t302" type="DURATION" value="P30Y">den nächsten 30 Jahren</TIMEX3> könnte sich die Dauer der Vegetationsperiode zwischen <TIMEX3 tid="t303" type="DURATION" value="P16D">16</TIMEX3>  und <TIMEX3 tid="t304" type="DURATION" value="PXD">26  Tagen</TIMEX3> und in <TIMEX3 tid="t305" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> zwischen <TIMEX3 tid="t306" type="DURATION" value="P52D">52</TIMEX3> und <TIMEX3 tid="t307" type="DURATION" value="P69D">69 Tagen</TIMEX3> verlängern.
+
+Das Ende der Vegetationszeit bzw. der Winterbeginn könnte statt <TIMEX3 tid="t308" type="SET" freq="EVERY" value="XXXX-11" mod="START">Anfang</TIMEX3>/<TIMEX3 tid="t309" type="SET" freq="EVERY" value="XXXX-11" mod="MID">Mitte November</TIMEX3> in <TIMEX3 tid="t310" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> zwischen <TIMEX3 tid="t311" type="SET" freq="EVERY" value="XXXX-11" mod="END">Ende November</TIMEX3> und <TIMEX3 tid="t312" type="SET" freq="EVERY" value="XXXX-12" mod="START">Anfang Dezember</TIMEX3> und zum <TIMEX3 tid="t313" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> <TIMEX3 tid="t314" type="SET" freq="EVERY" value="XXXX-12" mod="END">Ende Dezember</TIMEX3> liegen.
+
+Berücksichtigt werden muss hierbei jedoch, dass für viele Pflanzen nicht nur die Temperatur, sondern auch das Sonnenlicht eine Rolle spielt [vgl. renner und Zohner <TIMEX3 tid="t315" type="DATE" value="2018">2018</TIMEX3>, FLynn und WoLkovich <TIMEX3 tid="t316" type="DATE" value="2018">2018</TIMEX3>].
+
+Eine Verschiebung der Ruhezeit bzw. <TIMEX3 tid="t317" type="SET" freq="EVERY" value="XXXX-WI">des Winters</TIMEX3> bis zum <TIMEX3 tid="t318" type="SET" value="XXXX" mod="END">Jahresende</TIMEX3> und eine Verfrühung des Blühbeginns bis in <TIMEX3 tid="t319" type="SET" freq="EVERY" value="XXXX-01">den Januar</TIMEX3>, also eine quasi durchgehende Vegetationszeit, ist somit eher unwahrscheinlich.
+
+Dennoch wird sich die Vegetationsperiode mit Anstieg der Temperatur sicherlich weiter ausdehnen und <TIMEX3 tid="t320" type="SET" freq="EVERY" value="XXXX-FA">der Herbst</TIMEX3> sich verlängern.
+
+Besonders in den niedrigeren Lagen könnten die <TIMEX3 tid="t321" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> frostfrei sein und sich die Vegetationszeit sehr weit ausdehnen.
+
+In den Hochlagen des Schwarzwaldes könnte die Vegetationsperiode so lange sein wie sie es <TIMEX3 tid="t322" type="DATE" value="PRESENT_REF">heute</TIMEX3> in den Niederungen, etwa dem <PLACE id="p27" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE>, ist.
+
+Ein wärmerer <TIMEX3 tid="t323" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> und eine längere Vegetationsperiode bergen aber auch das Risiko, dass sich wärmeliebende Pflanzenschädlinge ausbreiten und massenhaft vermehren.
+
+Dadurch könnten die Pflanzen zusätzlich zu häufiger auftretenden Sommerdürren geschwächt oder geschädigt werden [vgl. miLad et al. <TIMEX3 tid="t324" type="DATE" value="2011">2011</TIMEX3>].
+
+Hinsichtlich der herbstlichen Niederschläge gibt es keine eindeutigen Tendenzen.
+
+Es gibt sowohl Modelle, die von einer <TIMEX3 tid="t325" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Abnahme als auch Projektionen, die von einer Zunahme in <TIMEX3 tid="t326" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> ausgehen.
+
+<TIMEX3 tid="t327" type="SET" freq="EVERY" value="XXXX-WI">Der Winter</TIMEX3> wird in <TIMEX3 tid="t328" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> nicht mehr dem der Vergangenheit gleichen.
+
+Die durchschnittliche Wintertemperatur könnte im Extremfall in <TIMEX3 tid="t329" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> mit 2,8 °C mehr als viermal so hoch und in <TIMEX3 tid="t330" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> mit maximal 5,1 °C mehr als achtmal so hoch sein wie <TIMEX3 tid="t331" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t332" type="DATE" value="2000">2000</TIMEX3>.
+
+Schnee, Eis und Frost werden in <TIMEX3 tid="t333" type="DURATION" value="P30Y">den nächsten 30 Jahren</TIMEX3> immer seltener oder könnten sogar bis zum <TIMEX3 tid="t334" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> in Teilen Baden-Württembergs ganz der Vergangenheit angehören.
+
+Dies wird am starken Rückgang der Frost- (Tmin kleiner 0 °C) und <TIMEX3 tid="t335" type="DURATION" value="PXD">Eistage</TIMEX3> (Tmax kleiner 0 °C) deutlich.
+
+Frost und Minusgrade wird es dann wahrscheinlich nur noch in den Hochlagen wie dem <PLACE id="p28" type="" geo="DEBKGGND00000YKT">Schwarzwald</PLACE> geben und das, vor allem in <TIMEX3 tid="t336" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3>, nur noch sehr selten.
+
+Die Region entlang des Oberrheins und der Rhein-Neckar-Raum könnten <TIMEX3 tid="t337" type="DATE" value="20" mod="END">Ende des Jahrhunderts</TIMEX3> sogar frostfrei werden.
+
+Auch die Abnahme der <TIMEX3 tid="t338" type="DURATION" value="PXD">Heiztage</TIMEX3>, also <TIMEX3 tid="t339" type="DURATION" value="PXD">Tage</TIMEX3>, an denen die Mitteltemperatur unter 15 °C fällt und geheizt werden muss, ist eine Folge der <TIMEX3 tid="t340" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> wärmeren <TIMEX3 tid="t341" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3>.
+
+Es klingt paradox, aber dadurch, dass Pflanzen und Tiere nicht mehr durch die Mechanismen der Winterruhe geschützt sind und sich früher entwickeln bzw. aufwachen, können sie unter Umständen durch Kälte oder Nahrungsmangel geschädigt werden oder gar sterben [vgl. aBarca et al. <TIMEX3 tid="t342" type="DATE" value="2019">2019</TIMEX3>; WiLLiamS et al. <TIMEX3 tid="t343" type="DATE" value="2015">2015</TIMEX3>].
+
+Dies wird vor allem in <TIMEX3 tid="t344" type="DATE" value="FUTURE_REF">der nahen Zukunft</TIMEX3> eine Rolle spielen, in der Eis- oder <TIMEX3 tid="t345" type="DURATION" value="PXD">Frost tage</TIMEX3> sowie Spätfröste zwar selten, aber dennoch vorkommen könnten.
+
+Zudem können durch den Ausfall von Arten eingespielte Wechselbeziehungen wie das Räuber-Beute- Gefüge gestört werden.
+
+Die Niederschläge werden laut der Modelle im <TIMEX3 tid="t346" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> merklich ansteigen.
+
+Mit Ausnahme des Minimums im <TIMEX3 tid="t347" type="DURATION" beginPoint="t340" endPoint="t341" value="P30Y">Zeitraum</TIMEX3> <TIMEX3 tid="t348" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t349" type="DATE" value="2050">2050</TIMEX3> projizieren alle Modelle eine Zunahme der Niederschläge für <TIMEX3 tid="t350" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3>, die in beiden Zeiträumen im Maximum über +25 % der Niederschläge gegenüber <TIMEX3 tid="t351" type="DATE" value="1971">1971</TIMEX3>  – <TIMEX3 tid="t352" type="DATE" value="2000">2000</TIMEX3> betragen könnte.
+
+An den Berghängen des Schwarzwaldes sowie des Alpenvorraumes könnte es sogar bis zu 50 % mehr Niederschlag im <TIMEX3 tid="t353" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> geben als im <TIMEX3 tid="t354" type="DURATION" beginPoint="t347" endPoint="t348" value="P30Y">Referenzzeitraum</TIMEX3> <TIMEX3 tid="t355" type="DATE" value="1971">1971</TIMEX3> – <TIMEX3 tid="t356" type="DATE" value="2000">2000</TIMEX3>.
+
+Wahrscheinlich ist, dass die Winterniederschläge, besonders in <TIMEX3 tid="t357" type="DATE" value="FUTURE_REF">der fernen Zukunft</TIMEX3> und in den tieferen  Lagen, weniger als Schnee, sondern vermehrt als Regen fallen werden.
+
+<TIMEX3 tid="t358" type="SET" freq="EVERY" value="XXXX-WI">Die Winter</TIMEX3> könnten <TIMEX3 tid="t359" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> also kürzer, sehr viel milder und regenreicher sein.
+
+Aus den neuen Klimaleitplanken ergeben sich keine guten Aussichten für das <TIMEX3 tid="t360" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Klima Baden-Württembergs, wenn die Treibhausgasemissionen wie bisher weiter steigen (RCP 8.5).
+
+Bereits jetzt haben wir die untere Bandbreite bei der Jahresmitteltemperatur des Szenarios RCP 8.5 für die <TIMEX3 tid="t361" type="DURATION" beginPoint="t354" endPoint="t355" value="P30Y">nahe Zukunft</TIMEX3> (<TIMEX3 tid="t362" type="DATE" value="2021">2021</TIMEX3> – <TIMEX3 tid="t363" type="DATE" value="2050">2050</TIMEX3>) erreicht.
+
+
+
+
+
+</TEXT></TimeML>

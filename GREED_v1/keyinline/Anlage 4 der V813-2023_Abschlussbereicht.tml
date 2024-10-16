@@ -1,0 +1,1294 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>Anlage 4 der V813-2023_Abschlussbereicht</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-01-11" temporalFunction="false" functionInDocument="CREATION_TIME">2024-01-11</TIMEX3></DCT>
+<TEXT>Der Klimawandel und die damit zusammenhängenden Folgen gehören zu den größten globalen Herausforderungen <TIMEX3 tid="t1" type="DATE" value="20">des 21. Jahrhunderts</TIMEX3>.
+
+Um den Anstieg der Erderwärmung zu stoppen, muss der Ausstoß von Treibhausgasen drastisch reduziert werden.
+
+Betroffen sind insbesondere die Bereiche Energie, Verkehr, Industrie und Landwirtschaft.
+
+Insbesondere bei der Energieerzeugung und dem Energieverbrauch (Wärme und Strom) gibt es sehr großen Handlungsbedarf, denn fast die Hälfte des Energieverbrauchs in <PLACE id="p1" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> entfällt auf den Wärmesektor.
+
+Daher hat die Umsetzung der Wärmewende eine große Bedeutung für den Klimaschutz, das Erreichen der Klimaziele und der Treibhausgasneutralität.
+
+Die Wärmewende beschreibt den ziel- und umsetzungsorientierten Transformationsprozess zu einer klimaneutralen Versorgung mit Raumwärme, Warmwasser und Prozesswärme, der zunächst eine drastische Reduzierung des Wärmebedarfs der Gebäude erfordert.
+
+Doch auch <TIMEX3 tid="t2" type="DATE" value="FUTURE_REF">künftig</TIMEX3> werden noch erhebliche Mengen Energie für Wärme eingesetzt, die nach und nach möglichst vollständig aus verschiedenen Quellen erneuerbarer Energien und Abwärme gedeckt werden.
+
+So wird der Gebäudebestand <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> klimaneutral.
+
+Städte und Gemeinden können und müssen hier ihren wichtigen Beitrag leisten, auch weil Wärme nur eingeschränkt transportfähig ist und erneuerbare Energiepotenziale lokal gehoben werden müssen.
+
+berg (KlimaG BW) im <TIMEX3 tid="t4" type="DATE" value="2020-10">Oktober 2020</TIMEX3> wurden Stadtkreise und Große Kreisstädte verpflichtet, bis <TIMEX3 tid="t5" type="DATE" value="2023" mod="END">Ende 2023</TIMEX3> einen kommunalen Wärmeplan (KWP) zu erstellen.
+
+Mit 325.691 Einwohner:innen (Stand: <TIMEX3 tid="t6" type="DATE" value="2022-12-31">31.12.2022</TIMEX3>)2 gehört <PLACE id="p2" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> als Stadtkreis zu den Kommunen in <PLACE id="p3" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, die zur Aufstellung eines KWP verpflichtet sind, und damit zu den Vorreiterstädten im Bundesgebiet.
+
+Übergeordnetes Ziel der KWP in <PLACE id="p4" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> ist es, ein umsetzungsorientiertes Strategie- und Handlungskonzept mit dem Ziel der Klimaneutralität bis <TIMEX3 tid="t7" type="DATE" value="2040">2040</TIMEX3> zu entwickeln.
+
+Die Wärmepläne sollen dabei regelmäßig aktualisiert und fortgeschrieben werden.
+
+Die kommunale Wärmeplanung (KWP) analysiert detailliert, welche Potenziale für regenerative Energien im Stadtgebiet genutzt werden können, wo welcher Energieträger in welcher Menge im Stadtgebiet verbraucht wird und zeigt die Sanierungspotenziale im Gebäudebereich zur Senkung des Wärmeverbrauchs ebenso wie die Potenziale zur Erschließung erneuerbarer Energien und Abwärme auf.
+
+Die KWP hat drei Kernbestandteile, das Zielszenario, den Maßnahmenkatalog sowie die Festlegung von sog. Eignungsgebieten, in denen zentrale bzw. dezentrale Wärmeversorgungslösungen im Schwerpunkt zur Umsetzung des Zielszenarios vorgesehen sind.
+
+Damit stellt die KWP auch für Gebäudeeigentümer:innen und Energieversorgungsunternehmen eine wichtige Orientierung für Planungs- und Investitionssicherheit bei der Realisierung eigener (klimaneutraler) Versorgungssysteme dar.
+
+Stadtkreise und Große Kreisstädte in <PLACE id="p5" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> sind gemäß Klimaschutz- und Klimawandelanpassungsgesetz (KlimaG BW) verpflichtet, bis zum <TIMEX3 tid="t8" type="DATE" value="2023-12-31">31. Dezember 2023</TIMEX3> einen kommunalen Wärmeplan im Sinne von § 27 KlimaG BW aufzustellen.
+
+Dieser ist nach Landesrecht <TIMEX3 tid="t9" type="SET" freq="EVERY" value="P6Y" mod="EQUAL_OR_LESS">spätestens alle sieben Jahre</TIMEX3> nach der jeweiligen Erstellung unter Berücksichtigung der weiteren Entwicklungen fortzuschreiben.
+
+Das Wärmeplanungsgesetz (WPG) sieht auf Bundesebene inzwischen eine Aktualisierung <TIMEX3 tid="t10" type="SET" freq="EVERY" value="P5Y">alle fünf Jahre</TIMEX3> vor.
+
+Die zur Wärmeplanung verpflichteten Kommunen müssen die erforderlichen Daten <TIMEX3 tid="t11" type="DURATION" value="P3M" mod="EQUAL_OR_LESS">innerhalb von drei Monaten</TIMEX3> nach Fertigstellung beim zuständigen Regierungspräsidium vorlegen.
+
+Dabei sind mindestens fünf Maßnahmen zu benennen, mit deren Umsetzung innerhalb der auf die Veröffentlichung <TIMEX3 tid="t12" type="DURATION" value="P5Y">folgenden fünf Jahre</TIMEX3> begonnen werden soll.
+
+Die Regelungen enthalten darüber hinaus Vorgaben zum Schutz personenbezogener Daten und zur Öffentlichkeitsbeteiligung, wonach eine Pflicht zur frühzeitigen und fortlaufenden Beteiligung der Öffentlichkeit und von Interessengruppen sowie Vertreter:innen der Wirtschaft bei der Erstellung des kommunalen Wärmeplans besteht.
+
+Ergebnisse der Wärmeplanung sind dabei vor seinem Beschluss öffentlich auszulegen.
+
+Diese Pflichten wurden deutlich überkompensiert (vgl. Kap.
+
+1.5).
+
+Wärmeplanungsgesetz des Bundes (WPG) sierung der Wärmenetze beschlossen, mit dem die Grundlagen für die Einführung einer flächendeckenden Wärmeplanung in ganz <PLACE id="p6" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> geschaffen werden.
+
+Die Wärmeversorgung soll damit auf Treibhausgasneutralität umgestellt werden, um die Erreichung der Klimaschutzziele der Bundesregierung bis <TIMEX3 tid="t13" type="DATE" value="2045">2045</TIMEX3> im Wärmesektor zu unterstützen.
+
+Das Gesetz verpflichtet die Bundesländer dazu, sicherzustellen, dass in ihrem jeweiligen Gebiet bis zum <TIMEX3 tid="t14" type="DATE" value="2026-06-30">30.06.2026</TIMEX3> alle Großstädte mit über 100.000 Einwohner:innen bzw. bis zum <TIMEX3 tid="t15" type="DATE" value="2028-06-30">30.06.2028</TIMEX3> alle Gemeinden mit weniger als 100.000 Einwohner:innen Wärmepläne erstellen.
+
+Bereits bis <TIMEX3 tid="t16" type="DATE" value="2026-06-30">30.06.2026</TIMEX3> bzw. <TIMEX3 tid="t17" type="DATE" value="2028-06-30">30.06.2028</TIMEX3> nach Landesrecht aufgestellte kommunale Wärmepläne werden durch das Bundesgesetz anerkannt, müssen aber erst im Rahmen der Fortschreibung – <TIMEX3 tid="t18" type="SET" freq="EVERY" value="P5Y">im Zyklus von fünf Jahren</TIMEX3> – die bundesrechtlichen Regelungen erfüllen.
+
+Das Gesetz legt darüber hinaus das Ziel fest, bis zum <TIMEX3 tid="t19" type="DATE" value="2030">Jahr 2030</TIMEX3> die Hälfte der leitungsgebundenen Wärme klimaneutral zu erzeugen.
+
+Dazu sollen Wärmenetze bis <TIMEX3 tid="t20" type="DATE" value="2030">2030</TIMEX3> zu einem Anteil von 30 % und bis <TIMEX3 tid="t21" type="DATE" value="2040">2040</TIMEX3> zu 80 % mit Wärme aus erneuerbaren Energien oder aus unvermeidbarer Abwärme gespeist werden.
+
+Bereits alle ab <TIMEX3 tid="t22" type="DATE" value="2024-01">Januar 2024</TIMEX3> neu realisierten Wärmnetze müssen verpflichtend mindestens zu 65% mit erneuerbaren Energien oder Abwärme gespeist werden.
+
+Schließlich enthält das Wärmeplanungsgesetz für die Betreiber eines Wärmenetzes eine Verpflichtung zur Erstellung von Wärmenetzausbau- und Dekarbonisierungsfahrplänen.
+
+Gebäudeenergiegesetz (GEG) Mit dem seit <TIMEX3 tid="t23" type="DATE" value="2020-11">November 2020</TIMEX3> geltenden Gebäudeenergiegesetz (GEG)3 soll die Wärmewende in den Gebäuden unterstützt und erreicht werden.
+
+Das Gesetz bezieht sich auf alle Gebäude, die beheizt oder klimatisiert werden und enthält im Wesentlichen Anforderungen an die energetische Qualität von Gebäuden und an den Einsatz erneuerbarer Energien, indem es Vorgaben zur Heizungs- und Klimatechnik, zu Wärmedämmstandards, den sommerlichen Hitzeschutz von Gebäuden usw. macht.
+
+Zum Zeitpunkt der Berichterstellung wurde von der Bundesregierung eine Novellierung des GEG beschlossen, wonach ab <TIMEX3 tid="t24" type="DATE" value="2024">2024</TIMEX3> laufende Heizungen überprüft und gegebenenfalls optimal eingestellt werden sollen.
+
+<TIMEX3 tid="t25" type="DATE" value="FUTURE_REF">Künftig</TIMEX3> soll möglichst jede neu eingebaute Heizung zu mindestens 65 % mit erneuerbaren Energien betrieben werden.
+
+Dies gilt im Neubau in Neubaugebieten bereits ab <TIMEX3 tid="t26" type="DATE" value="2024-01-01">1.1.2024</TIMEX3>.
+
+Für bestehende, funktionierende Heizungen ändert sich durch das Gesetz beim Heizungstausch nichts gegenüber den vorher gültigen Regelungen.
+
+Für neue Heizungen in Bestandsgebäuden gilt eine Übergangsfrist von <TIMEX3 tid="t27" type="DURATION" value="P3Y">drei Jahren</TIMEX3>.
+
+Ist absehbar, dass das Haus an ein Wärmenetz angeschlossen werden kann, gilt eine Frist von <TIMEX3 tid="t28" type="DURATION" value="P10Y">10 Jahren</TIMEX3>.
+
+Heizungen mit fossilen Brennstoffen müssen <TIMEX3 tid="t29" type="DATE" value="2045" mod="ON_OR_BEFORE">spätestens 2045</TIMEX3> abgeschaltet werden.
+
+Zusammenhang von WPG und GEG Der Kommunale Wärmeplan stellt nach Beschluss durch den Gemeinderat ein informelles Planungskonzept dar, das keine rechtliche Bindungswirkung entfaltet.
+
+Gemäß § 26 WPG i. V. m. § 71 Abs.
+
+8 (3) GEG kann durch eine planungsverantwortliche Stelle eine Entscheidung über die Ausweisung von Gebieten zum Neu- oder Ausbau von Wärmenetzen oder als Wasserstoffnetzausbaugebiet getroffen werden, damit <TIMEX3 tid="t30" type="DURATION" value="P1M">einen Monat</TIMEX3> nach Bekanntgabe der Entscheidung die Anforderungen an Heizungsanlagen gemäß § 71 GEG anzuwenden sind.
+
+Dies sieht im Wesentlichen vor, dass mindestens 65 % der mit der Heizungsanlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme erzeugt werden.
+
+Diese Ausweisung wird aus Sicht des Gutachters empfohlen, da hierdurch auch der Zugang zu weiteren Fördermitteln für die Eigentümer:innen eröffnet werden kann.
+
+Die Bindungswirkung formal beschlossener Wärmepläne verschafft (privaten) Investor:innen Planungssicherheit.
+
+Beim kommunalen Wärmeplan handelt es sich um ein strategisches, informelles Planungsinstrument der Gemeinde, das mit einem Feststellungsbeschluss des Gemeinderats zum Abschluss des Planungsverfahrens verabschiedet wird.
+
+Mit dem Feststellungsbeschluss kommen dem Wärmeplan aber weder eine unmittelbare Außen- noch eine direkte rechtliche Bindungswirkung zu.
+
+Mittelbar kann der kommunale Wärmeplan aber bereits nach geltendem Recht zu berücksichtigen sein.
+
+So sind insbesondere die Ergebnisse und Inhalte des Wärmeplans für die Bauleitplanung abwägungsrelevant (siehe § 1 Abs.
+
+6 (7) g BauGB).
+
+Mit der <TIMEX3 tid="t31" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Möglichkeit der Entscheidung über die Ausweisung von Wärmenetz- oder Wasserstoffnetzausbaugebieten nach § 26 Abs.
+
+1 WPG sind diese sogar, hinsichtlich der dort berücksichtigten Ergebnisse des Wärmeplans, dann nicht mehr Teil der Abwägung im Bauleitplanverfahren.
+
+Auch bestehen gemäß §§ 8 Abs.
+
+2, 32 Abs.
+
+5 WPG mittelbare Außenwirkungen für die betroffenen Netzbetreiber.
+
+Im Rahmen der Erarbeitung des kommunalen Wärmeplans sind neben den klimarelevanten Gesetzen und Zielvorgaben auch die übergeordneten Planungsgrundlagen, wie der Einheitliche Regionalplan (ERP) oder der Flächennutzungsplan Heidelberg-Mannheim (FNP) sowie die wesentlichen kommunalen Klimaschutzpläne (z.
+
+B. Klimaschutz-Aktionsplan <TIMEX3 tid="t32" type="DATE" value="2030">2030</TIMEX3>) zu berücksichtigen.
+
+Klimaschutz-Aktionsplan <TIMEX3 tid="t33" type="DATE" value="2030">2030</TIMEX3> Der Klimaschutz-Aktionsplan <TIMEX3 tid="t34" type="DATE" value="2030">2030</TIMEX3> (KSAP)4 ist die zentrale, querschnittorientierte Strategie der <PLACE id="p7" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> auf dem Weg zur Klimaneutralität.
+
+Der Aktionsplan wurde im <TIMEX3 tid="t35" type="DATE" value="2022-11">November 2022</TIMEX3> vom Mannheimer Gemeinderat beschlossen und umfasst Ziele und Handlungsfelder für die Verwaltung sowie für die gesamte Stadtgesellschaft, d. h. einschließlich Unternehmen und Bürgerschaft.
+
+Insgesamt konnten im Erstellungsprozess 81 Maßnahmen in acht Handlungsfeldern erarbeitet werden, von denen 34 als TOP-Maßnahmen mit hoher Priorität identifiziert wurden.
+
+Der KSAP ist eingebettet in weitere Aktivitäten der Stadt, u. a. als Bestandteil des Prozesses zum „Local Green Deal“ (LGD), der mit der Stadtgesellschaft Antworten auf und Projekte für die Herausforderungen in Zeiten des Klimawandels und der sozialökologischen Transformation entwickelt und dabei die Ziele einer klimaneutralen, nachhaltigen, integrativen Stadt mit hoher Lebensqualität verfolgt.
+
+Der Aktionsplan enthält im Handlungsfeld „Energieproduktion“ und den Bausteinen „Stromerzeugung“, „Smart Grids“, „Dekarbonisierung der Wärmeversorgung“, „Wasserstoff“ und „Konkrete und übergreifende Maßnahmen“ Maßnahmen, die zum Ausbau der regenerativen Strom- und Wärmeversorgung und der Dekarbonisierung der Fernwärme in <PLACE id="p8" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> beitragen sollen.
+
+Neben der kommunalen Wärmeplanung, die insbesondere als Grundlage für die strategische Förderung und Beratung dienen soll, sind im Handlungsfeld „Energieproduktion“ sieben TOP-Maßnahmen definiert, die in Tabelle 1 zusammengefasst sind.
+
+Die <TIMEX3 tid="t36" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> wesentlichen Rahmenbedingungen für die Wärmeversorgung ergeben sich zum einen aus der Entwicklung der Energie- und Rohstoffpreise, der Kosten für Investitionen in Wärmeversorgungstechnologien und der Verfügbarkeit von Ressourcen (z.
+
+B. personell, materiell, finanziell, institutionell).
+
+Zum anderen wird die Entwicklung u. a. durch energie- und wärmerelevante Gesetze und Verordnungen oder die Förderkulisse von Bund und Ländern gesteuert:  Entwicklung der Fördersätze in der Bundesförderung für effiziente Gebäude (BEG) für Einzelmaßnahmen, Wohn- und Nichtwohngebäude beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) oder der Bonus für die Modernisierung der energetisch schlechtesten Gebäude („Worst Performing Buildings“-Bonus) etc.,  gesetzliche Verschärfung der Anforderungen bei Neubauten (z.
+
+B. Erneuerbare-Wärme-Gesetz BW), Pflicht zur Installation von Photovoltaik (PV) auf Dach- und Parkplatzflächen (PVPf-VO BW5) etc., Förderung zur Dekarbonisierung bestehender Wärmenetze durch Machbarkeitsstudien und Transformationspläne sowie Optimierungen; Konzeption, Planung und Umsetzung neuer Wärmenetze mit hohen Anteilen erneuerbaren Energien, inklusive kalter Nahwärme durch die Bundesförderung für effiziente Wärmenetze (BEW) bei der BAFA, Förderprogramme des Bundes zur energetischen Quartiersentwicklung und Maßnahmen zur Akteursbeteiligung und Öffentlichkeitsarbeit (KfW-Programm 432), Städtebauförderung des Bundes und des Landes; Programm für die städtebauliche Erneuerung und Entwicklung durch das Ministerium für Landesentwicklung und Wohnen, Förderschwerpunkte sind u. a. Maßnahmen zum Klimaschutz und zur Anpassung an den Klimawandel, Förderprogramm „Klimaschutz-Plus“ des Umweltministeriums des <PLACE id="p9" type="" geo="DEBKGGND00001BBR">Landes Baden-Württemberg</PLACE> zur Unterstützung von Kommunen, Unternehmen, Vereine, kirchliche Organisationen und kommunale Betriebe und zur Erfüllung der Klimaschutzziele KlimaG BW, Städtische Förderprogramme für klimaschutzrelevante Maßnahmen, z. B. für die energetische Sanierung von und für Effizienzmaßnahmen an Wohn- und Nichtwohngebäuden, der Solar-Bonus (für Kunden von MVV Solar) sowie für die Dach- und Fassadenbegrünung oder Entsiegelung von Flächen.
+
+Die Förderprogramme werden durch die Klimaschutzagentur <PLACE id="p10" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> (KSA) betreut.6 Urteil des Bundesverfassungsgerichts vom <TIMEX3 tid="t37" type="DATE" value="2023-11-15">15.11.2023</TIMEX3> Im 2.
+
+Nachtragshaushalt (<TIMEX3 tid="t38" type="DATE" value="2022-02">Februar 2022</TIMEX3>) hat die Bundesregierung 60 Milliarden Euro an Kreditermächtigungen in ein Sondervermögen (sog. „Klima- und Transformationsfonds“; KTF) verschoben, da diese Summe zur Überbrückung der „Corona-Pandemie“ – als Notsituation, die eine Ausnahme von der Schuldenbremse gem.
+
+Art.
+
+115 GG rechtfertigte – nicht mehr benötigt wurden und im Haushalt für <TIMEX3 tid="t39" type="DATE" value="2021">2021</TIMEX3> bereits verbucht waren.
+
+Mit Urteil vom <TIMEX3 tid="t40" type="DATE" value="2023-11-15">15.11.2023</TIMEX3> hat das <PLACE id="p11" type="" geo="DEBKGGND00002EWE">Bundesverfassungsgericht</PLACE> diesen 2.
+
+Nachtragshaushalt für nichtig / verfassungswidrig erklärt, weil u. a. der Zusammenhang zwischen Notsituation und Überschreitung der Kreditobergrenzen unzureichend dargelegt ist und der Grundsatz der Vorherigkeit gem.
+
+Art.
+
+110 verletzt ist.
+
+Dies hat eine Finanzierungslücke für den Wirtschaftsplan des KTF zur Folge (kleiner 60 Milliarden Euro).
+
+Der Bundesfinanzminister löschte daraufhin die Kreditermächtigungen, verhängte eine sofortige Haushaltssperre für den KTF gem.
+
+§ 41 Bundeshaushaltsordnung und kündigte die Aufstellung eines neuen Wirtschaftsplans für <TIMEX3 tid="t41" type="DURATION" value="PXY">Jahre</TIMEX3> ab <TIMEX3 tid="t42" type="DATE" value="2024">2024</TIMEX3> an.
+
+Für viele Förderausgaben bedeutet das, dass sie <TIMEX3 tid="t43" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> mit Antrags- bzw. Bewilligungsstopps gesperrt sind.
+
+Betroffen sind u. a. die kommunalen KfW-Programme Energetische Stadtsanierung 201, 202, 432 und die BAFA-Förderprogramme BEW, EEW (Energieeffizienz in der Wirtschaft), EBN und EBW (Energieberatung für (Nicht-)Wohngebäude – mit Ausnahme des BEG.
+
+Die Transformation der Wärmeversorgung zu einer klimaneutralen Wärmeversorgung und die kommunale Wärmeplanung als strategischer Steuerungsprozess sind von herausragender Bedeutung für den Klimaschutz.
+
+Jede Kommune entwickelt in ihrem kommunalen Wärmeplan einen individuellen Weg, der die spezifische städtebauliche und versorgungstechnische Ausgangssituation sowie vorhandene Potenziale, Strukturen, Prozesse und Zuständigkeiten vor Ort bestmöglich berücksichtigt.
+
+Er dient somit als strategische Grundlage und Fahrplan, um konkrete Entwicklungsziele und Handlungsmöglichkeiten aufzuzeigen und die handelnden Akteure in <TIMEX3 tid="t44" type="DURATION" value="PXY">den nächsten Jahrzehnten</TIMEX3> bei der Transformation der Wärmeversorgung zu unterstützen.
+
+„Mit der Wärmeplanung macht sich Die kommunale Wärmeplanung gliedert sich in vier wesentliche Arbeitsschritte: Zunächst wird eine Bestandsaufnahme durchgeführt, um die bestehenden Wärmeversorgungssysteme und strukturen, <TIMEX3 tid="t45" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Wärmeverbräuche, die daraus resultierenden Treibhausgas-Emissionen sowie vorhandenen Gebäudetypen und Baualtersklassen räumlich aufgelöst im Geoinformationssystem zu analysieren.
+
+Darauf folgt die Potenzialanalyse.
+
+Einerseits werden Sanierungspotenziale zur Energieeinsparung für Raumwärme, Warmwasser und Prozesswärme und andererseits Potenziale für lokal verfügbare erneuerbare Energien sowie Abwärme in der Kommune abgeschätzt und bilanziert.
+
+Auf Basis der Ergebnisse aus der Bestands- und Potenzialanalyse erfolgt die Entwicklung des klimaneutralen Szenarios, das als Zielszenario für <TIMEX3 tid="t46" type="DATE" value="2040">das Jahr 2040</TIMEX3> mit einem Zwischenschritt für <TIMEX3 tid="t47" type="DATE" value="2030">das Jahr 2030</TIMEX3> dient.
+
+Dazu gehört auch eine räumlich aufgelöste Beschreibung der dafür benötigten <TIMEX3 tid="t48" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Versorgungsstruktur im <TIMEX3 tid="t49" type="DATE" value="2040">Jahr 2040</TIMEX3> bzw. <TIMEX3 tid="t50" type="DATE" value="2030">2030</TIMEX3>.
+
+Dies gelingt im vierten Schritt durch die Ermittlung von Eignungsgebieten für eine zentrale Versorgung über Wärmenetze bzw. für eine dezentrale Einzelversorgung von Gebäuden.
+
+Für die Planung der <TIMEX3 tid="t51" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Energieversorgung sind neben den Klimaschutzzielen insbesondere die wirtschaftlichen und rechtlichen Rahmenbedingungen sowie die Gewährleistung der Versorgungssicherheit zu berücksichtigen.
+
+Neben den Eignungsgebieten beinhaltet die Handlungsstrategie – als Roadmap für die Umsetzung der Wärmewende – einen umfassend beschriebenen Maßnahmenkatalog mit Umsetzungsprioritäten für <TIMEX3 tid="t52" type="DURATION" value="PXY">die nächsten Jahre</TIMEX3>, wobei mit der Umsetzung von fünf Maßnahmen innerhalb der auf die Veröffentlichung <TIMEX3 tid="t53" type="DURATION" value="P5Y">folgenden fünf Jahre</TIMEX3> begonnen werden soll.8 Dabei ist eine enge Zusammenarbeit zwischen Verwaltung, Energieversorgern, Netzbetreibern, Bürgerschaft und weiteren relevanten Akteuren (z.
+
+B. IHK, MRN, Energieberater:innen, Schornsteinfeger:innen, Handwerkskammer) erforderlich.
+
+Der Prozess der Akteursbeteiligung lief parallel zum in nachfolgender Abbildung skizzierten Fachprozess und wird im Folgekapitel genauer beschrieben.
+
+Der kommunale Wärmeplanungsprozess wurde zum Zwecke der Akzeptanz, Transparenz und inhaltlicher Rückkopplung mit den betroffenen Akteuren von einem breiten Beteiligungsprozess auf unterschiedlichen Ebenen begleitet.
+
+Hierzu wurde im ersten Schritt ein Lenkungskreis – bestehend aus Stadtverwaltung, KSA und MVV etabliert, der als beratendes Gremium die Aufgabe hatte, inhaltliche Ergebnisse zu prüfen und mit der eigenen Strategie in Einklang zu bringen.
+
+Ziel war hierbei, alle handelnden Akteure strategisch hinter dem KWP zu vereinen, um diesen in der Folge geschlossen umsetzen zu können.
+
+Im Gemeinderat als Beschlussgremium und Vermittler zur Bürgerschaft wurden fachliche Ergebnisse über den Fortschritt des KWP ebenso wie in seinem vorberatenden Gremium – dem Ausschuss für Umwelt und Technik / Betriebsausschuss Technische Betriebe (AUT) – ordnungsgemäß präsentiert und diskutiert.
+
+Am <TIMEX3 tid="t54" type="DATE" value="2023-10-27">27.10.2023</TIMEX3> fand – über die übliche Berichterstattung in den Gremien hinaus – ein <TIMEX3 tid="t55" type="DURATION" value="PTXH">mehrstündiger</TIMEX3> Workshop mit allen Fraktionen statt.
+
+Am <TIMEX3 tid="t56" type="DATE" value="2023-11-15">15.11.2023</TIMEX3> folgte ein Informationsabend für alle Bezirksbeiräte.
+
+Die Bürgerschaft wurde mit zwei öffentlichen Informationsveranstaltungen, mit der Offenlage von Ergebnissen des KWP sowie regelmäßiger Pressearbeit über die KWP auf dem Laufenden gehalten und hatte ebenfalls mehrfach Gelegenheit inhaltliche Eingaben zu tätigen.
+
+Zudem wurden zwei Informationsveranstaltungen mit lokalen Umweltinitiativen durchgeführt.
+
+Teilnehmende im Lenkungskreis (LK) waren unter anderem: Dr. Katharina Rensing Fachbereichsleiterin Klima, Natur, Umwelt, <PLACE id="p12" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> Georg Pins Abteilungsleiter Klimaschutz, <PLACE id="p13" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> Nils Poker Projektmanager Klimaresiliente Stadt, <PLACE id="p14" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> Dominik Stroh  Projektmanager Klimaschutzmonitoring, <PLACE id="p15" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> Hendric Glatting Projektmanager Klimaneutrale Stadt, <PLACE id="p16" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> Marianne Crevon Prokuristin, Klimaschutzagentur <PLACE id="p17" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> Sebastian Bohnet Energieberater, Klimaschutzagentur <PLACE id="p18" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> Alexandra Halkenhäuser Leiterin Netzstrategie und Konzessionen, MVV Energie Marcus Adlon  Geschäftsführer, MVV Grüne Wärme Andreas Gabriel  Teamleitung Produkt- und Projektmanagement, MVV Energie Alexander Fucker Projektleiter Nachhaltige Stadtentwicklung, MVV Regioplan Darüber hinaus haben zu einzelnen Fachfragen bilaterale Gespräche mit den verantwortlichen Akteuren aus Stadtverwaltung, Energieversorgung, Dienstleistern usw. stattgefunden.
+
+Neben regelmäßigen Veröffentlichungen der <PLACE id="p19" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> zur kommunalen Wärmeplanung auf ihrer Homepage9 und im Amtsblatt hat auch der Mannheimer Morgen im Lokalteil mehrfach über den Fortschritt des fachlichen Prozesses berichtet.
+
+Gemäß den Vorschriften zum Datenschutz in § 27 Abs.
+
+5 KlimaG BW wurden in allen Darstellungen gebäudebezogene Angaben in Rastern aggregiert.
+
+Die Einteilung in Kacheln als kleinräumige Gliederung wurde nur für einzelne Baublöcke angepasst, um die geforderte Mindestanzahl von fünf Gebäuden pro Kachel sicherzustellen.
+
+Einzelne für den Schutz persönlicher Daten kritische Kacheln in Randlagen wurden in Kartendarstellungen ausgeblendet, in allen Bilanzen und Potenzial- bzw. Szenarioberechnungen jedoch berücksichtigt.
+
+Alle gebäudebezogenen Daten, wie zum Beispiel Energieverbräuche, Einschätzungen zum Sanierungspotenzial oder auch Angaben zu Heizungsanlagen pro Gebäude werden vertragsgemäß ausschließlich zum Zwecke der KWP verwendet und nach Projektende gelöscht.
+
+Die <PLACE id="p20" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE>, mit rund 326.000 Einwohnenden10 zweitgrößte Stadt Baden-Württembergs, liegt im Nordwesten des Bundeslandes unmittelbar am Dreiländereck zu <PLACE id="p21" type="" geo="DEBKGGND00001FSX">Rheinland-Pfalz</PLACE> und <PLACE id="p22" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE>.
+
+<PLACE id="p23" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> bildet neben seiner linksrheinischen Nachbarstadt <PLACE id="p24" type="" geo="DEBKGGND000019LH">Ludwigshafen am Rhein</PLACE> und der dritten Großstadt <PLACE id="p25" type="" geo="DEBKGGND00001G5Y">Heidelberg</PLACE> das wirtschaftliche und kulturelle Zentrum der Europäischen Metropolregion Rhein-Neckar.
+
+Die überregional nächstgelegenen Großstädte sind <PLACE id="p26" type="" geo="DEBKGGND00001FX6">Frankfurt am Main</PLACE>, etwa 80 km nördlich, <PLACE id="p27" type="" geo="DEBKGGND00001JIR">Karlsruhe</PLACE>, rund 65 km südlich und <PLACE id="p28" type="" geo="DEBKGGND00001CZV">Stuttgart</PLACE>, etwa 135 km südöstlich.
+
+Auf der Verwaltungsebene bildet <PLACE id="p29" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> einen eigenen Stadtkreis innerhalb der Region des Raumordnungsverbandes Rhein-Neckar.
+
+Naturräumlich liegt <PLACE id="p30" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> in der Oberrheinischen Tiefebene am Mündungsdreieck von <PLACE id="p31" type="" geo="DEBKGGND0000203T">Rhein</PLACE> und <PLACE id="p32" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> zwischen dem <PLACE id="p33" type="" geo="DEBKGGND00000YJL">Odenwald</PLACE> im Osten und dem Pfälzer Wald im Westen.
+
+Gemäß Landesentwicklungsplan (LEP) <TIMEX3 tid="t57" type="DATE" value="2002">2002</TIMEX3> bildet <PLACE id="p34" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> mit <PLACE id="p35" type="" geo="DEBKGGND000019LH">Ludwigshafen</PLACE> ein oberzentrales Doppelzentrum im grenzüberschreitenden Verdichtungsraum Rhein-Neckar, das Ausgangspunkt einzelner Landesentwicklungsachsen nach <PLACE id="p36" type="" geo="DEBKGGND00001CNA">Darmstadt</PLACE> (<PLACE id="p37" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE>), <PLACE id="p38" type="" geo="DEBKGGND00001G5Y">Heidelberg</PLACE> und <PLACE id="p39" type="" geo="DEBKGGND00003EQB">Schwetzingen</PLACE>(-<PLACE id="p40" type="" geo="DEBKGGND00001H2C">Karlsruhe</PLACE>) ist.
+
+Gemäß des seit <TIMEX3 tid="t58" type="DATE" value="2014">2014</TIMEX3> rechtsverbindlichen Einheitlichen Regionalplan Rhein-Neckar <TIMEX3 tid="t59" type="DATE" value="2020">2020</TIMEX3> (ERP), der sich an den Leitsätzen und Zielen des Landesentwicklungsplanes ausrichtet, hat <PLACE id="p41" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> in der Funktion als Oberzentrum (bzw. als Teil des Doppelzentrums) die Aufgabe, die gesamte Region mit hochqualifizierten Leistungen im sozialen, wirtschaftlichen, kulturellen und wissenschaftlichen Bereich zu versorgen.
+
+Für die Bestandsanalyse werden die Siedlungsbereiche in <PLACE id="p42" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> in (sinnvolle) Teilgebiete gegliedert, um eine effiziente, strategische Bearbeitung zu ermöglichen.
+
+Ziel ist eine räumlich aufgelöste Beschreibung der <TIMEX3 tid="t60" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Wärmeversorgungssituation in <PLACE id="p43" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE>.
+
+Die <PLACE id="p44" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> gliedert sich in 17 Stadtbezirke bzw. 38 Stadtteile und erstreckt sich von <PLACE id="p45" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE> im Norden nach <PLACE id="p46" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> und <PLACE id="p47" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE> im Süden, sowie östlich des Rheins von Neckarstadt, Innenstadt und <PLACE id="p48" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> im Westen nach <PLACE id="p49" type="" geo="DEBKGGND00000AK1">Wallstadt</PLACE> im Osten (vgl. Abbildung 3).
+
+<PLACE id="p50" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> hat eine Fläche von 144,96 km², die sich auf ca. 42 % Siedlungsfläche, 16,5 % Verkehrsfläche, 36,5 % Vegetationsfläche (Landwirtschaft und Wald-/Gehölzfläche) sowie 5 % Gewässerfläche verteilt.11 Die Einwohnerzahl beträgt <TIMEX3 tid="t61" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> knapp 326.000 (Stand: <TIMEX3 tid="t62" type="DATE" value="2022-12-31">31.12.2022</TIMEX3>) und ist in <TIMEX3 tid="t63" type="DURATION" beginPoint="t63" endPoint="t61" value="P20Y">den letzten zwanzig Jahren</TIMEX3><TIMEX3 tid="t64" type="DATE" value="2003"></TIMEX3> um fast 10 % gestiegen.
+
+In jüngster Zeit verzeichnete <PLACE id="p51" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> seit <TIMEX3 tid="t65" type="DATE" value="2020">2020</TIMEX3> einen Zuwachs von rund 5.000 Einwohnern.
+
+Neben der Zuwanderung ist diese Entwicklung vor allem auf die Umnutzung der Konversionsflächen in Wohnquartiere nach Abzug der amerikanischen Streitkräfte zurückzuführen, insbesondere seit <TIMEX3 tid="t66" type="DATE" value="2018">2018</TIMEX3> im Stadtteil Franklin (Stadtbezirk <PLACE id="p52" type="" geo="DEBKGGND00000VKV">Käfertal</PLACE>), wo sich die Bevölkerung allein von <TIMEX3 tid="t67" type="DATE" value="2020">2020</TIMEX3> bis <TIMEX3 tid="t68" type="DATE" value="2022">2022</TIMEX3> um ca. 3.500 erhöht hat.
+
+Die <TIMEX3 tid="t69" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Bevölkerungsprognose <TIMEX3 tid="t70" type="DATE" value="2023">2023</TIMEX3> für <TIMEX3 tid="t71" type="DURATION" beginPoint="t69" endPoint="t71" value="P20Y">die nächsten 20 Jahre</TIMEX3> (bis <TIMEX3 tid="t72" type="DATE" value="2042">2042</TIMEX3>) erwartet für <PLACE id="p53" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> einen weiteren Bevölkerungszuwachs um rund 3,7 %, am stärksten in Franklin, wo prognostiziert wird, dass die Bevölkerung bis dahin um etwa 40 % wachsen wird.
+
+Die Stadtentwicklung Mannheims begann im Wesentlichen mit der planmäßigen, anhand eines auf dem Reißbrett entworfenen Idealplans mit ebenmäßigen, quadratischen Bau- und Häuserblöcken zu <TIMEX3 tid="t73" type="DATE" value="16" mod="START">Beginn des 17. Jahrhunderts</TIMEX3>, dessen Grundriss („Quadratestadt”) weitgehend erhalten ist und <TIMEX3 tid="t74" type="DATE" value="PRESENT_REF">heute</TIMEX3> das Hauptgeschäftszentrum Mannheims bildet.
+
+Die Innenstadt weist eine dichte Blockrandbebauung auf, die durch Quer- und Ringstraßen durchzogen und eingefasst wird.
+
+Um die historische Innenstadt grenzen mit Jungbusch, <PLACE id="p54" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE> und -Ost, Ost- und <PLACE id="p55" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE> sowie <PLACE id="p56" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE> mehrere innere Stadtbezirke an, die gegen <TIMEX3 tid="t75" type="DATE" value="18" mod="END">Ende des 19. Jahrhunderts</TIMEX3> als gründerzeitliche Wohnquartiere mit dichter Blockrandbebauung angelegt oder erweitert wurden.
+
+Im Zuge der rasanten industriellen Entwicklung Mannheims ab <TIMEX3 tid="t76" type="DATE" value="18" mod="MID">Mitte</TIMEX3>/<TIMEX3 tid="t77" type="DATE" value="18" mod="END">Ende des 19. Jahrhunderts</TIMEX3> entstanden weitere Wohnsiedlungen im Umfeld der Industrie- und Hafenanlagen, z. B. <PLACE id="p57" type="" geo="DEBKGGND00000GF9">Waldhof</PLACE>, <PLACE id="p58" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> oder <PLACE id="p59" type="" geo="DEBKGGND00001D3U">Schönau</PLACE>.
+
+Diese Stadtteile sind als typische Arbeiterwohnsiedlungen durch genossenschaftliche Mehrfamilienhausbebauung in Zeilen- oder Reihenhausform geprägt.
+
+<TIMEX3 tid="t78" type="DATE" value="18" mod="END">Ende des 19. Jahrhunderts</TIMEX3> und im <TIMEX3 tid="t79" type="DATE" value="19" mod="START">ersten Drittel des 20. Jahrhunderts</TIMEX3> folgten mehrere Eingemeindungen ehemals selbstständiger Gemeinden, wie z. B. <PLACE id="p60" type="" geo="DEBKGGND00000VKV">Käfertal</PLACE>, <PLACE id="p61" type="" geo="DEBKGGND00000NFK">Seckenheim</PLACE>, <PLACE id="p62" type="" geo="DEBKGGND000007T4">Feudenheim</PLACE>, <PLACE id="p63" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE>, <PLACE id="p64" type="" geo="DEBKGGND00000AK1">Wallstadt</PLACE> oder <PLACE id="p65" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE>.
+
+Die Stadtteile weisen in der Regel einen kleinteiligen und gewachsenen Ortskern mit historischem Bau- und Wohnbestand sowie Wohngebietserweiterungen ab der Zwischenkriegszeit auf.
+
+Ab <TIMEX3 tid="t80" type="DATE" value="196">den 1960erJahren</TIMEX3> erfolgten weitere größere Siedlungsentwicklungen, wie zum Beispiel der Stadtteil <PLACE id="p66" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE>, der als Großwohnsiedlung mit einer hohen Bevölkerungsdichte angelegt wurde.
+
+Die Gewerbe- und Industriegebiete, die in <PLACE id="p67" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> mit rund 20,4 km² gut ein Drittel der Siedlungsfläche ausmachen, liegen vor allem im Bereich der Rheinhäfen im Süden (<PLACE id="p68" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE>) und nordwestlich der Innenstadt (<PLACE id="p69" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE>, Jungbusch, <PLACE id="p70" type="" geo="DEBKGGND00000GF9">Waldhof</PLACE>) sowie verkehrsgünstig zu den Autobahnen im Norden (<PLACE id="p71" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE>), zentral (<PLACE id="p72" type="" geo="DEBKGGND00005CY9">Neuostheim</PLACE>) oder im Süden (<PLACE id="p73" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE>).
+
+Baualtersklassen und Stockwerke Die Stadtentwicklung und Stadtstruktur Mannheims spiegelt sich weitgehend auch in der Verteilung der Baualtersklassen wider, die in Abbildung 4 dargestellt ist.
+
+Die Daten stammen aus den Zensus-Erhebungen <TIMEX3 tid="t81" type="DATE" value="2011">2011</TIMEX3>.
+
+Kleinere Datenlücken wurden teilweise mit Interpolationen ergänzt.
+
+Insgesamt werden 39.374 Gebäude auf Mannheimer Gemarkung betrachtet.
+
+Rund ein Drittel des Gebäudebestandes ist vor dem 2.
+
+Weltkrieg entstanden, darunter z. B. die Zentren von <PLACE id="p74" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE>, <PLACE id="p75" type="" geo="DEBKGGND00000VKV">Käfertal</PLACE>, <PLACE id="p76" type="" geo="DEBKGGND000007T4">Feudenheim</PLACE> und <PLACE id="p77" type="" geo="DEBKGGND00000NFK">Seckenheim</PLACE>.
+
+43 % der Gebäude Mannheims ist in der Nachkriegszeit im Zuge des Wiederaufbaus und der verschiedenen Siedlungserweiterungen gebaut worden.
+
+Etwa 20 % des Siedlungsbestandes ist nach Inkrafttreten der ersten Wärmeschutzverordnung (<TIMEX3 tid="t82" type="DATE" value="1979" mod="ON_OR_AFTER">ab 1979</TIMEX3>) entstanden.
+
+Nicht in den Statistiken der Abbildung 5 enthalten sind jüngste Neubau-Entwicklungen wie z. B. in Franklin.
+
+Hinsichtlich der Geschossigkeit der Gebäude im Mannheimer Siedlungsbereich, die ebenfalls den Zensusdaten entnommen sind, überwiegen die zwei- und dreigeschossigen Gebäude mit gemeinsam etwa zwei Dritteln des Gebäudebestandes.
+
+Auch viergeschossige Gebäude nehmen mit etwa 12 % einen bemerkenswerten Anteil ein.
+
+Gebäude mit 5, 6 oder mehr Geschossen bilden ca. 6 % des Gebäudebestands und befinden sich z. B. im Bereich von Zeilenbebauung in Schönau-Nord und dem Nordwesten Feudenheims.
+
+Zudem verfügen weite Teile der Innenstadt und beispielsweise Bereiche der Oststadt und der <PLACE id="p78" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE> über Gebäude mit 5 oder mehr Stockwerken.
+
+56 Gebäude, insbesondere der Großsiedlungen im Herzogenried oder auf der <PLACE id="p79" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE> haben 10 oder mehr Stockwerke.
+
+Denkmalschutz Die vom städtischen Fachbereich Geoinformation und Stadtplanung zur Verfügung gestellten Daten beinhalten 2.198 Gebäude, zu denen das Schloss, Kirchen, Verwaltungsbauten, Villen und Wohnhäuser, aber auch Industrie- und Technikgebäude zählen.
+
+Dies entspricht einem denkmalgeschützten Gebäudebestand von ca. 5,5 %, die mit Blick auf energetische Sanierungen der Gebäudehüllen deutlich geringere Sanierungspotenziale aufweisen (vgl. Kap.
+
+3.1) und gemäß § 105 GEG bei der Einsparung von Energie und der Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung auf Grund der Abwägung mit dem Denkmalschutz eine Sonderrolle einnehmen.
+
+Der Wärmeplan wurde in Verbindung mit einem Geoinformationssystem (GIS) erstellt.
+
+MVV Regioplan nutzte hierfür das Open-Source-GIS QGIS in der <TIMEX3 tid="t83" type="DATE" value="PRESENT_REF">aktuellsten</TIMEX3> Version.
+
+Dabei wurden insbesondere bereits georeferenzierte Daten der Stadt zum Gebäudebestand mit Angaben zu den Verbräuchen leitungsgebundener Energieträger sowie Daten aus dem elektronischen Kehrbuch der Schornsteinfeger:innen zu Feuerstellen im Stadtgebiet aufbereitet, miteinander verschnitten und ggf. weiter ergänzt.
+
+Unter Beachtung des Datenschutzes wurden adressbezogene Daten, insbesondere Verbrauchsangaben oder Daten aus Kehrbüchern der Schornsteinfeger:innen, für die Auswertung und Darstellung zusammengefasst.
+
+Alle Daten, die unter die Datenschutzbestimmungen fallen, werden nach Abschluss des Projektes gelöscht.
+
+Geliefert werden für die kommunale Wärmeplanung vorrangig folgende Daten: Digitales Stadtmodell, Basisdaten Gebäude Verbrauchsdaten Netzdaten o Hauskoordinaten mit Zuordnung von Adressen o ALKIS Datensatz der <PLACE id="p80" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> mit z. B. Nutzungsart, Grundflächen, usw. o Fernwärmeverbräuche  o Gasverbräuche  o Stromverbräuche zur Beheizung von Gebäuden (Heizstrom) o Art, Brennstoff und Heizleistung der Feuerstätten (elektronisches Kehrbuch) o Gas- und Stromnetze o Fernwärmenetze o Abwasserkanalsystem Erzeugerdaten Die Bestandsanalyse liefert die Berechnungsgrundlage auf Basis der Ist-Situation.
+
+Alle vorliegenden Informationen werden in einer Art „digitaler Zwilling“ zusammengefasst und für die weitere Verarbeitung und Analyse vorbereitet.
+
+Adresskorrekturen und Umrechnung auf Gebäudeebene Die Verbrauchsdaten für Fernwärme, Gas und Heizstrom werden im Regelfall ebenso wie die Leistungsdaten der Schornsteinfeger:innen adressbezogen zur Verfügung gestellt.
+
+Die Adressbezeichnungen der Energiedatenlieferanten unterscheiden sich mitunter erheblich von denen, die seitens der Stadt im ALKIS geführt werden, so dass ein Abgleich nicht ohne weiteres funktioniert.
+
+Daten, die lediglich durch Adresszusätze, Leerzeichen etc. voneinander abweichen, werden fehlerkorrigiert, um sie danach gebäudescharf ins GIS zu übertragen.
+
+Wenige Adressen sind jedoch nicht gebäudescharf zuordenbar und können daher nicht dargestellt werden.
+
+Sie werden in einem sog. „Fehlerlayer“ zugeordnet, der im weiteren Verlauf lediglich rechnerisch Berücksichtigung findet.
+
+Hochrechnung nichtleitungsgebundener Verbräuche mit Vollbenutzungsstunden Da für den Energieträger Gas sowohl die Leistungsdaten aus dem elektronischen Kehrbuch als auch der <TIMEX3 tid="t84" type="SET" freq="EVERY" value="P1Y">jährliche</TIMEX3> Verbrauch über die Versorgungsdaten vorliegen, ist es möglich Vollbenutzungsstunden für den Energieträger Gas zu errechnen, die sich nach Art der Feuerstätte und Gebäudetyp unterschieden.
+
+Die Abschätzung der Vollbenutzungsstunden geschieht auf Nutzenergiebasis.
+
+Zur Umrechnung von End- auf Nutzenergie kommen die in der folgenden Tabelle dargestellten Wärmewirkungsgrade zum Einsatz.
+
+o Heizzentralen o Erneuerbare und KWK-Anlagen o Beschlossene / in Entwicklung befindliche Projekte der Wärmeversorgung Mit Hilfe errechneter <TIMEX3 tid="t85" type="DURATION" value="PTXH">Vollbenutzungsstunden</TIMEX3> können dann auch Leistungsdaten der nicht leitungsgebundenen Energieträger wie bspw. Heizöl oder Biomasse zu realistischen <TIMEX3 tid="t86" type="DURATION" value="P1Y">Jahresverbräuchen</TIMEX3> hochgerechnet werden.
+
+Für Gebäude, bei denen mehrere Heizarten nur als Zusatzheizung zu einer anderen Heizart angegeben sind, wird angenommen, dass bspw. Holz für die Befeuerung eines Kaminofens genutzt wird.
+
+Berechnung der Wärmeverbrauchsdichte Die Berechnung und Darstellung der Wärmeverbrauchsdichtekarten erfolgt vollständig im GIS.
+
+Für die Berechnung der Wärmeverbrauchsdichte wurde ein QGIS-Plugin entwickelt, das mit Python programmiert wurde.
+
+Zusammen mit den Hauskoordinaten der <PLACE id="p81" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> konnte so eine umfassende Datenbank für Wärmeenergieverbräuche erstellt werden.
+
+Die Nutzenergie(n) (in kWh/<TIMEX3 tid="t87" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>) der Energieträger, die für alle Gebäude vorliegen,13, wurden in den Gebäudepolygonen aus den ALKIS-Daten der <PLACE id="p82" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> ergänzt.
+
+Für die Darstellung der Wärmeverbrauchsdichte wurde eine Kachel-Darstellung, mit den Maßen von 75 m x 75 m gewählt.
+
+Daraus resultiert für jede Kachel eine flächenbezogene Wärmeverbrauchsdichte, der innerhalb der Kachel verbrauchten Wärmeenergie.
+
+Ballungen hoher Verbräuche können auf diese Weise deutlich gegen Bereiche mit geringen Verbräuchen umrissen werden.
+
+Die Ergebnisse werden in Kap.
+
+0 beschrieben.
+
+Berechnung der Wärmeliniendichte Die Wärmeliniendichte wurde unter Nutzung des Plugins ebenfalls im GIS errechnet und dargestellt.
+
+Das relevante Straßennetz, das als Projektionsfläche für mögliche Trassenverläufe für Wärmenetze dienen soll, wurde aus öffentlichen Daten (OpenStreetMap) erzeugt.
+
+Dabei ist zu beachten, dass nicht alle in OpenStreetMap zur Verfügung gestellten Straßenzüge für die Verlegung von Wärmenetzen geeignet sind, so dass eine Auswahl der relevanten Straßen für <PLACE id="p83" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> getroffen werden musste.
+
+Der auf die Straßenzüge projizierte Wärmeverbrauch wurde wiederrum aus der Wärmeverbrauchsdatenbank bereitgestellt.
+
+Dargestellt werden die Daten in Kilowattstunden pro (Trassen)Meter <TIMEX3 tid="t88" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> (kWh/m*<TIMEX3 tid="t89" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>).
+
+Die Stockwerkzahl der Gebäude sowie das Baualter der Gebäude sind wichtige Kriterien, die für Analysen im Rahmen der KWP gebraucht werden: ersteres bspw. zur Berechnung der Energiebezugsflächen, letzteres zur Berechnung des energetischen Sanierungspotenzials der Gebäudehülle bis <TIMEX3 tid="t90" type="DATE" value="2040">2040</TIMEX3>.
+
+Diese Informationen werden aus öffentlichen Daten (Zensus und/oder OSM) erhoben.
+
+Es ist zu erwähnen, dass nicht für jedes Gebäude immer zwingend beide Informationen vorliegen.
+
+Ggfs.
+
+kann es auch zu Interpolationen kommen, bspw. wenn für ein Gebäude keine Stockwerkzahl vorliegt, jedoch alle umliegenden Gebäude eine Stockwerkzahl zugewiesen haben.
+
+In diesem Falle wird dem Gebäude ohne Stockwerkzahl durch Interpolation der Stockwerkzahlen der Nebengebäude eben diese zugewiesen.
+
+Im Falle der Kommunalen Wärmeplanung in <PLACE id="p84" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> konnten ca. 94 % der Gebäude eine Stockwerkzahl zugewiesen werden.
+
+Alle weiteren Informationen zur den Stockwerkzahlen wurden durch einen Pythongestützten Algorithmus interpoliert.
+
+Bei den Baualtersklassen konnten knapp 97 % aller Gebäude ein Wert zugeordnet werden (vgl. a. Kap.
+
+2.1).
+
+Das GEG14 sieht in § 72 ein Betriebsverbot für ineffiziente, fossil beschickte Heizungen vor, die ihre technische Nutzungsdauer überschritten haben.
+
+Im Gesetzestext heißt es: Für die Praxis bedeutet das, dass fossil beschickte Konstanttemperaturkessel, die älter als <TIMEX3 tid="t91" type="DATE" value="1991">1991</TIMEX3> sind oder die <TIMEX3 tid="t92" type="DATE" value="1991" mod="AFTER">nach 1991</TIMEX3><TIMEX3 tid="t93" type="DURATION" value="P30Y" mod="MORE_THAN"> über 30 Jahre</TIMEX3> in Betrieb waren, auszutauschen sind.
+
+Mit Hilfe der für die kommunale Wärmeplanung zur Verfügung stehenden Datenbestände aus dem elektronischen Kehrbuch der Schornsteinfeger:innen lassen sich Aussagen zum Energieträger und dem Alter der vorhandenen Heizungsanlagen treffen.
+
+In <PLACE id="p85" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> sind in Summe 66.410 Heizungen verbaut.
+
+Nachdem für alle Gebäude, die über mehr als einen Heizungstypen (bspw. Kaminofen) verfügen, der Energieträger mit dem höheren Verbrauch bestimmt wurde, ergibt sich folgende Verteilung der Hauptenergieträger in <PLACE id="p86" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE>.
+
+50 % der Gebäude nutzen demnach vorwiegend fossile Brennstoffe (insb.
+
+Erdgas und Heizöl), was den Transformationsbedarf in den Heizungskellern verdeutlicht.
+
+Fernwärmeversorgt sind 46 % der Gebäude.
+
+Elektrische Widerstandsheizungen bzw. Stromdirektheizungen sind noch in 2 % der Gebäude vorhanden und Biomasse wie bspw. Holz(pellets) sind mit 2 % sowie Wärmepumpen sind <TIMEX3 tid="t94" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> noch eher Nischentechnologien.
+
+Die Auswertung von Baualtersklassen der Heizkessel, die gem.
+
+§ 72 GEG relevant sind, zeichnet - unterteilt nach Brennstoffen – folgendes Bild: Erdgas ist unter den „Verbrennertechnologien“ mit knapp 58 % vorherrschender fossiler Energieträger.
+
+Ca.
+
+13 % der Heizkessel sind <TIMEX3 tid="t95" type="DATE" value="1991" mod="BEFORE">vor 1991</TIMEX3> eingebaut worden, sind also bereits deutlich <TIMEX3 tid="t96" type="DURATION" value="P30Y" mod="MORE_THAN">über 30 Jahre</TIMEX3> in Betrieb.
+
+Beim Heizöl trifft dieser Befund sogar auf 21 % der Heizkessel zu.
+
+Darüber hinaus nutzen diese Anlagen auch den Brennwert des Brennstoffs nicht, der sich als Kondensationswärme im Abgas befindet.
+
+In geringeren Abgastemperaturen schlummern Effizienzgewinne von rund 10 %.
+
+Eine Unterscheidung zwischen Konstant- und Niedertemperaturkesseln ist auf Basis der Daten im elektronischen Kehrbuch allerdings nicht möglich.
+
+Dennoch ist bei rund 15 % der fossil befeuerten Heizkessel von Betroffenheit durch das GEG-Betriebsverbot auszugehen.
+
+Unabhängig davon, besteht bei diesen ein sehr hohes Potenzial in der Effizienz der Anlagentechnik, das es zu heben gilt.
+
+Die höchsten Anteile des Mannheimer Wärmeverbrauchs werden mit Fernwärme und Erdgas gedeckt.
+
+Die Fernwärme wird vom <PLACE id="p87" type="" geo="DEBKGGND00002G80">Großkraftwerk Mannheim</PLACE> und von der Abwärme des Kraftwerks zur thermischen Abfallverwertung in <PLACE id="p88" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> sowie der Flusswärmepumpe auf dem Gelände des <PLACE id="p89" type="" geo="DEBKGGND00002G80">Großkraftwerks Mannheim</PLACE> erzeugt.
+
+Das Großkraftwerk ist ein Gemeinschaftskraftwerk der RWE Generation SE, der EnBW Energie <PLACE id="p90" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> AG und der MVV RHE GmbH.
+
+Es befindet sich am <PLACE id="p91" type="" geo="DEBKGGND0000203T">Rhein</PLACE> in <PLACE id="p92" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE>, südwestlich der Casterfeldstraße.
+
+Als Brennstoffeinsatz dient Steinkohle und die Fernwärmeerzeugung erfolgt ausschließlich mit Kraft-Wärme-Kopplung.
+
+Das Kraftwerk zur thermischen Abfallverwertung, das von der MVV Umwelt Asset GmbH betrieben wird, befindet sich auf der Friesenheimer Insel und setzt überwiegend Hausmüll und teils Müll aus Industriebetrieben ein.
+
+Die Verteilung der Fernwärmeanschlüsse und des Fernwärmeverbrauchs auf der Gemarkung <PLACE id="p93" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> wird in der Abbildung 11 dargestellt.
+
+Die Bezirke Innenstadt/Jungbusch, <PLACE id="p94" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE>/Oststadt, <PLACE id="p95" type="" geo="DEBKGGND00005CYA">Neckarstadt-Ost</PLACE>, <PLACE id="p96" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> und <PLACE id="p97" type="" geo="DEBKGGND00000VKV">Käfertal</PLACE> und haben die höchsten Anschlussquoten.
+
+Die Verteilung der Gasanschlüsse und des Gasverbrauchs wird in der Abbildung 12 dargestellt.
+
+Die genaue Verteilung der einzelnen Energieträger wird im nächsten Kapitel bilanziert.
+
+Die Ausgangssituation in <PLACE id="p98" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> soll im Folgenden mit Hilfe einer Energie- und Treibhausgasbilanz beurteilt werden.
+
+Hierfür müssen zum einen der Wärmeverbrauch und zum anderen die Treibhausgas-Emissionen im Wärmebereich ermittelt werden.
+
+Im Wesentlichen wurden die Verbrauchswerte in Summe bilanziert und mit den CO2-Emissionsfaktoren des Technikkatalogs der KEA-BW aufgerechnet.
+
+CO2-Äquivalente und Vorketten der Energieträgerbereitstellung sind hierbei berücksichtigt.
+
+Der für <TIMEX3 tid="t97" type="DATE" value="2020">das Jahr 2020</TIMEX3> gültige Emissionsfaktor für die Fernwärme liegt vor und wurde in den weiteren Berechnungen verwendet.
+
+Der gesamte Nutzenergieverbrauch in <PLACE id="p99" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> beträgt rund 3.288 Gigawattstunden (GWh).
+
+Nutzenergie bezeichnet den Anteil der eingesetzten Energie, die tatsächlich im Gebäude als Wärme genutzt wird.
+
+Das heißt, sie stellt die ins Gebäude gelieferte Endenergie abzüglich der gebäudeinternen Verluste im Heizungssystem dar.
+
+Abbildung 13 zeigt die Nutzenergiebilanz der <PLACE id="p100" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> für <TIMEX3 tid="t98" type="DATE" value="2020">das Jahr 2020</TIMEX3> – ohne den Sektor Industrie, dessen Nutzenergieverbrauch bei rund 800 GWh liegt.
+
+Der Anteil der Fernwärme im <TIMEX3 tid="t99" type="DATE" value="2020">Jahr 2020</TIMEX3> belief demnach auf rund 54 % und der von Erdgas rund 27 %.
+
+Heizöl kommt auf knapp 10 %.
+
+Die Stromdirektheizung trägt einen Anteil von rund 3 %.
+
+Erneuerbare Technologien, wie Biomasse und Luft-Wärmepumpe kommen zusammen auf unter 2 % der Nutzenergiebilanz.
+
+Ergänzend sei erwähnt, dass die Klassifizierung einzelner Heizungen durch die Schornsteinfeger:innen und deren Einordnung auf Grundlage des KEA-Technikkatalogs nach der Hochrechnung mit den angenommen Vollbenutzungsstunden zu einer Verzerrung des Verbrauchs sonstiger fossiler Energien geführt haben könnte, die im Zweifel in einer geringfügigen Erhöhung des Gesamtwärmeverbrauchs resultiert.
+
+Weitere Technologien wie Sole-Wärmepumpen, Solarthermie oder synthetische Brennstoffe bzw. Wasserstoff (H2) haben im <TIMEX3 tid="t100" type="DATE" value="2020">Jahr 2020</TIMEX3> keinen nennenswerten Anteil am Gesamtnutzenergieverbrauch.
+
+Eine Prognose, inwieweit diese Technologien am Wärme-Mix in <TIMEX3 tid="t101" type="DATE" value="2030">den Jahren 2030</TIMEX3> und <TIMEX3 tid="t102" type="DATE" value="2040">2040</TIMEX3> zum klimaneutralen Zielszenario beitragen können, werden im Kap.
+
+4.2 behandelt.
+
+Die Abbildung 14 zeigt den gesamten Endenergieverbrauch in kWh/<TIMEX3 tid="t103" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> für alle 57 Eignungsgebiete in <PLACE id="p101" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> (vgl. a. Kap.
+
+4.1), gegliedert nach den jeweils vorherrschenden Energieträgern.
+
+In Summe wurden im <TIMEX3 tid="t104" type="DATE" value="2020">Jahr 2020</TIMEX3> ca. 3.577 GWh verbraucht.
+
+Das sind 289 GWh (ca. 8 % der Endenergie) mehr als in der Nutzenergiebilanz, die den Wärmeverlusten von Heizung und Wärmeverteilung im Gebäude entsprechen, die bei der Raumwärme- und Warmwasserbereitung entstehen.
+
+In den Säulen werden die Endenergieverbräuche der Eignungsgebiete nach den einzelnen Versorgungstechnologien bzw. Energieträger dargestellt.
+
+Die primären Versorgungstechnologien, im <TIMEX3 tid="t105" type="DATE" value="2020">Jahr 2020</TIMEX3>, über alle Eignungsgebiete insgesamt, sind Erdgas und Fernwärme.
+
+Untergeordnet kommen Heizöl, sonstige fossile Energieträger (wie bspw. Flüssiggas) sowie vereinzelt bereits erneuerbare Energieträger bzw. technologien wie Luft- und Abwasser-Wärmepumpen, Biomasse, Solarthermie zum Einsatz.
+
+Das Gebiet „Fehlerlayer“ umfasst alle Verbrauchsdaten, die zwar verbraucht worden sind, aber nicht räumlich zugeordnet werden konnten.
+
+Auffällig sind die verbrauchsstärksten Stadtgebiete in <PLACE id="p102" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE>.
+
+Das Gewerbegebiet <PLACE id="p103" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE>, die Innenstadt, der <PLACE id="p104" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE>, die Oststadt und Wohlgelegen weisen jeweils einen Endenergieverbrauch über 150.000 MWh auf.
+
+Im Gewerbegebiet <PLACE id="p105" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE> ist ein industrieller Großverbraucher ansässig, der den hohen Energieverbrauch erklärt.
+
+Über die Hälfte der in diesem Gebiet genutzten Energie kommt aus der Fernwärme, gefolgt von Erdgas.
+
+Auch das Gebiet Wohlgelegen besitzt einen hohen Anteil an Gewerbe.
+
+Die Anteile an Fernwärme und Erdgas sind nahezu gleich.
+
+Dazu kommen noch Heizöl, sowie weitere fossile Energieträger Die Innenstadt kann mit einer gemischten Nutzungsart von Wohnen, Einzelhandel / Nahversorgung und Verwaltungs- und Bürogebäuden beschrieben werden.
+
+Der Fernwärmeanteil beträgt bereits <TIMEX3 tid="t106" type="DATE" value="PRESENT_REF">heute</TIMEX3> über 80 % der verbrauchten Endenergie – ähnlich wie in der Oststadt und im <PLACE id="p106" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE>.
+
+Weitere Eignungsgebiete, die bereits <TIMEX3 tid="t107" type="DATE" value="PRESENT_REF">heute</TIMEX3> einen sehr starken Anteil an Fernwärme aufweisen sind wetzingerstadt und die <PLACE id="p107" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE>.
+
+Alle hier genannten Eignungsgebiete decken ihren Wärmeverbrauch schon <TIMEX3 tid="t108" type="DATE" value="PRESENT_REF">heute</TIMEX3> zum Großteil mit Fernwärme.
+
+Dagegen stehen Stadt- bzw. Eignungsgebiete, die noch keinen oder nur wenige Fernwärmeanschlüsse und somit kaum einen Wärmeverbrauch aus der Fernwärme verzeichnen.
+
+In diesen Gebieten wird die Wärmeerzeugung primär über die fossilen Energieträger Erdgas und Heizöl gedeckt.
+
+<PLACE id="p108" type="" geo="DEBKGGND00000S4C">Gartenstadt</PLACE>, die Mallau und <PLACE id="p109" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE> genannt werden.
+
+Diese Gebiete decken ihren <TIMEX3 tid="t109" type="DATE" value="PRESENT_REF">derzeitigen</TIMEX3> Wärmeverbrauch mit mehr als 80 % über fossile Energien.
+
+Gebiete mit hohen Anteilen an erneuerbaren Energien (ohne Fernwärme), wie bspw. Wärmeerzeugungstechnologien mit Biomasse, Luft-Wärmepumpen oder Stromdirektheizungen (sofern mit Ökostrom betrieben) sind untergeordnet vorhanden.
+
+Wobei der Anteil der erneuerbaren Energien am Gesamtenergieverbrauch der einzelnen Eignungsgebiete 40 % nie überschreitet.
+
+Als Eignungsgebiete können bspw. Alteichwald, <PLACE id="p110" type="" geo="DEBKGGND00000JIG">Blumenau</PLACE> und Suebenheim genannt werden.
+
+In Abbildung 15 wird der Endenergieverbrauch auf die jeweiligen Sektoren (Gemeinwesen, Gewerbe, Wohnen, Industrie) dargestellt.
+
+Der größte Anteil des Wärmeverbrauchs hat demnach der Sektor Wohnen, gefolgt von der Indust-Im Sektor Gemeinwesen stellt die Fernwärme den größten Anteil.
+
+Im Sektor Industrie werden knapp über 65 % des Wärmeverbrauchs noch über fossile Energien, vor allem über Erdgas gedeckt.
+
+Heizöl und andere fossile Brennstoffe spielen hier nur sehr untergeordnet eine Rolle und tauschen in der Bilanz kaum auf.
+
+Positiv zu nennen ist jedoch, dass auch bei der Industrie die Fernwärme mit über 30 % eine große Rolle spielt.
+
+Auch im Sektor Gewerbe wird <TIMEX3 tid="t110" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> bereits über 40 % des Endenergieverbrauchs aus der Fernwärme gedeckt.
+
+Lediglich ein sehr kleiner Teil wird durch erneuerbare Energien abgedeckt.
+
+Der restliche Wärmeverbrauch wird durch fossile Energie, v. a. Erdgas, beglichen.
+
+Der verbrauchsstärkste Sektor ist der Sektor Wohnen.
+
+Die Mannheimer Fernwärme trägt im in diesem Sektor knapp 50 % zur Wärmeerzeugung bei.
+
+Erdgas deckt weitere ca. 30 % ab.
+
+Die Energieträger Heizöl sowie auch Biomasse und Stromdirektheizungen komplettieren die Endenergiebilanz des Sektors.
+
+Abbildung 16 zeigt, wie sich der Endenergieverbrauch der einzelnen Energieträger bzw. Heiztechnologien auf die Baualtersklassen der Bestandsgebäude verteilt.
+
+Intuitiv einleuchtend ist zum einen, dass vor allem in den drei Baualtersklassen, die am häufigsten in <PLACE id="p111" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> vorliegen, absolut die höchsten Verbräuche verzeichnet werden.
+
+<TIMEX3 tid="t111" type="DATE" value="1919" mod="BEFORE">Vor 1919</TIMEX3>, zwischen <TIMEX3 tid="t112" type="DATE" value="1919">1919</TIMEX3>-<TIMEX3 tid="t113" type="DATE" value="1948">1948</TIMEX3> (Nachkriegszeit und Phase des 2.
+
+Weltkriegs) und zwischen <TIMEX3 tid="t114" type="DATE" value="1949">1949</TIMEX3> - <TIMEX3 tid="t115" type="DATE" value="1978">1978</TIMEX3> (intensive Bauphase in der Nachkriegszeit).
+
+Generell lässt sich sagen, dass die Mannheimer Fernwärme in nahezu allen Baualtersklassen stark vertreten ist, ebenso wie Erdgas.
+
+Abbildung 17 stellt die Mannheimer CO2-Emissionen in Tonnen CO2 <TIMEX3 tid="t116" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> für <TIMEX3 tid="t117" type="DATE" value="2020">das Jahr 2020</TIMEX3> im Wärmemarkt, gegliedert nach den einzelnen Energieträgern bzw. Heiztechnologien, dar.
+
+In Summe werden demnach 793.602 t CO2 emittiert.
+
+Die höchsten CO2-Emissionen werden mit mehr als 38 % durch den Einsatz von Erdgas als Energieträger verursacht.
+
+Fernwärme hingegen erreicht einen Anteil an den CO2-Emissionen von ca. 36 %, deckt allerdings rund 50 % des Endenergieverbrauchs.
+
+Der CO2-Emissionsfaktor der Fernwärme profitiert gegenüber den fossilen Energieträgern von der gemeinsamen Strom- und Wärmeerzeugung in KWK und perspektivisch von seiner Transformationsfähigkeit (vgl. Kap.
+
+3.2.9).
+
+Der CO2-Anteil von Heizöl steigt gegenüber dem Verbrauchsanteil (10 %) aufgrund des schlechten CO2-Emissionsfaktors von Heizöl auf über 11 %.
+
+Sonstige fossile Brennstoffe verursachen noch knapp 10 % der CO2-Emissionen.
+
+Die CO2-Emissionswerte von Biomasse, Stromdirektheizungen und Wärmepumpen liegen zusammen unter 5 % der Gesamt-Emissionswerte, was mitunter an den äußerst geringen CO2-Emissionsfaktoren erneuerbarer Energien liegt.
+
+Aus Abbildung 18 gehen die CO2-Emissionswerte aller Energieträger und Heiztechnologien, auf die Sektoren Gemeinwesen, Industrie, Gewerbe und Wohnen heraus, hervor.
+
+Der größte CO2-Emittent stellt der Sektor Wohnen mit mehr als 425.000 t CO2 <TIMEX3 tid="t118" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> dar.
+
+Ursächlich hierfür sind die Verbräuche an Erdgas, Heizöl, Fernwärme, Heizstrom und sonstige fossile Brennstoffe.
+
+Im Sektor Industrie werden über 180.000 t CO2 <TIMEX3 tid="t119" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> emittiert, wobei hier primär Erdgas und Fernwärme als Emittenten zu nennen sind.
+
+Der Sektor Gewerbe emittiert knapp über 110.000 t CO2.
+
+Im Sektor Gemeinwesen sind vor allem Fernwärme und Erdgas zu nennen, wobei die spezifischen und absoluten Anteile an CO2-Emissionen des Energieträgers Erdgas deutlich höher sind.
+
+Die Abbildung 19 stellt abschließend die CO2-Emissionen verteilt auf die 57 Eignungsgebiete in <PLACE id="p112" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> dar.
+
+Die Grafik korrespondiert mit Abbildung 14 und damit mit der Verteilung von Energieverbräuchen nach Eignungsgebieten.
+
+Alle Berechnungen beruhen auf den CO2-Emissionsfaktoren des Technikkatalog der KEA-BW, lediglich der CO2-Emissionsfaktor der Fernwärme beruht auf Berechnungen nach AGFW 309.
+
+Für die Berechnung der CO2-Emissionen für Heizstromtechnologien (Wärmepumpen, Stromdirektheizungen, etc.) wurde der Strom-Mix aus dem Technikkatalog der KEA-BW verwenden (UBA und IINAS-Szenario).
+
+Alle CO2-Emissionsfaktoren sind in Anhang 1 ersichtlich.
+
+Als Wärme(verbrauchs)dichte wird der Wärmeverbrauch, bezogen auf eine räumlich begrenzte Fläche verstanden.
+
+Umso höher die Wärmedichte, desto höher auch der Wärmeverbrauch auf einer räumlich begrenzten Fläche.
+
+Der Wert summiert sich also auf und wird höher, umso mehr Verbraucher bzw. umso höher die Verbrauchswerte in der betrachteten Fläche liegen.16 Daher ist eine hohe Wärmeverbrauchsdichte ein guter Indikator dafür, dass zukunftsfähige, zentrale Wärmeversorgungssysteme (bspw. Anschluss an vorhandenes oder an neues Wärmenetz) kosteneffizient eingesetzt werden können.
+
+Für die Wirtschaftlichkeit eines zentralen Wärmeversorgungssystems ist im Geschäftsplan ein Überschuss aus der Differenz zwischen Einnahmen aus dem Wärmeverkauf auf der einen sowie zwischen Ausgaben für Kapital-, Energie- und Betriebskosten auf der anderen Seite erforderlich.
+
+Bei geringerer Dichte bieten sich daher dezentrale Lösungen besser an.
+
+Abbildung 20 zeigt den Wärmeverbrauch pro m² Bodenfläche auf der gesamten Gemarkung Mannheims.
+
+Die Wärmeverbrauchsdichte wird von grün (geringer Verbrauch) bis rot (hoher Verbrauch) dargestellt.
+
+Diese Kartendarstellung orientiert sich an Grenzwerten der KEA-BW, die im Leitfaden zur Erstellung kommunaler Wärmepläne in <PLACE id="p113" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> dokumentiert sind.
+
+Da die städtebauliche Struktur Mannheims in vielen Stadtteilen durch mehrgeschossigen Wohnungsbau (Blockrandbebauung, Zeilenbauten, Großsiedlungen) geprägt ist, kommt es in vielen Eignungsgebieten zu einer hohen Wärmeverbrauchsdichte.
+
+Hohe Wärmeverbräuche (primär rote Färbung, teilweise orange Färbung) werden rund um die Innenstadt verzeichnet, v. a. in der Oststadt, <PLACE id="p114" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE>, <PLACE id="p115" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE>, <PLACE id="p116" type="" geo="DEBKGGND00005CYA">Neckarstadt-Ost</PLACE>, Wohlgelegen sowie im <PLACE id="p117" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE> auf.
+
+Aber auch Stadtteile wie Waldhof-West, <PLACE id="p118" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE> und z. T. auch dessen Gewerbegebiet, <PLACE id="p119" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> und Rheinau-Mitte weisen mitunter einen vergleichsweise hohen flächenbezogenen Wärmeverbrauch auf.
+
+Einen mittleren Wärmeverbrauch (primär orangene Färbung, vereinzelt rote Färbung) weisen vor allem die Eignungsgebiete in einem Band von Osten nach Süden auf.
+
+Im Mannheimer Osten sind bspw. Feudenheim-Ost, Käfertal-Mitte und -Süd, <PLACE id="p120" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE>, <PLACE id="p121" type="" geo="DEBKGGND00005CY9">Neuostheim</PLACE> und <PLACE id="p122" type="" geo="DEBKGGND00000NFK">Seckenheim</PLACE> zu nennen.
+
+Im Süden setzt sich dieses Band mit den Stadtteilen <PLACE id="p123" type="" geo="DEBKGGND00005CY3">Niederfeld</PLACE>, <PLACE id="p124" type="" geo="DEBKGGND00005CXM">Almenhof</PLACE> und dessen Gewerbegebiet, <PLACE id="p125" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> Gewerbegebiet, <PLACE id="p126" type="" geo="DEBKGGND00005CXZ">Hochstätt</PLACE>, Casterfeld, Mallau, Pfingstberg, Rheinau-Süd, <PLACE id="p127" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> Hagengebiet und fort.
+
+Im Norden kommen als Gebiete <PLACE id="p128" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE> und die Friesenheimer Insel hinzu.
+
+Einen mittleren bis niedrigen Wärmeverbrauch (grün bis gelbe Färbung, sehr untergeordnet orange und/oder rot) weisen vor allem die Stadtteile in den Randlagen Mannheims auf.
+
+Hier sind vor allem die Eignungsgebiete <PLACE id="p129" type="" geo="DEBKGGND00000NTI">Scharhof</PLACE>, Coleman-Barracks, <PLACE id="p130" type="" geo="DEBKGGND00000JIG">Blumenau</PLACE>, das Gewerbegebiet zu Sandhofen-Waldhof, Schönau-Süd, <PLACE id="p131" type="" geo="DEBKGGND00000S4C">Gartenstadt</PLACE>, Speckweggebiet, Sonnenschein, Franklin und Straßenheim zu nennen.
+
+Im Süden bzw. Südosten Mannheims sind vor allem Suebenheim und Alteichwald Eignungsgebiete, die einen mittleren bis geringen Wärmeverbrauch aufweisen.
+
+Die Kennwerte zur Einteilung der Netzeignung stammen aus dem Leitfaden für kommunale Wärmepläne der KEA BW.
+
+Diese Kennwerte spiegeln grobe Orientierungshilfen wider, weshalb in einzelnen Quartieren genauere Betrachtungen in Form von Machbarkeitsstudien für Wärmenetze zu erwägen sind.
+
+Die KEA-BW hat im <TIMEX3 tid="t120" type="DATE" value="2023-06">Juni 2023</TIMEX3> eine aktualisierte Version des Technikkatalogs mit Kennzahlen für die Ausarbeitung der kommunalen Wärmeplanung veröffentlicht.
+
+Der Technikkatalog enthält u. a. flächenbezogene Wärmeverbrauchskennwerte (in kWh/m²<TIMEX3 tid="t121" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>) für Wohngebäude unterschiedlicher Baualtersklassen im Ist-Zustand einerseits, wobei hier bereits eine Teilsanierung der Gebäudehülle berücksichtigt ist.
+
+Andererseits werden Zielverbrauchskennwerte als maximales Potenzial der Wärmeverbrauchseinsparung ausgegeben, die nach energetischer Sanierung der Gebäudehülle bis zum <TIMEX3 tid="t122" type="DATE" value="2040">Jahr 2040</TIMEX3> erreicht werden können (vgl. Abbildung 21).
+
+Auf Basis dieser Werte werden in diesem Unterkapitel die maximalen Effizienzpotenziale der Nachfrageseite für das klimaneutrale Zielszenario <TIMEX3 tid="t123" type="DATE" value="2030">2030</TIMEX3> bzw. <TIMEX3 tid="t124" type="DATE" value="2040">2040</TIMEX3> ermittelt (vgl. a. Kap.
+
+4.2).
+
+Die potenzielle Energieeinsparung der in Baualtersklassen eingeteilten Gebäude kann mit den Kennwerten des Technikkatalogs berechnet werden.
+
+Beispiel: Für die (teilweise sanierten) Wohngebäude der Altersklasse <TIMEX3 tid="t125" type="DATE" value="1949">1949</TIMEX3> - <TIMEX3 tid="t126" type="DATE" value="1978">1978</TIMEX3> wird ein heutiger spezifischer Endenergieverbrauch von 208 kWh/m²<TIMEX3 tid="t127" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> angenommen.
+
+Der verbleibende Endenergieverbrauch nach Sanierung dieser Gebäude im <TIMEX3 tid="t128" type="DATE" value="2040">Jahr 2040</TIMEX3> liegt bei 73 kWh/m²<TIMEX3 tid="t129" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Dies entspricht einer Endenergieeinsparung von 64,9 %.
+
+Das größtes Einsparungspotenzial durch energetische Gebäudehüllensanierungen haben die Baualtersklassen <TIMEX3 tid="t130" type="DATE" value="1919">1919</TIMEX3> - <TIMEX3 tid="t131" type="DATE" value="1948">1948</TIMEX3> und die Nachkriegsbauten von <TIMEX3 tid="t132" type="DATE" value="1949">1949</TIMEX3> - <TIMEX3 tid="t133" type="DATE" value="1978">1978</TIMEX3>.
+
+Die späteren Baualtersklassen weisen niedrigere Potenziale auf, bedingt durch gestiegene gesetzliche Vorgaben zur Energieeinsparung im Bau seit Inkrafttreten der 1.
+
+Wärmeschutzverordnung <TIMEX3 tid="t134" type="DATE" value="197" mod="END">Ende der 1970er</TIMEX3> und den darauffolgenden regelmäßigen Verschärfungen über die Energieeinsparverordnung (EnEV) bis hin zum GEG <TIMEX3 tid="t135" type="DATE" value="PRESENT_REF">heute</TIMEX3>.
+
+Die Altersklasse „<TIMEX3 tid="t136" type="DATE" value="1919" mod="ON_OR_BEFORE">bis 1919</TIMEX3>“ umfasst viele Gebäude, die unter Denkmalschutz stehen und/oder bei denen bestimmte energetische Sanierungsmaßnahmen, z. B. eine Ertüchtigung der Gebäudehülle auf Grund der Bausubstanz oder ortsbildprägender Fassadenelemente kulturellen Zwecken entgegensteht.
+
+Entsprechend fällt das Einsparpotenzial in dieser Baualtersklasse mit rund 25 % vergleichsweise gering aus.
+
+Für öffentliche Gebäude und Gewerbebetriebe wurden die KEA-BW-Zahlen gleichermaßen verwendet.
+
+Für die Industrie, die aufgrund des hohen stofflichen Nutzungsanteils von Erdgas einer eigenen Dekarbonisierungslogik folgt, wird eine andere Annahme für die Energieeinsparung bis <TIMEX3 tid="t137" type="DATE" value="2040">2040</TIMEX3> getroffen: in den Gewerbegebieten wird der Prozessgasanteil von 17 % aus dem vorhandene Wärmebezug rausgerechnet.
+
+Zusätzlich wird bis <TIMEX3 tid="t138" type="DATE" value="2040">2040</TIMEX3> von einer Raumwärmeeinsparung von 18 % ausgegangen.
+
+Der Wert stammt aus dem Ratgeber Energieeffizienz bei Wärmeversorgungssystemen in Industrie und Gewerbe der Deutschen Energie-Agentur.17 Die Wärmebedarfseinsparung wird in der Abbildung dargestellt.
+
+Der Maxime folgend, dass erst durch Effizienzmaßnahmen der Energieverbrauch reduziert werden soll, bevor der verbleibende Verbrauchsanteil möglichst mit erneuerbaren und effizienten Heizungstechnologien gedeckt wird, stellen diese Kennzahlen eine wichtige Grundlage für die Abschätzung des <TIMEX3 tid="t139" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Wärmeverbrauchs dar.
+
+Danach kann, wie gesetzlich gefordert, ein sehr ambitioniertes klimaneutrales Szenario für den Wärmemarkt bis <TIMEX3 tid="t140" type="DATE" value="2040">2040</TIMEX3> – mit Zwischenschritt in <TIMEX3 tid="t141" type="DATE" value="2030">2030</TIMEX3> – entworfen werden.
+
+Die maximalen Wärmeverbrauchseinsparungen für <TIMEX3 tid="t142" type="DATE" value="2030">2030</TIMEX3> und <TIMEX3 tid="t143" type="DATE" value="2040">2040</TIMEX3> sind in Abbildung 22 dargestellt.
+
+Da sich die energetische Stadtsanierung mit Sanierungsmanagements bundesweit als erfolgreicher, geförderter Ansatz zur Umsetzung der Energiewende in Quartieren etabliert hat, zeigt nachfolgende Abbildung die maximalen, prozentualen Sanierungspotenziale für die Sektoren Wohnen und Gemeinwesen in den Eignungsgebieten (vgl. a. Kap.
+
+4.1).
+
+Diese Darstellung kann bei der Auswahl weiterer energetischer Quartierskonzepte im Rahmen der energetischen Stadtsanierung unterstützen.
+
+Erneuerbare Energien haben gegenüber fossilen Energieträgern deutliche Vorteile: sie stehen nahezu unerschöpflich zur Verfügung und wirken durch ihre sehr geringen CO2-Emissionen klimaschonend, d. h. sie treiben den Treibhauseffekt nicht weiter an.
+
+Durch ihre lokale Verfügbarkeit stärken sie außerdem die lokale Wertschöpfung und reduzieren Importabhängigkeiten gegenüber den Exporteuren fossiler Energieträger.
+
+Vielfach sind Technologien marktreif entwickelt, so dass – bei <TIMEX3 tid="t144" type="DATE" value="FUTURE_REF">langfristigem</TIMEX3> Planungshorizont (<TIMEX3 tid="t145" type="DURATION" value="P20Y" mod="EQUAL_OR_MORE">> 20 Jahre</TIMEX3>) und hinsichtlich steigender CO2-Preise – erneuerbare Energiequellen mittlerweile konkurrenzfähig erschlossen werden können.
+
+Im Folgenden sind diese für <PLACE id="p132" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> im Einzelnen dargestellt.
+
+Die Verwendung von nachwachsenden Rohstoffen und organischen Abfällen für die Energieerzeugung auf land- und forstwirtschaftlich genutzten Flächen kann ein Baustein zur Nutzung lokaler erneuerbarer Energieressourcen und damit für die Umsetzung der Wärmewende sein.
+
+Vorausgeschickt sei jedoch, dass derartige Flächenpotenziale bereits <TIMEX3 tid="t146" type="DATE" value="PRESENT_REF">heute</TIMEX3> intensiv genutzt werden.
+
+Es ist daher zu beachten, dass es sich beim Folgenden um das maximale theoretische Potenzial handelt.
+
+Holzige Biomasse ist <TIMEX3 tid="t147" type="DATE" value="FUTURE_REF">kurzfristig</TIMEX3> breit verfügbar und erneuerbar.
+
+Sie bietet als Energieträger die Möglichkeit bei Vergasung und Verbrennung hohe Temperaturen zu erzeugen und lässt sich gut transportieren und lagern, so dass sie überregional und saisonal flexibel verwendet werden kann.
+
+Vor dem Hintergrund von Naturschutz, Ressourceneffizienz und mit Rücksicht auf die Bedeutung der stofflichen Nutzung von Holz in u. a. der Bau-, Zellstoff- und Möbelindustrie können generell nur Waldrestholz aus der (nachhaltigen) Forstwirtschaft sowie holzartige Abfälle aus Haushalten, Gewerbe oder der Landschaftspflege für die Wärmeerzeugung verwendet werden.
+
+Der Leitfaden für die kommunale Wärmeplanung der KEA-BW gibt einen Anhaltswert von 4,3 MWh/ha für Flächenerträge bezüglich der Energieerzeugung von Waldrestholz an.
+
+Die Fläche der Wald- und Gehölzflächen auf der Mannheimer Gemarkung beträgt 1.811 ha in <TIMEX3 tid="t148" type="DATE" value="2022">2022</TIMEX3>.
+
+Daraus ergibt sich ein maximaler potenzieller Energieertrag aus Waldrestholz von 7.787 MWh/<TIMEX3 tid="t149" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Aus der Landwirtschaft ergeben sich ebenfalls erneuerbare Biomassepotenziale – in <PLACE id="p133" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> laut Statistischem Landesamt <PLACE id="p134" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> auf landwirtschaftlichen Flächen mit ca. 2.943 ha.
+
+Der Leitfaden der KEA-BW gibt als Anhaltswert zur Energieerzeugung mit Mais 50 MWh/ha als Flächenertrag an.
+
+Weiter wird angenommen, dass ein 10%iger Anteil der landwirtschaftlichen Flächen für den Anbau von energetisch genutztem Mais (als Silage in Biogasanlagen) genutzt werden kann.
+
+Diese Annahme beruht auf der Tatsache, dass Maisanabau einer Konkurrenz zu anderer Ackerlandnutzung ausgesetzt ist, so dass 90 % der landwirtschaftlichen Flächen für andere Zwecke wie Lebensmittel- und Futterproduktionen genutzt werden.
+
+Der potenzielle Energieertrag aus dieser Maisverarbeitung entspricht demnach 14.714 MWh/<TIMEX3 tid="t150" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Des Weiteren können Bioabfälle verwertet werden, indem über Vergärung Biogas erzeugt wird.
+
+Dieses kann entweder zu Biomethan aufbereitet und in das Gasnetz gespeist, oder am Standort direkt für die Produktion von Wärme und Strom genutzt werden.
+
+Laut Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p135" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> können pro Tonne häuslichem Bioabfall 85 - 125 m³ Biogas mit einem Methangehalt von 50 - 80 % produziert werden.
+
+Im Folgenden wird der Mittelwert von 105 m³ pro Tonne angenommen.
+
+Pro m³ Biogas kann ein Heizwert von 5 kWh angesetzt werden.18 In <PLACE id="p136" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> gab es im <TIMEX3 tid="t151" type="DATE" value="2022">Jahr 2022</TIMEX3> ein Aufkommen von insgesamt ca. 14.700 t Grünabfälle und Abfälle aus der Biotonne.19 Daraus resultiert ein potenzieller Energieertrag von ca. 7.718 MWh/<TIMEX3 tid="t152" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+In Summe ergibt sich ein Biomassepotenzial von ca. 30.219 MWh/<TIMEX3 tid="t153" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Bei der Erdwärme unterschiedet man grundsätzlich zwischen Tiefengeothermie und oberflächennaher Geothermie (weniger als 400 Meter Bohrtiefe).
+
+Je tiefer gebohrt wird, desto höher werden die Temperaturen, die sich zur Nutzung von Wärmeenergie an die Oberfläche befördern lassen.
+
+Durch Quellentemperaturen der oberflächennahen Geothermie von 8 – 12 °C (vgl. Abbildung 25) und der Nachschaltung einer Wärmepumpe eignet sich die Technologie bedingt auch für den effizienten Betrieb im unsanierten Gebäudebestand.
+
+Oftmals sind Anpassungen an den Heizflächen und oder der thermischen Gebäudehülle durch Reduktion der Transmissionswärmeverluste notwendig oder empfehlenswert, damit ein effizienter Heizbetrieb mit niedrigeren Vorlauftemperaturen im gebäudeinternen Heizungssystem gewährleistet werden kann.
+
+Bei der oberflächennahen Geothermie (bis 400m Tiefe) gibt es vorrangig die folgenden Verfahren: Grundwassernutzung Erdwärmekollektoren (als Flächenkollektor oder Erdwärmekorb) Erdwärmesonden Im weiteren Verlauf werden Erdwärmesonden betrachtet.
+
+In der Bohrung für eine Erdwärmesonde befindet sich ein geschlossenes Rohrsystem, das die Erdwärme mithilfe einer frostsicheren Wärmeträgerflüssigkeit (Sole) an die Oberfläche befördert und sie, ggf. durch ein kaltes Nahwärmenetz an der Erdoberfläche geleitet, an eine Wärmepumpe übergibt.
+
+Es wird von Erdwärmesondenfeldern gesprochen, wenn mehr als 5 Erdwärmesonden im räumlichen Zusammenhang stehen, wobei Mindestabstände zwischen den einzelnen Abteufungen zu berücksichtigen sind.
+
+Erdwärmesonden werden im folgenden Verlauf betrachtet, da die Felder sich als zentrale Erzeugungsquelle eines potenziellen Wärmenetzes anbieten.
+
+Eine Bodennutzung ist bei Erdwärmesonden im Gegensatz zu Erdwärmekollektoren weiterhin uneingeschränkt möglich, da Erdwärmekollektoren in ca. ein bis zwei Metern flächenintensiv unter der Erdoberfläche verteilt werden.
+
+Dies bedeutet nicht, dass auch die anderen Formen der Nutzung oberflächennaher Geothermie in einzelnen Fällen Sinn ergeben können.
+
+Abbildung 25 zeigt, dass die Temperaturen mit zunehmender Bohrtiefe ansteigen und in tieferen Erdschichten, ab einer Bohrtiefe von ca. 25 m, über <TIMEX3 tid="t154" type="DURATION" value="P1Y">das Jahr</TIMEX3>, also unabhängig von der Außentemperatur der Luft, sehr konstant bleiben.
+
+Bei einer oberflächennahen geothermischen Anlage wird eine Sole-Wärmepumpe hinter die geothermische Bohrung geschaltet.
+
+Die Sole-Wärmepumpe nutzt die Erdwärme als Umweltwärme zur Erzeugung von Heizenergie.
+
+Wärmepumpen arbeiten effizienter mit einer möglichst geringen Temperaturspreizung zwischen Wärmequellentemperatur und Vorlauftemperatur des Heizungssystems.
+
+Somit arbeitet eine Luft-Wärmepumpe im <TIMEX3 tid="t155" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> bei Lufttemperaturen unter 4°C deutlich ineffizienter als eine Sole-Wärmepumpe mit geothermischer Bohrung.
+
+Wasserschutzgebiete Bau und Betrieb von Erdwärmebohrungen in Wasserschutzgebieten der Zonen I bis III / IIIA sind i. d. R. verboten.
+
+Ausnahmen sind in den Zonen III / IIIA im Einzelfall möglich, wenn eine Verunreinigung des Grundwassers ausgeschlossen werden kann.
+
+Flächen außerhalb von Wasserschutzgebieten sind hingegen grundsätzlich für Geothermie in Betracht zu ziehen.
+
+In diesen Gebieten sind Zustrombereiche von Grundwassernutzungen, Bohrtiefenbegrenzungen und Einzelfallbeurteilungen ggf. in Abstimmung mit der Unteren Wasserschutzbehörde zu erörtern.
+
+Bergrecht Für grundstücksübergreifende Erdwärmeerschließung oder Erdwärmeerschließungen mit einer Tiefe über 100 m sieht das Bundesberggesetz (BbergG) grds.
+
+eine umfassende bergrechtliche Genehmigung durch die Bergbehörde vor.
+
+Dieser Prozess ist deutlich aufwändiger als oberflächennah nach Geothermie zu bohren, was i. d. R. ohne Weiteres bzw. ggf. unter Auflagen (z.
+
+B. Bohrtiefenbegrenzung) möglich ist.
+
+Jede Sondenbohrung ist jedoch nach § 127 BBergG dem <PLACE id="p137" type="" geo="DEBKGGND00002EB2">Regierungspräsidium Freiburg</PLACE>, Abt.
+
+9, Landesamt für Geologie, Rohstoffe und Bergbau als zuständige Bergbehörde und geowissenschaftliche Fachbehörde des <PLACE id="p138" type="" geo="DEBKGGND00001BBR">Landes Baden-Württemberg</PLACE> anzuzeigen.
+
+Die KEA-BW hat eine landesweite Ermittlung des Erdwärmesonden-Potenzials auf Flurstücksebene veröffentlicht.
+
+Die schematische Vorgehensweise zur Erhebung dieser Daten ist in Anhang 2 dokumentiert.
+
+Die Berechnung der <TIMEX3 tid="t156" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> entziehbaren Energie wurde mit bestimmten Parametern und Annahmen (u.
+
+a. Leistungszahl von Wärmepumpen, <TIMEX3 tid="t157" type="DURATION" value="P1Y">Jahresvolllaststunden</TIMEX3>) durchgeführt.
+
+Nach dieser Analyse besteht in <PLACE id="p139" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> ein erneuerbares Wärmepotenzial aus oberflächennaher Geothermie von insgesamt 426.037 MWh/<TIMEX3 tid="t158" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+In der folgenden Abbildung werden die oberflächennahen Geothermiepotenziale für <PLACE id="p140" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> schematisch dargestellt.
+
+Weitere Informationen zur Nutzung von Geothermie finden sich in den <TIMEX3 tid="t159" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Leitfäden zur Nutzung der Erdwärme (Grundwasser, Erdwärmesonden, Erdwärmekollektoren) des Umweltministeriums <PLACE id="p141" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>.20 Eine Tiefengeothermieanlage kann, unabhängig von Wettereinflüssen und Tages- und Nachtzeiten nahezu <TIMEX3 tid="t160" type="DURATION" value="P1Y">das gesamte Jahr</TIMEX3> ununterbrochen umweltfreundliche Wärme und/oder Strom liefern.
+
+Tiefengeothermie ist als lokale erneuerbare Energiequelle grundlastfähig und kann damit wesentlich zu einer hohen Versorgungssicherheit in einem klimaneutralen Wärmesektor beitragen.
+
+Der <PLACE id="p142" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> gehört hierbei zu den Gebieten in <PLACE id="p143" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> mit idealen Voraussetzungen zur Nutzung von hydrothermaler Geothermie.
+
+Beim hydrothermalen Verfahren wird natürliches Heißwasser über eine Entnahme- und eine Injektionsbohrung „umgewältzt“.
+
+Die Energie des Heißwassers soll zur klimaneutralen Fernwärmeversorgung der Region eingesetzt werden.
+
+Bei den tiefengeothermischen Bohrungen bis zu 4.000 m wird mit teleskopartigen Verrohrungen sichergestellt, dass sich unterschiedliche Schichten im Untergrund nicht miteinander verbinden, um z. B. zu verhindern, dass aufsteigendes Grundwasser in quellfähige Zonen eindringen kann, was zu Geländehebungen führen kann.
+
+Der Realisierung einer tiefengeothermischen Anlage stehen umfangreiche Untersuchungen und Genehmigungen voran.
+
+Im ersten Schritt wird ein geeigneter Standort für das Geothermieheizwerk gesucht und ausgewählt.
+
+Hierzu werden seismische Untersuchungen des Untergrunds durch spezialisierte Dienstleistungsunternehmen durchgeführt und deren Ergebnisse ausgewertet werden.
+
+Nachdem Standorte mit bester Eignung auf Basis dieser Ergebnisse identifiziert wurden, werden Tiefenbohrungen veranlasst, die nach erfolgreicher Abteufung getestet werden.
+
+Fallen die Tests positiv aus, kann ein Geothermieheizwerk als erneuerbare Wärmequelle errichtet werden und den Betrieb aufnehmen.
+
+In <PLACE id="p144" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> entwickeln sowohl die beiden regionalen Energieunternehmen EnBW und MVV Energie mit ihrer gemeinsamen Projektgesellschaft GeoHardt GmbH21 im Süden als auch die Vulcan Energie Ressourcen GmbH22 im Norden der Gemarkung tiefengeothermische Projekte und erkunden <TIMEX3 tid="t161" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> standortspezifische Potenziale mit 3D-Seismik.
+
+Die Anwendungsmöglichkeiten zur Erzeugung von Wärme bzw. Kälte aus Sonnenenergie wird als Solarthermie bezeichnet.
+
+Solarthermische Kollektoren werden vorwiegend auf privaten oder gewerblichen Gebäudedächern installiert, können jedoch auch als solarthermische Großanlagen in Kombination mit Langzeitspeichern für die Nah- und Fernwärmeversorgung eingesetzt werden.
+
+<PLACE id="p145" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> liegt in einem Breitengrad, in dem die Strahlungsintensität der Sonne keinen ganzjährigen und vollständigen solarthermischen Heizbetrieb gewährleistet.
+
+In der Praxis bedeutet dies, dass in der Übergangszeit (<TIMEX3 tid="t162" type="SET" freq="EVERY" value="XXXX-SP">Frühjahrs</TIMEX3>- und <TIMEX3 tid="t163" type="SET" freq="EVERY" value="XXXX-FA">Herbstmonate</TIMEX3>) nur temporär auf eine Zuschaltung der konventionellen Heizung verzichtet werden kann.
+
+Es kann davon ausgegangen werden, dass bei der Nutzung solarthermischer Anlagen durchschnittlich 60 % des Endenergieverbrauchs für die Warmwasserbereitung sowie 10 % des Endenergieverbrauchs für die Gebäudeheizung gedeckt werden können.
+
+Bei größerer Auslegung einer Solarthermieanlage inkl. Pufferspeicher lässt sich die Eigenverbrauchsquote weiter erhöhen.
+
+In der <TIMEX3 tid="t164" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3>- und teils in der Übergangszeit können solarthermische Anlagen fossile Heizungsanlagen sogar vollständig ersetzen.
+
+Solarthermie ist eine Erfüllungsoption für das GEG und bewährt sich insbesondere in klimafreundlichen Hybridsystemen wie z. B. in Kombination mit Wärmepumpen.
+
+Dachflächen Die Landesanstalt für Umwelt <PLACE id="p146" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (LUBW) hat im <TIMEX3 tid="t165" type="DATE" value="2021">Jahr 2021</TIMEX3> eine aktualisierte Version des Solarkatasters für Dachflächen im Energieatlas für <PLACE id="p147" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> veröffentlicht.
+
+Die Analyse beinhaltet unter anderem die Eignung der Dachflächen (sehr hohe, hohe, mittlere, geringe Einstrahlung) sowie Daten für die 3D-Dachfläche der Dachseiten, die sich für die Installation solartechnischer Modulanlagen (solarthermisch oder photovoltaisch) eignen, in m².
+
+Die Daten für <PLACE id="p148" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> werden nachfolgend tabellarisch aufgeführt.
+
+Für die Berechnung des Potenzials der Solarthermie auf Dachflächen in <PLACE id="p149" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> wird ebenfalls die Technikkennzahl des Leitfadens für die kommunale Wärmeplanung verwendet.
+
+Der <TIMEX3 tid="t166" type="SET" freq="EVERY" value="P1Y">jährliche</TIMEX3> Kollektorertrag beträgt ca. 400 kWh/m².
+
+Als realistische Einschätzung des Potenzials wird die Annahme der Nutzung von 5 % der Dachflächen mit sehr hoher und hoher Eignung getroffen, woraus sich ein wirtschaftliches Potenzial für <PLACE id="p150" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> von ca. 160.381 MWh/<TIMEX3 tid="t167" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> ergibt.
+
+Freiflächen Alle Freiflächen, die im Energieatlas der LUBW als potenzielle Flächen für PV in <PLACE id="p151" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> genannt sind, sind grundsätzlich auch für Solarthermie geeignet.
+
+Ob PV oder Solarthermie installiert wird, ist davon abhängig, ob eine Solarthermieanlage zur Wärmeerzeugung an ein Wärmenetz erschlossen werden kann oder soll.
+
+Durch die hohen Temperaturen der Solarthermieanlage ist eine direkte Wärmeeinspeisung ins Wärmenetz möglich, wobei eine aufwendige <TIMEX3 tid="t168" type="DURATION" value="P3M">saisonale</TIMEX3> Speicherung von Solarwärme, im <TIMEX3 tid="t169" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> sehr hohen Wärmeüberschüssen im Netz in Kombination mit hohen spezifischen Wärmegestehungskosten zum vorläufigen Ausscheiden der Technologie für eine Fernwärmenutzung geführt hat (vgl. a. Kap.
+
+3.2.10).
+
+Für die Berechnung der Potenziale für die Solarenergienutzung auf Freiflächen gibt der Energieatlas der LUBW generell Potenzialflächen auf Konversionsflächen und Seitenrandstreifen und auf benachteiligten Gebieten vor.
+
+Die Potenzialflächen (Stand <TIMEX3 tid="t170" type="DATE" value="2018">2018</TIMEX3>) liegen teilweise innerhalb weicher Restriktionsflächen wie Natura 2000- und Landschaftsschutzgebiete.
+
+Aufsummiert betragen diese Flächen 1.259.670 m² und damit ca. 46 % der gesamten Freiflächenpotenziale.
+
+Gemäß den LUBW-Daten gibt es 2.710.550 m² potenzieller Freiflächen zur Nutzung von Solarenergie.
+
+Wenn alle Freiflächen für Solarthermie genutzt werden würden, ergibt sich hieraus ein theoretisches Potenzial für Solarthermie auf Freiflächen von 409.835 MWh/<TIMEX3 tid="t171" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Dachflächen Gemäß den Angaben des Energieatlas BW (Stand <TIMEX3 tid="t172" type="DATE" value="2018">2018</TIMEX3>) gibt es auf Dachflächen in <PLACE id="p152" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> bereits eine bestehende installierte PV-Leistung von 42,44 MW.
+
+Die berechnete Stromerzeugung beträgt 40.695 MWh/<TIMEX3 tid="t173" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Die Netzeinspeisung wird mit 36.820 MWh/<TIMEX3 tid="t174" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> angegeben.
+
+Für die Berechnung der theoretisch maximalen Stromerzeugung von Photovoltaik auf Dachflächen können ebenfalls Daten aus dem Energieatlas der LUBW (PV-Dachflächenpotenzial) verwendet werden (vgl. Tabelle 5).
+
+Es wird angenommen, dass nicht alle Dachflächen in <PLACE id="p153" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> mit PV-Anlagen bedeckt werden können, sondern nur 80 % des maximalen Potenzials erreicht werden.
+
+Das Potenzial für die PV-Stromerzeugung liegt somit bei 831.334 MWh/<TIMEX3 tid="t175" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Freiflächen Der Energieatlas der LUBW (Stand <TIMEX3 tid="t176" type="DATE" value="2018">2018</TIMEX3>) gibt in Bezug auf die Freiflächen-Photovoltaikanlagen im Bestand sieben installierte Anlagen mit einer berechneten Stromerzeugung von 1.366 MWh/<TIMEX3 tid="t177" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> an.
+
+Hinzu kommen mögliche Potenzialflächen für die Erzeugung von Strom mittels Freiflächen-Photovoltaik.
+
+Der Leitfaden für die kommunale Wärmeplanung in BW gibt eine Technikkennzahl für die Berechnung der Stromerzeugung von PV auf Freiflächen vor, die als durchschnittlichen Flächenertrag einer PV-Freiflächenanlage von 40 kWh/m² Bodenfläche ausgeht.
+
+Auf Mannheimer Gemarkung liegen 2.710.550 m² geeignete Fläche für Freiflächen-Photovoltaik.
+
+Hieraus ergibt sich ein maximales technisches Potenzial von 108.422 MWh/<TIMEX3 tid="t178" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Mit Blick auf Ausschlusskriterien, Raumwiderstände und Genehmigungsvoraussetzungen ist grds.
+
+jede Fläche einzeln zu prüfen.
+
+Der Nachbarschaftsverband Heidelberg-Mannheim hat die räumlichen Potenziale für Freiflächenphotovoltaik in einer eigenen Karte veröffentlicht.23 Eine Potenzialberechnung für die Umweltwärme aus Außenluft wird nicht durchgeführt, da Luft immer und in ausreichendem Umfang zur Verfügung steht.
+
+Luft kann mithilfe von Luft-Wasser-Wärmepumpen mit geringem Stromeinsatz zur effizienten Wärmeerzeugung genutzt werden.
+
+Grundsätzlich entziehen Wärmepumpen der Außenluft (oder dem Erdreich bzw. dem Grundwasser oder einem anderen Wärmeträger wie industrieller Abwärme oder Abwasser) Wärme und heben („pumpen“) sie unter Zuführung von mechanischer Energie in einem Kreislaufprozess durch Verdampfung und Verdichtung eines Arbeitsmediums auf ein höheres Temperaturniveau.
+
+Diese „gepumpte“ Wärme kann dann an das Medium im Heizverteilsystem eines Gebäudes abgegeben und als Raumwärme genutzt werden.
+
+Zum Antrieb wird überwiegend elektrischer Strom genutzt, bei größeren Anlagen auch Gas.
+
+Wärmepumpen erfüllen als effiziente Technologie die Vorgaben des GEG.
+
+Der Energiebedarf eines Wärmepumpensystems kann dabei neben konventionell erzeugtem Strom und Gas auch über regenerativ erzeugten Eigenstrom (z.
+
+B. PV) gedeckt werden.
+
+Bei steigenden Preisen für Wärmepumpentarife und sinkenden Kosten für Batteriespeicher werden Komplettlösungen für ein dezentrales Energiemanagement zunehmend wirtschaftlich.
+
+Diese Eigenverbrauchsoptimierung ist nicht zuletzt auch auf Grund von gesunkenen EEG-Einspeisevergütungen und gestiegenen Strompreisen attraktiv.
+
+Der Einsatz der Wärmepumpen ist insbesondere bei gut gedämmten Häusern mit geringen Vorlauftemperaturen im Wärmeverteilsystem wie beispielsweise bei Flächenheizungen vorteilhaft.
+
+Dies ist im Neubau oder im sanierten Altbau der Fall, so dass als Einsatzorte bspw. Niedrigenergiehäuser mit Fußbodenheizung in Betracht kommen.
+
+Mit baulichen Anpassungen an der Heizungstechnik (z.
+
+B. Vergrößerung der Wärmeüberträgerflächen der Raumheizkörper) ist der Einsatz im unsanierten Altgebäudebestand ebenfalls technisch möglich, allerdings aufgrund der in der Regel höheren benötigten Vorlauftemperaturen im Vergleich zur Flächenheizung auf ökologischen und ökonomischen Nutzen zu prüfen.
+
+Der <PLACE id="p154" type="" geo="DEBKGGND0000203T">Rhein</PLACE> als großes Oberflächengewässer, das entlang des Mannheimer Stadtgebiets fließt, wird bereits durch den Einsatz einer großen Flusswärmepumpe am Standort des Großkraftwerks genutzt.
+
+Der Einsatz weiterer Flusswärmepumpen ist bereits geplant (vgl. a. Kap.
+
+3.2.10).
+
+Die Wärmerückgewinnung aus unvermeidbarer Abwärme bei industriellen Prozessen oder anderen Anwendungen wie KWK-Prozessen ist nach der Abwärmevermeidung die effizienteste Methode zur Dekarbonisierung der Wärmeversorgung (z.
+
+B. in Wärmenetzen).
+
+Statt diese Wärme ungenutzt in die Umwelt abzugeben, werden spezielle Wärmerückgewinnungssysteme bzw. tauscher eingesetzt, um die Abwärme zu erfassen und für weitere wärmerelevante Zwecke zu nutzen.
+
+In <PLACE id="p155" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> werden neben der Wärmeauskopplung aus dem Kraftwerksprozess des <PLACE id="p156" type="" geo="DEBKGGND00002G80">Großkraftwerks Mannheim</PLACE> schon <TIMEX3 tid="t179" type="DATE" value="PRESENT_REF">heute</TIMEX3> unvermeidbare Abwärmequellen für die Dekarbonisierung des Fernwärmenetzes genutzt bzw. eine Nutzung ist in <TIMEX3 tid="t180" type="DURATION" value="PXY">den nächsten Jahren</TIMEX3> geplant (vgl. a. Kap.
+
+3.2.10): Einspeisung aus Produktionsprozessen von Daimler Truck (<PLACE id="p157" type="" geo="DEBKGGND00000GF9">Waldhof</PLACE>, seit <TIMEX3 tid="t181" type="DATE" value="2018">2018</TIMEX3>) Heizkraftwerk zur thermischen Verwertung stofflich nicht verwertbarer Abfälle (Friesenhei-Biomassekraftwerk zur thermischen Verwertung von Alt- und Restholz (Friesenheimer Insel, Darüber hinaus wurden im Rahmen der KWP und in Kooperation mit der IHK weitere industrielle Abwärmequellen direkt bei den großen Mannheimer Industrieunternehmen angefragt.
+
+Die KEA-BW hat hierfür ein Formular zur Erhebung der Abwärme in Unternehmen in Zusammenarbeit mit der Umwelttechnik BW erstellt.24 mer Insel, seit <TIMEX3 tid="t182" type="DATE" value="2020">2020</TIMEX3>) geplant <TIMEX3 tid="t183" type="DATE" value="2024">2024</TIMEX3> – <TIMEX3 tid="t184" type="DATE" value="2026">2026</TIMEX3>) Insgesamt wurden 28 Mannheimer Unternehmen angeschrieben, von denen lediglich zwei den Erhebungsbogen ausgefüllt abgegeben haben.
+
+Auch wenn beide Unternehmen Abwärmequellen (Kühlkreislauf bzw. Abwasser) angegeben haben, war keines prinzipiell bereit Wärme auszukoppeln, abzugeben oder zu verkaufen.
+
+Um das Potenzial der Abwasserwärme im städtischen Entwässerungssystem beurteilen zu können, sind neben einer ausreichenden Dimensionierung des Abwasserkanals zur Installation von Wärmetauschertechnologie und vorhandener hydraulischer Kapazitären vor allem ein ausreichender Trockenwetterabfluss von 15 Liter <TIMEX3 tid="t185" type="SET" freq="EVERY" value="PT1S">pro Sekunde</TIMEX3> (bzw. die Abwassermenge von mindestens 6.000 Einwohner:innen) entscheidend, um eine ausreichende Überströmung bzw. Wärmeabnahme des Wärmetauschers zu gewährleisten – unabhängig davon, ob dieser als Rinnenwärmetauscher im Kanal oder in Kombination mit einer Schachtsieb- und pumpanlage außerhalb des Kanals installiert wird.
+
+Der Mannheimer Eigenbetrieb Stadtentwässerung (EBS) ist Vorreiter bei der Nutzung von Abwasserwärme für die klimaneutrale Wärmeversorgung und betreibt selbst zwei Anlagen zur Gebäudebeheizung im Pumpwerk Ochsenpferch (seit <TIMEX3 tid="t186" type="DATE" value="2011">2011</TIMEX3>) und im Verwaltungsgebäude der EBS (seit <TIMEX3 tid="t187" type="DATE" value="2015">2015</TIMEX3> zum Heizen und Kühlen).
+
+Darüber hinaus ist seit <TIMEX3 tid="t188" type="DATE" value="2017">2017</TIMEX3> das Mannheimer Stadtarchiv Marchivum mit einem Wärmetauscher im Zulaufkanal zum Pumpwerk Ochsenpferch und einer Hausanschlussleitung an die Abwasserwärme angeschlossen.
+
+Zusammen haben die drei Anlagen in <TIMEX3 tid="t189" type="DATE" value="2019">2019</TIMEX3> eine Wärmearbeit von 840.300 kWh erbracht.25 Der Eigenbetrieb Stadtentwässerung hat außerdem für sein im Eigentum befindliches Kanalnetz alle potenziell nutzbaren Kanäle mit ausreichender Dimensionierung (Kanalbreite >= 600 mm) identifiziert.
+
+Diese sind in nachfolgender Abbildung blau dargestellt und haben eine Gesamtlänge von rund 89.000 m.  In der 100 m breiten türkisenen Pufferzone befinden sich alle Gebäude, für die eine Prüfung der Wärmeversorgung mit Abwasserwärmenutzung gemeinsam mit dem Eigenbetrieb Stadtentwässerung grds.
+
+empfehlenswert ist.
+
+Da die Kanäle sowohl von ihrer Dimensionierung als auch beim Trockenwetterabfluss sehr unterschiedlich beschaffen sind, ist eine genaue Ermittlung des Leistungspotenzials nicht möglich.
+
+Unter den groben Annahmen jedoch, dass durchschnittlich in jedem Meter verfügbare Haltungslänge des Kanals ca. 0,5 m² überströmte Wärmetauscherfläche installiert und für jeden Quadratmeter überströmte Wärmetauscherfläche mit Wärmepumpen eine Wärmeleistung von 3 kW entzogen werden kann, ergibt sich ein theoretisches Leistungspotenzial von ca. 133,5 MW.
+
+Dieses Potenzial reduziert sich durch technische Restriktionen.
+
+Bspw.
+
+muss sichergestellt sein, dass die Abwassertemperatur durch Wärmeentnahmen nicht so weit abgesenkt wird, dass der Klärwerksbetrieb gestört wird.
+
+Daher ist der Einbau eines Wärmetauschers immer frühzeitig mit dem Eigenbetrieb Stadtentwässerung abzusprechen und eine Bewilligung einzuholen.
+
+Mit einer zunehmenden strombasierten Wärmeversorgung und durch die im Zielszenario (vgl. Kap.
+
+4.2) angenommenen Deckungsanteile elektrisch betriebener Wärmepumpen stellen Windkraftanlagen zur regenerativen Stromerzeugung insbesondere in der Heizperiode auch einen notwendigen Baustein für die Wärmewende dar.
+
+Dabei ergänzt die Windkraft mit ihrem Erzeugungsprofil das von PV gut.
+
+Während PV sein Maximum im <TIMEX3 tid="t190" type="DURATION" beginPoint="t189" endPoint="t190" value="P6M">Sommerhalbjahr</TIMEX3><TIMEX3 tid="t191" type="DATE" value="XXXX-04-01"></TIMEX3><TIMEX3 tid="t192" type="DATE" value="XXXX-09-31"></TIMEX3> erreicht, liegt dieses für die Windkraft im<TIMEX3 tid="t193" type="DATE" value="XXXX-10-01"></TIMEX3><TIMEX3 tid="t194" type="DATE" value="XXXX-03-31"></TIMEX3> <TIMEX3 tid="t195" type="DURATION" beginPoint="t191" endPoint="t192" value="P6M">Winterhalbjahr</TIMEX3>.
+
+Zudem ist die Windkraft hinsichtlich ihrer Flächeneffizienz besonders sparsam.
+
+Im Energieatlas der LUBW ist zwar keine Windkraftanlage auf der Gemarkung der <PLACE id="p158" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> verzeichnet.
+
+Allerdings wird eine Potenzialfläche von ca. 86,5 ha ermittelt, die hinsichtlich Windhöffigkeit und ausschließender Planungskriterien für die Installation von Windkraftanlagen grds.
+
+geeignet ist (mit Flächenrestriktionen).
+
+Die Fläche befindet sich nördlich der <PLACE id="p159" type="" geo="DEBKGGND00004ND0">Coleman Barracks</PLACE>, umfasst ein Potenzial für fünf Windkraftanlagen und damit einen möglichen Netto-Stromertrag von 46.796 MWh/<TIMEX3 tid="t196" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (LUBW, Stand <TIMEX3 tid="t197" type="DATE" value="2019">2019</TIMEX3>).
+
+Das entspricht dem <TIMEX3 tid="t198" type="DURATION" value="P1Y">Jahreswärmebedarf</TIMEX3> von fast 12.000 Haushalten mit Wärmepumpen.
+
+In Abbildung 28 werden die Windpotenzialflächen dargestellt.
+
+Ob diese Potenzialflächen <TIMEX3 tid="t199" type="DATE" value="FUTURE_REF">künftig</TIMEX3> genutzt werden können, ist nicht Gegenstand der KWP.
+
+Der Nachbarschaftsverband Heidelberg-Mannheim hat <TIMEX3 tid="t200" type="DATE" value="2023">2023</TIMEX3> eine Potenzialanalyse für Windenergie und Freiflächenphotovoltaik im Außenbereich im Verbandsgebiet erstellt und räumliche Potenzialkarten erstellt.26 In der Potenzialkarte für Windenergie sind grundsätzlich geeignete Flächen sowie Flächen, die einer vertiefenden Prüfung bedürfen, dargestellt.
+
+In Abbildung 29 werden ausschließlich die geeigneten Flächen (ohne vertiefende Prüfung) auf der Mannheimer Gemarkung gezeigt.
+
+Die größte Fläche befindet sich zwischen der Frankenthaler Straße und dem Klärwerk <PLACE id="p160" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> im Norden.
+
+Weitere Flächen befinden sich im Bereich der Frankenthaler Straße an der nördlichen Gemarkungsgrenze, nördlich der <PLACE id="p161" type="" geo="DEBKGGND00004ND0">Coleman Barracks</PLACE>, entlang der östlichen Gemarkungsgrenze (Käfertaler Wald) sowohl nördlich als auch südlich der A6, auf landwirtschaftlichen Flächen Nahe Straßenheim im Osten sowie an der westlichen Gemarkungsgrenze auf der Friesenheimer Insel.
+
+In Summe wird eine Fläche von ca. 438 ha für die Windenergienutzung, wobei die Belange der Flugsicherung (<PLACE id="p162" type="" geo="DEBKGGND0000506R">Flughafen Mannheim-Neuostheim, militärischer Flugplatz Coleman</PLACE>) <TIMEX3 tid="t201" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> generell überprüft werden, so dass keine gesicherte Aussage zu räumlichen Einschränkungen gegeben werden kann.
+
+Auf der UN-Klimakonferenz in Glasgow im <TIMEX3 tid="t202" type="DATE" value="2021">Jahr 2021</TIMEX3> hat die MVV Energie AG mit ihrem Mannheimer Modell ihren „#klimapositiv-Kurs“ kommuniziert.
+
+Nach diesem strategischen Leitrahmen, in dem auch die Wärmewende eine wesentliche Säule darstellt, hat sich der Energieversorger, der unter anderem das Fernwärmenetz in <PLACE id="p163" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> betreibt, verpflichtet die Fernwärmeerzeugung bis <TIMEX3 tid="t203" type="DATE" value="2030">2030</TIMEX3> vollständig auf grüne Energiequellen umzustellen.27  Erste große Investitionsprojekte sind bereits umgesetzt: Mit dem Bau eines neuen Dükers unter dem <PLACE id="p164" type="" geo="DEBKGGND00001N97">Altrhein</PLACE> und einer ca. 3 km langen Verbindungsleitung wurde das Kraftwerk zur thermischen Abfallverwertung auf der Friesenheimer Insel an das Fernwärmenetz angeschlossen, so dass seit <TIMEX3 tid="t204" type="DATE" value="2020">2020</TIMEX3> mit ansteigenden Mengen unvermeidbare Abwärme eingespeist werden kann.
+
+Ein weiterer wichtiger Meilenstein war die Inbetriebnahme einer innovativen Flusswärmepumpe am <PLACE id="p165" type="" geo="DEBKGGND0000203T">Rhein</PLACE> auf dem Standort des <PLACE id="p166" type="" geo="DEBKGGND00002G80">Großkraftwerks Mannheim</PLACE> im <TIMEX3 tid="t205" type="DATE" value="2023-10">Oktober 2023</TIMEX3>.
+
+Neben weiteren Großwärmepumpen ist die Anbindung des Biomasseheizkraftwerks auf der Friesenheimer Insel an die Fernwärme und die Erschließung von Tiefengeothermie (vgl. Kap.
+
+3.2.3) geplant.
+
+Spitzenlasten sollen mit Hilfe von Biomethan oder ggf. Wasserstoff abgefahren werden.
+
+Nachfolgende Abbildung gibt einen Überblick über die geplante Entwicklung des Erzeugungsmixes der Fernwärme auf Basis des Transformationsplanes der MVV Energie.
+
+Ab <TIMEX3 tid="t206" type="DATE" value="2030">2030</TIMEX3> sinkt der CO2-Emissionsfaktor der Fernwärme demnach auf null.
+
+Natürlich können projektspezifische Unsicherheiten (z.
+
+B. bei der Auffindung von Geothermie) während des Transformationsprozesses noch zu prozentualen Veränderungen der Anteile einzelner Erneuerbarer-Energien-Technologien führen.
+
+Im Zielszenario (vgl. Kap.
+
+4.2) wird entsprechend von einer vollständigen Dekarbonisierung der Fernwärme bis <TIMEX3 tid="t207" type="DATE" value="2030">2030</TIMEX3> ausgegangen.
+
+In dessen Zuge ist eine intensive Nachverdichtung und ein weiterer Ausbau des Fernwärmenetzes in bestimmten Eignungsgebieten Mannheims geplant (vgl. hierzu Kap.
+
+4.1).
+
+Einen Rückbau der Fernwärme wird es hingegen nicht geben.
+
+Auch wenn Erdgas <TIMEX3 tid="t208" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> noch als Brückentechnologie zur Klimaneutralität, insbesondere in der Industrie, von Bedeutung sein wird, ist – auch unabhängig vom Ukraine-Krieg – absehbar, dass der fossile Energieträger perspektivisch auslaufen wird.
+
+Das wirft die Frage nach der Perspektive des Gasverteilnetzes auf.
+
+Im Industriesektor wird mit fossilen Gasen in KWK-Anlagen Strom und Prozesswärme zur Deckung des Eigenbedarfs z. B. bei Hochtemperaturanwendungen (Glas-, Zement-, Stahlherstellung, Petrochemie, usw.) erzeugt.
+
+Strombasierte Lösungen sind jedoch aufgrund von Limitationen bei der benötigten Temperatur nur teilweise geeignet.
+
+Neben Biomethan (vgl. Kap.
+
+3.2.1) könnten erneuerbare Gase, die durch Synthetisierung brennbarer Gase mittels überschüssiger elektrischer Energie, die aus regenerativen Quellen stammt, in <TIMEX3 tid="t209" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> einen Beitrag zur Dekarbonisierung des Wärmemarkts leisten.
+
+Diese Power-To-Gas genannten Technologien stehen <TIMEX3 tid="t210" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> stark in der Diskussion.
+
+Einige Dutzend Pilotprojekte sind bereits umgesetzt oder geplant.
+
+Im Fokus stehen synthetisches Methan und Wasserstoff.
+
+Wasserstoff wird dabei je nach Produktionsverfahren unterschieden.
+
+Die klimaneutralen Varianten sind im Wesentlichen „grüner“ Wasserstoff, der durch ein Elektrolyseverfahren aus Wasser unter Einsatz erneuerbarer Energien entsteht und „blauer“ Wasserstoff, der wie „grauer“ Wasserstoff durch Dampfreformierung aus Erdgas umgewandelt wird, dessen CO2 bei der Entstehung jedoch abgeschieden und gespeichert wird (Carbon Capture and Storage; kurz: CCS).
+
+Grundsätzlich ist im Laufe des Power-To-Gas-Verfahrens bei Wasserstoff mit energetischen Verlusten von ca. 30 %, bei synthetischem Methan über 40 % zu rechnen.
+
+Die Gasbeschaffenheit, die Qualität und die Bedingungen für einen Netzzugang sind in den Regelwerken des DVGW (Deutscher Verein des Gas- und Wasserfaches e. V.) festgelegt.28 Während synthetisches Methan mit der bestehenden Erdgasinfrastruktur kompatibel ist und umgehend transportiert und gespeichert werden kann, können nur bis zu 10 % des äußerst flüchtigen Wasserstoffs beigemischt werden, sofern keine kritischen Komponenten wie bspw. Gasturbinen und motoren oder Kavernen- bzw. Porenspeicher angeschlossen sind.
+
+Mit Blick auf diese Ausgangssituation, den hohen spezifischen Gestehungskosten von Wasserstoff, den Restriktionen hinsichtlich des verfügbaren erneuerbaren Stroms und des Gasverteilnetzes sowie dem regulatorischen Fokus auf die Wasserstoffverwendung in Sektoren, die sich nach <TIMEX3 tid="t211" type="DATE" value="PRESENT_REF">heutigem</TIMEX3> Stand der Technik kaum anders dekarbonisieren lassen (bspw. Industrieprozesse und Verkehrsbereiche wie der Fernlast-, Luft- und Schiffsverkehr), wurde für die KWP im Lenkungskreis entsprechend festgelegt, dass Wasserstoff für eine Anwendung in der Beheizung von Wohn-, Gewerbe- und öffentlichen Gebäuden <TIMEX3 tid="t212" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> nicht in Frage kommt.
+
+Die Wärmewendestrategie bildet die Schnittstelle zwischen der Erstellung des kommunalen Wärmeplans und dessen Umsetzung im Anschluss.
+
+Sie integriert gleichzeitig die Entwicklungsstrategien der verantwortlichen Akteure, allen voran der <PLACE id="p167" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> und dem mehrheitlich kommunalen Energieversorger MVV, aber auch der städtischen Wohnungsbaugesellschaften, der Netzbetreiberin MVV Netze, des Handwerks, von Eigentümer:innen, Gewerbetreibenden und Industrie.
+
+Um Akzeptanz und Engagement für die Wärmewende zu fördern und möglichst viele Akteure hinter der gemeinsamen Wärmewendestrategie zu vereinen, wurde im Rahmen der Wärmeplanerstellung von Beginn an Wert auf einen breiten und umfassenden Beteiligungsprozess gelegt (vgl. Kap.
+
+1.5).
+
+Die Wärmewendestrategie besteht aus diesen wesentlichen Bausteinen: 1.
+
+Ausweisung der Eignungsgebiete für die <TIMEX3 tid="t213" type="DATE" value="FUTURE_REF">künftige</TIMEX3> Wärmeversorgung 2.
+
+Klimaneutrales Zielszenario für <TIMEX3 tid="t214" type="DATE" value="2040">2040</TIMEX3> 3.
+
+Maßnahmenkatalog Im Weiteren werden die einzelnen Bausteine vertieft.
+
+Die Abgrenzung der Eignungsgebiete und deren Einteilung in Gebiete, in denen die Nutzung erneuerbarer Energien über ein Wärmenetz oder in denen dies dezentral mit Einzelheizungen erfolgt, wurde anhand von zahlreichen Bewertungskriterien vorgenommen: Städtebauliche und verwaltungstechnische Gliederung der <PLACE id="p168" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> unter Betrachvorwiegende Nutzungsarten (unterteilt in: Wohnen / Gemeinwesen / Gewerbe / Industrie), Wärmeverbrauchsdichten unter Einschätzung der Eignung für Wärmenetze (Einteilung nach Netzsituation im Bestand, insbesondere die Verfügbarkeit von Gas- und Wärmenetzen, Netzstrategie mit Blick auf maximale Transport- und Ausbaukapazitäten sowie technischer Oberste Prämisse ist hierbei ein Optimum im Dreiklang der Ziele Klimaneutralität, bestmöglihce Unterstützung der Bürgerschaft und Unternehmen sowie frühzeitige Schaffung von Planungssicherheit ohne Ausübung von Zwang.
+
+Die Feinabstimmung erfolgte in enger, iterativer Kollaboration und Diskussion im Lenkungskreis, um konkrete Projekte, Ausbaupläne, Gebietsentwicklungen und lokales Knowhow für die Schärfung der Eignungsgebietsausweisung zu nutzen.
+
+Zur Vorbereitung wurden tung von Gebäudebaualtersklassen, Leitfaden für kommunale Wärmepläne der KEA-BW), Restriktionen (z.
+
+B. Hydraulik) bestehender Leitungen, CO2-Minderungskosten, Ressourcenknappheit und Minimierung der Baustellenbelastung.
+
+Steckbriefe der einzelnen Eignungsgebiete mit konkreten Einteilungsvorschlägen sowie Übersichtskarten über die <TIMEX3 tid="t215" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Wärmeversorgung eingebracht.
+
+Im Zuge des Abstimmungsprozesses sind letztlich für die KWP in <PLACE id="p169" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> 57 Eignungsgebiete festgelegt worden, die in Abbildung 32 dargestellt sind.
+
+In Kap.
+
+2.1 werden die Gebiete hinsichtlich der städtebaulichen Struktur und den vorhandenen Baualtersklassen der Gebäude beschrieben.
+
+Die Daten des Gebäudealters sind in Baualtersklassen eingeteilt, die „<TIMEX3 tid="t216" type="DATE" value="1919" mod="BEFORE">vor 1919</TIMEX3>“, „<TIMEX3 tid="t217" type="DATE" value="1919">1919</TIMEX3>-<TIMEX3 tid="t218" type="DATE" value="1948">1948</TIMEX3>“, „<TIMEX3 tid="t219" type="DATE" value="1949">1949</TIMEX3>-<TIMEX3 tid="t220" type="DATE" value="1978">1978</TIMEX3>“, „<TIMEX3 tid="t221" type="DATE" value="1979">1979</TIMEX3>-<TIMEX3 tid="t222" type="DATE" value="1995">1995</TIMEX3>“, „<TIMEX3 tid="t223" type="DATE" value="1996">1996</TIMEX3>-<TIMEX3 tid="t224" type="DATE" value="2004">2004</TIMEX3>“ und „<TIMEX3 tid="t225" type="DATE" value="2005">2005</TIMEX3> und <TIMEX3 tid="t226" type="DATE" value="FUTURE_REF">später</TIMEX3>“ umfassen.
+
+In Abbildung 33 ist die Bestandssituation der Wärmeversorgung (im <TIMEX3 tid="t227" type="DATE" value="2020">Jahr 2020</TIMEX3>), unterteilt in die Kategorien  „vorwiegend fossile Brennstoffe“ (25): <PLACE id="p170" type="" geo="DEBKGGND00000NTI">Scharhof</PLACE>, <PLACE id="p171" type="" geo="DEBKGGND00000JIG">Blumenau</PLACE>, <PLACE id="p172" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE>, Sandhofen-Wald-„Mischgebiet fossile Brennstoffe / Fernwärme“ (16): Waldhof-Ost, <PLACE id="p173" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE> Gewerbege-„vorwiegend Fernwärme“ (16): <PLACE id="p174" type="" geo="DEBKGGND00004ND0">Coleman Barracks</PLACE>, Schönau-Nord, <PLACE id="p175" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE>, dargestellt.
+
+Die Einordnung bezieht sich auf den prozentualen Anteil der fernwärmeversorgten Gebäude innerhalb der Gebiete, der der Legende entnommen werden kann.
+
+hof-Gewerbegebiet, Schönau-Süd, <PLACE id="p176" type="" geo="DEBKGGND00000S4C">Gartenstadt</PLACE>, Friesenheimer Insel, Neckarstadt Hafengebiet, Waldhof-West, <PLACE id="p177" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE>, Speckweggebiet, Sonnenschein, <PLACE id="p178" type="" geo="DEBKGGND00000AK1">Wallstadt</PLACE>, <PLACE id="p179" type="" geo="DEBKGGND00002CZ3">Mühlauhafen</PLACE>, Pfeifferswörth, Feudenheim-Mitte, <PLACE id="p180" type="" geo="DEBKGGND00005CY9">Neuostheim</PLACE>, Suebenheim, Casterfeld, Mallau, Pfingstberg, <PLACE id="p181" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> Hafengebiet, <PLACE id="p182" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE>, <PLACE id="p183" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE> Gewerbegebiet, Alteichwald,  biet, Franklin, Herzogenried, Käfertal-Mitte, <PLACE id="p184" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE>, Straßenheim, Feudenheim-Nord, Feudenheim-Ost, <PLACE id="p185" type="" geo="DEBKGGND00005CXM">Almenhof</PLACE> Gewerbegebiet, <PLACE id="p186" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> Gewerbegebiet, <PLACE id="p187" type="" geo="DEBKGGND00005CXZ">Hochstätt</PLACE>, <PLACE id="p188" type="" geo="DEBKGGND00000NFK">Seckenheim</PLACE>, Rheinau-Süd, <PLACE id="p189" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> Wasserwerk, Rheinau-Mitte,  Neckarstadt-Nordost, Käfertal-Süd, Jungbusch, <PLACE id="p190" type="" geo="DEBKGGND00005CYA">Neckarstadt-Ost</PLACE>, Wohlgelegen, Innenstadt, Oststadt, <PLACE id="p191" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE>, <PLACE id="p192" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE>, <PLACE id="p193" type="" geo="DEBKGGND00005CXM">Almenhof</PLACE>, <PLACE id="p194" type="" geo="DEBKGGND00005CXT">Neuhermsheim</PLACE>, <PLACE id="p195" type="" geo="DEBKGGND00005CY3">Niederfeld</PLACE> und <PLACE id="p196" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE>, Ein wesentliches Ergebnis der kommunalen Wärmeplanung ist die Ausweisung von Eignungsgebieten für die <TIMEX3 tid="t228" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Wärmeversorgung in <TIMEX3 tid="t229" type="DATE" value="2040">2040</TIMEX3>.
+
+Diese Einteilung soll vor allem den Gebäudeeigentümer:innen und Investor:innen Orientierung bei der Beantwortung der Frage nach der nächsten Heizung geben.
+
+Da Klimaneutralität nur durch Energieeinsparung und Deckung des Restverbrauchs mit erneuerbaren Energien möglich ist, sind die Gebiete in die Kategorien „Fokus Umweltwärme und Wärmepumpe mit erneuerbarem Strom“ (26): <PLACE id="p197" type="" geo="DEBKGGND00000NTI">Scharhof</PLACE>, <PLACE id="p198" type="" geo="DEBKGGND00000JIG">Blumenau</PLACE>, <PLACE id="p199" type="" geo="DEBKGGND00000MGZ">Sandhofen</PLACE>, Sandhofen-Waldorf Gewerbegebiet, Schönau-Süd, <PLACE id="p200" type="" geo="DEBKGGND00000S4C">Gartenstadt</PLACE>, Friesenheimer Insel, Neckarstadt Hafengebiet, Waldhof-West, Waldhof-Ost, Speckweggebiet, Sonnenschein, Straßenheim, <PLACE id="p201" type="" geo="DEBKGGND00000AK1">Wallstadt</PLACE>, <PLACE id="p202" type="" geo="DEBKGGND00002CZ3">Mühlauhafen</PLACE>, Pfeifferswörth, Feudenheim-Mitte, <PLACE id="p203" type="" geo="DEBKGGND00005CY9">Neuostheim</PLACE>, <PLACE id="p204" type="" geo="DEBKGGND00000NFK">Seckenheim</PLACE>, Suebenheim, Mallau, Pfingstberg, <PLACE id="p205" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> Wasserwerk, <PLACE id="p206" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE>, <PLACE id="p207" type="" geo="DEBKGGND00000NIQ">Friedrichsfeld</PLACE> Gewerbegebiet, Alteichwald, „Mischgebiet“ (3): <PLACE id="p208" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE>, Casterfeld, <PLACE id="p209" type="" geo="DEBKGGND00001DV0">Rheinau</PLACE> Hafengebiet, „Fokus Wärmenetz“ (28): <PLACE id="p210" type="" geo="DEBKGGND00004ND0">Coleman Barracks</PLACE>, Schönau-Nord, <PLACE id="p211" type="" geo="DEBKGGND00005CXR">Luzenberg</PLACE> Gewerbegebiet, ausgewiesen.
+
+Die Einordnung ist zum einen vom <TIMEX3 tid="t230" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> prozentualen Anteil der Fernwärme (FW) sowie vom prognostizierten, prozentualen Zuwachs der Fernwärmeanschlüsse abgeleitet.
+
+Das bedeutet, dass bspw. ein Eignungsgebiet, das für die <TIMEX3 tid="t231" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Wärmeversorgungssituation in <TIMEX3 tid="t232" type="DATE" value="2020">2020</TIMEX3> als Mischgebiet einen FW-Anteil von 33 - 66 % verbucht, auf Grund eines vergleichsweise geringen FW-Ausbaus von unter 30 % für die <TIMEX3 tid="t233" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Wärmeversorgung in <TIMEX3 tid="t234" type="DATE" value="2040">2040</TIMEX3> als Fokusgebiet für dezentrale Wärmelösungen angezeigt ist.
+
+Mischgebiete sind als Gebiete zu verstehen, in denen neben einer Wärmenetzversorgung auch auf dezentrale Heizungstechnologien gesetzt wird, also zum <TIMEX3 tid="t235" type="DATE" value="PRESENT_REF">jetzigen Zeitpunkt</TIMEX3> keine eindeutige Einordnung sinnvoll war.
+
+Die Ergebnisse der Zuteilung für <TIMEX3 tid="t236" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> der Eignungsgebiete ist nachfolgender Abbildung zu entnehmen.
+
+Franklin, <PLACE id="p212" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE>, Neckarstadt-Nordost, Herzogenried, Käfertal-Mitte, Käfertal-Süd, <PLACE id="p213" type="" geo="DEBKGGND00000JNG">Vogelstang</PLACE>, Jungbusch, <PLACE id="p214" type="" geo="DEBKGGND00005CYA">Neckarstadt-Ost</PLACE>, Wohlgelegen, Feudenheim-Nord, Feudenheim-Ost, Innenstadt, Oststadt, <PLACE id="p215" type="" geo="DEBKGGND00005CY4">Schwetzingerstadt</PLACE>, <PLACE id="p216" type="" geo="DEBKGGND00005CY7">Lindenhof</PLACE>, <PLACE id="p217" type="" geo="DEBKGGND00005CXM">Almenhof</PLACE>, <PLACE id="p218" type="" geo="DEBKGGND00005CXM">Almenhof</PLACE> Gewerbegebiet, <PLACE id="p219" type="" geo="DEBKGGND00005CXT">Neuhermsheim</PLACE>, <PLACE id="p220" type="" geo="DEBKGGND00005CY3">Niederfeld</PLACE>, <PLACE id="p221" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE>, <PLACE id="p222" type="" geo="DEBKGGND00003JGD">Neckarau</PLACE> Gewerbegebiet, <PLACE id="p223" type="" geo="DEBKGGND00005CXZ">Hochstätt</PLACE>, Rheinau-Süd, Rheinau-Mitte, Die Gebiete mit dem Fokus auf dezentrale Lösungen befinden sich in eher peripheren Lagen des Stadtgebiets, wo die städtebauliche Dichte abnimmt und die Grundstücke und Freiflächen zwischen den insgesamt kleineren Gebäudetypen insgesamt größer ausfallen.
+
+Ökologische CO2-Reduktionspotenziale lassen sich durch den Wärmenetzausbau an anderer Stelle im Mannheimer Stadtgebiet deutlich günstiger erschließen.
+
+Die Versorgungsalternativen zu fossilen Erdgas- und Heizölheizungen bilden in diesen <TIMEX3 tid="t237" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> dezentral versorgten Eignungsgebieten u. a. Luft-Wasser-Wärmepumpen, Sole-Wasser-Wärmepumpen (Erdwärme), Wasser-Wasser-Wärmepumpen, Direktstromheizungen, Biomasse (z.
+
+B. Pellets, Holzvergaserkessel), ergänzend Solarthermie oder bivalente Hybrid-Heizsysteme zur schrittweisen Reduktion von CO2-Emissionen.
+
+Darüber hinaus können – idealerweise gemeinsam mit einem interessierten Ankerkunden mit großer Wärmeabnahme wie bspw. einer Schule – Machbarkeitsstudien für Wärmenetze Aufschluss darüber geben, ob kleinere Wärmenetze im Quartierskontext realisiert werden können.
+
+Wesentlich begünstigt wird eine wirtschaftliche Tragfähigkeit möglicher Wärmenetze durch eine hohe initiale Anschlussquote anliegender Gebäude.
+
+Mischgebiete sind bereits in Teilen mit Fernwärme erschlossen oder eine Teilerschließung ist <TIMEX3 tid="t238" type="DATE" value="FUTURE_REF">künftig</TIMEX3> angedacht.
+
+Straßenzüge, die keinen Wärmenetzanschluss erhalten, werden mit dezentralen Lösungen wie in den Gebieten mit Fokus auf Umweltwärme und Wärmepumpen versorgt.
+
+Die Entwicklung dieser Gebiete ist <TIMEX3 tid="t239" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> noch nicht <TIMEX3 tid="t240" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> abzuschätzen und sollte im Rahmen der regelmäßigen Fortschreibung des kommunalen Wärmeplans regelmäßig geprüft werden.
+
+In den Gebieten mit Fokus auf Zentrale Lösungen / Fernwärme soll der Ausbau oder die Verdichtung des Wärmenetzes vorangetrieben werden.
+
+<PLACE id="p224" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> verfügt bereits über einen starken Fernwärmenetzverbund, der von MVV betrieben wird.
+
+Ein vollständiger Wärmenetzanschluss wird jedoch auch in den Wärmenetzfokusgebieten nicht erreicht werden, da vereinzelt Lösungen wie Wärmepumpen, Biomasse- oder Direktstromheizungen installiert werden können.
+
+Steckbriefe zu den Eignungsgebieten Mit Hilfe von Steckbriefen (vgl. Anhang 3) werden wesentliche Informationen zur Beschreibung aller Eignungsgebieten in übersichtlicher Form zusammengefasst.
+
+Die Steckbriefe dienen zur Strukturierung des Stadtgebietes – von der Perspektive der Gesamtstadt hin zu den Quartieren als handhabbare Umsetzungsebene.
+
+Im Rahmen des Beteiligungsprozesses waren sie außerdem eine solide Diskussionsgrundlage und wurden im Erstellungsprozess der kommunalen Wärmeplanung iterativ aktualisiert.
+
+Die Steckbriefe bilden für jedes Eignungsgebiet in <PLACE id="p225" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> folgende Informationen ab:  Karte zur primären Nutzungsart (Unterteilung in Gemeinwesen, Gewerbe und Wohnen), Karte zur <TIMEX3 tid="t241" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> vorhandenen Wärmeversorgungsinfrastruktur (Gas- und Wärmenetze), Karte mit Wärmeverbrauchsdichte in Rasterdarstellung, Wärmeverbrauch im <TIMEX3 tid="t242" type="DATE" value="2020">Jahr 2020</TIMEX3> sowie prognostizierte Wärmeverbräuche für <TIMEX3 tid="t243" type="DATE" value="2030">die Jahre 2030</TIMEX3> und <TIMEX3 tid="t244" type="DATE" value="2040">2040,</TIMEX3> mögliche Ankerkunden für die Option eines Nahwärmenetzes, zwei Karten mit erneuerbaren Energiepotenzialen durch oberflächennahe Erdwärme sowie Solarenergie auf Dachflächen (auch Potenzialflächen für Freiflächen-Photovoltaik sind hier abgebildet), dezentrale Wärmeversorgungsoptionen und die Möglichkeit der Grundwasser-/Abwasserwärmenutzung.
+
+Die erste Seite des Steckbriefes befasst sich also mit der Ausgangssituation und den Kriterien für die Wärmenetzeignung, während sich die zweite Seite den Potenzialen der Eignungsgebiete widmet.
+
+In Abbildung 35 ist beispielhaft der Steckbrief des Eignungsgebiets „<PLACE id="p226" type="" geo="DEBKGGND00005CY1">Neckarstadt-West</PLACE>“ nördlich der Mannheimer Innenstadt dargestellt.
+
+Die Steckbriefe aller Eignungsgebiete können dem Anhang 3 entnommen werden.
+
+In § 27 KlimaG BW wird klargestellt, dass eine KWP ein klimaneutrales Szenario für <TIMEX3 tid="t245" type="DATE" value="2040">das Jahr 2040</TIMEX3> mit Zwischenziel für <TIMEX3 tid="t246" type="DATE" value="2030">das Jahr 2030</TIMEX3> zur <TIMEX3 tid="t247" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Entwicklung des Wärmebedarfs und der zur Bedarfsdeckung klimaneutralen Versorgungsstruktur erfordert.
+
+Das Zielszenario im Folgenden bildet dieses klimaneutrale <TIMEX3 tid="t248" type="DATE" value="FUTURE_REF">Zukunftsszenario</TIMEX3> entsprechend ab.
+
+Hierbei werden die prognostizierten Bedarfe (vgl. Kap.
+
+3.1) und die erneuerbaren Energiepotenziale (vgl. Kap.
+
+3.2) in einem städtischen Transformationspfad gebündelt.
+
+Hierzu werden für jedes Eignungsgebiet der <TIMEX3 tid="t249" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Energiemix für <TIMEX3 tid="t250" type="DATE" value="2030">2030</TIMEX3> und <TIMEX3 tid="t251" type="DATE" value="2040">2040</TIMEX3> abgeschätzt (Wärmeversorgungsszenario), der die Ausweisungsergebnisse der Eignungsgebiete (vgl. Kap.
+
+4.1) berücksichtigt.
+
+Über einen Zwischenschritt <TIMEX3 tid="t252" type="DATE" value="2030">2030</TIMEX3> wird der Energiemix nach und nach durch klimafreundliche Energieträger ersetzt.
+
+Für die Fernwärme wird der Transformationsplan zu Grunde gelegt (vgl. Kap.
+
+3.2.10).
+
+In Abbildung 36 ist die Endenergiebilanz und das Zielszenario für den Wärmesektor (in kWh/a), gegliedert nach Energieträgern dargestellt.
+
+Der Wert für <TIMEX3 tid="t253" type="DATE" value="2020">2020</TIMEX3> entspricht der Summe der Endenergieverbräuche aller Eignungsgebiete Mannheims für <TIMEX3 tid="t254" type="DATE" value="2020">das Jahr 2020</TIMEX3>.
+
+Die Energieträger Fernwärme, Erdgas, Heizöl, Luft-Wärmepumpen, Sole-Wärmepumpen (Erdwärme), Biomasse, Stromdirektheizung, synthetische Brennstoffe / H2, Solarthermie und sonstige fossile Brennstoffe sind für <TIMEX3 tid="t255" type="DATE" value="2020">die Jahre 2020</TIMEX3>, <TIMEX3 tid="t256" type="DATE" value="2030">2030</TIMEX3> und <TIMEX3 tid="t257" type="DATE" value="2040">2040</TIMEX3> relevant.
+
+Ziel der Wärmeplanung ist eine klimaneutrale Wärmeversorgung bis zum <TIMEX3 tid="t258" type="DATE" value="2040">Jahr 2040</TIMEX3>.
+
+Dazu ist eine Ablösung der fossilen Energieträger notwendig, weshalb die Anteile von Erdgas, Heizöl und sonstiger fossilen Energien in den Szenarien bis <TIMEX3 tid="t259" type="DATE" value="2030">2030</TIMEX3> zunächst deutlich gesenkt und bis <TIMEX3 tid="t260" type="DATE" value="2040">2040</TIMEX3> auf null reduziert werden.
+
+Durch Sanierungspotenziale und bessere Wirkungsgrade von Heizungstechnologien (z.
+
+B. Wärmepumpen) wird der Endenergiebedarf bzw. verbrauch <TIMEX3 tid="t261" type="DATE" value="FUTURE_REF">künftig</TIMEX3> deutlich rückläufig sein (müssen).
+
+Der geringe Anteil, den Wärmepumpen in Zukunft zur Endenergiebilanz beitragen, ist mit der hohen Effizienz der Technologie zu erklären.
+
+Je nach Wärmequelle wurden für Wärmepumpen Coefficients of Performance (COP; Effizienzkennzahl für Wärmepumpen) von 3,25 (Außenluft) und 3,8 (oberflächennahe Erdwärme) angenommen.
+
+Das heißt, dass eine kWh Strom in jeweils über drei kWh Wärme gewandelt werden.
+
+Der Anteil den die Wärmepumpen zur Deckung des Wärmebedarfs (Nutzenergie) beitragen ist also über drei Mal höher.
+
+Der Anteil der Fernwärme steigt durch konsequente Nachverdichtung und weiteren Ausbau im <TIMEX3 tid="t262" type="DATE" value="2030">Jahr 2030</TIMEX3> deutlich an, obwohl durch energetische Gebäudesanierungen der Endenergieverbrauch im Wärmemarkt insgesamt sinken wird.
+
+Letzterer Effekt schlägt sich bis zum Jahr 2040 dann mit einem insgesamt geringeren Fernwärmevolumen in der Bilanz nieder, wobei der Anteil der Fernwärme am Endenergieverbrauch im Wärmesektor bis dahin auf über 75 % steigt.
+
+Im <TIMEX3 tid="t263" type="DATE" value="2040">Jahr 2040</TIMEX3> stellt das Zielszenario einen Endenergieverbrauch im Wärmesektor von ca. 1.708 GWh dar, was einer Reduktion von ca. 52 % gegenüber <TIMEX3 tid="t264" type="DATE" value="2020">2020</TIMEX3> entspricht.
+
+Zur Berechnung der CO2-Emissionen (inkl. Äquivalente und Vorketten) für <TIMEX3 tid="t265" type="DATE" value="2030">2030</TIMEX3> und <TIMEX3 tid="t266" type="DATE" value="2040">2040</TIMEX3> wurden die CO2-Emissionswerte des Technikkataloges der KEA-BW herangezogen (vgl. Anhang 1).
+
+Hier wird auch ein CO2-Emissionsfaktor des prognostizierten Strommixes auf Grundlage des IINAS-Szenarios29 ausgewiesen, der für Wärmepumpen, deren Anteil bereits bis <TIMEX3 tid="t267" type="DATE" value="2030">2030</TIMEX3> deutlich steigt, und für Direktstromheizungen zur Anwendung kommt.
+
+Neben der Gebäudeeffizienz und dem Auslaufen der Energieträger Gas und Heizöl leistet also auch besonders die Dekarbonisierung der Stromerzeugung einen wesentlichen Beitrag zum Rückgang der Emissionen.
+
+Daher ist auch die Hebung lokaler erneuerbarer Stromerzeugungspotenziale z. B. aus PV und Wind (vgl. Kap.
+
+3.2.5 und 3.2.9) entscheidend.
+
+Die Wärmepumpen tragen wegen des <TIMEX3 tid="t268" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> noch höheren Anteils an erneuerbarem Strom und der – gegenüber einer Direktstrom-Nutzung – erhöhten Effizienz daher nur in sehr geringem Ausmaß zur CO2-Emissionsbelastung bei.
+
+Die Fernwärmeversorgung wurde auf Basis des Transformationsplanes der Fernwärme mit einem CO2-Emissionsfaktor von 0 g CO2/kWh ab <TIMEX3 tid="t269" type="DATE" value="2030">2030</TIMEX3> angenommen (vgl. Kap.
+
+3.2.10).
+
+Unter diesen ambitionierten Annahmen ist eine nahezu vollständige Klimaneutralität für den Wärmesektor in <PLACE id="p227" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> möglich, wie nachfolgende Abbildung zeigt.
+
+Im Wärmebereich wurden in <PLACE id="p228" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> in <TIMEX3 tid="t270" type="DATE" value="2020">2020</TIMEX3> insgesamt CO2-Emissionen von 793.602 t CO2 emittiert.
+
+Bis <TIMEX3 tid="t271" type="DATE" value="2030">2030</TIMEX3> ist ein Rückgang von ca. 77 % auf dann 180.611 t CO2/<TIMEX3 tid="t272" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> berechnet, bis <TIMEX3 tid="t273" type="DATE" value="2040">2040</TIMEX3> ein Rückgang von fast 99 % auf dann 11.466 t CO2/<TIMEX3 tid="t274" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Insbesondere ist das auf den Rückgang des Energieverbrauchs und der fossilen Energieträger Gas und Heizöl zurückzuführen, deren Verbrauch in <TIMEX3 tid="t275" type="DATE" value="2020">2020</TIMEX3> noch bei rund 60 % der Emissionen lag.
+
+Abbildung 38 zeigt das Szenario für CO2-Emissionen im <TIMEX3 tid="t276" type="DATE" value="2030">Jahr 2030</TIMEX3> unterteilt nach den einzelnen Sektoren Gemeinwesen, kommunale Liegenschaften, Gewerbe sowie Wohnen.
+
+Abbildung 39 zeigt das Szenario für CO2-Emissionen im <TIMEX3 tid="t277" type="DATE" value="2040">Jahr 2040</TIMEX3> unterteilt nach den einzelnen Sektoren Gemeinwesen, kommunale Liegenschaften, Gewerbe sowie Wohnen.
+
+Es wird deutlich, dass die CO2-Emissionen in <PLACE id="p229" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> auch in <TIMEX3 tid="t278" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> hauptsächlich in den Sektoren Wohnen und Industrie entstehen: in <TIMEX3 tid="t279" type="DATE" value="2040">2040</TIMEX3> entfallen noch rund 52 % der CO2-Emissionen auf den Sektor Wohnen und rund 27 % auf den Sektor Industrie.
+
+Dort liegen entsprechend die größten Reduktionspotenziale, weshalb im nächsten Unterkapitel das Handlungskonzept mitunter auf die Gebäudeeigentümer:innen zugeschnitten wurde und auch industrielle Ansätze zur Wasserstoffversorgung verfolgt.
+
+Das umsetzungsorientierte Handlungskonzept zur Unterstützung und Ermöglichung der Wärmewende in Mannnheim umfasst „harte“, d. h. investive und „weiche“, d. h. kommunikative Maßnahmen.
+
+Insgesamt wurden 17 Maßnahmen definiert, die sich in die sechs Maßnahmencluster „Wärmeverbrauch minimieren“, „Fernwärmenetz entwickeln“, „Dezentrale Lösungen unterstützen / Speichertechnologien“, „Planungssicherheit erzeugen“, „Erfolgskontrolle sicherstellen“ und „Flankierende, beschleunigende Aktivitäten“ gliedern.
+
+Es werden die Themenbereiche Fernwärmeversorgung 2.0, Wärmewende in den einzelnen Sektoren, übergeordneter Support und Öffentlichkeitsarbeit sowie Monitoring der Wärmewende abgedeckt.
+
+Der Maßnahmenkatalog befindet sich im Anhang 4.
+
+Er leitet sich vollständig aus den Zielen des Klimaschutzaktionsplanes ab.
+
+Die Zusammenhänge werden in der entsprechenden Beschlussvorlage V813/<TIMEX3 tid="t280" type="DATE" value="2023">2023</TIMEX3> dargestellt.
+
+Die KWP ist somit stringent kompatibel mit dem Leitbild der <PLACE id="p230" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> und dem Klimaschutzaktionsplan.
+
+Die Herausforderungen für eine klimaneutrale Wärmeversorgung in <PLACE id="p231" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> sind enorm.
+
+Der Ausstieg aus fossilen Energieträgern und der Einstieg in einen nachhaltigen Umgang mit Energie kann nicht von der Kommune allein bewältigt werden.
+
+Verhaltens-, Konsum- und Investitionsänderungen innerhalb der breiten Stadtgesellschaft sind erforderlich, um die Treibhausgasemissionen zu verringern.
+
+Hierbei sind auch Fragen nach der Wohnfläche pro Kopf relevant.
+
+Natürlich muss die lokale Klimaschutzstrategie Mannheims von nationalen und internationalen Regelungen eingerahmt sein, die zusätzliche Handlungsanreize bei allen Akteuren der Stadtgesellschaft fordern.
+
+Die Ausgangslage für <PLACE id="p232" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> ist jedoch sehr gut.
+
+Die <PLACE id="p233" type="" geo="DEBKGGND00001IG5">Stadt Mannheim</PLACE> betreibt seit <TIMEX3 tid="t281" type="DURATION" value="P15Y" mod="MORE_THAN">über 15 Jahren</TIMEX3> aktiv Klimaschutz und hat dieses Querschnittsthema in ihrer Verwaltungsstruktur und im Stadtkonzern institutionalisiert.
+
+Vorangetrieben werden die Klimaschutzstrategie und projekte von der Abteilung Klimaschutz im Fachbereich Klima, Natur, Umwelt im Dezernat V (Bürgerservice, Klima- und Umweltschutz, technische Betriebe), der gemeinnützigen Klimaschutzagentur <PLACE id="p234" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE>, die zentrale Akteurin für die Bewusstseinsstärkung und die Förderung von Klimaschutzmaßnahmen in der Mannheimer Stadtgesellschaft ist, und der Geschäftsstelle Local Green Deal.
+
+Bereits <TIMEX3 tid="t282" type="DATE" value="PRESENT_REF">heute</TIMEX3> unterstützt die Stadt ihre Bürger:innen mit Energieberatungsangeboten für Wohngebäude und Industrie/Gewerbe sowie mit vielfältigen städtischen Förderprogrammen, die u. a. die energetische Gebäudesanierung, die Heizungserneuerung oder die Installation von (Stecker-)Solaranlagen begünstigen.
+
+Zum <TIMEX3 tid="t283" type="DATE" value="2023" mod="END">Jahresende 2023</TIMEX3> hat der Gemeinderat zu Gunsten einer deutlichen Ausweitung und Erhöhung des städtischen Klimafonds entschieden, der seit <TIMEX3 tid="t284" type="DATE" value="2020">2020</TIMEX3> besteht.
+
+„Der Klimafonds wird nun bis einschließlich <TIMEX3 tid="t285" type="DATE" value="2030">2030</TIMEX3> auf <TIMEX3 tid="t286" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> 10 Millionen Euro aufgestockt.
+
+[…] Somit stehen von <TIMEX3 tid="t287" type="DATE" value="2024">2024</TIMEX3> bis <TIMEX3 tid="t288" type="DATE" value="2030">2030</TIMEX3> insgesamt bis zu 70 Millionen Euro zur Verfügung.“30 Dies ist nur ein weiteres Beispiel dafür, dass in <PLACE id="p235" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> vielfach am selben Strang gezogen wird.
+
+Darüber hinaus verfügt <PLACE id="p236" type="" geo="DEBKGGND00001IG5">Mannheim</PLACE> über eines der größten Fernwärmesysteme Europas, das sich im Eigentum des kommunalen Energieversorgers MVV befindet.
+
+Der #klimapositiv-Kurs der MVV wurde hinsichtlich seiner Klimaschutzziele und der daraus abgeleiteten Maßnahmen von der Science Based Target Initiative nach strengsten wissenschaftlichen Standards validiert und als Net-Zerokompatibel anerkannt.
+
+MVV war damit weltweit Vorreiter in der Energiebranche.
+
+Im Rahmen des Mannheimer Modells wird der effiziente Betrieb und der Ausbau des Wärmenetzes in <TIMEX3 tid="t289" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> ebenso konsequent vorangetrieben wie die Dekarbonisierung der Fernwärmeerzeugung bis <TIMEX3 tid="t290" type="DATE" value="2030">2030</TIMEX3>.
+
+Anlässlich der Bilanz-Pressekonferenz für <TIMEX3 tid="t291" type="DATE" value="2023">das Geschäftsjahr 2023</TIMEX3> erklärte der Vorstandsvorsitzende, dass das Tempo mit einem weiterentwickelten Mannheimer Modell erhöht wird und MVV bereits <TIMEX3 tid="t292" type="DATE" value="2035">2035</TIMEX3> – und damit <TIMEX3 tid="t293" type="DURATION" value="P5Y">fünf Jahre</TIMEX3> früher als ursprünglich geplant – klimapositiv wird.
+
+Gelingt es, die im KWP vorgeschlagenen Maßnahmen wirkungsvoll umzusetzen und alle notwendigen Gruppen zu aktivieren, wird die Wärmeversorgung bis zum <TIMEX3 tid="t294" type="DATE" value="2040">Jahr 2040</TIMEX3> vollständig dekarbonisiert sein.
+
+Trotz der sehr guten Voraussetzungen ist dies ein ambitioniertes Ziel.
+
+
+
+
+
+
+
+
+
+
+</TEXT></TimeML>

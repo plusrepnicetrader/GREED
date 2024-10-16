@@ -1,0 +1,320 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10506-Landesweite_Brutbestandserfassung_2022_im_Auftrag_der_LUBW_-_Landesanstalt_für_Umwelt_Baden-Württemb</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-03-01</TIMEX3></DCT>
+<TEXT>Die Kormoranverordnung (KorVO - Verordnung der Landesregierung zum Schutz der natürlich vorkommenden Tierwelt und zur Abwendung erheblicher fischereiwirtschaftlicher Schäden durch Kormorane) vom <TIMEX3 tid="t1" type="DATE" value="2010-07-20">20. Juli 2010</TIMEX3> sieht unter § 6 die Beobachtung der Bestandsentwicklung vor.
+
+Die LUBW – Landesanstalt für Umwelt <PLACE id="p1" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> - wurde mit der Erstellung und Umsetzung eines Konzeptes zur Beobachtung der Bestandsentwicklung beDie Zählungen <TIMEX3 tid="t2" type="DATE" value="2022">2022</TIMEX3> erfolgten, wie in <TIMEX3 tid="t3" type="DURATION" value="PXY">den Vorjahren</TIMEX3>, nach den einheitlichen Kriterien, wie in Südbeck et al. (<TIMEX3 tid="t4" type="DATE" value="2005">2005</TIMEX3>) beschrieben.
+
+Abweichend von den dort festgelegten Zählterminen <TIMEX3 tid="t5" type="DATE" value="XXXX-04" mod="END">Ende April</TIMEX3> und <TIMEX3 tid="t6" type="DATE" value="XXXX-05" mod="END">Ende Mai</TIMEX3>/<TIMEX3 tid="t7" type="DATE" value="XXXX-06" mod="START">Anfang Juni</TIMEX3> wurden eine Zählung <TIMEX3 tid="t8" type="DATE" value="XXXX-04" mod="START">Anfang April</TIMEX3> und eine Zählung <TIMEX3 tid="t9" type="DATE" value="XXXX-04" mod="END">Ende April</TIMEX3>/ <TIMEX3 tid="t10" type="DATE" value="XXXX-05" mod="START">Anfang Mai</TIMEX3> vorgeschrieben, um dem Umstand Rechnung zu tragen, dass bei späteren Terminen die Belaubung die Zählungen an vielen Standorten erheblich erschwert.
+
+Zähleinheit war das „besetzte Nest“, wobei unfertige Nester, die von einem Paar/Vogel besetzt waren, mitgezählt wurden.
+
+Die einzelnen Kolonien bzw. Einzelbrutstandorte sowie die Beobachtungsstandorte wurden über Karten oder GPS punktgenau (gegebenenfalls Mittelpunkt der Kolonie) eingemessen.
+
+Unabhängig eines Auftrags der LUBW organisierte die OGBW in <TIMEX3 tid="t11" type="DATE" value="2015">den Jahren 2015</TIMEX3> und <TIMEX3 tid="t12" type="DATE" value="2017">2017</TIMEX3>, nicht jedoch <TIMEX3 tid="t13" type="DATE" value="2019">2019</TIMEX3> und <TIMEX3 tid="t14" type="DATE" value="2021">2021</TIMEX3>, eine landesweite Erfassung der bekannten sowie der neu hinzu gekommenen Brutstandorte des Kormorans in den Landesgrenzen von <PLACE id="p2" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>.
+
+Die Methodik hat sich in <TIMEX3 tid="t15" type="DURATION" value="P2Y">diesen beiden Jahren</TIMEX3> gegenüber <TIMEX3 tid="t16" type="DURATION" beginPoint="t17" endPoint="t18" value="P4Y">den Jahren</TIMEX3> <TIMEX3 tid="t17" type="DATE" value="2011">2011</TIMEX3> bis <TIMEX3 tid="t18" type="DATE" value="2014">2014</TIMEX3> sowie <TIMEX3 tid="t19" type="DATE" value="2016">2016</TIMEX3> und <TIMEX3 tid="t20" type="DATE" value="2018">2018</TIMEX3> nicht verändert (siehe die entsprechenden Berichte <TIMEX3 tid="t21" type="DURATION" value="PXY">der vergangenen Jahre</TIMEX3>).
+
+Den Zählenden wurde es freigestellt, die Zählungen zusammen mit Personen von Fischereivereinen, verbänden und verwaltung durchzuführen.
+
+Wenn Brutkolonien nur schwer oder unzureichend von einer Stelle aus einsehbar waren, wurden weitere Beobauftragt.
+
+Die Erfassung des Brutbestandes erfolgt in einem <TIMEX3 tid="t22" type="SET" freq="EVERY" value="P2Y">zweijährigen Turnus</TIMEX3>.
+
+Nach einer Pause im <TIMEX3 tid="t23" type="DATE" value="2021">Jahr 2021</TIMEX3> wurde die Ornithologische Gesellschaft <PLACE id="p3" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (OGBW) mit der Koordination der Bestandserfassung im <TIMEX3 tid="t24" type="DATE" value="2022">Jahr 2022</TIMEX3> betraut.
+
+Die Zählungen sollten, wo möglich, wie auch in <TIMEX3 tid="t25" type="DURATION" beginPoint="t25" endPoint="t26" value="P4Y">den Jahren</TIMEX3> <TIMEX3 tid="t26" type="DATE" value="2011">2011</TIMEX3> bis <TIMEX3 tid="t27" type="DATE" value="2014">2014</TIMEX3> sowie <TIMEX3 tid="t28" type="DATE" value="2016">2016</TIMEX3>, <TIMEX3 tid="t29" type="DATE" value="2018">2018</TIMEX3> und <TIMEX3 tid="t30" type="DATE" value="2020">2020</TIMEX3>, zusammen mit den Ansprechpersonen von Fischereivereinen, verbänden und verwaltung durchgeführt werden.
+
+achtungsstandorte ausgewählt, bis von einer vollständigen Erfassung ausgegangen werden konnte.
+
+Teilweise ist eine Zählung nur durch Begehung des Koloniebereiches vollständig zu erfassen.
+
+In Einzelfällen war für die Zählung z.B. auch der Einsatz eines Bootes erforderlich.
+
+Bestandszahlen sind von verschiedenen Faktoren abhängig.
+
+Neben der tatsächlichen Bestandsentwicklung (Ab- und Zunahme der Brutpaare; siehe 3.0 Brutbestand in <PLACE id="p4" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> im <TIMEX3 tid="t31" type="DATE" value="2022">Jahr 2022</TIMEX3>) sind vor allem die Methodik und der <TIMEX3 tid="t32" type="SET" freq="EVERY" value="P1Y">jährliche</TIMEX3> Zeitpunkt der Zählung, aber auch die Erfahrung bei Bestandserfassungen entscheidend.
+
+Gegenüber <TIMEX3 tid="t33" type="DATE" value="2012">2012</TIMEX3> ergaben sich keine neuen Erkenntnisse, so dass auf den Jahresbericht <TIMEX3 tid="t34" type="DATE" value="2012">2012</TIMEX3> verwiesen wird (BoSchert <TIMEX3 tid="t35" type="DATE" value="2012">2012</TIMEX3>).
+
+Für die Zählungen wurden Beobachtungspunkte und mittel wie leistungsstarke Fernrohre ausgewählt, u.a. um erhebliche Störungen von anderen geschützten Arten auszuschließen.
+
+Führte die Berücksichtigung geschützter Arten dazu, dass an einem Brutkoloniestandort nicht alle Brutpaare gezählt werden konnten, so wurde dies in einem Protokoll mit Angabe der betroffenen Arten und einer Schätzung des Anteils der nicht einsehbaren Brutpaare festgehalten.
+
+Die Zählergebnisse wurden in einer Tabelle festgehalten, die zu jedem Zählgebiet Angaben enthält.
+
+Zur Vorbereitung für die gemeinsame Zählung mit Personen von Fischereivereinen,  verbänden und  verwaltung wurde der LUBW eine Liste übermittelt, auf der die Kontaktdaten der zählenden Personen der OGBW enthalten waren.
+
+Peter Baust, Daniel Doer, Oliver Harms, Matthias Hemprich, Detlef Koch, Daniel Kratzer, Klaus Lachenmaier, Frank Laier, Jochen Lehmann, Ulrich Mahler, Lisa Maier, Ronald Meinert, Felix Normann, Dieter Peter, Andreas Quell, Jörg Rathgeber, Jürgen Rupp, Bruno Schlenker, Wilfried Schmid, Bernd Schürenberg, Prof. Dr. Gernot Segelbacher, Alexander Stöhr, Christian Stohl, Hanns Werner, Dr. Stefan Werner, Prof. Dr. Michael Wink und Andreas Zeitler Mit den Ansprechpersonen bei Fischereivereinen, verbänden und verwaltung wurde im Vorfeld der Zählungen im <TIMEX3 tid="t36" type="DATE" value="2022-03">März 2022</TIMEX3> Kontakt aufgenommen, z.B. mit Reinhart, Sosat, Landesfischereiverband <PLACE id="p5" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, oder Felix Künemund, Staatliche Fischereiaufsicht <PLACE id="p6" type="" geo="DEBKGGND00002EB2">Regierungspräsidium Freiburg</PLACE>, um die gemeinsame Zählung zu besprechen.
+
+Dafür wurde eine Liste mit den Zählenden zu den jeweils im <TIMEX3 tid="t37" type="DATE" value="2022-03">März 2022</TIMEX3> bekannten Brutstandorten <TIMEX3 tid="t38" type="DURATION" value="PXY">der Vorjahre</TIMEX3> erstellt.
+
+<PLACE id="p7" type="" geo="DEBKGGND00001FSX">Rheinland-Pfalz</PLACE>: Thomas Dolich, GNOR - Gesellschaft für Naturschutz und Ornithologie <PLACE id="p8" type="" geo="DEBKGGND00001FSX">Rheinland-Pfalz</PLACE> e.V. <PLACE id="p9" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE>: Lisa Eichler, Hessisches Landesamt für Naturschutz, Umwelt und Geologie - Staatliche Vogelschutzwarte <PLACE id="p10" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> (siehe auch Kreuziger <TIMEX3 tid="t39" type="DATE" value="2022">2022</TIMEX3>) <PLACE id="p11" type="" geo="DEBKGGND00001H6V">Bayern</PLACE>: Stefan Kluth, Bayrisches Landesamt für Umweltschutz - Staatliche Vogelschutzwarte <PLACE id="p12" type="" geo="DEBKGGND00001H6V">Bayern</PLACE> Frankreich - Elsaß: Christian Dronneau, LPO Alsace - Ligue pour la Protection des Oiseaux - Délégation Alsace Österreich - Vorarlberg: Daniel Brudererund Dr. Stefan Werner OAB - Ornithologische Arbeitsgemeinschaft <PLACE id="p13" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> Schweiz - Thurgau und Aargau: Dr. Claudia Müller, Schweizerische Vogelwarte Sempach, Sempach Der Brutbestand in den Grenzen von <PLACE id="p14" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> belief sich im <TIMEX3 tid="t40" type="DATE" value="2022">Jahr 2022</TIMEX3> auf 1.776 Paare an 19 Brutstandorten.
+
+Die Brutstandorte verteilten sich auf die großen Flusssysteme <PLACE id="p15" type="" geo="DEBKGGND0000203T">Rhein</PLACE> (Ober- und Hochrhein), <PLACE id="p16" type="" geo="DEBKGGND00001Q26">Donau</PLACE> und <PLACE id="p17" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> sowie auf den <PLACE id="p18" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> (Abbildung 3.1, Tabelle  3.1).
+
+Am Oberen <PLACE id="p19" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> (Quellgebiet bis <PLACE id="p20" type="" geo="DEBKGGND00001C4C">Wendlingen</PLACE> - <PLACE id="p21" type="" geo="DEBKGGND00001J9H">Plochingen</PLACE>) bestand ein Brutplatz an den Wernauer Baggerseen mit 38 Paaren.
+
+Der <TIMEX3 tid="t41" type="DATE" value="2020">2020</TIMEX3> noch besetzte Brutplatz bei <PLACE id="p22" type="" geo="DEBKGGND00001C4C">Wendlingen</PLACE> war verwaist.
+
+Am Mittleren <PLACE id="p23" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> (<PLACE id="p24" type="" geo="DEBKGGND00001F7I">Esslingen</PLACE> bis <PLACE id="p25" type="" geo="DEBKGGND00001CJZ">Heilbronn</PLACE>) wurden zwei Brutbereiche an den Pleidelsheimer Baggerseen und bei <PLACE id="p26" type="" geo="DEBKGGND00001JYO">Offenau</PLACE> registriert mit 119 bzw. 15 Paaren.
+
+Am Unteren <PLACE id="p27" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> (<PLACE id="p28" type="" geo="DEBKGGND00001CJZ">Heilbronn</PLACE> bis Mündung) kommt ein Brutplatz bei <PLACE id="p29" type="" geo="DEBKGGND00001HWC">Zwingenberg</PLACE> mit acht Paaren hinzu (Tabelle.
+
+3.1).
+
+Am gesamten <PLACE id="p30" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> waren es im <TIMEX3 tid="t42" type="DATE" value="2022">Jahr 2022</TIMEX3> somit vier Brutplätze mit insgesamt 180 Paaren (Tabelle 3.1).
+
+Die einzigen bekannten Brutplätze an der <PLACE id="p31" type="" geo="DEBKGGND00001Q26">Donau</PLACE> bestehen nach wie vor auf der <PLACE id="p32" type="" geo="DEBKGGND00000YHT">Baar</PLACE> bei <PLACE id="p33" type="" geo="DEBKGGND00000MUV">Neudingen</PLACE>, wo <TIMEX3 tid="t43" type="DATE" value="2022">2022</TIMEX3> zwölf Paare notiert wurden, und bei <PLACE id="p34" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> mit sieben Paaren.
+
+Der Brutplatz bei <PLACE id="p35" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> war erstmals seit <TIMEX3 tid="t44" type="DATE" value="2011">2011</TIMEX3> wiederbesetzt (Tabelle 3.1).
+
+Am Oberrhein brütete der Kormoran im <TIMEX3 tid="t45" type="DATE" value="2022">Jahr 2022</TIMEX3> auf badischer Seite von Süden auf Höhe <PLACE id="p36" type="" geo="DEBKGGND00001DON">Kappel</PLACE> bis auf Höhe <PLACE id="p37" type="" geo="DEBKGGND00003EQB">Schwetzingen</PLACE> im Norden an acht Standorten mit zusammen mindestens 605 Paaren (Tabelle 3.1).
+
+Am Hochrhein bestand im <TIMEX3 tid="t46" type="DATE" value="2022">Jahr 2022</TIMEX3> kein Brutplatz mehr (Tabelle 3.1).
+
+Am badenwürttembergischen Teil des Bodensees brüteten <TIMEX3 tid="t47" type="DATE" value="2022">2022</TIMEX3> an fünf Brutstandorten zusammen 972 Paare (Tabelle 3.1).
+
+Die größte Kolonie in Baden-Württembergs mit 720 Paaren befand sich <TIMEX3 tid="t48" type="DATE" value="2022">2022</TIMEX3> am <PLACE id="p38" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> an der Lipbachmündung.
+
+In den übrigen Landesteilen lagen die größten Kolonien am Oberrhein mit über 100 Paaren am Kleinen <PLACE id="p39" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE>, bei <PLACE id="p40" type="" geo="DEBKGGND00000PSS">Honau</PLACE> und bei <PLACE id="p41" type="" geo="DEBKGGND00001DON">Kappel</PLACE>, am <PLACE id="p42" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> an den Pleidelsheimer Baggerseen sowie an zwei weiteren Standorten am <PLACE id="p43" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> (Tabelle 3.1).
+
+Ein Einzelbrutstandort befand sich am Oberrhein bei Maxau, kleine Kolonien mit weniger als zehn Paaren am Unteren <PLACE id="p44" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> bei <PLACE id="p45" type="" geo="DEBKGGND00001HWC">Zwingenberg</PLACE> mit acht und in <PLACE id="p46" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> auf der <PLACE id="p47" type="" geo="DEBKGGND00000YHT">Baar</PLACE> mit sieben Paaren (Tabelle 3.1).
+
+Die Zahlen an den übrigen Standorten in <PLACE id="p48" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> lagen dazwischen (Tabelle 3.1 und 3.2).
+
+Grenznah nisteten im Vorarlberger Rheindelta im <TIMEX3 tid="t49" type="DATE" value="2022">Jahr 2022</TIMEX3> 67 Paare.
+
+Ebenfalls grenznah zu <PLACE id="p49" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> kamen im Elsaß (<TIMEX3 tid="t50" type="DATE" value="2022">2022</TIMEX3> sechs Standorte mit 358 Paaren), in der <PLACE id="p50" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE> (<TIMEX3 tid="t51" type="DATE" value="2022">2022</TIMEX3> fünf Standorte mit 115 Paaren) und in <PLACE id="p51" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> (<TIMEX3 tid="t52" type="DATE" value="2022">2022</TIMEX3> ein Standort mit 94 Paaren) weitere Brutvorkommen hinzu.
+
+Im <TIMEX3 tid="t53" type="DATE" value="2021">Jahr 2021</TIMEX3> kam es erstmals an der Aare am Klingnauer Stausee in der Schweiz zu einer Ansiedlung.
+
+Im <TIMEX3 tid="t54" type="DATE" value="2022">Jahr 2022</TIMEX3> waren es hier zwei Paare (Tabelle 4.1).
+
+Als „grenznah zu <PLACE id="p52" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>“ werden solche Brutstandorte bezeichnet, die sich an den Grenzgewässern Oberrhein, Hochrhein oder <PLACE id="p53" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> außerhalb der Landesgrenzen befinden.
+
+In den grenznahen Gebieten in der <PLACE id="p54" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE>, in <PLACE id="p55" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> und in <PLACE id="p56" type="" geo="DEBKGGND00001H6V">Bayern</PLACE> ergaben sich keine (<PLACE id="p57" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE>, <PLACE id="p58" type="" geo="DEBKGGND00001H6V">Bayern</PLACE>) oder wenige (<PLACE id="p59" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE>) Veränderungen.
+
+Im Elsaß ist der Bestand angestiegen; ein Brutplatz kam hinzu.
+
+Am schweizerischen Ufer des Bodensees nahm der Brutbestand in der dort einzigen Brutkolonie um 177 auf 180 Paare zu (Tabelle 4.1).
+
+Der Bestand veränderte sich vom <TIMEX3 tid="t55" type="DATE" value="2018">Jahr 2018</TIMEX3> mit 1.243 Paaren auf 1.292 Paare im <TIMEX3 tid="t56" type="DATE" value="2020">Jahr 2020</TIMEX3> und <TIMEX3 tid="t57" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> auf 1.766 Paare; das sind 500 Paare mehr als <TIMEX3 tid="t58" type="DATE" value="2020">2020</TIMEX3> (Abbildung 5.1 und Tabel-Die auffälligsten Veränderungen bezüglich der Brutvorkommen ergaben sich am <PLACE id="p60" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE>, wo sich 77  % des badenwürttembergischen Bestandes am <PLACE id="p61" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> und 61,5 % des gesamten Bodenseebestandes an einem Standort, der Lipbach-Mündung, konzentrieren (Tabelle 3.1).
+
+Diese Kolonie beherbergt somit 42  % des landesweiten Bestandes.
+
+Im <PLACE id="p62" type="" geo="DEBKGGND00005IIG">Eriskircher Ried</PLACE>, das von <TIMEX3 tid="t59" type="DATE" value="2016">2016</TIMEX3> bis einschließlich <TIMEX3 tid="t60" type="DATE" value="2019">2019</TIMEX3> nicht besiedelt war, fanden <TIMEX3 tid="t61" type="DATE" value="2020">2020</TIMEX3> wieder Bruten statt; der Platz war jedoch im <TIMEX3 tid="t62" type="DATE" value="2022">Jahr 2022</TIMEX3> wieder verwaist.
+
+Weiterhin nicht besiedelt ist die bis dahin älteste Brutkolonie am <PLACE id="p63" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> im <PLACE id="p64" type="" geo="DEBKGGND00005EYB">Radolfzeller Aachried</PLACE>.
+
+Nachdem <TIMEX3 tid="t63" type="DATE" value="2019">2019</TIMEX3> noch ein Paar brütete, war der Standort im <TIMEX3 tid="t64" type="DATE" value="2020">Jahr 2020</TIMEX3> und <TIMEX3 tid="t65" type="DATE" value="2022">2022</TIMEX3> verwaist (siehe Kapitel Eingriffe unten).
+
+le 3.1).
+
+Ein Vergleich der Zahlen in den einzelnen Regionen zeigt ein differenzierteres Bild und unterschiedliche Entwicklungen (siehe 5.2 Bestandsentwicklung in verschiedenen Regionen in <PLACE id="p65" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>).
+
+Im <TIMEX3 tid="t66" type="DATE" value="2022">Jahr 2022</TIMEX3> war seit seiner Besiedlung im <TIMEX3 tid="t67" type="DATE" value="2015">Jahre 2015</TIMEX3> der Hochrhein auf badischer Seite nicht mehr besetzt.
+
+Dafür besteht seit <TIMEX3 tid="t68" type="DATE" value="2021">2021</TIMEX3> in der Schweiz grenznah zu <PLACE id="p66" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> ein neuer Brutplatz.
+
+In der Oberrheinebene wurden die Brutplätze im Weiherfeld nahe <PLACE id="p67" type="" geo="DEBKGGND00001JIR">Karlsruhe</PLACE> sowie bei <PLACE id="p68" type="" geo="DEBKGGND00000JKT">Marlen</PLACE>, die im <TIMEX3 tid="t69" type="DATE" value="2020">Jahr 2020</TIMEX3> erstmals besetzt waren, aufgegeben.
+
+An der <PLACE id="p69" type="" geo="DEBKGGND00001Q26">Donau</PLACE> war <TIMEX3 tid="t70" type="DATE" value="2022">2022</TIMEX3> der Brutplatz <PLACE id="p70" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> wiederbesetzt, ansonsten ergaben sich keine Veränderungen.
+
+Am oberen <PLACE id="p71" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> war es <TIMEX3 tid="t71" type="DATE" value="2022">2022</TIMEX3> mit den Wernauer Baggerseen noch ein Brutstandort, während am mittleren <PLACE id="p72" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> zwei neue Brutstandorte hinzukamen.
+
+Am unteren <PLACE id="p73" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> war der seit <TIMEX3 tid="t72" type="DATE" value="2016">2016</TIMEX3> bekannte Brutplatz wiederbesetzt.
+
+Die Eingriffe an den Brutplätzen während der Brutzeit haben Einfluss auf Bestandsentwicklung, Verteilung und Anzahl der Brutstandorte, wie die Beispiele im Jahresbericht <TIMEX3 tid="t73" type="DATE" value="2012">2012</TIMEX3> nahelegen (boSchert <TIMEX3 tid="t74" type="DATE" value="2012">2012</TIMEX3>).
+
+Im <PLACE id="p74" type="" geo="DEBKGGND00005EYB">Radolfzeller Aachried</PLACE> werden für das <TIMEX3 tid="t75" type="DATE" value="2018">Jahr 2018</TIMEX3> „ungeklärte Vorgänge“ angeführt, die während der Brutzeit zu einer Verlagerung von über 50 Brutpaaren aus dem <PLACE id="p75" type="" geo="DEBKGGND00005EYB">Radolfzeller Aachried</PLACE> in das <PLACE id="p76" type="" geo="DEBKGGND00005IPH">Wollmatinger Ried</PLACE> führten.
+
+Dieser älteste Brutplatz am <PLACE id="p77" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> beherbergte <TIMEX3 tid="t76" type="DATE" value="2019">2019</TIMEX3> noch ein Brutpaar und war <TIMEX3 tid="t77" type="DATE" value="2020">2020</TIMEX3> und <TIMEX3 tid="t78" type="DATE" value="2022">2022</TIMEX3> verwaist.
+
+Eventuell könnten auch natürliche Prozesse, wie das Absterben von Bäumen, als Ursache in Frage kommen (Werner et al. <TIMEX3 tid="t79" type="DATE" value="2019">2019</TIMEX3>).
+
+Natürliche Prozesse könnten auch für den Rückgang des Brutbestandes in der ältesten Brutkolonie des Kormorans in <PLACE id="p78" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> bei Karlsruhe-Maxau verantwortlich sein.
+
+Hier wurden am <TIMEX3 tid="t80" type="DATE" value="2020-04-06">6.April 2020</TIMEX3> 28 besetzte Nester gezählt (gegenüber 79 im <TIMEX3 tid="t81" type="DATE" value="2018">Jahr 2018</TIMEX3>, allerdings mit veränderter Erfassungsmethodik).
+
+Bei der zweiten Zählung am <TIMEX3 tid="t82" type="DATE" value="2020-05-03">3.Mai</TIMEX3> waren es noch vier besetzte Nester.
+
+Im <TIMEX3 tid="t83" type="DATE" value="2022">Jahr 2022</TIMEX3> war es noch ein Paar, an einem anderen Standort als in <TIMEX3 tid="t84" type="DURATION" value="PXY">den Jahren zuvor</TIMEX3>.
+
+Es ist nicht gänzlich ausgeschlossen, dass Störungen oder anderweitige Eingriffe stattfanden, die zu einer Abnahme des Bestandes während der Brutzeit bzw. zum Rückgang gegenüber <TIMEX3 tid="t85" type="DURATION" value="PXY">den Vorjahren</TIMEX3> führten.
+
+Der deutliche Rückgang könnte jedoch auch mit dem Alter der Bäume zusammenhängen und in der Folge Umsiedlungen in andere Kolonien - vor allem an den Brutplatz am Kleinen <PLACE id="p79" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> ungefähr fünf Kilometer Luftlinie in nordöstlicher Richtung - ausgelöst haben.
+
+An diesem Standort liegt der Bestand seit der Besiedlung im <TIMEX3 tid="t86" type="DATE" value="2017">Jahr 2017</TIMEX3> über dem Bestandsniveau der Kolonie in Maxau <TIMEX3 tid="t87" type="DATE" value="201">der 2010er Jahre</TIMEX3>.
+
+Am <PLACE id="p80" type="" geo="DEBKGGND00005K0R">Altrhein</PLACE> <PLACE id="p81" type="" geo="DEBKGGND00000X2M">Wyhlen</PLACE> kam es im Naturschutzgebiet, in welchem die Kormorane brüten, am <TIMEX3 tid="t88" type="DATE" value="2020-05-10">10. Mai 2020</TIMEX3> zu einer massiven Störung durch ein Schlauchboot.
+
+Nach diesem Ereignis waren die Nester bis auf eines verlassen.
+
+Ein Zusammenhang ist nicht ausgeschlossen, zumal in den <TIMEX3 tid="t89" type="DURATION" value="P2Y">beiden Folgejahren</TIMEX3> keine Bruthinweise mehr festgestellt wurden und gleichzeitig eine Neuansiedlung auf der schweizerischen Seite registriert wurde.
+
+Im Flusssystem des Rheins belief sich der Brutbestand im <TIMEX3 tid="t90" type="DATE" value="2022">Jahr 2022</TIMEX3> auf badischer Seite auf mindestens 605 Paare und damit um 113 Paare mehr als <TIMEX3 tid="t91" type="DATE" value="2020">2020</TIMEX3>, jedoch um 21 Paare weniger als <TIMEX3 tid="t92" type="DATE" value="2018">2018</TIMEX3> (Tabelle 3.1, Abbildung 5.2).
+
+Abseits des Oberrheins auf badischer Seite bestand <TIMEX3 tid="t93" type="DATE" value="2020">2020</TIMEX3> erstmals seit <TIMEX3 tid="t94" type="DATE" value="2005">2005</TIMEX3>, dort einmalig im <PLACE id="p82" type="" geo="DEBKGGND00005F4H">Weingartener Moor</PLACE>, wieder ein Brutplatz in einem Waldstück bei Karlsruhe-Weiherfeld mit zwei Brutpaaren; der Platz war jedoch <TIMEX3 tid="t95" type="DATE" value="2022">2022</TIMEX3> wieder aufgegeben, da zumindest ein Teil der Brutbäume durch einen Sturm umgestürzt waren (Mitt.
+
+J. Rathgeber).
+
+Die <PLACE id="p83" type="" geo="DEBKGGND00001Q26">Donau</PLACE> ist innerhalb von <PLACE id="p84" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> weiterhin nur auf der <PLACE id="p85" type="" geo="DEBKGGND00000YHT">Baar</PLACE> bei <PLACE id="p86" type="" geo="DEBKGGND00000MUV">Neudingen</PLACE> und <PLACE id="p87" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> besiedelt.
+
+Der Bestand schwankt bei <PLACE id="p88" type="" geo="DEBKGGND00000MUV">Neudingen</PLACE> seit der Besiedlung im <TIMEX3 tid="t96" type="DATE" value="2009">Jahr 2009</TIMEX3> zwischen einem Paar und <TIMEX3 tid="t97" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> zwölf Paaren bei einem zwischenzeitlichen Höchststand von 19 Paaren <TIMEX3 tid="t98" type="DATE" value="2018">2018</TIMEX3>.
+
+Der Brutplatz bei <PLACE id="p89" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> ist nur unregelmäßig besetzt.
+
+Am gesamten <PLACE id="p90" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> hat der Bestand von 501 Paaren im <TIMEX3 tid="t99" type="DATE" value="2018">Jahr 2018</TIMEX3> auf 677 Paare <TIMEX3 tid="t100" type="DATE" value="2020">2020</TIMEX3> und 1.219 Paare im <TIMEX3 tid="t101" type="DATE" value="2022">Jahr 2022</TIMEX3> zugenommen.
+
+An der Lipbachmündung bei Immenstaad besteht mit 750 Paaren weiterhin die größte Brutkolonie des Kormorans in <PLACE id="p91" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (Tabelle 3.1, Abbildung 5.3).
+
+Die Bestandsentwicklung am <PLACE id="p92" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> seit <TIMEX3 tid="t102" type="DATE" value="2003">2003</TIMEX3> ist Abbildung 5.4 zu entnehmen.
+
+Der Bestand betrug im <TIMEX3 tid="t103" type="DATE" value="2022">Jahr 2022</TIMEX3> 181 Paare, die sich auf vier Standorte verteilten.
+
+Er lag mit Außerhalb der Gewässersysteme von <PLACE id="p93" type="" geo="DEBKGGND0000203T">Rhein</PLACE> einschließlich <PLACE id="p94" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE>, <PLACE id="p95" type="" geo="DEBKGGND00001Q26">Donau</PLACE> und <PLACE id="p96" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> sind <TIMEX3 tid="t104" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> keine Brutplätze des Kormorans bekannt.
+
+Mehrere Brutstandorte, wie neun Paaren über dem bisher höchsten Wert von <TIMEX3 tid="t105" type="DATE" value="2016">2016</TIMEX3>, was vor allem auf die (neuen) Brutplätze am Mittleren <PLACE id="p97" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> zurückgeht (Tabelle 3.1; Abbildung 3.1).
+
+z.B. am <PLACE id="p98" type="" geo="DEBKGGND000021U0">Kocher</PLACE>, sind als vorübergehende Ansiedlung von Einzelpaaren einzustufen (Abbildungen 5.5 und 5.6).
+
+Entlang des Rheins belief sich der Brutbestand im Elsaß, in der <PLACE id="p99" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE> und in <PLACE id="p100" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> im <TIMEX3 tid="t106" type="DATE" value="2022">Jahr 2022</TIMEX3> auf mindestens 209 Paare.
+
+Ein Vergleich zu <TIMEX3 tid="t107" type="DATE" value="2020">2020</TIMEX3> ist aufgrund einer fehlenden Zählung in einer großen Kolonie im Elsaß nicht möglich.
+
+Im Vergleich zu <TIMEX3 tid="t108" type="DATE" value="2018">2018</TIMEX3> waren es 15 Paare mehr (Tabelle 4.1, Abbildung 5.2).
+
+Im Elsaß stieg nach der Besiedlung im <TIMEX3 tid="t109" type="DATE" value="2001">Jahr 2001</TIMEX3> der Bestand entlang des Rheins bis <TIMEX3 tid="t110" type="DATE" value="2008">2008</TIMEX3> auf 132 Paare an und erreichte im <TIMEX3 tid="t111" type="DATE" value="2012">Jahr 2012</TIMEX3> mit 183 Paaren ein Maximum.
+
+In <TIMEX3 tid="t112" type="DURATION" value="PXY">den Jahren</TIMEX3> danach schwankte der Bestand zwischen 141 Paaren <TIMEX3 tid="t113" type="DATE" value="2013">2013</TIMEX3> und 178 Paaren 2015, bevor im <TIMEX3 tid="t114" type="DATE" value="2018">Jahr 2018</TIMEX3> mit 219 Paaren ein neues Maximum erreicht wurde.
+
+Der Bestand ist in <TIMEX3 tid="t115" type="DURATION" value="PXY">den Jahren</TIMEX3> danach angestiegen, lässt sich jedoch, da <TIMEX3 tid="t116" type="DATE" value="2020">2020</TIMEX3> und <TIMEX3 tid="t117" type="DATE" value="2022">2022</TIMEX3> Zählungen in wichtigen Kolonien nicht stattfanden, nicht abschließend klären.
+
+Im <TIMEX3 tid="t118" type="DATE" value="2022">Jahr 2022</TIMEX3> wurden 358 Paare gemeldet.
+
+Im Gegensatz zur badischen, aber auch zur pfälzischen bzw. zur hessischen Oberrheinebene (bei letzterer <TIMEX3 tid="t119" type="DATE" value="2013">2013</TIMEX3> eine Ausnahme) gab es auf elsässischer Seite abseits des Rheins <TIMEX3 tid="t120" type="DATE" value="2015">2015</TIMEX3> einen Brutplatz, <TIMEX3 tid="t121" type="DATE" value="2016">2016</TIMEX3> und <TIMEX3 tid="t122" type="DATE" value="2017">2017</TIMEX3> jeweils zwei Brutplätze und <TIMEX3 tid="t123" type="DATE" value="2018">2018</TIMEX3> einen Brutplatz in einer Entfernung von 15 bis 30 km zum Oberrhein mit einem Bestand von 66 Paaren im <TIMEX3 tid="t124" type="DATE" value="2022">Jahr 2022</TIMEX3>.
+
+Es handelt sich dabei um den einzigen Brutplatz, der dauerhaft über <TIMEX3 tid="t126" type="DURATION" value="PXY">mehrere Jahre</TIMEX3> hinweg besiedelt ist.
+
+Im benachbarten <PLACE id="p101" type="" geo="DEBKGGND00001FSX">Rheinland-Pfalz</PLACE> schwankte der Brutbestand seit <TIMEX3 tid="t127" type="DATE" value="2005">2005</TIMEX3>, nahm jedoch zu <TIMEX3 tid="t128" type="DATE" value="201" mod="START">Beginn der 2010er Jahre</TIMEX3> zu und erreichte <TIMEX3 tid="t129" type="DATE" value="2021">2021</TIMEX3> mit 541 Paaren den bisherigen Höchststand (dolich und Wagner <TIMEX3 tid="t130" type="DATE" value="2020">2020</TIMEX3>, <TIMEX3 tid="t131" type="DATE" value="2021">2021</TIMEX3>, <TIMEX3 tid="t132" type="DATE" value="2022">2022</TIMEX3>; th.
+
+dolich schriftl.
+
+Mitt.).
+
+In der grenznahen Kolonie in der <PLACE id="p102" type="" geo="DEBKGGND00005ENL">Hördter Rheinaue</PLACE> ging der Bestand von einem Maximum von 135 Paaren <TIMEX3 tid="t133" type="DATE" value="2004">2004</TIMEX3> stetig zurück auf 99 Paare <TIMEX3 tid="t134" type="DATE" value="2011">2011</TIMEX3> bzw. 102 Paare <TIMEX3 tid="t135" type="DATE" value="2012">2012</TIMEX3> und brach <TIMEX3 tid="t136" type="DATE" value="2013">2013</TIMEX3> um die Hälfte auf 51 Paare ein, bevor er <TIMEX3 tid="t137" type="DATE" value="2014">2014</TIMEX3> mit 97 Paaren wieder das bisherige Niveau erreichte.
+
+Danach ging er erneut auf den <TIMEX3 tid="t138" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Tiefststand von 46 Paaren im <TIMEX3 tid="t139" type="DATE" value="2020">Jahr 2020</TIMEX3> und 50 Paare <TIMEX3 tid="t140" type="DATE" value="2022">2022</TIMEX3> zurück (th.
+
+dolich schriftl.
+
+Mitt.).
+
+Ein zuletzt im <TIMEX3 tid="t141" type="DATE" value="2002">Jahr 2002</TIMEX3> besetzter Standort, die Mechtersheimer Tongruben, wurde <TIMEX3 tid="t142" type="DATE" value="2014">2014</TIMEX3> wieder besiedelt.
+
+Hier stieg der Bestand nach je einem Brutpaar in <TIMEX3 tid="t143" type="DATE" value="2014">den Jahren 2014</TIMEX3> und <TIMEX3 tid="t144" type="DATE" value="2015">2015</TIMEX3> auf <TIMEX3 tid="t145" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> 61 Paare an (Wagner, <TIMEX3 tid="t146" type="DATE" value="2018">2018</TIMEX3>; th.
+
+dolich schriftl.
+
+Mitt.).
+
+In <PLACE id="p103" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> ging der landesweite Brutbestand seit <TIMEX3 tid="t147" type="DATE" value="2004">2004</TIMEX3> von 569 Paaren auf unter 400 Paare <TIMEX3 tid="t148" type="DATE" value="2011">2011</TIMEX3> deutlich zurück.
+
+Seither bewegt er sich um die 400 Paare; <TIMEX3 tid="t149" type="DATE" value="2022">2022</TIMEX3> waren es 424 Paare (kreuziger <TIMEX3 tid="t150" type="DATE" value="2022">2022</TIMEX3>).
+
+Auch am <PLACE id="p104" type="" geo="DEBKGGND00004I85">Lampertheimer Altrhein</PLACE> an der Grenze zu Baden sank der Bestand seit dem Höchststand <TIMEX3 tid="t151" type="DATE" value="199" mod="MID">Mitte der 1990er</TIMEX3> bzw. zu <TIMEX3 tid="t152" type="DATE" value="200" mod="START">Beginn der 2000er Jahre</TIMEX3> mit mehrfach über 300 Paare auf 108 Paare im <TIMEX3 tid="t153" type="DATE" value="2011">Jahr 2011</TIMEX3>.
+
+Seither bewegt sich die Brutpaarzahl auf diesem Niveau, sank aber <TIMEX3 tid="t154" type="DATE" value="2015">2015</TIMEX3> erstmals unter 100 Paare (<TIMEX3 tid="t155" type="DATE" value="2012">2012</TIMEX3> 113 Paare, <TIMEX3 tid="t156" type="DATE" value="2013">2013</TIMEX3> 103 Paare, <TIMEX3 tid="t157" type="DATE" value="2014">2014</TIMEX3> 111 Paare, <TIMEX3 tid="t158" type="DATE" value="2015">2015</TIMEX3> 97 Paare und <TIMEX3 tid="t159" type="DATE" value="2016">2016</TIMEX3> 100 Paare) und bewegt sich auch <TIMEX3 tid="t160" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> in diesem Bereich; <TIMEX3 tid="t161" type="DATE" value="2022">2022</TIMEX3> waren es 94 Paare (Tabelle 3.1; kreuziger <TIMEX3 tid="t162" type="DATE" value="2022">2022</TIMEX3>).
+
+In <PLACE id="p105" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> waren nur ausnahmsweise, u.a. im <TIMEX3 tid="t163" type="DATE" value="2013">Jahr 2013</TIMEX3> und <TIMEX3 tid="t164" type="DATE" value="2018">2018</TIMEX3>, Brutplätze abseits des Rheines bekannt (M.
+
+Werner, schriftl.
+
+Mitt.).
+
+An der Grenze zu <PLACE id="p106" type="" geo="DEBKGGND00001H6V">Bayern</PLACE> ergab sich gegenüber den Ausführungen im Bericht aus <TIMEX3 tid="t165" type="DATE" value="2013">dem Jahr 2013</TIMEX3> keine Veränderungen in der Verteilung der weiter entfernt zu den Grenzen Baden-Württembergs liegenden Kolonien, weshalb auf diesen verwiesen wird (boSchert <TIMEX3 tid="t166" type="DATE" value="2013">2013</TIMEX3>).
+
+Am Aare-Stausee in der Schweiz kam es grenznah erstmals <TIMEX3 tid="t167" type="DATE" value="2021">2021</TIMEX3> zu einer Neuansiedlung.
+
+Im <TIMEX3 tid="t168" type="DATE" value="2022">Jahr 2022</TIMEX3> waren es dort zwei Paare.
+
+Am schweizerischen und österreichischen Teil des Bodensees hat der Bestand von 75 bzw. 70 Paaren in <TIMEX3 tid="t169" type="DATE" value="2018">den Jahren 2018</TIMEX3> und <TIMEX3 tid="t170" type="DATE" value="2020">2020</TIMEX3> um 172 bzw. 177 Paare auf 247 Paare im <TIMEX3 tid="t171" type="DATE" value="2022">Jahr 2022</TIMEX3> zugenommen (Tabelle 4.1, Abbildung 5.3).
+
+Grenznah zu <PLACE id="p107" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> befand sich in <TIMEX3 tid="t172" type="DATE" value="2022">diesem Jahr</TIMEX3> eine Kolonie mit knapp 100 Paaren in <PLACE id="p108" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE> am <PLACE id="p109" type="" geo="DEBKGGND00004I85">Lampertheimer Altrhein</PLACE> (Tabelle 3.2 und 4.1) sowie zwei bei Beinheim und Ottmarsheim im Elsaß.
+
+Am <PLACE id="p110" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> bestanden außerhalb der Grenzen von <PLACE id="p111" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> im Vorarlberger Rheindelta und in der Luxburger Bucht zwei Kolonien mit 67 bzw. 180 Paaren (Tabelle 4.1).
+
+Die kleinsten grenznahen Kolonien befanden sich am Oberrhein in der <PLACE id="p112" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE> (Hinterer <PLACE id="p113" type="" geo="DEBKGGND00005E5G">Roxheimer Altrhein</PLACE> und Roxheimer Sportplatzweiher mit jeweils einem Paar; (Tabelle 3.2 und 4.1) sowie am Hochrhein am Klingnauer Stausee, Schweiz, mit zwei Paaren.
+
+Die Zahlen an den übrigen Standorten lagen dazwischen (Tabelle 3.2 und 4.1).
+
+In der zu <PLACE id="p114" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> grenznah gelegenen Brutkolonie bei Kembs im Elsaß scheinen „Regulierungsabschüsse“ stattgefunden zu haben, die zu einem Verlassen der Kolonie geführt haben (ch.
+
+dronneau schriftl.
+
+Mitt.) und in der Folge zu einer Umsiedlung nach Ottmarsheim und in die Petite Camargue.
+
+Im Vorarlberger Rheindelta wird seit <TIMEX3 tid="t173" type="DATE" value="2004">2004</TIMEX3> nahezu <TIMEX3 tid="t174" type="SET" freq="EVERY" value="P1Y">alljährlich</TIMEX3> (Ausnahmen <TIMEX3 tid="t175" type="DATE" value="2005">2005</TIMEX3> und <TIMEX3 tid="t176" type="DATE" value="2009">2009</TIMEX3>) behördlich bewilligt, aktiv, u.a. mit Fällung von Brutbäumen bis zum <TIMEX3 tid="t177" type="SET" freq="EVERY" value="XXXX-04-30">30. April</TIMEX3> oder Abschuss bis zum <TIMEX3 tid="t178" type="SET" freq="EVERY" value="XXXX-05-31">31. Mai</TIMEX3>, oder passiv, z.B. mit optischen Vergrämungen, in die Brutvorkommen eingegriffen.
+
+Diese <TIMEX3 tid="t179" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> massiven Eingriffe dürften Auswirkungen auf die Ansiedlung und die Bestandsentwicklung zumindest am <PLACE id="p115" type="" geo="DEBKGGND00005DHK">Obersee</PLACE> haben, wo in der Lipbach-Mündung, aber auch in der Luxburger Bucht, nachdem sich dort <TIMEX3 tid="t180" type="DATE" value="2019">2019</TIMEX3> Kormorane angesiedelt haben, und an der <PLACE id="p116" type="" geo="DEBKGGND000025T3">Seefelder Aach</PLACE> jeweils ein sehr starker Bestandsanstieg zu verzeichnen war.
+
+In diesem Zusammenhang müssen auch die <TIMEX3 tid="t181" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> Abschüsse in <PLACE id="p117" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, die sich auf den Brutbestand und das Ansiedlungsverhalten auswirken können, betrachtet werden.
+
+In <PLACE id="p118" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> wurden im <TIMEX3 tid="t182" type="DATE" value="2005-WI">Winter 2005</TIMEX3>/<TIMEX3 tid="t183" type="DATE" value="2006">2006</TIMEX3> mit 1.227 Kormoranen erstmals über 1.000 Individuen dieser Art geschossen, seit <TIMEX3 tid="t184" type="DATE" value="2008-WI">dem Winter 2008</TIMEX3>/<TIMEX3 tid="t185" type="DATE" value="2009">2009</TIMEX3> sind es <TIMEX3 tid="t186" type="SET" freq="EVERY" value="P1Y">alljährlich</TIMEX3> über 1.000 Vögel.
+
+Eine Zusammenstellung der Abschüsse für den Zeitraum <TIMEX3 tid="t187" type="DATE" value="1996">1996</TIMEX3>/<TIMEX3 tid="t188" type="DATE" value="1997">1997</TIMEX3> bis <TIMEX3 tid="t189" type="DATE" value="2020">2020</TIMEX3>/<TIMEX3 tid="t190" type="DATE" value="2021">2021</TIMEX3> findet sich bei gayer-SiSSegger (2022).
+
+Zwischen <TIMEX3 tid="t191" type="DATE" value="2020-04-01">1.April 2020</TIMEX3> und <TIMEX3 tid="t192" type="DATE" value="2021-03-31">31. März 2021</TIMEX3> wurden demnach insgesamt 1.806 erlegte Kormorane gemeldet.
+
+Seit der <TIMEX3 tid="t193" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Ansiedlung des Kormorans in <PLACE id="p119" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> im <TIMEX3 tid="t194" type="DATE" value="1994">Jahr 1994</TIMEX3> stieg der Anteil des Landes- am Bundesbestand von 0,03 % stetig an und erreicht im <TIMEX3 tid="t195" type="DATE" value="2018">Jahr 2018</TIMEX3> mit 5,1  % den bisher höchsten Anteil; <TIMEX3 tid="t196" type="DATE" value="2020">2020</TIMEX3> waren 4,8  % (J.
+
+kieckbuSch mdl.
+
+Mittl.; kieckbuSch und knief <TIMEX3 tid="t197" type="DATE" value="2007">2007</TIMEX3>, kieckbuSch <TIMEX3 tid="t198" type="DATE" value="2010">2010</TIMEX3>; Abbildung 7.1).
+
+Für <TIMEX3 tid="t199" type="DATE" value="2021">2021</TIMEX3> und <TIMEX3 tid="t200" type="DATE" value="2022">2022</TIMEX3> kann der Anteil aufgrund fehlender Gesamtzahlen für <PLACE id="p120" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (<TIMEX3 tid="t201" type="DATE" value="2021">2021</TIMEX3>) bzw. für <PLACE id="p121" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> (<TIMEX3 tid="t202" type="DATE" value="2022">2022</TIMEX3>) nicht bzw. noch nicht angegeben werden, dürfte jedoch in der bisherigen Größenordnung liegen.
+
+Die Brutstandorte in <PLACE id="p122" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> verteilten sich im <TIMEX3 tid="t203" type="DATE" value="2022">Jahr 2022</TIMEX3> wieder auf die großen Flusssysteme (Ober-) <PLACE id="p123" type="" geo="DEBKGGND0000203T">Rhein</PLACE>, <PLACE id="p124" type="" geo="DEBKGGND00001Q26">Donau</PLACE> und <PLACE id="p125" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> sowie auf den <PLACE id="p126" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE>.
+
+Außerhalb dieser Gewässersysteme gab es keine Vorkommen.
+
+Der Brutbestand in den Grenzen von <PLACE id="p127" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> belief sich im <TIMEX3 tid="t204" type="DATE" value="2022">Jahr 2022</TIMEX3> auf 1.776 Paare an 19 Brutstandorten, das sind 500 Paare mehr als <TIMEX3 tid="t205" type="DATE" value="2020">2020</TIMEX3> bei zwei Brutstandorten weniger.
+
+Dies ist vor allem auf die Bestandsentwicklung am <PLACE id="p128" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> zurückzuführen.
+
+Am badenwürttembergischen Teil des Bodensees waren es mit 972 Paaren 365 mehr als <TIMEX3 tid="t206" type="DATE" value="2020">2020</TIMEX3> mit 607 Paaren.
+
+An der Lipbachmündung bei Immenstaad besteht mit 750 Paaren (<TIMEX3 tid="t207" type="DATE" value="2020">2020</TIMEX3> 425 Paare) weiterhin die größte Brutkolonie des Kormorans in <PLACE id="p129" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> bzw. grenznah zu <PLACE id="p130" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>.
+
+Am gesamten <PLACE id="p131" type="" geo="DEBKGGND00001VDZ">Bodensee</PLACE> hat der Bestand von 501 Paaren im <TIMEX3 tid="t208" type="DATE" value="2018">Jahr 2018</TIMEX3> auf 677 Paare 2020 und 1.219 Paare im <TIMEX3 tid="t209" type="DATE" value="2022">Jahr 2022</TIMEX3> deutlich zugenommen.
+
+Am Oberrhein brütete der Kormoran im <TIMEX3 tid="t210" type="DATE" value="2022">Jahr 2022</TIMEX3> auf badischer Seite an acht Standorten mit zusammen mindestens 605 Paaren.
+
+Die Verbreitung änderte sich gegenüber den Vorjahren nicht, der Bestand lag zwar höher als <TIMEX3 tid="t211" type="DATE" value="2020">2020</TIMEX3>, jedoch im Bereich <TIMEX3 tid="t212" type="DATE" value="2018">des Jahres 2018</TIMEX3>.
+
+Im Flusssystem des Rheins, einschließlich der grenznahen Brutplätze im Elsaß, in der <PLACE id="p132" type="" geo="DEBKGGND00004XGT">Pfalz</PLACE> und in <PLACE id="p133" type="" geo="DEBKGGND00001HRQ">Hessen</PLACE>, belief sich der Brutbestand im <TIMEX3 tid="t213" type="DATE" value="2022">Jahr 2022</TIMEX3> auf mindestens 1.172 Paare.
+
+Dieser lag damit über 1.000 Brutpaaren, diese Marke wurde erstmals <TIMEX3 tid="t214" type="DATE" value="2018">2018</TIMEX3> mit 1.050 Paaren überschritten.
+
+Am badischen Hochrhein, der im <TIMEX3 tid="t215" type="DATE" value="2015">Jahr 2015</TIMEX3> erstmals besiedelt wurde, bestand im <TIMEX3 tid="t216" type="DATE" value="2022">Jahr 2022</TIMEX3> kein Brutplatz mehr, dafür kam es in der Schweiz am Aare-Stausee grenznah zum Hochrhein <TIMEX3 tid="t217" type="DATE" value="2021">2021</TIMEX3> zu einer Neuansiedlung.
+
+<TIMEX3 tid="t218" type="DATE" value="2022">2022</TIMEX3> waren es zwei Paare.
+
+Der Bestand entlang des Neckars betrug im <TIMEX3 tid="t219" type="DATE" value="2022">Jahr 2022</TIMEX3> 181 Paare, der sich auf vier Standorte verteilte und damit mit neun Paaren über dem bisher höchsten Wert von <TIMEX3 tid="t220" type="DATE" value="2016">2016</TIMEX3> lag und vor allem auf die (neuen) Brutplätze am Mittleren <PLACE id="p134" type="" geo="DEBKGGND00001VSY">Neckar</PLACE> zurückgeht.
+
+Die einzigen bekannten Brutplätze an der <PLACE id="p135" type="" geo="DEBKGGND00001Q26">Donau</PLACE> bestehen nach wie vor auf der <PLACE id="p136" type="" geo="DEBKGGND00000YHT">Baar</PLACE> bei <PLACE id="p137" type="" geo="DEBKGGND00000MUV">Neudingen</PLACE>, wo <TIMEX3 tid="t221" type="DATE" value="2022">2022</TIMEX3> zwölf Paare notiert wurden, und bei <PLACE id="p138" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> mit sieben Paaren.
+
+Der Brutplatz bei <PLACE id="p139" type="" geo="DEBKGGND000007SK">Pfohren</PLACE> war erstmals seit <TIMEX3 tid="t222" type="DATE" value="2011">2011</TIMEX3> wiederbesetzt.
+
+Über <TIMEX3 tid="t223" type="DURATION" value="PXY">die Jahre</TIMEX3> hat sich durch die gemeinsamen Zählungen ein Vertrauensverhältnis mit den Zählenden von Fischereivereinen, verbänden und verwaltung entwickelt.
+
+Einigkeit besteht zwischen den beteiligten Personen, dass die gemeinsame Zählung in <TIMEX3 tid="t224" type="DURATION" value="PXY">den folgenden Jahren</TIMEX3> fortgesetzt werden soll.
+
+
+
+
+
+
+</TEXT></TimeML>
