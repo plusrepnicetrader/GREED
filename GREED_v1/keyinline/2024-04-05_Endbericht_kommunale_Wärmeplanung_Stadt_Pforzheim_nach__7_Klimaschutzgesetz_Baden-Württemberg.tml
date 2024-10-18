@@ -1,0 +1,1289 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>2024-04-05_Endbericht_kommunale_Wärmeplanung_Stadt_Pforzheim_nach__7_Klimaschutzgesetz_Baden-Württemberg</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-04-05" temporalFunction="false" functionInDocument="CREATION_TIME">2024-04-05</TIMEX3></DCT>
+<TEXT>Sehr geehrte Bürgerinnen und Bürger, die Dringlichkeit im Klimaschutz voranzukommen, steigt permanent.
+
+<PLACE id="p1" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> verfolgt das auch vom Land ausgerufene Ziel der Klimaneutralität bis <TIMEX3 tid="t1" type="DATE" value="2040">2040</TIMEX3>, mit der eigenen Verwaltung sogar bis <TIMEX3 tid="t2" type="DATE" value="2030">2030</TIMEX3>.
+
+Und das ist kein willkürlich gewähltes, politisches Ziel.
+
+Um die Klimaerwärmung möglichst auf ein erträgliches Maß zu begrenzen, besteht dringender Handlungsbedarf.
+
+Nur mit den gemeinsamen Anstrengungen aller Akteure wird es uns möglich sein, die Klimaziele zu erreichen.
+
+Während die Energiewende im Stromsektor deutlich voranschreitet, bleibt der Wärmesektor seit <TIMEX3 tid="t3" type="DURATION" value="PXY">Jahren</TIMEX3> zurück.
+
+Seit <TIMEX3 tid="t4" type="DURATION" value="PXY">Jahren</TIMEX3> schon stagniert der Anteil dezentraler erneuerbarer Wärmeerzeugung in <PLACE id="p2" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> auf niedrigen 8% (siehe Abschnitt 1.4).
+
+Im <TIMEX3 tid="t5" type="DATE" value="2021">Jahr 2021</TIMEX3> basierten 70% der neu eingebauten Heizsysteme in <PLACE id="p3" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> auf Erdgas [Bundesverband der deutschen Heizungsindustrie, <TIMEX3 tid="t6" type="DATE" value="2022">2022</TIMEX3>].
+
+Das zeigt, dass wir hier erst am Anfang des Weges stehen, den wir nun zügig beschreiten müssen.
+
+Die Wärmeplanung soll dabei helfen, die betroffenen Akteure über Handlungsmöglichkeiten und erneuerbare Wärmepotenziale zu informieren.
+
+Mit ihr wollen wir Ihnen allen - Bürgerinnen und Bürgern, Unternehmen, Industriebetrieben und auch allen anderen Interessengruppen - Zugang zu einer fundierten Datengrundlage bieten und Synergien zwischen Abwärme und Wärmebedarf schaffen.
+
+Mit diesem Bericht zur kommunalen Wärmeplanung wurde ein Grundstein gelegt, der nun in <TIMEX3 tid="t7" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> Schritt für Schritt erweitert und vertieft werden soll, um ganz konkrete Handlungsmöglichkeiten zu realisieren.
+
+Den Weg zur klimaneutralen Wärmeversorgung werden wir nur alle gemeinsam beschreiten können, weshalb für diesen Bericht verschiedenste Akteure wie die Stadtverwaltung, die Stadtwerke <PLACE id="p4" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> und die Bezirksschornsteinfeger zusammengearbeitet haben und auch in <TIMEX3 tid="t8" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> Hand in Hand agieren wollen.
+
+Sibylle Schüssler Bürgermeisterin für Planen, Bauen, Umwelt und Kultur, Stadt <PLACE id="p5" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> 9 Der voranschreitende Klimawandel ist die größte Herausforderung <TIMEX3 tid="t9" type="DATE" value="PRESENT_REF">der aktuellen Zeit</TIMEX3>.
+
+Die Eindämmung des Klimawandels und die damit verbundene notwendige Reduzierung von Treibhausgasemissionen erfordert Transformationen in nahezu allen Lebensbereichen.
+
+Die Leitplanken für diese Transformation wurden mit Klimaschutzzielen auf mehreren politischen Ebenen (europäische Union, <PLACE id="p6" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE>, <PLACE id="p7" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, Stadt <PLACE id="p8" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>) verankert.
+
+In <PLACE id="p9" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> sind die Klimaschutzziele im bundesweiten und internationalen Vergleich sehr ambitioniert.
+
+Im Bundesland soll eine Klimaneutralität (das heißt eine weitestgehende Vermeidung von Treibhausgasemissionen und Kompensation der verbleibenden Emissionen) bis zum <TIMEX3 tid="t10" type="DATE" value="2040">Jahr 2040</TIMEX3> erreicht werden  (Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p10" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t11" type="DATE" value="2022">2022</TIMEX3>).
+
+Da im deutschen Durchschnitt ca. 35 % der Treibhausgasemissionen im Bereich Wärme anfallen (Eurostat, <TIMEX3 tid="t12" type="DATE" value="2018">2018</TIMEX3>), liegt ein besonderer Fokus bei dem Erreichen der Klimaschutzziele im Bereich Wärme.
+
+Um die Transformation im Bereich Wärme gezielt voranzubringen, hat <PLACE id="p11" type="" geo="DEBKGGND00001BBR">das Land Baden-Württemberg</PLACE> mit einer Novelle des Klimaschutzgesetzes im <TIMEX3 tid="t13" type="DATE" value="2020">Jahr 2020</TIMEX3> alle Stadtkreise und großen Kreisstädte verpflichtet, eine kommunale Wärmeplanung zu erstellen.
+
+Bei der kommunalen Wärmeplanung soll dabei, auf der Grundlage einer Analyse der Ausgangssituation im Wärmebereich und der Potenziale für erneuerbare Wärmeerzeugung, ein Fahrplan für eine Transformation zur klimaneutralen Wärmeversorgung entwickelt werden (Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p12" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t14" type="DATE" value="2022">2022</TIMEX3>).
+
+Als kreisfreie Stadt in <PLACE id="p13" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> ist damit auch die Stadt <PLACE id="p14" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> verpflichtet, eine kommunale Wärmeplanung zu erstellen.
+
+Für die Erstellung der Wärmeplanung hat die Stadtverwaltung <PLACE id="p15" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> die Fachbüros Tilia GmbH und Smart Geomatics Informationssysteme GmbH beauftragt.
+
+Diese haben die Ergebnisse der kommunalen Wärmeplanung sowie den vorliegenden Bericht in enger Abstimmung mit der Stadtverwaltung <PLACE id="p16" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> und den Stadtwerken <PLACE id="p17" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> erstellt.
+
+Die Erstellung der kommunalen Wärmeplanung <PLACE id="p18" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> startete im <TIMEX3 tid="t15" type="DATE" value="2022-04">April 2022</TIMEX3> und wurde im <TIMEX3 tid="t16" type="DATE" value="2023-03">März 2023</TIMEX3> abgeschlossen.
+
+Entsprechend des Leitfadens zur kommunalen Wärmeplanung bestand das Projekt aus den Arbeitspaketen Bestandsanalyse, Potenzialanalyse, Szenarioanalyse und Wärmewendestrategie (Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p19" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t17" type="DATE" value="2020">2020</TIMEX3>).
+
+Dieser Projektaufbau spiegelt sich auch im vorliegenden Bericht wider.
+
+10 Die Bestandsanalyse bietet die Grundlage für die kommunale Wärmeplanung und die darin enthaltenen Szenarien und Maßnahmen zur klimaneutralen Wärmeversorgung.
+
+Im Rahmen des Projektes wurden sowohl Betrachtungen zum Gebäudebestand als auch zu den <TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Energieverbräuchen und erzeugungen durchgeführt.
+
+Für die Bestandsanalyse dienten Daten der Stadtwerke <PLACE id="p20" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, der Bezirksschornsteinfeger und der Stadtverwaltung <PLACE id="p21" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> als Grundlage.
+
+Von den Stadtwerken <PLACE id="p22" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurden die gebäudescharfen Verbrauchsdaten im Bereich Gas, Strom und Fernwärme für <TIMEX3 tid="t19" type="DATE" value="2021">das Jahr 2021</TIMEX3> sowie Daten zu von den Stadtwerken betriebenen Energieerzeugungsanlagen zur Verfügung gestellt.
+
+Weiterhin wurden von den jeweiligen Schornsteinfegern der <PLACE id="p23" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Kehrbezirke Daten zu den bestehenden Wärmeerzeugungsanlagen geliefert.
+
+Die Daten beinhalteten gebäudescharf den Brennstoff, die Leistung und die Kapazität der Wärmeerzeugungsanlagen.
+
+Aus diesen Daten konnten unter anderem Aussagen zum Verbrauch der nichtleitungsgebundenen Energieträger abgeleitet werden.
+
+Von der Stadtverwaltung wurden außerdem Daten zu den Gebäudekubaturen, zur Gebäudenutzung und zum Baujahr der Gebäude im <PLACE id="p24" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> geliefert.
+
+Aus diesen Daten konnte anhand der TABULA-Typologie des Instituts für Wohnen und Umwelt (Institut für Wohnen und Umwelt, <TIMEX3 tid="t20" type="DATE" value="2022">2022)</TIMEX3> der Standard-Wärmebedarf für Wohngebäude ermittelt werden (Link).
+
+Zur Ermittlung des Wärmebedarfs im Stadtgebiet wurden bei den Gebäuden, bei denen Verbrauchsdaten vorhanden waren, die Wärmeverbräuche <TIMEX3 tid="t21" type="DATE" value="2021">des Jahres 2021</TIMEX3> angenommen.
+
+Bei den Gebäuden, bei denen keine Verbrauchsdaten vorhanden waren, wurde ein Standard-Wärmebedarf nach der TABULA-Typologie berechnet.
+
+In <PLACE id="p25" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> dominieren im Stadtgebiet die Wohngebäude.
+
+Von den 23.427 Gebäuden in <PLACE id="p26" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> gibt es 85 % Wohngebäude oder Gebäude mit Wohnmischnutzung (siehe Abbildung 1).
+
+Gefolgt wird dieser Sektor mit großem Abstand von dem Sektor Gewerbe, Handel, Dienstleistungen (GHD) und Industrie mit einer Nutzung von 12 % der Gebäude.
+
+Die verbleibenden 3 % entfallen auf Gebäude für öffentliche Zwecke und sonstige Nutzungen.
+
+In Abbildung 2 ist die räumliche Verteilung der Gebäudenutzungen dargestellt.
+
+In der Abbildung ist zu erkennen, dass in den meisten <PLACE id="p27" type="" geo="DEBKGGND00001GIK">Pforzheimer Stadtteilen</PLACE> heterogene Gebäudenutzungen vorhanden sind.
+
+Dabei ist in der Innenstadt eine leichte Konzentration von Gebäuden für öffentliche Zwecke zu finden und eine Konzentration von Gebäuden für Gewerbe, Handel, Dienstleistungen und Industrie in den Gewerbegebieten am östlichen, westlichen und nördlichen Stadtrand des Stadtgebietes <PLACE id="p28" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>.
+
+Der Rest des Stadtgebietes <PLACE id="p29" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wird von Wohnhäusern dominiert.
+
+11 12 Neben den Gebäudenutzungen wurden im Rahmen der Bestandsanalyse auch die Verteilung der Baujahre der Gebäude betrachtet.
+
+Wie in Abbildung 3 zu erkennen ist, wurde der größte Teil (70 %) der Gebäude in <PLACE id="p30" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> vor <TIMEX3 tid="t22" type="DATE" value="1978">1978</TIMEX3> und damit vor dem Inkrafttreten der ersten Wärmeschutzverordnung erbaut.
+
+Nur 20 % der Gebäude wurden <TIMEX3 tid="t23" type="DATE" value="1979" mod="AFTER">nach 1979</TIMEX3> erbaut und hatten Vorschriften im Bereich Energieeffizienz durch die jeweils geltenden Wärmeschutzverordnungen (WSchVo) bzw. Energieeinsparverordnungen (EnEv).
+
+Bei 10 % der Gebäude konnte kein Alter erfasst werden.
+
+Abbildung 4 zeigt die räumliche Aufteilung der Gebäudealter auf Baublockebene.
+
+Aus der Karte wird deutlich, dass die Baujahre der Gebäude im <PLACE id="p31" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> stark durchmischt sind.
+
+Auffällig ist die Häufung von Gebäuden aus <TIMEX3 tid="t24" type="DATE" value="195">den 1950er</TIMEX3> und <TIMEX3 tid="t25" type="DATE" value="196">1960er Jahren</TIMEX3> in <PLACE id="p32" type="" geo="DEBKGGND00000VH9">der Pforzheimer Innenstadt</PLACE> sowie stellenweise neuere Besiedlungen am Stadtrand.
+
+13 14 Der Gesamtwärmebedarf der Gebäude im Stadtgebiet <PLACE id="p33" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> betrug im <TIMEX3 tid="t26" type="DATE" value="2021">Jahr 2021</TIMEX3> etwa 2.000 GWh/<TIMEX3 tid="t27" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Dabei entfiel der größte Teil, mit 69 % des Wärmebedarfs, auf den Sektor Haushalte gefolgt vom Sektor GHD mit 18 %.
+
+Der restliche Wärmebedarf verteilt sich auf die Sektoren Industrie, kommunale Gebäude sowie Gebäude, deren Nutzung aus den im Rahmen der kommunalen Wärmeplanung ausgewerteten Daten nicht bekannt ist.
+
+In Abbildung 6 ist die räumliche Verteilung der absoluten Wärmebedarfe auf Baublockebene zu sehen.
+
+Die Abbildung zeigt, dass die absolute Höhe der Wärmebedarfe der Baublöcke im Stadtgebiet <PLACE id="p34" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> sehr heterogen ist.
+
+Auffällig sind hohe Wärmebedarfe in <PLACE id="p35" type="" geo="DEBKGGND00000VH9">der Innenstadt</PLACE> sowie bei den Industriegebieten im Norden, Westen und Osten der Stadt.
+
+15 16 Um zwischen den absoluten Wärmebedarfen eine Vergleichbarkeit herzustellen, wurde zusätzlich, als Kennzahl für den relativen Wärmebedarf, die Wärmedichte im Stadtgebiet <PLACE id="p36" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> ermittelt.
+
+Die Wärmedichte beschreibt die Höhe des Wärmebedarfs pro Straßenmeter und ist für das Stadtgebiet <PLACE id="p37" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> in Abbildung 7 dargestellt.
+
+Wie schon beim absoluten Wärmebedarf ist hier im Stadtgebiet <PLACE id="p38" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> eine hohe Heterogenität festzustellen.
+
+Auffällig sind auch hier hohe Wärmedichten in <PLACE id="p39" type="" geo="DEBKGGND00000VH9">der Innenstadt</PLACE>.
+
+17 Die Wärmeerzeugung im Stadtgebiet <PLACE id="p40" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> basiert hauptsächlich auf erdgas- und heizölbasierten Wärmeerzeugungsanlagen.
+
+40 % der Gebäude im Stadtgebiet <PLACE id="p41" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> werden mit erdgasbasierten Wärmerzeugungsanlagen geheizt, gefolgt von heizölbasierten Wärmeerzeugungsanlagen mit einem Anteil von 19 % (siehe Abbildung 8).
+
+11 % der Gebäude im Stadtgebiet sind an das Fernwärmenetz angeschlossen.
+
+Werden die Energieträger nach Wärmeverbrauch ausgewertet (siehe Abbildung 9), so entfallen über zwei Drittel (71 %) des Wärmeverbrauchs im Stadtgebiet <PLACE id="p42" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> auf erdgasbasierte Wärmeerzeugungsanlagen.
+
+Gefolgt wird das vom Wärmebedarf, der durch Fernwärme gedeckt wird (17 %) und von der Deckung durch heizölbasierte Wärmeerzeugungsanlagen (10 %).
+
+Der hohe Anteil an erdgasbasierter Wärmeversorgung spiegelt sich auch bei der Auswertung der räumlichen Verteilung der Wärmeerzeugung wider.
+
+Abbildung 10 zeigt die Verteilung der Energieträger im Stadtgebiet <PLACE id="p43" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> auf Baublockebene.
+
+Die Abbildung verdeutlicht, dass in den meisten Teilen des <PLACE id="p44" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtgebiets erdgasbasierte Wärmeerzeugungsanlagen vorherrschen.
+
+Ausnahmen bilden dabei zum einen die Gebiete in <PLACE id="p45" type="" geo="DEBKGGND00000VH9">der Pforzheimer Innenstadt</PLACE> sowie die Stadtteile <PLACE id="p46" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE> und Sonnenhof, die komplett mit einem Fernwärmenetz erschlossen sind und dementsprechend einen hohen Anteil an Gebäuden haben, die über ein Wärmenetz mit Wärme versorgt werden.
+
+Zum anderen bilden die Gebiete am Stadtrand wie zum Beispiel die Stadtteile <PLACE id="p47" type="" geo="DEBKGGND00000MKP">Huchenfeld</PLACE>, <PLACE id="p48" type="" geo="DEBKGGND00000C2T">Würm</PLACE> und <PLACE id="p49" type="" geo="DEBKGGND00001JVO">Hohenwart</PLACE> eine Ausnahme, da hier kein Erdgasnetz existiert und dementsprechend der Anteil mit holz- oder heizölbasierter Wärmeversorgung höher ausfällt.
+
+18 19 In Abbildung 11 ist der Trassenverlauf des Fernwärmenetzes in <PLACE id="p50" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zu sehen.
+
+Das Fernwärmenetz erstreckt sich über große Teile des <PLACE id="p51" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtgebiets, dazu zählen weite Teile der <PLACE id="p52" type="" geo="DEBKGGND00000VH9">Innenstadt</PLACE> und Nordstadt sowie die Stadtteile Sonnenhof und <PLACE id="p53" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE>.
+
+Eine weitere Verdichtung des Wärmenetzes der <PLACE id="p54" type="" geo="DEBKGGND00000VH9">Innenstadt</PLACE> Richtung Süden, zwischen <PLACE id="p55" type="" geo="DEBKGGND00000VH9">Innenstadt</PLACE> und <PLACE id="p56" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE> bzw. Sonnenhof, ist auf Grund des Höhenanstiegs und der damit vorhandenen signifikanten Beeinflussung der Fließrichtung nicht möglich.
+
+Mögliche Ausbauoptionen für das bestehende Fernwärmenetz werden in Abschnitt 3 (Zielszenario) beschrieben.
+
+20 Neben den Energieträgern beinhalteten die Daten der Bezirksschornsteinfeger bei vielen Gebäuden auch die Baujahre der Wärmeerzeugungsanlagen.
+
+Bei ca. 37 % der Gebäude im Stadtgebiet war kein Alter der Wärmeerzeugungsanlage angegeben, zum Beispiel bei Gebäuden mit Fernwärmeanschluss oder bei Gebäuden mit Nachtspeicherheizungen oder Wärmepumpen.
+
+Bei den restlichen Gebäuden konnte das Baujahr der Wärmeerzeugungsanlage entsprechend ausgewertet werden.
+
+Die Auswertung ergab, dass der größte Teil der Wärmeerzeugungsanlagen, bei denen die Baujahre in den Schornsteinfegerdaten dokumentiert wurden, zwischen <TIMEX3 tid="t28" type="DATE" value="1984">1984</TIMEX3> und <TIMEX3 tid="t29" type="DATE" value="1994">1994</TIMEX3> eingebaut wurden (Anteil 24 %).
+
+Dieser Anteil wird dicht gefolgt von dem Anteil der Anlagen, die zwischen <TIMEX3 tid="t30" type="DATE" value="1995">1995</TIMEX3> und <TIMEX3 tid="t31" type="DATE" value="2001">2001</TIMEX3> eingebaut wurden (20 %).
+
+Nach dem Gebäudeenergiegesetz (GEG) müssen Wärmeerzeugungsanlagen <TIMEX3 tid="t32" type="DURATION" value="P30Y" mod="EQUAL_OR_LESS">nach spätestens 30 Jahren</TIMEX3> ausgetauscht werden.
+
+Das heißt, dass ca. 50 % der Wärmeerzeugungsanlagen im <PLACE id="p57" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> (bei denen das Baujahr dokumentiert wurde) innerhalb <TIMEX3 tid="t33" type="DURATION" value="P10Y">der nächsten zehn Jahre</TIMEX3> ausgetauscht werden müssten (Baujahr vor <TIMEX3 tid="t34" type="DATE" value="2002">2002</TIMEX3>).
+
+Dies zeigt neben der ökologischen auch die technische Dringlichkeit der Erneuerung der Wärmeversorgung.
+
+Der Gesamtstrombedarf im <PLACE id="p58" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> lag im <TIMEX3 tid="t35" type="DATE" value="2021">Jahr 2021</TIMEX3> laut den Verbrauchsdaten der Stadtwerke <PLACE id="p59" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> bei 580 GWh/<TIMEX3 tid="t36" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Aus dem von der Bundesnetzagentur veröffentlichten Marktstammdatenregister (Marktstammdatenregister, <TIMEX3 tid="t37" type="DATE" value="2023">2023</TIMEX3>) konnte abgeschätzt werden, dass ca. 5 % des verbrauchten Stroms durch Photovoltaikanlagen innerhalb des Stadtgebiets <PLACE id="p60" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> erzeugt werden.
+
+Weitere Strommengen werden im Stadtgebiet durch KWK-Anlagen auf der Basis von Erdgas und Biomasse erzeugt, die genaue Menge wurde im Rahmen der kommunalen Wärmeplanung nicht ermittelt.
+
+Der verbleibende Strombedarf wird über importierten Strom aus dem Übertragungsstromnetz gedeckt.
+
+Für diesen Strom wird, bei der Bilanzierung der Treibhausgasemissionen, der durchschnittliche Treibhausgasemissionsfaktor des Bundesstrommix angesetzt.
+
+21 Um aus den ermittelten Endenergiemengen die Treibhausgasemissionen zu berechnen, werden diese mit den entsprechenden Treibhausgasemissionsfaktoren multipliziert.
+
+Die Treibhausgasemissionsfaktoren sind im Rahmen der Hilfestellungen des Landes <PLACE id="p61" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> zur kommunalen Wärmeplanung im so genannten Technikkatalog der Klimaschutz- und Energieagentur <PLACE id="p62" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (KEA BW) vorgegeben worden (KEA Klimaschutz- und Energieagentur <PLACE id="p63" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> GmbH, <TIMEX3 tid="t38" type="DATE" value="2022">2022</TIMEX3>).
+
+Eine Ausnahme bildet dabei der Treibhausgasemissionsfaktor für die lokale Fernwärmeerzeugung in <PLACE id="p64" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>.
+
+Die Fernwärme in <PLACE id="p65" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wird durch Erdgas-BHKWs und -Kessel, sowie ein Biomethan-BHKW und ein Altholz-BHKW versorgt.
+
+Das Ergebnis der Analyse ist, dass die Wärme aus dem Fernwärmenetz <PLACE id="p66" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> bilanziell klimaneutral ist (Stadtwerke <PLACE id="p67" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, <TIMEX3 tid="t39" type="DATE" value="2023">2023</TIMEX3>).
+
+Bilanzielle Klimaneutralität bedeutet allerdings in dem Falle nicht, dass keine fossilen Brennstoffe eingesetzt werden.
+
+Auch in <PLACE id="p68" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wird, wie bei der Mehrzahl der Fernwärmenetze in <PLACE id="p69" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE>, bei der Erzeugung von Fernwärme auf Erdgas zurückgegriffen.
+
+Die bilanzielle Klimaneutralität ergibt sich dadurch, dass nach GEG-Anhang 9 (Bundesminiterium für Justiz, <TIMEX3 tid="t40" type="DATE" value="2023">2023</TIMEX3>) und den darin festgelegten DIN-Normen, der als Nebenprodukt der Wärme erzeugte Strom auf die Treibhausgasemissionen der Wärmeerzeugung gutgeschrieben wird.
+
+Dadurch können die Treibhausgasemissionen der Wärmeerzeugung bilanziell kompensiert werden.
+
+Auf der Grundlage der vorgestellten Treibhausgasemissionsfaktoren ergibt sich folgende Energie- und CO2-Bilanz:  Gesamt Wärme 1.992 413.249 Stromverbrauch ge-Strom aus Photovoltaik 31 0,04 1.249 Strom importiert 548 0,436 239.081 Gesamt Strom + Einheit GWh/<TIMEX3 tid="t41" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> t CO2Äq/MWh t CO2Äq Erdgas 1.358 0,233 316.380 Fernwärme 253 0 0 Biomasse 25 0,022 552 Nachtspeicher 10 0,436 4.316 Wärmepumpe 4 0,125 545 Unbekannt 187 0,233 43.564 Gesamt Strom 580 240.331 Wärme 2.572 653.580 Heizöl 154 0,311 47.893 samt 580 Endenergie Emissionsfaktor THG-Emissionen 22 Im <PLACE id="p70" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> lebten zum Stichtag <TIMEX3 tid="t42" type="DATE" value="2021-12-31">31.12.2021</TIMEX3> 126.998 Einwohnerinnen und Einwohner.
+
+Wird anhand dieser Zahl der Wärmebedarf pro Einwohnerin und Einwohner berechnet, so ergibt sich ein Energiebedarf von 15.681 kWh/<TIMEX3 tid="t43" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>/EW.
+
+Damit liegt die Stadt <PLACE id="p71" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> knapp über dem Bundesdurchschnitt von 15.412 kWh/<TIMEX3 tid="t44" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>/EW (Bundesministerium für Wirtschaft und Klimaschutz, <TIMEX3 tid="t45" type="DATE" value="2022">2022</TIMEX3>).
+
+Die Verteilung des Wärmebedarfs auf die Sektoren entspricht in etwa der sektoriellen Verteilung des Wärmebedarfs.
+
+Es entfallen ca. 56 % auf den Sektor private Haushalte, gefolgt vom Sektor GHD und Industrie mit 38 % (siehe Abbildung 13).
+
+23 Das größte Einsparpotenzial im Bereich Wärme liegt in der Steigerung der Gebäudeeffizienz durch energetische Sanierungen.
+
+Dazu zählt sowohl die Erneuerung der Heizungsanlage durch ein effizienteres Modell als auch die Dämmung von Außenwänden, Fenstern, Dachinnenflächen und Kellerdecken.
+
+Die Einsparungen des Wärmebedarfs, die durch energetische Sanierungen erzielt werden können, variieren je nach Baujahr des Gebäudes.
+
+Für die Wohngebäude im Stadtgebiet <PLACE id="p72" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurden anhand der Baujahre der Gebäude und der TA-BULA Typologie (Institut für Wohnen und Umwelt, <TIMEX3 tid="t46" type="DATE" value="2022">2022</TIMEX3>) die potenziellen Einsparungen des Wärmebedarfs durch energetische Sanierungen bestimmt.
+
+Für Gebäude mit anderen Nutzungen als Wohnen oder Wohnmischnutzung ist der Wärmeverbrauch und die Auswirkungen von Sanierungen zu heterogen, als dass im Rahmen der kommunalen Wärmeplanung verlässliche Aussagen gemacht werden könnten.
+
+Für belastbare Aussagen sind hier Einzelfallanalysen (Vor-Ort-Energieberatungen oder individuelle Sanierungsfahrpläne, kann beides von der BAFA gefördert werden) notwendig.
+
+Durchschnittlich könnten potenziell etwa 47 % des Wärmebedarfs bei Wohngebäuden in <PLACE id="p73" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> durch energetische Sanierungen eingespart werden.
+
+Die genaue Höhe der Einsparungen hängt, neben dem Gebäudebaujahr, von dem Umfang der energetischen Sanierungen ab.
+
+Bei der Berechnung der Einsparungen wurde von einer umfassenden Sanierung, das heißt von einer Dämmung der Kellerdecke, der Fenster, der Außenwände und des Daches sowie vom Austausch der Heizungsanlage ausgegangen.
+
+In Abbildung 14 sind mögliche Entwicklungen des Wärmebedarfs bei verschiedenen Sanierungsraten zu sehen.
+
+Die Sanierungsrate gibt an, welcher Anteil der Gebäude im Stadtgebiet <TIMEX3 tid="t47" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> saniert wird.
+
+So werden beispielsweise bei einer Sanierungsrate von 3 % <TIMEX3 tid="t48" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> 3 von 100 Gebäuden im Stadtgebiet <PLACE id="p74" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> saniert, es bräuchte bei einer konstanten Sanierungsrate von 3 % dementsprechend <TIMEX3 tid="t49" type="DURATION" value="P33Y" mod="APPROX">ca. 33 Jahre</TIMEX3>, bis die Gebäude im Stadtgebiet vollständig saniert wären.
+
+Die Abbildung 14 zeigt die potenziellen Einsparungen durch umfassende energetische Sanierungen bei Sanierungsraten von 0,9 %, 1,6 %, 3 % und 5,5 % bis zum <TIMEX3 tid="t50" type="DATE" value="2040">Jahr 2040</TIMEX3>.
+
+Dabei entspricht 0,9 % der <TIMEX3 tid="t51" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Sanierungsrate in der <PLACE id="p75" type="" geo="DEBKGGND00001GIK">Stadt Pforzheim</PLACE>, 1,6 % ist die <TIMEX3 tid="t52" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Sanierungsrate von <PLACE id="p76" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (Umweltbundesamt, 2018) und 5,5 % die Sanierungsrate, die erreicht werden müsste, um bis zum <TIMEX3 tid="t53" type="DATE" value="2040">Jahr 2040</TIMEX3> alle Gebäude im Stadtgebiet <PLACE id="p77" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> umfassend energetisch zu sanieren.
+
+24 Auf der Grundlage der genannten Annahmen ergibt sich für die Wohnhäuser im Stadtgebiet <PLACE id="p78" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> bis zum <TIMEX3 tid="t54" type="DATE" value="2040">Jahr 2040</TIMEX3> bei einer Sanierungsrate von 1,6 % ein potenzielles Einsparpotenzial von ca. 212 GWh/<TIMEX3 tid="t55" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (15 %) und bei einer Sanierungsrate von 3 % ein Einsparpotenzial von ca. 410 GWh/<TIMEX3 tid="t56" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (29 %).
+
+Bei einer Komplettsanierung der Gebäude bis zum <TIMEX3 tid="t57" type="DATE" value="2040">Jahr 2040</TIMEX3> ergibt sich ein Einsparpotenzial des Wärmebedarfs durch energetische Sanierungen von ca. 665 GWh/<TIMEX3 tid="t58" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (47%).
+
+Dadurch könnten ca. 120.000 t CO2Äq im <TIMEX3 tid="t59" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> eingespart werden.
+
+Im Rahmen der kommunalen Wärmeplanung <PLACE id="p79" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurde eine Reihe von potenziellen regenerativen Wärmequellen im Stadtgebiet untersucht.
+
+Dabei wurde sowohl auf vorhandene Studien zu den entsprechenden Themen zurückgegriffen als auch Gespräche mit den entsprechenden Akteuren durchgeführt.
+
+2.2.1.1 Energetisches Potenzial Bioabfall Nach Angaben der Abfallbilanz <TIMEX3 tid="t60" type="DATE" value="2021">2021</TIMEX3> des Landes <PLACE id="p80" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> fallen in <PLACE id="p81" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> etwa 33 kg Biomüll pro Person und <TIMEX3 tid="t61" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> an (Statistisches Landesamt <PLACE id="p82" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t62" type="DATE" value="2023">2023</TIMEX3>).
+
+Bei 126.998 Einwohnerinnen und Einwohnern im Stadtgebiet <PLACE id="p83" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> (<PLACE id="p84" type="" geo="DEBKGGND00001GIK">Stadt Pforzheim</PLACE>, <TIMEX3 tid="t63" type="DATE" value="2021">2021</TIMEX3>) ergibt das rund 4.200 t Bioabfall für das <TIMEX3 tid="t64" type="DATE" value="2021">Jahr 2021</TIMEX3>.
+
+Unter der Annahme, dass aus einer Tonne Biomüll 110 m³ Biogas gewonnen werden können und diese über einen Energiegehalt von etwa 6,3 kWh/m³ verfügen (Fachagentur Nachwachsende Rohstoffe e.V., <TIMEX3 tid="t65" type="DATE" value="2022">2022</TIMEX3>) ergibt sich für den Bioabfall im Stadtgebiet <PLACE id="p85" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> ein energetisches Potenzial von etwa 2.881 MWh/<TIMEX3 tid="t66" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Der Bioabfall wird <TIMEX3 tid="t67" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> in <PLACE id="p86" type="" geo="DEBKGGND00001FJT">Freudenstadt</PLACE> energetisch verwertet.
+
+Perspektivisch kann geprüft werden, ob eine lokale energetische Verwertung des Abfalls ökologisch und wirtschaftlich effizient ist.
+
+25 2.2.1.2 Energetisches Potenzial Stadtwald Für die Einschätzung des Biomassepotenzials des Holzes aus den Wäldern im Stadtgebiet <PLACE id="p87" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurde im Rahmen der kommunalen Wärmeplanung die städtische Forstverwaltung <PLACE id="p88" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> kontaktiert.
+
+Dabei wurde mitgeteilt, dass das Holz, das unter den Kriterien einer nachhaltigen Bewirtschaftung des Waldes genutzt werden kann, zu einem großen Teil bereits an die lokale Sägeindustrie vermarktet wird.
+
+Dieser Vermarktung liegen längerfristige Verträge zu Grunde, sodass eine energetische Nutzung des Holzes <TIMEX3 tid="t68" type="DATE" value="FUTURE_REF">kurzfristig</TIMEX3> nicht vorgesehen ist.
+
+<TIMEX3 tid="t69" type="DATE" value="PRESENT_REF">Aktuell</TIMEX3> werden <TIMEX3 tid="t70" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> etwa 8.000 – 8.500 Festmeter Holz aus dem Stadtwald geschlagen.
+
+Bei einer energetischen Nutzung der Holzmenge entspräche das einer potenziellen Wärmeerzeugung von 20 GWh/<TIMEX3 tid="t71" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Ob eine energetische Nutzung des Holzes längerfristig sinnvoll ist, muss nach weiteren Untersuchungen nach ökologisch und wirtschaftlichen Gesichtspunkten entschieden werden.
+
+Prinzipiell ist eine höherwertige Nutzung des Holzes, zum Beispiel zur Verarbeitung bei Möbeln oder Gebäuden, einer energetischen Nutzung des Holzes vorzuziehen.
+
+2.2.2.1 Dachflächen-Solarthermie Um das Potenzial für Dachflächen-Solarthermieanlagen im Stadtgebiet <PLACE id="p89" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zu ermitteln, wurden die Dachflächen der Gebäude im Stadtgebiet <PLACE id="p90" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> anhand von Laserscandaten digital ausgewertet und so die geeigneten (nicht nach Norden ausgerichteten, nicht verschatteten) Dachflächen identifiziert.
+
+Insgesamt existieren im Stadtgebiet <PLACE id="p91" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> geeignete Dachflächen mit einer Gesamtfläche von etwa 3,5 Mio m².
+
+Unter der Annahme, dass eine Solarthermieanlage 400 kWh/m² im <TIMEX3 tid="t72" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> erzeugen kann (Greenhouse Media GmbH, <TIMEX3 tid="t73" type="DATE" value="2023">2023</TIMEX3>), beträgt das theoretische Potenzial der Wärmeerzeugung durch Solarthermie auf den geeigneten Dachflächen im Stadtgebiet <PLACE id="p92" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> etwa 1.404 GWh/<TIMEX3 tid="t74" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Dies entspricht etwa zwei Drittel des Wärmebedarfs im Stadtgebiet <PLACE id="p93" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>.
+
+Allerdings tritt dieses Potenzial nicht synchronisiert zum anfallenden Wärmebedarf auf.
+
+In Abbildung 15 ist die saisonale Verteilung der Sonneneinstrahlung in <PLACE id="p94" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> im Vergleich zu der saisonalen Verteilung des Wärmeverbrauchs zu sehen (Europäische Kommission, <TIMEX3 tid="t75" type="DATE" value="2022">2022</TIMEX3>).
+
+Dabei wird deutlich, dass die Verteilungen antizyklisch zueinander sind.
+
+Auf <TIMEX3 tid="t76" type="DURATION" beginPoint="t76" endPoint="t75" value="P2M">die Monate</TIMEX3> mit dem höchsten Wärmebedarf, <TIMEX3 tid="t77" type="SET" freq="EVERY" value="XXXX-01">Januar</TIMEX3> und <TIMEX3 tid="t78" type="SET" freq="EVERY" value="XXXX-12">Dezember</TIMEX3>  (Statista GmbH, <TIMEX3 tid="t79" type="DATE" value="2013">2013</TIMEX3>), entfällt lediglich 6 % Sonneneinstrahlung, während auf den Monat mit der höchsten Sonneinstrahlung (<TIMEX3 tid="t80" type="SET" freq="EVERY" value="XXXX-07">Juli</TIMEX3>) lediglich 2 % des Wärmeverbrauchs entfallen.
+
+26 Auf Grund dieser <TIMEX3 tid="t81" type="DURATION" value="P3M">saisonalen</TIMEX3> Gegebenheiten ist ein hoher Speicheraufwand notwendig (der in der Regel auch mit Verlusten verbunden ist), um das ermittelte Solarthermie-Potenzial nutzen zu können.
+
+Weiterhin ist zu berücksichtigen, dass Dachflächen-Solarthermieanlagen in direkter Flächenkonkurrenz zu Dachflächen-Photovoltaikanlagen stehen und eine Abwägung zwischen beiden Technologien vorgenommen werden muss.
+
+Auch Kombinationen aus Solarthermie- und Photovoltaikanlagen sind möglich, zum Beispiel in Form von photovoltaischthermischen Kollektoren (PVT-Kollektoren), die Strom und Wärme gleichzeitig erzeugen können.
+
+Eine weitere Möglichkeit der Nutzung des Solarpotenzials zur Wärmeerzeugung ist die Nutzung von Photovoltaikanlagen zur Erzeugung von Wärme über einen Heizstab oder eine Wärmepumpe (siehe Abschnitt 2.3.1).
+
+2.2.2.2 Freiflächen-Solarthermie Die Höhe des Potenzials für Freiflächen-Solarthermie ist abhängig von der Größe und den Rahmenbedingungen der entsprechenden Freiflächen sowie der möglichen Nutzung und Speicherung der Wärme und der Flächenkonkurrenz auf den entsprechenden Freiflächen.
+
+Dementsprechend hängt das Potenzial von einer Reihe von Faktoren ab, die im Einzelfall geprüft werden müssen und es können im Rahmen der kommunalen Wärmeplanung nur allgemeine Aussagen zum Potenzial der Freiflächen-Solarthermie getätigt werden und keine Aussagen zu Einzelflächen.
+
+Um dennoch eine Größenordnung des Potenzials abzuschätzen, wurden die Flächen im Stadtgebiet <PLACE id="p95" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> identifiziert, die entsprechend der Freiflächenöffnungsverordnung (FFÖ-VO) <PLACE id="p96" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> für Solaranlagen geeignet sind.
+
+Dabei wurde in geeignete Flächen (grün in Abbildung 16) und bedingt geeignete Flächen (gelb in Abbildung 16) Flächen unterschieden.
+
+Die abgebildeten geeigneten Flächen sind dabei Flächen, entsprechend EEG §37 Absatz 2 h) und i), Ackerland oder Grünland sind und in benachteiligten Gebieten liegen.
+
+Dazu gehören Gebiete mit geringerem landwirtschaftlichem Ertrag sowie Gebiete mit geringer Bevölkerungsdichte.
+
+Die bedingt geeigneten Gebiete sind Gebiete, bei denen ebenfalls eine Genehmigung 27 für Solaranlagen möglich ist, diese zählen jedoch nicht zu den benachteiligten Gebieten im Sinne des EEG.
+
+Die in Abbildung 16 abgebildeten Flächen werden zum Teil durch Naturschutzgebiete und geschützte Mähwiesen überlagert (siehe Abbildung 17) und stehen unter anderem aus diesem Grund nicht komplett für Solaranlagen zur Verfügung.
+
+Die Überschneidungen betreffen jedoch nur Gebiete, die nach FFÖ-VO als bedingt geeignet kategorisiert wurden.
+
+Allein die geeigneten Gebiete nach FFÖ-VO ergeben eine Gesamtfläche von 30 ha.
+
+Unter der Annahme, dass mit Solarthermieanlagen ca. 2.000 MWh/<TIMEX3 tid="t82" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>/ha (Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p97" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t83" type="DATE" value="2019">2019</TIMEX3>) erzeugt werden, ergibt sich für diese Flächen ein Gesamtpotenzial von 60 GWh/<TIMEX3 tid="t84" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Ebenso wie bei dem Potenzial für Solarthermie Dachanlagen, kann dieses Potenzial auf Grund saisonaler Effekte und der Flächenkonkurrenz zu PV voraussichtlich nur zum Teil realisiert werden.
+
+Hier eignet sich eine Mehrfachnutzung 28 der Fläche, zum Beispiel durch PVT-Module, eine gleichzeitige Nutzung als unterirdisches Geothermiefeld mit Erdwärmesonden oder durch die Nutzung der unter Solarmodulen liegenden Fläche als Habitat für Flora und Fauna.
+
+Es wird empfohlen, die Realisierung des Solarthermie-Potenzials besonders bei dem Aufbau einer neuen Erzeugung für Wärmenetze in Betracht zu ziehen.
+
+Optimalerweise liegt durch Solarthermieanlagen genutzte Fläche direkt an einem Wärmenetz und kann so effizient für die Wärmeerzeugung genutzt werden.
+
+Eine saisonale Verschiebung kann ggf. durch thermische Großspeicher erreicht werden.
+
+29 Bei der oberflächennahen Geothermie lassen sich zwei verschiedene Methoden unterscheiden, mit denen Erdwärme gewonnen werden kann.
+
+Die eine Technologie zur Gewinnung von Erdwärme sind Erdwärmekollektoren, bei denen Röhren mit einer Heizflüssigkeit in einer Tiefe von ca. 1,5 – 2 Meter unter dem Erdboden verlegt werden.
+
+Die zweite Technologie sind Erdwärmesonden, bei denen eine Bohrung in die Tiefe vorgenommen und ein Rohr mit Heizflüssigkeit vertikal in die Erde eingelassen wird.
+
+In der Regel handelt es sich hierbei um eine Tiefe von bis zu 100 Metern, da die Bohrung bei über 100 Metern Tiefe unter das Bundesbergrecht fällt (Kesselheld GmbH, <TIMEX3 tid="t85" type="DATE" value="2023">2023</TIMEX3>) und deshalb separat genehmigt werden muss.
+
+Mit Sondergenehmigungen sind auch tiefere Bohrungen möglich.
+
+2.2.3.1 Erdwärmesonden Das Gesamtpotenzial für Erdwärmesonden im Stadtgebiet <PLACE id="p98" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurde von der Klimaschutz- und Energieagentur <PLACE id="p99" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (KEA BW) auf der Grundlage von Daten von der Landesanstalt für Umwelt <PLACE id="p100" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> ermittelt und in Form von GIS-Daten zur Verfügung gestellt.
+
+In den Daten wurden nur Wohnbauflächen und Bauflächen für gemischte Nutzung betrachtet, nicht zur Bebauung verfügbare Flächen wurden ausgeschlossen, um die darauf befindliche Vegetation oder sonstige Nutzung nicht zu beeinträchtigen.
+
+Um das Potenzial für das Stadtgebiet zu ermitteln, wurde für diese Flächen angenommen, dass auf diesen Flächen durch eine Erdwärmesonde Wärme entzogen werden kann.
+
+Um das Potenzial der Flurstücke maximal auszunutzen, wurde in den Daten davon ausgegangen, dass das Flurstück mit einer maximalen Anzahl an Sonden belegt wird.
+
+Hierbei werden jeweils zwei Meter Abstand zum Gebäude eingerechnet sowie zehn Meter Abstand zwischen den Sonden.
+
+Außerdem wurde eine maximale Tiefe der Sonden angenommen, diese variiert je nach Gebiet.
+
+Bei 80 % der für Geothermie zulässigen Flächen ist eine Bohrung bis 400 m möglich, bei den restlichen Flächen sind Bohrungen mit einer Tiefe zwischen einem und 65 m möglich (Durchschnittlich mögliche Tiefe bei diesen Flächen: 20 m).
+
+Aus diesen Annahmen ergibt sich für <PLACE id="p101" type="" geo="DEBKGGND00001GIK">das Stadtgebiet Pforzheim</PLACE> ein maximales Potenzial für Erdwärmesonden von etwa 145 MW und eine maximale Gesamtentzugswärmemenge von ca. 250 GWh/<TIMEX3 tid="t86" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+30 Ergänzend zu den vorgestellten Daten ist in Abbildung 18 die Effizienz und die Zulässigkeit von Erdwärmesonden grafisch dargestellt.
+
+Dabei wird deutlich, dass der westliche und südliche Teil von <PLACE id="p102" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> effiziente Rahmenbedingungen für Erdwärmesonden bietet, während sie im östlichen Teil der Stadt aus wasserwirtschaftlichen Gründen nicht erlaubt sind.
+
+In Abbildung 19 sind die Kennzahlen für ein Fallbeispiel dargestellt.
+
+Es handelt sich dabei um die Installation einer Erdwärmesonde für ein Einfamilienhaus mit einer Fläche von 120 m².
+
+In diesem Fall sind zwei Erdwärmesonden nötig, um den Wärmebedarf zu decken.
+
+Der Abstand zwischen den Sonden und zu Sonden in benachbarten Grundstücken sollte jeweils mindestens 10 m betragen, sodass eine Gesamtfläche von ca. 150 m² ohne weitere Bohrungen benötigt wird.
+
+Die Kosten für die Erschließung wurden in diesem Fall auf der Grundlage der 31 Investitionskosten im Technikkatalog der Klimaschutz- und Energieagentur <PLACE id="p103" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (KEA BW) grob abgeschätzt.
+
+Die exakten Kosten müssen im Einzelfall ermittelt werden und sind abhängig von Bodenbeschaffenheit, benötigten Temperaturniveau und zahlreichen weiteren Faktoren.
+
+2.2.3.2 Erdwärmekollektoren Bei Erdwärmekollektoren ist die Zulässigkeit im Stadtgebiet <PLACE id="p104" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> in ähnlichen Gebieten eingeschränkt, wie die Zulässigkeit für Erdwärmesonden.
+
+Auch hier ist die Installation im östlichen Teil des Stadtgebietes <PLACE id="p105" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> aus wasserwirtschaftlichen Gründen nur unter bestimmten Bedingungen erlaubt (z.B. keine chemisch hergestellte, sondern nur Wasser als Heizflüssigkeit, Genehmigung muss für den Einzelfall beantragt werden).
+
+Im südöstlichen Teil von <PLACE id="p106" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> liegt das Gebiet, das am besten für Erdwärmekollektoren geeignet ist.
+
+Hier ist die Entzugsleistung am höchsten und eine Installation von Erdwärmekollektoren ist zulässig.
+
+Analog zu den Erdwärmesonden wurde ebenfalls ein Fallbeispiel für die Versorgung eines fiktiven Einfamilienhauses (120 m² beheizte Wohnfläche) mit Erdwärmesonden berechnet.
+
+An dem Beispiel wird deutlich, dass bei den Bedingungen im Stadtgebiet <PLACE id="p107" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> die Kollektorfläche ungefähr das 2,3fache der beheizten Wohnfläche betragen muss.
+
+Die Fläche, auf der die Erdwärmekollektoren installiert sind, darf dabei weder versiegelt noch mit tiefwurzelnden Pflanzen bewachsen sein.
+
+Die für das Fallbeispiel angegebenen Kosten sind, wie bei dem Fallbeispiel für Erdwärmesonden, wieder nur ein grober Schätzwert nach den Kosten des Technikkataloges der KEA BW.
+
+Die exakten Kosten müssen im Einzelfall ermittelt werden und hängen ebenfalls unter anderem von der Bodenbeschaffenheit, den Vorgaben für das Gebiet, dem Temperaturniveau und dem Wärmebedarf ab.
+
+32 2.2.3.3 Tiefengeothermie Neben der oberflächennahen Geothermie existiert als Wärmequelle die Tiefengeothermie.
+
+Hier werden Bohrungen in einer Tiefe von 2.000 – 4.000 m vorgenommen, um tiefengeothermische Wärmeströme zur Wärmegewinnung zu nutzen.
+
+Allerdings sind solche sehr kostenintensiven und technisch aufwändigen Bohrungen nur effizient, wenn die entsprechenden geologischen Bedingungen gegeben sind.
+
+Dies ist der Fall, wenn in der relevanten Tiefe Grundwasserströme, so genannte Aquifere, vorhanden sind, aus denen Wärme entzogen werden kann (Bundesverband Geothermie, <TIMEX3 tid="t87" type="DATE" value="2023">2023</TIMEX3>).
+
+Diese sind in <PLACE id="p108" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> zum Beispiel im Norddeutschen Becken, im Molassebecken und im <PLACE id="p109" type="" geo="DEBKGGND00000YNG">Oberrheingraben</PLACE> zu finden  (Daten: Bundesverband Geothermie, Veröffentl.: Frankfurter Allgemeine Zeitung, <TIMEX3 tid="t88" type="DATE" value="2022">2022</TIMEX3>).
+
+Außerhalb dieser Gebiete werden nur vereinzelt Projekte realisiert (siehe Abbildung 22).
+
+Da das Stadtgebiet <PLACE id="p110" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> nicht über einem größeren Aquifer in der relevanten Tiefe verfügt, ist hier kein Potenzial für eine effiziente Nutzung von Geothermie zu erwarten.
+
+33 Luftwärmepumpen erzeugen Wärme, in dem sie der Umgebungsluft Wärme entziehen und diese in einen Heizkreislauf einspeisen.
+
+Da die Umgebungsluft prinzipiell unendlich vorhanden ist, wurde versucht das Potenzial über effiziente Einsatzmöglichkeiten zu ermitteln.
+
+Luftwärmepumpen operieren am effizientesten bei Häusern mit einem hohen Dämmstandard und, im besten Falle, in Kombination mit Fußboden- oder anderen Flächenheizungen.
+
+Der Grund dafür ist, dass Luftwärmepumpen die höchste Effizienz bei der Wärmeerzeugung bei Vorlauftemperaturen bis 55°C vorweisen.
+
+Da die Energieeffizienzverordnungen seit <TIMEX3 tid="t89" type="DATE" value="199">den 1990er Jahren</TIMEX3> deutlichen erhöht wurden, wurde davon ausgegangen, dass die Häuser im Stadtgebiet <PLACE id="p111" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, die <TIMEX3 tid="t90" type="DATE" value="1995" mod="AFTER">nach 1995</TIMEX3> erbaut wurden, besonders geeignet für Wärmepumpen sind.
+
+Grund dafür ist, dass diese Gebäude auf Grund der Energieeffizienzverordnungen in den meisten Fällen eine bessere Dämmung haben als ältere Gebäude und deshalb ein niedrigeres Temperaturniveau ausreichend ist und außerdem eine größere Anzahl an Gebäuden, die in <TIMEX3 tid="t91" type="DURATION" value="P30Y">den letzten 30 Jahren</TIMEX3> gebaut wurden, bereits über Fußboden- oder Flächenheizung verfügen.
+
+34 Abbildung 23 zeigt den Wärmebedarf für Wohngebäude im Stadtgebiet <PLACE id="p112" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, die <TIMEX3 tid="t92" type="DATE" value="1995" mod="AFTER">nach 1995</TIMEX3> erbaut wurden, einmal vor- und einmal nach einer energetischen Sanierung.
+
+Knapp 19 % des Wärmebedarfs im Bereich Wohnen entfallen auf Gebäude, die <TIMEX3 tid="t93" type="DATE" value="1995" mod="AFTER">nach 1995</TIMEX3> erbaut wurden und damit potenziell für Luftwärmepumpen geeignet sind.
+
+Um den ökologischen Effekt bei der Nutzung von Luftwärmepumpen zu erhöhen, wird empfohlen, wenn möglich, die Wärmepumpe mit einer Photovoltaikanlage zu kombinieren.
+
+Hier kann im besten Fall der durch die Wärmepumpe genutzten Strom ökologisch erzeugt werden und auch durchschnittlich etwa ein Drittel des Stromverbrauchs des Gebäudes emissionsfrei gedeckt werden.
+
+Eine weitere regenerative Wärmequelle ist die Nutzung der Wärme aus Abwasser.
+
+Hierzu können zum einen Wärmetauscher in die Hauptsammler von Abwasserkanälen eingebaut werden, damit dem Abwasser Wärme entzogen wird und diese genutzt werden kann, um in Kombination mit einer Wärmepumpe ein Gebäude zu beheizen.
+
+Dies ist jedoch nur in begrenztem Umfang möglich, da das Abwasser beim Erreichen der Kläranlage ein bestimmtes Temperaturniveau haben muss, damit die Reinigungsprozesse in der Kläranlage optimal funktionieren können.
+
+Eine alternative Möglichkeit, um Abwärme aus dem Abwasser zu gewinnen, bietet sich bei dem Ablauf der Kläranlage, durch den das gereinigte Abwasser in die <PLACE id="p113" type="" geo="DEBKGGND00001YJ7">Enz</PLACE> geleitet wird.
+
+Der Ablauf der Kläranlage <PLACE id="p114" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> erstreckt sich über ca. 1 km und endet Nahe des Stadtteils <PLACE id="p115" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> (siehe Abbildung 24).
+
+Da im Ablauf der Kläranlage das Temperaturniveau eine 35 untergeordnete Rolle spielt1, können hier unproblematisch größere Mengen an Wärme gewonnen werden.
+
+Wie groß das Potenzial ist, hängt davon ab, um welchen Temperaturunterschied das Wasser abgekühlt wird, um Wärme zu gewinnen.
+
+Bei einer Abkühlung des Wassers von ca. 1°C beträgt das Potenzial zur Wärmeerzeugung ca. 2,3 GWh/<TIMEX3 tid="t94" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Bei einer Abkühlung von 5°C beträgt das Potenzial sogar 11 GWh/<TIMEX3 tid="t95" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Nach einem ähnlichen technischen Prinzip wie bei der Abwasserwärmenutzung, kann die Wärme über Wärmetauscher auch direkt aus Gewässern entzogen und zur Beheizung von Gebäuden genutzt werden.
+
+In <PLACE id="p116" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> bieten sich dafür die Flüsse im Stadtgebiet, <PLACE id="p117" type="" geo="DEBKGGND00001YJ7">Enz</PLACE>, <PLACE id="p118" type="" geo="DEBKGGND00001TON">Nagold</PLACE> und <PLACE id="p119" type="" geo="DEBKGGND00001R97">Würm</PLACE>, an.
+
+Der größte Fluss im <PLACE id="p120" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> ist die <PLACE id="p121" type="" geo="DEBKGGND00001YJ7">Enz</PLACE> mit einer minimalen <TIMEX3 tid="t96" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> Durchflussmenge von 4 m³/<TIMEX3 tid="t97" type="SET" freq="EVERY" value="PT1S">s</TIMEX3>, gefolgt von der <PLACE id="p122" type="" geo="DEBKGGND00001TON">Nagold</PLACE> mit einer minimalen Durchflussmenge von 3 m³/<TIMEX3 tid="t98" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> und der <PLACE id="p123" type="" geo="DEBKGGND00001R97">Würm</PLACE> mit 1 m³/<TIMEX3 tid="t99" type="SET" freq="EVERY" value="PT1S">s</TIMEX3>.
+
+Bei einer Senkung der Flusswassertemperatur um 2 °C, bieten diese drei Flüsse ein Gesamtpotenzial von max. 14 GWh/<TIMEX3 tid="t100" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (siehe Abbildung 25).
+
+Technisch ist die Nutzung besonders dort effizient, wo bereits Wasserkraftwerke zur Stromerzeugung existieren oder in der Vergangenheit existiert haben, wie es in <PLACE id="p124" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zum Beispiel in <PLACE id="p125" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> und <PLACE id="p126" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> der Fall ist (siehe Abbildung 26).
+
+36 Allerdings ist die Nutzung des Potenzials, auf Grund eines hohen Wartungsaufwandes bei den Wärmetauschern (durch die Bestandteile des Flusswassers kommt es schnell zu Verunreinigungen) und notwendiger zusätzlicher Wärmepumpen in jedem Gebäude, sehr aufwändig.
+
+Gerade bei der Erschließung von Neubaugebieten oder dem Aufbau eines Nahwärmenetzes mit niedrigen Temperaturen wird dennoch empfohlen, den Einsatz einer Flusswasserwärmepumpe umfassend zu prüfen.
+
+Zusätzlich gibt es ein Potential zur Wärmegewinnung im alten Kohlekraftwerk neben dem <PLACE id="p127" type="" geo="DEBKGGND00006214">Enzauenpark</PLACE>.
+
+Dort wurde das Flusswasser als Kühlwasser im Dampfprozess genutzt.
+
+Es sollte in einer nachfolgenden Machbarkeitsstudie geprüft werden, ob die Nutzung dieser bereits vorhandenen Flusswasserentnahme mit Hilfe einer Großwärmepumpe zur Beheizung der Fernwärme ökologisch und ökonomisch sinnvoll wäre.
+
+Im Rahmen der kommunalen Wärmeplanung wurden Gespräche mit mehreren Unternehmen mit einem hohen Energiebedarf in <PLACE id="p128" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> geführt.
+
+Dabei wurden unter anderem die bestehenden Potenziale von industrieller Abwärme der Unternehmen erfasst.
+
+Allerdings existierte bei einem Großteil der Unternehmen, mit denen Gespräche geführt wurden, entweder keine Abwärme oder diese wurde bereits zur Beheizung des eigenen Firmenstandortes verwendet.
+
+In zwei Fällen konnte jedoch zusätzliche industrielle Abwärme bei Unternehmen identifiziert werden.
+
+Hier wurde im Rahmen der kommunalen Wärmeplanung direkt der Kontakt zu interessierten Verbrauchern in der direkten Umgebung hergestellt, damit die Nutzung des Potenzials ggf. realisiert werden kann.
+
+Die Gespräche werden im Nachgang der kommunalen Wärmeplanung fortgeführt.
+
+37 Sowohl bei der Nutzung von Geothermie, als auch für den Betrieb von Luftwärmepumpen und der Wärmegewinnung aus den verschiedenen Wasservorkommen wird Strom für den Betrieb der Wärmepumpen benötigt.
+
+Aus diesem Grund soll hier kurz überblickartig beleuchtet werden, welche Potenziale im Stadtgebiet <PLACE id="p129" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zur Verfügung stehen, um diesen Strom regenerativ zu erzeugen und den Strombedarf der Wärmepumpen zu decken.
+
+Das größte Potenzial zur erneuerbaren Stromerzeugung im Stadtgebiet <PLACE id="p130" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> liegt im Bereich der Photovoltaikanlagen.
+
+Analog zum Potenzial für Solarthermie (siehe Abschnitt 2.2.2) kann dieses Potenzial sowohl auf Dachflächen als auch auf Freiflächen realisiert werden.
+
+Unter Berücksichtigung der Ausrichtung, der Verschattung und der Dachform wurden für Photovoltaikanlagen geeignete Dachflächen im Stadtgebiet <PLACE id="p131" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> mit Hilfe von Laserscandaten der Gebäude identifiziert.
+
+Durch die Verknüpfung dieser Daten mit den Daten zur durchschnittlichen <TIMEX3 tid="t101" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> Sonneneinstrahlung im Stadtgebiet <PLACE id="p132" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, konnte das Potenzial für Dachflächen-Photovoltaikanlagen ermittelt werden.
+
+Die Gesamtfläche der für Photovoltaikanlagen geeigneten Dachflächen im Stadtgebiet <PLACE id="p133" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> liegt bei etwa 3,5 Mio. m².
+
+Auf dieser Fläche könnte eine Strommenge von 352 GWh/<TIMEX3 tid="t102" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> erzeugt werden und damit 61 % des Stromverbrauchs im <PLACE id="p134" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> im <TIMEX3 tid="t103" type="DATE" value="2021">Jahr 2021</TIMEX3>.
+
+Würde dieser Strom für Wärmepumpen mit einer <TIMEX3 tid="t104" type="DURATION" value="P1Y">Jahresarbeitszahl</TIMEX3> von 3,5 genutzt werden, so kann mit dem Strom aus Photovoltaikanlagen eine Wärmemenge in Höhe von 1.232 GWh/<TIMEX3 tid="t105" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> erzeugt werden.
+
+Dies entspricht etwa 58 % des Wärmebedarfs im Stadtgebiet <PLACE id="p135" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> im <TIMEX3 tid="t106" type="DATE" value="2021">Jahr 2021</TIMEX3>.
+
+Auch hier kann das Potenzial aber voraussichtlich nur zu einem Teil genutzt werden, da analog zu den Solarthermieanlagen (Abschnitt 2.2.2), saisonale Effekte berücksichtigt werden müssen.
+
+Der Strom aus der Photovoltaikanlage kann jedoch auch im <TIMEX3 tid="t107" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> für Haushaltsstrom oder Elektromobilität verwendet werden.
+
+Ob für das jeweilige Gebäude der Einsatz einer Dachflächen-Photovoltaik-, Solarthermie- oder PVT-Anlage effizient ist, hängt vom jeweiligen Lastgang von Strom und Wärme des jeweiligen Gebäudes ab.
+
+Hier sind weitere Einzelfalluntersuchungen notwendig.
+
+Analog zu Solarthermieanlagen können zur Stromproduktion durch Photovoltaikanlagen auch Freiflächen genutzt werden.
+
+Werden die in Abschnitt 2.2.2 vorgestellten Flächen, die nach Freiflächenöffnungsverordnung (FFÖ-VO) für Solaranlagen geeignet sind, für Stromproduktion durch Photovoltaikanlagen genutzt, so könnte eine Strommenge von 50 GWh/<TIMEX3 tid="t108" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> erzeugt werden (Ministerium für Umwelt, Klima und Energiewirtschaft <PLACE id="p136" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>, <TIMEX3 tid="t109" type="DATE" value="2019">2019</TIMEX3>).
+
+Dies entspricht 8 % des Stromverbrauchs des Stadtgebiets <PLACE id="p137" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> im <TIMEX3 tid="t110" type="DATE" value="2021">Jahr 2021</TIMEX3>.
+
+38 Windenergie In dem <TIMEX3 tid="t111" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Flächennutzungsplan für die Region Nordschwarzwald, der auch verbindlich für die Flächennutzungen im Stadtgebiet <PLACE id="p138" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> ist, sind in dem gesamten Stadtgebiet <PLACE id="p139" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> keine Flächen für die Installation von Windkraftanlagen ausgewiesen (Regionalverband Nordschwarzwald, <TIMEX3 tid="t112" type="DATE" value="2023">2023</TIMEX3>).
+
+Der momentan gültige Flächennutzungsplan wird <TIMEX3 tid="t113" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> vom Regionalverband Nordschwarzwald überarbeitet, eine neue Version soll bis <TIMEX3 tid="t114" type="DATE" value="2024" mod="APPROX, END">ca. Ende 2024</TIMEX3> veröffentlicht werden.
+
+In dem Zuge wird außerdem ein Teilregionalplan erneuerbare Energien für die Region Nordschwarzwald erstellt, bei dem explizit ein Fokus auf Flächen wie Windkraft und Solarenergie gelegt wird.
+
+Es wird empfohlen, das Potenzial für Windkraft im Stadtgebiet <PLACE id="p140" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> erneut zu analysieren, wenn der Teilregionalplan vom Regionalverband Nordschwarzwald vorliegt.
+
+Wasserkraft Es existieren bereits sieben Wasserkraftanlagen zur Produktion von Strom in <PLACE id="p141" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> (siehe Abbildung 26).
+
+Es wird davon ausgegangen, dass die Standorte für Wasserkraftwerke im Stadtgebiet <PLACE id="p142" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> bereits ausgeschöpft sind.
+
+Im Zuge von Modernisierungen und Ertüchtigungen der Anlagen sollte jedoch geprüft werden, ob das Potenzial noch effizienter genutzt werden kann.
+
+Wie hoch eine zusätzliche Stromproduktion dadurch sein könnte, konnte jedoch im Rahmen der kommunalen Wärmeplanung nicht ermittelt werden.
+
+39 In Abbildung 27 ist eine Übersicht über die im Rahmen der kommunalen Wärmeplanung analysierten Bereiche für erneuerbare Wärmeerzeugung zu sehen.
+
+Dabei wird deutlich, dass die höchsten Potenziale im Bereich Solar liegen.
+
+Wie in den entsprechenden Abschnitten (Abschnitt 2.2.2 und 2.3.1) beschrieben, müssen hier jedoch die Flächenkonkurrenzen zu anderen Nutzungen sowie saisonale Effekte berücksichtigt werden.
+
+Die Einsparpotenziale, die im Stadtgebiet <PLACE id="p143" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> durch energetische Sanierungen bei Wohnhäusern entstehen, wurden bereits in Abschnitt 2.1 betrachtet.
+
+Im Rahmen der Szenarioanalyse soll noch einmal die Sensitivität der Auswirkungen der energetischen Sanierungen auf den Wärmebedarf verdeutlicht werden.
+
+Hierbei wurden erneut nur die Wohnhäuser im Stadtgebiet <PLACE id="p144" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> betrachtet, da die Effekte von energetischen Sanierungen bei Gebäuden mit anderen Nutzungen zu heterogen sind, um bei einer gesamtstädtischen Analyse belastbare Aussagen treffen zu können.
+
+In Abbildung 28 ist dargestellt, wie sich die verschiedenen Sanierungsraten auf die Entwicklung des Wärmebedarfs bei Wohnhäusern im Stadtgebiet <PLACE id="p145" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> auswirken.
+
+Dabei werden die signifikanten Effekte der Sanierungsraten auf den Wärmebedarf deutlich.
+
+Während bei 40 einer Sanierungsrate von 1 % nur 9 % des Wärmebedarfs eingespart werden würden, wäre es bei einer Sanierungsrate von 5 % schon 45 % des Wärmebedarfs.
+
+Ab einer Sanierungsrate von 6 % kann bis zum <TIMEX3 tid="t115" type="DATE" value="2040">Jahr 2040</TIMEX3> eine energetische Sanierung aller Gebäude im Stadtgebiet und damit die maximale Einsparung von 47 % des Wärmebedarfs der Wohnhäuser im Stadtgebiet <PLACE id="p146" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> eingespart werden.
+
+Dies entspricht einer Einsparung des Wärmebedarfs von etwa 665 GWh/<TIMEX3 tid="t116" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> und von 123.000 t CO2Äq im <TIMEX3 tid="t117" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>.
+
+In dem folgenden Kapitel wird ein Szenario aufgezeigt, wie die Gebäude im Stadtgebiet <PLACE id="p147" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> klimaneutral mit Wärme versorgt werden könnten.
+
+Dabei ist zu berücksichtigen, dass es sich lediglich um eine, zum <TIMEX3 tid="t118" type="DATE" value="PRESENT_REF">jetzigen Zeitpunkt</TIMEX3> hypothetische, Möglichkeit handelt, die Gebäude im <PLACE id="p148" type="" geo="DEBKGGND00001GIK">Stadtgebiet Pforzheim</PLACE> mit klimaneutraler Wärme zu versorgen.
+
+Es existieren zahlreiche weitere Optionen der klimaneutralen Wärmeversorgung in <PLACE id="p149" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> und auf Grund der erwarteten Weiterentwicklung der Technologien in <TIMEX3 tid="t119" type="DURATION" value="PXY">den nächsten Jahrzehnten</TIMEX3> werden mit Sicherheit in <TIMEX3 tid="t120" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> noch weitere hinzukommen.
+
+Die <TIMEX3 tid="t121" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Technologien der Wärmeerzeugung im Stadtgebiet <PLACE id="p150" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> sind durch dieses Szenario dementsprechend nicht strikt festgelegt, sondern sollen eher als Grundlage für die Strategie zum Ausbau von Infrastruktur (wie zum Beispiel dem Ausbau von Wärmenetzen) dienen.
+
+Bei der Implementierung der Strategie müssen noch zahlreiche weitere Faktoren berücksichtigt werden, die im Rahmen der Szenarioanalyse nicht betrachtet werden können.
+
+Dazu zählt unter anderem die Bereitschaft von Gebäudeeigentümern klimaneutrale Wärmeerzeugungsanlagen einzusetzen, die Entwicklung von Anlagen und Brennstoffpreisen sowie die Vertriebserfolge bei der Akquise von Wärmenetzkunden.
+
+Aus diesem Grund kann die Tiefe, 41 der im folgenden Abschnitt vorgestellten Szenarien, noch kein Anhaltspunkt für Investitionsentscheidungen bieten.
+
+Um eine fundierte Entscheidungsgrundlage dafür zu haben, müssen, ggf. auf der Grundlage der Szenarien, weitere Betrachtungen durchgeführt werden (z.B. Machbarkeitsstudien, Erstellung von Business-Plänen, etc.).
+
+Um die verschiedenen Wärmeversorgungsoptionen für das Stadtgebiet <PLACE id="p151" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zu untersuchen, wurde das Betrachtungsgebiet in verschiedene Abschnitte unterteilt.
+
+Dabei wurden die Wärmenetzplanungen der Akteure im Stadtgebiet als Grundlage genommen.
+
+Bei dem Betreiber der bestehenden Wärmenetze in <PLACE id="p152" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, den Stadtwerken <PLACE id="p153" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, existieren für die weitere Wärmenetzplanung so genannte Verdichtungsgebiete, bei denen bereits ein flächendeckendes Wärmenetz existiert und eine höhere Anschlussquote und ggf. eine Nachverdichtung des Netzes angedacht ist.
+
+Hierzu gehören das Gebiet der <PLACE id="p154" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt, der Nordstadt sowie die Gebiete <PLACE id="p155" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE> und Sonnenhof.
+
+Weiterhin existieren bei der <TIMEX3 tid="t122" type="DATE" value="FUTURE_REF">langfristigen</TIMEX3> Planung der Stadtwerke <PLACE id="p156" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> sogenannte Ausbaugebiete.
+
+Das sind Gebiete, die an bestehende Wärmenetze angrenzen und bereits im Vorfeld der kommunalen Wärmeplanung auf Grund ihrer Nähe zum bestehenden Wärmenetz, ihrer Wärmedichte und der Kundenstruktur als potenzielle Gebiete für den perspektivischen Ausbau des Wärmenetzes identifiziert wurden.
+
+Hierzu zählt <PLACE id="p157" type="" geo="DEBKGGND000005U3">das Gebiet Tiergarten</PLACE>, westlich von <PLACE id="p158" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE>, das Rodgebiet im Südwesten <PLACE id="p159" type="" geo="DEBKGGND00000VH9">der Innenstadt</PLACE> sowie das Gebiet Arlinger im Westen <PLACE id="p160" type="" geo="DEBKGGND00000VH9">der Pforzheimer Innenstadt</PLACE>.
+
+Für diese Ausbaugebiete sind keine fixen Grenzen definiert.
+
+Im Rahmen der kommunalen Wärmeplanung wurden mögliche Abgrenzungen angenommen, der exakte Ausbau hängt jedoch vom Erfolg des Vertriebs sowie einer Reihe von technischen und wirtschaftlichen Kriterien ab.
+
+Im Rahmen der kommunalen Wärmeplanung wurden weitere Gebiete auf die Eignung eines Wärmenetzes geprüft.
+
+Diese Gebiete zeichnen sich dadurch aus, dass es entweder Großverbraucher gibt, die an dem Anschluss an ein Wärmenetz interessiert sind und/oder es eine Quelle für erneuerbare Wärmeerzeugung gibt.
+
+Außerdem verfügen alle der betrachteten Gebiete über eine hohe Wärmedichte (Werte siehe Abbildung 5 in Abschnitt 1.3), die eine Basis für ein potenzielles Wärmenetz bieten kann.
+
+Zu den Gebieten, die im Rahmen der kommunalen Wärmeplanung untersucht wurden, zählen die folgenden Gebiete, die sich durch die genannten Merkmale potenziell für Wärmenetze eignen: <PLACE id="p161" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> inkl. Nagoldfreibad: Das Nagoldfreibad, die benachbarte Grundschule <PLACE id="p162" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> und die Nagoldhalle könnten effizient über ein Wärmenetz gemeinsam mit Wärme versorgt werden.
+
+Bei dieser Gelegenheit soll geprüft werden, inwiefern weitere Gebäude in <PLACE id="p163" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> mitversorgt werden könnten.
+
+Weiterhin bietet die <PLACE id="p164" type="" geo="DEBKGGND00001F4Y">Nagold</PLACE> mit einem installierten Wasserkraftwerk und einem davorliegenden Stausee (zur Stromgewinnung) eine Option, durch thermische Flusswassernutzung Wärme erneuerbar zu gewinnen.
+
+<PLACE id="p165" type="" geo="DEBKGGND00001R97">Würm</PLACE>: In der Nähe des Stadtgebietes <PLACE id="p166" type="" geo="DEBKGGND00000C2T">Würm</PLACE> gibt es ein Flussspatbergwerk, in dem Wasserreservoirs vorhanden sind.
+
+Zusätzlich dazu sind in dem Gebiet hohe Wärmedichten zu verzeichnen.
+
+Hier soll geprüft werden, ob der Aufbau eines Wärmenetzes 42 <PLACE id="p167" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE>: Hier bietet sich die Nutzung der Wärme aus dem Ablauf der Kläranlage für ein Niedertemperaturnahwärmenetz an.
+
+Die hohe Wärmedichte in dem Gebiet sowie der Neubau einer Feuerwache deuten auf die potenzielle Eignung für ein Wärmenetz hin.
+
+Gewerbegebiet PF8: Hier wurden in einem Projekt der Stadtwerke <PLACE id="p168" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> mit der Tilia GmbH die Wärmeversorgungsoptionen untersucht.
+
+Die Ergebnisse werden hier zusammengefasst vorgestellt.
+
+Zusätzlich zu den genannten Untersuchungsgebieten gibt es noch zwei Gebiete mit kommunalen Gebäuden, die im Auftrag der Stadtverwaltung <PLACE id="p169" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> untersucht wurden.
+
+Die Ergebnisse dieser Untersuchungen sind in Anhang 1 zu finden.
+
+Dabei handelt es sich um folgende Gebiete: Schulgelände <PLACE id="p170" type="" geo="DEBKGGND00000S84">Büchenbronn</PLACE>: Hier soll eine neue Heizungsanlage in die Waldschule <PLACE id="p171" type="" geo="DEBKGGND00000S84">Büchenbronn</PLACE> installiert werden.
+
+Bei dieser Gelegenheit soll untersucht werden, ob das benachbarte Schillergymnasium durch eine gemeinsame Wärmeerzeugungsanlage über ein kleines Nahwärmenetz mitversorgt werden könnte.
+
+Schulgelände <PLACE id="p172" type="" geo="DEBKGGND00000MKP">Huchenfeld</PLACE>: Hier soll die Wärmeerzeugungsanlage der Grundschule <PLACE id="p173" type="" geo="DEBKGGND00000MKP">Huchenfeld</PLACE> erneuert werden.
+
+In diesem Zusammenhang soll geprüft werden, ob benachbarte Gebäude mit angeschlossen werden könnten.
+
+Für die Gebiete, die nicht als Eignungsgebiete für Wärmenetze identifiziert wurden, wird in dem Szenario von einer dezentralen, das heißt einer Wärmeversorgung für Einzelgebäude, ausgegangen.
+
+Das heißt nicht, dass in diesen Gebieten Wärmenetze nicht potenziell möglich sind, sondern lediglich, dass sie im Rahmen der kommunalen Wärmeplanung nicht als Eignungsgebiete untersucht wurden, da sie keines der genannten Charakteristika aufweisen.
+
+Die vorgenommene Einteilung ist darum nicht als belastbare Prognose für den tatsächlichen Ausbau von Wärmenetzen zu sehen.
+
+Es handelt sich hierbei vielmehr um grundlegende Betrachtungen, in einem Ausbauplan muss die Installation der Wärmenetze dann anhand von weiteren Kriterien, wie Vertriebserfolg und technische und wirtschaftlichen Kriterien detailliert werden.
+
+mit thermischer Nutzung des Reservoirs im Flusspatbergwerk oder mit anderen Technologien wirtschaftlich ist.
+
+43 In Abbildung 29 ist eine Übersicht der in diesem Abschnitt vorgestellten Gebiete zu sehen.
+
+Dabei wurden die Verdichtungsgebiete grün eingetragen, die von den Stadtwerken geplanten Ausbaugebiete in orange und die Gebiete, die im Rahmen der kommunalen Wärmeplanung zur Prüfung der Eignung von Wärmenetzen unterzogen wurden, in blau.
+
+Bei den möglichen Versorgungsoptionen ist zu unterscheiden in potenzielle Erzeugungstechnologien, die für die Erzeugung von Wärme für Wärmenetze geeignet sind und Technologien, die für die Wärmeerzeugung auf Einzelhausebene geeignet sind.
+
+Auf der Grundlage der Potenzialanalyse wurden die möglichen Wärmeerzeugungsoptionen in <PLACE id="p174" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> für Wärmenetze und Beheizung auf Gebäudeebene mit ihren entsprechenden Vor- und Nachteilen zusammengestellt.
+
+Die Übersichten sind in den folgenden Tabellen 2 und 3 zu finden.
+
+44 45 In dem folgenden Abschnitt werden die abgeschätzten Effekte des Einsatzes der Technologien in den verschiedenen Gebieten dargestellt.
+
+Hierzu wird für jedes in Abschnitt 3.2.1 vorgestellte Eignungsgebiet für Wärmenetze der Einsatz von verschiedenen Technologien in unterschiedlichen Szenarien untersucht.
+
+Die Ergebnisse können auch auf weitere Gebiete übertragen werden, die auf Grund ihrer Wärmedichte (siehe Abschnitt 1.3, Abbildung 6) und weiteren Faktoren (z.B. Bereitschaft der potenziellen Kunden für ein Wärmenetz, Nähe zu Quellen regenerativer Wärmeerzeugung, etc.) für Wärmenetze geeignet sind.
+
+Bei der Vorstellung der Ergebnisse werden die Gebiete, entsprechend der Kategorisierung in Abschnitt 3.2.1 in Verdichtungsgebiete, Ausbaugebiete, Untersuchungsgebiete (Untersuchung der Eignung von Wärmenetzen) und dezentral versorgte Gebiete unterteilt.
+
+Bei den Szenarien wurden die Kosten und technischen Annahmen aus dem Technikkatalog der Klimaschutz- und Energieagentur <PLACE id="p175" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (KEA Klimaschutz- und Energieagentur <PLACE id="p176" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> GmbH, <TIMEX3 tid="t123" type="DATE" value="2022">2022</TIMEX3>) zu Grunde gelegt.
+
+Der für die Berechnungen der Szenarioanalyse genutzte Technikkatalog stammt aus <TIMEX3 tid="t124" type="DATE" value="2020">dem Jahr 2020</TIMEX3>.
+
+Da es zwischen der Veröffentlichung der Technikkataloges und der Erstellung der Szenarioanalyse (<TIMEX3 tid="t125" type="DATE" value="2023" mod="START">Anfang 2023</TIMEX3>) bereits signifikante Preissteigerungen gab, wurde das Preisniveau für Brennstoff und Investitionskosten entsprechend angepasst.
+
+Um die Änderungen der Investitionskosten zu berücksichtigen, wurde der Baukostenindex der deutschen Architektenkammern zu Grunde gelegt.
+
+Hier ist eine Preissteigerung von 22 % zwischen <TIMEX3 tid="t126" type="DATE" value="2020">dem Jahr 2020</TIMEX3> und <TIMEX3 tid="t127" type="DATE" value="2022">dem Jahr 2022</TIMEX3> dokumentiert  (Baukosteninformationszentrum Deutscher Architektenkammern GmbH, <TIMEX3 tid="t128" type="DATE" value="2023">2023</TIMEX3>).
+
+Diese Preissteigerung wurde auch für die Investitionskosten angenommen.
+
+Bei den Brennstoffen gab es, auf Grund politischer und energiewirtschaftlicher Entwicklungen, ebenfalls hohe Preissteigerungen.
+
+Deswegen wurden, abweichend von dem Technikkatalog der KEA BW, für die Brennstoffe abweichende Preise angenommen.
+
+Da besonders für klimaneutrales Gas, auf Grund der erst aufzubauenden Produktionskapazitäten, eine Prognose besonders schwierig war, wurden hier, zur Betrachtung der Sensitivität, zwei verschiedene Preisniveaus angenommen.
+
+Dabei handelt es sich einmal um den im Technikkatalogen angegebenen Preis mit einem Inflationsanstieg zum anderen um einen nach eigenen Prognosen bestimmten, deutlich höheren Preis.
+
+Durch die Untersuchung kann verdeutlicht werden, wie sich die Preisentwicklung der Brennstoffe auf die Wirtschaftlichkeit der Technologie auswirken kann.
+
+46 Quelle <TIMEX3 tid="t129" type="DATE" value="2023">2023</TIMEX3> <TIMEX3 tid="t130" type="DATE" value="2040">2040</TIMEX3> Strompreis Grundversorgung SWP (Link) Klimaneutrales Gas (Biomethan) – Preis moderat Klimaneutrales Gas (Biomethan) – Preis hoch Holzpellets Holzhackschnitzel Schon die Preisabweichungen <TIMEX3 tid="t131" type="DURATION" beginPoint="t114" endPoint="t115" value="P4Y">der letzten Jahre</TIMEX3> (<TIMEX3 tid="t132" type="DATE" value="2020">2020</TIMEX3> - <TIMEX3 tid="t133" type="DATE" value="2023">2023</TIMEX3>) zeigen, dass die exakten <TIMEX3 tid="t134" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Wärmeerzeugungskosten in einem gesamtstädtischen Konzept wie der kommunalen Wärmeplanung <PLACE id="p177" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> nicht belastbar für <TIMEX3 tid="t135" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> zu prognostizieren sind.
+
+Dementsprechend müssen vor der anstehenden Investitionsentscheidung die Kosten zum entsprechenden Zeitpunkt noch einmal geprüft, detailliert und angepasst werden.
+
+Die hier aufgeführten Kosten können dabei als ein erster grober Richtwert für den Vergleich der Technologien dienen.
+
+Es ist weiterhin zu berücksichtigen, dass in der folgenden Szenarioanalyse nur die reinen Kosten für Investition, Wartung und Brennstoffe betrachtet wurden.
+
+Weitere Kostenfaktoren wie zum Beispiel Fördermittelzuwendungen, Personalkosten, Steuerkosten oder Margen für den jeweiligen Betreiber wurden nicht berücksichtigt.
+
+Diese Faktoren müssen im Einzelfall analysiert und mit einberechnet werden.
+
+Im folgenden Abschnitt werden die Szenarien für die Verdichtungsgebiete, also die Gebiete, bei denen eine höhere Anschlussquote und ggf. Nachverdichtung des Fernwärmenetzes vorgesehen ist, vorgestellt.
+
+Dabei wird zuerst kurz auf das Gebiet und die dortige energetische Ausgangssituation eingegangen und danach auf die möglichen Wärmeerzeugungsoptionen und die Ergebnisse der Berechnungen der Szenarioanalyse.
+
+Technikkatalog KEA BW, eigene Prognosen eigene Prognosen Centrales Agrar-Rohstoff Marketing- und Energie-Netzwerk e.V. <TIMEX3 tid="t136" type="DATE" value="2022-11">11/2022</TIMEX3> (Link) Centrales Agrar-Rohstoff Marketing- und Energie-Netzwerk e.V. <TIMEX3 tid="t137" type="DATE" value="2022-11">11/2022</TIMEX3> (Link) 0,368 €/kWh 0,288 €/kWh 0,368 €/kWh 0,34 €/kWh 0,45 €/kWh 0,17 €/kWh 0,2195 €/kWh 0,035 €/kWh 0,046 €/kWh 47 0,47 €/kWh 3.2.4.1 Verdichtungsgebiet Innenstadt Lage Das Verdichtungsgebiet Innenstadt liegt zentral im <PLACE id="p178" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtgebiet.
+
+Es erstreckt sich größtenteils nördlich entlang der <PLACE id="p179" type="" geo="DEBKGGND00001YJ7">Enz</PLACE> sowie zu einem kleineren Teil am südlichen Flussufer.
+
+Energetisch zeichnet es sich dadurch aus, dass flächendeckend ein Fernwärmenetz vorhanden ist.
+
+In Abbildung 30 sind die Grenzen des Gebietes in grün sowie das vorhandene Nahwärmenetz in orange dargestellt.
+
+Energetische Ausgangssituation  Etwa ein Drittel der Gebäude im Verdichtungsgebiet Innenstadt sind bereits an das Wärmenetz angeschlossen.
+
+Da dies jedoch zu einem großen Teil Gebäude mit höheren Wärmebedarfen sind, deckt das Wärmenetz ca. 55 % des Wärmebedarfs des Verdichtungsgebiets Innenstadt ab.
+
+Die Gebäude im Verdichtungsgebiet Innenstadt, die nicht an das Wärmenetz angeschlossen sind, werden zu einem Großteil (84 %) mit erdgasbasierten Anlagen beheizt.
+
+Wärmebedarf 172.654 MWh/<TIMEX3 tid="t138" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> 142.378 MWh/<TIMEX3 tid="t139" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Anteil Wärmebedarf 55 % 45 % Anzahl Gebäude 1.149 2.514 Anteil Gebäude 31 % 69 % Bereits an das Wärmenetz angeschlossen 48 Nicht an das Wärmenetz angeschlossen Um die im Verdichtungsgebiet bislang nicht an das Wärmenetz angeschlossenen Gebäude anzuschließen, werden ca. 3.000 m zusätzliche Trassenführung benötigt.
+
+Außerdem müssten zusätzliche Wärmeerzeugungskapazitäten installiert werden, um die zusätzlichen Gebäude zu versorgen.
+
+Die zusätzlich benötigte Heizleistung liegt, inkl. der im Gebiet geplanten Neubaugebiete, bei ca. 87 MW2.
+
+Optionen für Wärmeerzeugung Da das Wärmenetz <TIMEX3 tid="t140" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> mit einer Vorlauftemperatur von 75 °C (<TIMEX3 tid="t141" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3>) bis 110 °C (<TIMEX3 tid="t142" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3>) betrieben wird, eignen sich für die Deckung des Wärmebedarf <TIMEX3 tid="t143" type="DATE" value="FUTURE_REF">kurzfristig</TIMEX3> keine Technologien, mit denen nur Niedertemperaturwärme erzeugt werden kann (wie z.B. Flusswassernutzung oder Geothermie).
+
+Da Gebäude nach einer energetischen Sanierung und ggf. der Umstellung von Heizkörpern auf Flächenheizungen in den meisten Fällen ein geringeres Temperaturniveau benötigen, sind solche Technologien ggf. <TIMEX3 tid="t144" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> eine Option.
+
+Es wird empfohlen im gesamten Stadtgebiet <PLACE id="p180" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> energetische Gebäudesanierungen und die Umstellung von Heizungssystemen voranzutreiben, um <TIMEX3 tid="t145" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> weitere erneuerbare Energien einsetzen zu können.
+
+Ebenfalls sind Hochtemperaturluftwärmepumpen für das Verdichtungsgebiet eher ungeeignet, da hierfür Flächen für größere Außengeräte benötigt werden, sie außerdem einen beständigen Geräuschpegel verursachen (Buderus, <TIMEX3 tid="t146" type="DATE" value="2023">2023</TIMEX3>) und bei kälteren Temperaturen z.T. ineffizient Wärme erzeugen.
+
+Aus diesem Grund verbleibt für den Bereich der <PLACE id="p181" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt als Optionen für klimaneutrale Wärmeversorgung nur die Versorgung mit Wärmeerzeugungsanlagen, die auf klimaneutralem Gas oder Biomasse basieren.
+
+Hochtemperaturwärmepumpen auf der Basis von Luft- oder Erdwärme könnten eventuell zusätzlich in kleinerem Rahmen genutzt werden.
+
+Prinzipiell sollten für die Beheizung der zusätzlichen Gebäude erst einmal die vorhandenen Wärmeerzeugungskapazitäten ausgeschöpft werden.
+
+Für den Fall, dass zusätzliche Kapazitäten benötigt werden, wurden im Rahmen der kommunalen Wärmeplanung verschiedene Versorgungszenarien betrachtet.
+
+Aus den genannten Gründen wurde für die Versorgungszenarien ein Biomethan-BHKW mit Spitzenlastkessel oder ein Holzhackschnitzelkessel angenommen.
+
+Tabelle 6 zeigt die Investitionskosten, die anhand des Technikkataloges der KEA BW abgeschätzt wurden.
+
+Die Investitionskosten für das Wärmenetz fallen dabei für alle Varianten an.
+
+Technologie Kosten  Zusätzliches Wärmenetz (ca. 3.200 m) Ca.
+
+3 Mio € Biomethan-BHKW (ca. 20 MW) Ca.
+
+14 Mio € Biomethan-Kessel (ca. 70 MW) Ca.
+
+9 Mio € Holzhackschnitzel-Heizkraftwerk (ca. 90 MW) Ca.
+
+169 Mio € 49 Um einen Vollkostenvergleich der Technologien durchzuführen, wurden die Kosten der Wärmeversorgung mit der jeweiligen Technologie über <TIMEX3 tid="t147" type="DURATION" value="P20Y">20 Jahre</TIMEX3> betrachtet.
+
+Abbildung 31 zeigt das Ergebnis des Variantenvergleichs, für die bessere Vergleichbarkeit wurden die Wärmeerzeugungskosten auf € pro kWh heruntergerechnet.
+
+Aus der Abbildung wird deutlich, dass der Holzhackschnitzel-Kessel, trotz höherer Investitionskosten, auf Grund der niedrigeren Betriebskosten beim Vollkostenvergleich etwas unter der Variante mit Biomethan liegt.
+
+Ob dieser Vergleich zum Zeitpunkt der Investition noch unverändert ist, hängt von der Entwicklung der Brennstoffpreise und der Anlagenpreise ab und sollte vor der Investitionsentscheidung detailliert geprüft werden.
+
+3.2.4.1 Verdichtungsgebiet Nordstadt Lage 50 Das Verdichtungsgebiet Nordstadt liegt nördlich der <PLACE id="p182" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt, oberhalb der durch das Stadtgebiet führenden Fernzugstrecke.
+
+Es wird im Süden durch das Verdichtungsgebiet Innenstadt begrenzt und orientiert sich sonst an dem bereits bestehenden Wärmenetz (eingezeichnet in Orange.
+
+Im Verdichtungsgebiet Nordstadt ist das Wärmenetz <TIMEX3 tid="t148" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> zu großen Teilen, aber noch nicht flächendeckend ausgebaut.
+
+Um einen Anschluss aller Gebäude vorzunehmen, müsste das Wärmenetz weiter ausgebaut werden.
+
+Energetische Ausgangssituation  Im Verdichtungsgebiet Nordstadt sind <TIMEX3 tid="t149" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> 13 % der Gebäude an das bestehende Wärmenetz angeschlossen.
+
+Dadurch werden ca. 19 % des Wärmebedarfs über das Fernwärmenetz gedeckt.
+
+Die Gebäude, die nicht über das Wärmenetz beheizt werden, werden größtenteils (87 %) mit erdgasbasierten Wärmeerzeugungsanlagen mit Wärme versorgt.
+
+Wärmebedarf 14.993 MWh/<TIMEX3 tid="t150" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> 64.303 MWh/<TIMEX3 tid="t151" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Anteil Wärmebedarf 19 % 71 % Anzahl Gebäude 128 848 Anteil Gebäude 13 % 87 % Um die bislang nicht an das Fernwärmenetz angeschlossenen Gebäude zu versorgen, werden zusätzliche Wärmetrassen von ca. 5.500 m benötigt.
+
+Weiterhin sind zusätzliche Wärmeerzeugungskapazitäten von ca. 19 MW nötig, um die zusätzlichen Gebäude zu versorgen.
+
+Optionen für Wärmeerzeugung Aus den beim Verdichtungsgebiet Innenstadt genannten Gründen, sind auch hier <TIMEX3 tid="t152" type="DATE" value="FUTURE_REF">kurzfristig</TIMEX3> nur Wärmeerzeugungsoptionen einsatzbar, die Hochtemperaturwärme in das Fernwärmenetz einspeisen können.
+
+Analog zu dem Verdichtungsgebiet Innenstadt, kommen hier entweder Wärmeversorgungsanlagen auf der Basis von Biomethan oder auf der Basis von Holzhackschnitzeln in Frage.
+
+Aus diesem Grund wurden auch hier Szenarien mit Biomethan-BHKW und Spitzenlastkessel und einem Holzhackschnitzelkraftwerk miteinander verglichen.
+
+In Tabelle 8 sind die Investitionskosten für die Technologien aufgeführt.
+
+Technologie Kosten  Zusätzliches Wärmenetz (ca. 5.500 m) Ca.
+
+7 Mio € Biomethan-BHKW (ca. 8 MW) Ca.
+
+6 Mio € Biomethan-Kessel (ca. 28 MW) Ca.
+
+4 Mio € Holzhackschnitzel-Heizkraftwerk (ca. 37,5 MW) Ca.
+
+72 Mio € Bereits angeschlossen Nicht angeschlossen 51 Um die Varianten vergleichen zu können, wurde auch hier ein Vollkostenvergleich der Technologien durchgeführt.
+
+Unter den in Abschnitt 3.2.3 genannten Annahmen, ist über die Lebensdauer ein Holzhackschnitzel-Großheizkraftwerk nach einer Grobberechnung die preisgünstigste Variante.
+
+Dieses Ergebnis sollte jedoch, unter Berücksichtigungen von Anschlussquoten, Preisanpassungen, weiteren Kostenfaktoren etc. mit einem detaillierten Businessplan noch einmal überprüft werden.
+
+3.2.4.1 Verdichtungsgebiet Buckenberg-Haidach Lage Das Verdichtungsgebiet Buckenberg-Haidach befindet sich südöstlich der Innenstadt und wird bereits mit einem Nahwärmenetz versorgt.
+
+52 Energetische Ausgangssituation Im gekennzeichneten Gebiet Buckenberg-Haidach sind bereits 76 % der Gebäude an das Fernwärmenetz angeschlossen.
+
+Über das bestehende Netz werden somit ca. 56 % des vorhandenen Wärmebedarfs gedeckt.
+
+Von den nicht an das Wärmenetz angeschlossenen Gebäuden wird der größte Teil (ca. 73 %) mit erdgasbasierten Erzeugungsanlagen gedeckt.
+
+Bereits angeschlossen Nicht angeschlossen Wärmebedarf 28.526 MWh/<TIMEX3 tid="t153" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> 22.328 MWh/<TIMEX3 tid="t154" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Anteil Wärmebedarf 56 % 44 % Anzahl Gebäude 576 182 Anteil Gebäude 76 % 24 % Um die Gebäude, die bislang nicht an das Fernwärmenetz angeschlossen sind, ebenfalls über das Fernwärmnetz erschließen zu können, müssten keine neuen Wärmetrassen installiert werden, da das definierte Gebiet bereits flächendeckend erschlossen ist.
+
+Allerdings werden zusätzliche Kapazitäten von 13 MW benötigt, um den Wärmebedarf der zusätzlichen Gebäude zu decken.
+
+Zudem könnten die Gebiete östlich des Untersuchungsgebietes ebenfalls erschlossen werden.
+
+Optionen für Wärmeerzeugung Analog zu den Verdichtungsgebieten Innenstadt und Nordstadt eigenen sich auch für das Verdichtungsgebiet Buckenberg-Haidach nur Wärmeerzeugungsanlagen, die die Vorlauftemperaturen des Hochtemperaturwärmenetzes bedienen können.
+
+Aus diesem Grund wurden auch hier Varianten mit einem Biomethan-BHKW und einem Spitzenlastkassel oder ein Holzhackschnitzel-Heizkraftwerk gewählt.
+
+Das Ergebnis des Variantenvergleich zeigt, dass bei einem moderaten Preis für Biomethan beide Varianten vergleichbar sind.
+
+Steigt der Preis jedoch deutlich an (Annahmen siehe Abschnitt 3.2.1), verfügt ein Holzhackschnitzel-Kraftwerk über niedrigere Wärmevollkosten.
+
+Hier sollten ebenfalls vor einer Investitionsentscheidung die Berechnungen mit den aktualisierten Preisen und weiteren Kostenfaktoren wiederholt werden.
+
+53 In den folgenden Abschnitten werden die Ergebnisse der Szenarioanalyse für die Gebiete vorgestellt, die von den Stadtwerken <PLACE id="p183" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> und der Stadtverwaltung bereits für einen weiteren Ausbau des Fernwärmenetzes vorgesehen sind.
+
+Die Vorstellung der Ausbaugebiete erfolgt dabei analog zu den Verdichtungsgebieten.
+
+3.2.5.1 Ausbaugebiet Tiergarten Lage Das Ausbaugebiet Tiergarten befindet sich südöstlich von der Innenstadt, angrenzend an den Stadtteil <PLACE id="p184" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE>, in dem bereits ein Nahwärmenetz existiert.
+
+Das Gebiet umfasst mehrere Wohnblöcke, die in <TIMEX3 tid="t155" type="DATE" value="192">den 1920er</TIMEX3> und <TIMEX3 tid="t156" type="DATE" value="195">1950er Jahre</TIMEX3>n errichtet wurden.
+
+54 Energetische Ausgangssituation Aus den Kehrbuchdaten des zuständigen Schornsteinfegers ist bekannt, dass in dem Ausbaugebiet Tiergarten fünf Gebäude mit heizölbasierten Wärmeerzeugungsanlagen, vier Gebäude mit erdgasbasierten Anlagen und jeweils ein Gebäude mit einer holzbasierten Wärmeerzeugungsanlage und einer Luftwärmepumpe versorgt wird.
+
+Bei drei Gebäuden in dem Ausbaugebiet ist die <TIMEX3 tid="t157" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Wärmeerzeugung nicht bekannt.
+
+Mit zwei Ausnahmen sind alle bekannten Wärmeerzeugungsanlagen in <TIMEX3 tid="t158" type="DATE" value="199">den 1990er Jahren</TIMEX3> installiert worden und müssen somit, laut GEG, innerhalb <TIMEX3 tid="t159" type="DURATION" value="PXY">der nächsten Jahre</TIMEX3> gegen eine neue Wärmeerzeugungsanlage ausgetauscht werden.
+
+Um die Gebäude an das Wärmenetz anzuschließen, müssten zusätzliche Wärmetrassen mit einer Länge von ca. 850 m verlegt werden.
+
+Die benötigte Gesamtheizlast der Gebäude beträgt etwa 1,6 MW.
+
+Optionen für Wärmeerzeugung Für den Fall, dass für die Gebäude eine zusätzliche Wärmeerzeugungsoption benötigt wird, wird als eine Option ein Biomethan-Kessel angenommen.
+
+Auch hier werden zwei mögliche Szenarien untersucht, einmal mit einem moderaten und einmal mit einem hohen Preis für Biomethan (Annahmen siehe Abschnitt 3.2.1).
+
+Eine zweite mögliche Variante, die hier betrachtet wird, ist, dass dem bestehenden Wärmenetz im Stadtteil Buckenberg-Haidach mit Hilfe eines Wärmetauschers Wärme aus dem Rücklauf entzogen wird, die dann mit einer Wärmepumpe zur Beheizung der Gebäude genutzt wird.
+
+Hier sind weitere Untersuchungen notwendig, in welcher Größenordnung dem Rücklauf des Bestandswärmenetzes Wärme entzogen werden kann und mit welcher Vorlauftemperatur die Gebäude Wärme benötigen.
+
+Auf der Grundlage, der im Rahmen der kommunalen Wärmeplanung vorhandenen Informationen, wird davon ausgegangen, dass die Variante technisch umsetzbar ist, wenn das Wärmenetz auf einem niedrigen Temperaturniveau betrieben wird und über dezentrale Wärmepumpen das Temperaturniveau für die Gebäude erreicht wird.
+
+In Tabelle 9 ist eine Übersicht der Investitionskosten der Technologien zu sehen.
+
+55 Um die Szenarien vergleichen zu können, wurde, analog zu den Verdichtungsgebieten, eine Vollkostenrechnung über <TIMEX3 tid="t160" type="DURATION" value="P20Y">20 Jahre</TIMEX3> durchgeführt.
+
+Das Ergebnis der Berechnungen ist in Abbildung 37 zu finden und zeigt, dass der Preis für ein mit Wärmepumpen versorgtes Wärmenetz in etwa zwischen den zwei Preisvarianten für Biomethan liegt.
+
+Hier sollten vor einer Investitionsentscheidung weitere Betrachtungen durchgeführt werden, um die Kosten zu verifizieren und aktualisieren und weitere Kostenfaktoren mit einzubeziehen.
+
+Technologie Kosten  Wärmenetz Ca.
+
+0,8 Mio € Biomethan-Kessel (ca. 1,6 MW) Ca.
+
+0,2 Mio € Wärmepumpe (ca. 1,6 MW) Ca.
+
+1,5 Mio € Dezentrale Wärmepumpen  Ca.
+
+0,9 Mio €.
+
+56 3.2.5.2 Ausbaugebiet Arlinger Lage Das Ausbaugebiet Arlinger befindet sich westlich von der <PLACE id="p185" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt.
+
+Hier wurden während der Erstellung der kommunalen Wärmeplanung (<TIMEX3 tid="t161" type="DATE" value="2022" mod="END">Ende 2022</TIMEX3>/<TIMEX3 tid="t162" type="DATE" value="2023" mod="START">Anfang 2023</TIMEX3>) bereits erste Wärmetrassen gebaut, die zum Beispiel das neue Holzhochhaus „Carl“ (Link) der Baugenossenschaft Arlinger eG mit Wärme versorgen.
+
+Welche Gebäude im Gebiet Arlinger genau mit Fernwärme versorgt werden sollen, ist abhängig von dem Interesse der Gebäudeeigentümer, der Wirtschaftlichkeit des Ausbaus für das jeweilige Gebäude und den Ausbaukapazitäten der Stadtwerke <PLACE id="p186" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> als Betreiber.
+
+In Abbildung 38 ist ein mögliches perspektivisches Ausbaugebiet eingezeichnet, das als Grundlage für die Szenarioanalyse dienen soll.
+
+Energetische Ausgangssituation Im Ausbaugebiet Arlinger wird momentan ein Großteil der Gebäude (74 %) mit erdgasbasierten Wärmeerzeugungsanlagen versorgt.
+
+Von den Wärmeerzeugungsanlagen sind laut Schornsteinfegerdaten ca. 35 % <TIMEX3 tid="t163" type="DATE" value="1993" mod="BEFORE">vor 1993</TIMEX3> installiert worden und müssten laut GEG ausgetauscht werden.
+
+57 Das Ausbaugebiet Arlinger hat einen <TIMEX3 tid="t164" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Wärmebedarf von etwa 7 GWh/<TIMEX3 tid="t165" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Um die Gebäude zu versorgen wäre ein Wärmenetz von ca. 1.300 m Länge und zusätzliche Erzeugung von etwa 4 MW nötig.
+
+Optionen für Wärmeerzeugung Sollten zusätzliche Wärmeerzeugungsoptionen zur Beheizung der Gebäude in Arlinger benötigt werden, wird analog zum Ausbaugebiet Tiergarten als mögliche Optionen ein Biomethankessel oder eine Wärmepumpe angenommen, die über den Rücklauf des bestehenden Wärmenetzes in der <PLACE id="p187" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt die Gebäude mit Wärme versorgt.
+
+In Abbildung 39 ist ein Vollkostenvergleich der Varianten über <TIMEX3 tid="t166" type="DURATION" value="P20Y">20 Jahre</TIMEX3> zu sehen.
+
+Dabei wird deutlich, dass die Option mit Wärmepumpen zwischen den Varianten für Biomethan liegt.
+
+Auch hier sollten die Preise für Brennstoffe und Anlagen aktualisiert und weitere Kostenfaktoren einberechnet werden, bevor eine Investitionsentscheidung getroffen werden kann.
+
+3.2.5.3 Ausbaugebiet Rod Lage Das Rodgebiet befindet sich in der <PLACE id="p188" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Südweststadt und besteht hauptsächlich aus Villen und Einfamilienhäusern.
+
+Die hohe Wärmedichte und die flache Typographie des Gebietes machen es für den Bau eines Wärmenetzes prädestiniert.
+
+58 Energetische Ausgangssituation Die Gebäude im Rodgebiet haben einen Gesamtwärmebedarf von 21 GWh/<TIMEX3 tid="t167" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> und werden <TIMEX3 tid="t168" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> größtenteils (zu 86 %) mit erdgasbasierten Wärmeerzeugungsanlagen beheizt.
+
+Für ein Wärmenetz wären ca. 5.300 m Wärmetrassen und eine Wärmeerzeugungskapazität von etwa 11 MW notwendig.
+
+Optionen für Wärmeerzeugung Analog zu den anderen Ausbaugebieten wurde auch hier als zusätzliche Wärmeerzeugungsoption entweder ein Biomethan-Kessel oder eine Wärmepumpe angenommen, die an den Rücklauf des bestehenden Wärmenetzes angeschlossen werden kann.
+
+Die Ergebnisse für das Gebiet sind in Abbildung 26 dargestellt.
+
+Hierbei wird deutlich, dass die Wärmeversorgungsoption, die auf Wärmepumpen am Rücklauf des Fernwärmenetzes basiert, in dem Falle günstigste Option ist.
+
+Um eine Investitionsentscheidung zu fällen, sollte die Berechnung sowohl 59 technisch (Temperaturniveau, Lautstärkebestimmungen, etc.) als auch wirtschaftlich um weitere Faktoren erweitert (Einbeziehung weiterer Kostenfaktoren, Anpassung Preis, etc.) und entsprechend überprüft werden.
+
+Analog zu den Ausbau- und Verdichtungsgebieten werden im folgenden Abschnitt die Ergebnisse der Untersuchungsgebiete vorgestellt, bei denen die Eignung für ein Wärmenetz geprüft wurde.
+
+3.2.6.1 Untersuchungsgebiet <PLACE id="p189" type="" geo="DEBKGGND00000C2T">Würm</PLACE> Lage Der Stadtteil <PLACE id="p190" type="" geo="DEBKGGND00000C2T">Würm</PLACE> liegt im Süden des <PLACE id="p191" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtgebiets, direkt an dem gleichnamigen Fluss.
+
+In dem Stadtteil leben knapp 3.000 Einwohnerinnen und Einwohner (<PLACE id="p192" type="" geo="DEBKGGND00001GIK">Stadt Pforzheim</PLACE>, <TIMEX3 tid="t169" type="DATE" value="2023">2023</TIMEX3>).
+
+Er ist komplett von Wald- und Grünflächen umgeben, weitere Stadtgebiete folgen mit einiger Entfernung.
+
+60 Energetische Ausgangssituation In Abbildung 43 ist die Verteilung der Wärmeerzeugungsanlagen im Stadtteil <PLACE id="p193" type="" geo="DEBKGGND00000C2T">Würm</PLACE> nach Energieträgern dargestellt.
+
+Ein Großteil der Gebäude in <PLACE id="p194" type="" geo="DEBKGGND00000C2T">Würm</PLACE> (70 %) wird <TIMEX3 tid="t170" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> mit heizölbasierten Wärmeerzeugungsanlagen beheizt.
+
+Grund dafür ist, dass <PLACE id="p195" type="" geo="DEBKGGND00000C2T">Würm</PLACE> nicht an das zentrale Erdgasnetz angeschlossen ist und deswegen erdgasbasierte Anlagen nur mit Flüssiggas betrieben werden können.
+
+Aufgrund der Tatsache, dass der Neueinbau von ausschließlich heizölbasierten Wärmeerzeugungsanlagen nach <TIMEX3 tid="t171" type="DATE" value="PRESENT_REF">aktueller</TIMEX3> (<TIMEX3 tid="t172" type="DATE" value="2023-03">März 2023</TIMEX3>) Gesetzeslage <TIMEX3 tid="t173" type="DATE" value="2026" mod="ON_OR_AFTER">ab 2026</TIMEX3> verboten ist (Bundesjustizministerium, <TIMEX3 tid="t174" type="DATE" value="2023">2023</TIMEX3>) und nach einem neuen Gesetzesentwurf des GEG in <TIMEX3 tid="t175" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> bei jeder neueingebauten Heizungsanlage min. 65 % erneuerbare Energien verwendet werden sollen, ist davon auszugehen, dass der Anschluss an ein Wärmenetz mit klimaneutraler 61 Wärmeversorgung sehr hoch wäre, da die Lösungen, die die gesetzlichen Anforderungen erfüllen, in den meisten Fällen kostenintensiver sind als der Anschluss an ein Wärmenetz.
+
+Weiterhin wird anhand der Daten aus der kommunalen Wärmeplanung auch davon ausgegangen, dass auf Grund der hohen Wärmedichte in dem Gebiet (siehe Abschnitt 1.3, Abbildung 6) die Verlegung eines Wärmenetzes auch wirtschaftlich effizient wäre.
+
+Insgesamt befinden sich in <PLACE id="p196" type="" geo="DEBKGGND00000C2T">Würm</PLACE> 740 Gebäude mit einem Gesamtwärmebedarf von etwa 23 GWh/<TIMEX3 tid="t176" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Um das gesamte Gebiet zu versorgen, müsste ein Wärmenetz mit einer Trassenlänge von ca. 9.400 m Länge und eine Erzeugung von 13 MW installiert werden.
+
+Optionen für Wärmeerzeugung Im Stadtteil <PLACE id="p197" type="" geo="DEBKGGND00000C2T">Würm</PLACE> gibt es eine besonders innovative Option für erneuerbare Wärmeversorgung.
+
+Hier existiert ein Bergwerk zur Förderung von Flussspat, dessen Betrieb im <TIMEX3 tid="t177" type="DATE" value="1996">Jahr 1996</TIMEX3> eingestellt wurde (<PLACE id="p198" type="" geo="DEBKGGND00001GIK">Stadt Pforzheim</PLACE>, <TIMEX3 tid="t178" type="DATE" value="2009">2009</TIMEX3>).
+
+In dem Bergwerk existieren unterirdische Wasservorkommen, die mit Hilfe eines Wärmetauschers und Wärmepumpen zur Beheizung von Gebäuden genutzt werden könnten.
+
+Die technische Machbarkeit wurde parallel zu der Erstellung der kommunalen Wärmeplanung (<TIMEX3 tid="t179" type="DATE" value="2022-04">04/2022</TIMEX3> – <TIMEX3 tid="t180" type="DATE" value="2023-03">03/2023</TIMEX3>) untersucht.
+
+Zum Zeitpunkt der Berichtserstellung (<TIMEX3 tid="t181" type="DATE" value="2023-03">März 2023</TIMEX3>) waren die Untersuchungen noch nicht abgeschlossen, es gab jedoch bis zu diesem Zeitpunkt keine Hinweise, dass eine Wärmegewinnung im Flussspatbergwerk nicht umsetzbar wäre.
+
+Aus diesem Grund wird hier davon ausgegangen, dass die Wärmegewinnung aus dem Flussspatbergwerk eine technisch umsetzbare Wärmeerzeugungsoption für den Stadtteil <PLACE id="p199" type="" geo="DEBKGGND00000C2T">Würm</PLACE> ist.
+
+Weiterhin gibt es im südlichen Teil von <PLACE id="p200" type="" geo="DEBKGGND00000C2T">Würm</PLACE> Freiflächen, die nach VVÖ-FO für Solaranlagen geeignet sind.
+
+Deswegen ist die Nutzung von Solarthermieanlagen in Kombination mit einem Saisonalspeicher und einem Biomethankessel für die Spitzenlast, die zweite Wärmeerzeugungsoption für das Stadtgebiet <PLACE id="p201" type="" geo="DEBKGGND00000C2T">Würm</PLACE>.
+
+Beide Optionen sind für die Erzeugung von Niedertemperaturwärme geeignet, weshalb jeweils noch dezentrale Wärmepumpen in den einzelnen Gebäuden zusätzlich installiert werden müssten.
+
+Die Investitionskosten für eine Versorgung des Stadtteils <PLACE id="p202" type="" geo="DEBKGGND00000C2T">Würm</PLACE> mit den genannten Technologien sind in Tabelle 10 aufgeführt.
+
+Bei einer Vollkostenbetrachtung der Technologien über <TIMEX3 tid="t182" type="DURATION" value="P20Y">20 Jahre</TIMEX3> ergibt sich das in Abbildung 44 abgebildete Ergebnis.
+
+Aus der Abbildung wird ersichtlich, dass beide Varianten in einem ähnlichen Preisbereich liegen.
+
+Der Vorteil der Variante „Nutzung der Wärme aus dem Flussspatbergwerk“ ist, dass der Platzbedarf deutlich geringer ist.
+
+Aus diesem Grund wird empfohlen, sollten die Ergebnisse der Machbarkeitsstudie positiv ausfallen, diesen Ausbaupfad weiter zu verfolgen.
+
+Um dann eine konkrete Investitionsentscheidung zu treffen, müssen die Technologie Kosten  Wärmenetz (ca. 9.000 m) Ca.
+
+11 Mio € Solarthermieanlage (ca. 55 MW)  Ca.
+
+14,6 Mio € Saisonalspeicher (ca. 18 GWh/<TIMEX3 tid="t183" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Speicherkapazität) Ca.
+
+21 Mio € Biomethan-Kessel (13 MW) Ca.
+
+1,6 Mio € Wärmepumpe für Flussspatbergwerk (ca. 13 MW) Ca.
+
+12 Mio € Dezentrale Wärmepumpen Ca.
+
+13 Mio € 62 Berechnungen mit aktualisierten Preisen und Informationen zu Abnehmern und weiteren Kostenfaktoren konkretisiert werden.
+
+3.2.6.2 Untersuchungsgebiet <PLACE id="p203" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> Lage Das Untersuchungsgebiet <PLACE id="p204" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> befindet sich südlich der <PLACE id="p205" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Kernstadt, an einer Biegung des Flusses <PLACE id="p206" type="" geo="DEBKGGND00001TON">Nagold</PLACE>.
+
+Im Norden befindet sich das Nagoldfreibad, die Grundschule <PLACE id="p207" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> und die Nagoldhalle als kommunale Großverbraucher.
+
+Diese 63 Großverbraucher benötigen eine neue Wärmeversorgung, die als Anlass genommen werden könnte, die Verbraucher über ein Wärmenetz zu verbinden und ggf. weitere Gebäude mit anzuschließen.
+
+Das restliche Gebiet ist hauptsächlich durch Gebäude mit Wohn- oder Wohnmischnutzung geprägt, die ebenfalls an ein Wärmenetz angeschlossen werden könnten.
+
+Energetische Ausgangssituation Auch in <PLACE id="p208" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> werden, genauso wie im gesamten Stadtgebiet <PLACE id="p209" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>, ein Großteil (84 %) der Gebäude mit erdgasbasierten Wärmeerzeugungsanlagen beheizt.
+
+Gefolgt wird dieser Anteil mit heizölbasierten Wärmeerzeugungsanlagen.
+
+Auch in diesem Gebiet gibt es einen hohen Anteil an älteren (27 % der Wärmeerzeugungsanlagen sind <TIMEX3 tid="t184" type="DURATION" value="P30Y" mod="EQUAL_OR_MORE">über 30 Jahre</TIMEX3> alt), fossil betriebenen Wärmeerzeugungsanlagen und eine hohe Wärmedichte sowie eine Vielzahl an erneuerbaren Wärmequellen, die auf eine potenziell hohe Anschlussquote und damit eine hohe Wirtschaftlichkeit eines Wärmenetzes in dem Gebiet hinweisen.
+
+Um die Gebäude in <PLACE id="p210" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> zentral über ein Wärmenetz zu versorgen, ist eine Wärmetrasse von ca. 5.300 m Länge und eine Erzeugungsleistung von ca. 7 MW notwendig, um den Wärmbedarf der Gebäude von 13 GWh/<TIMEX3 tid="t185" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> zu decken.
+
+Optionen für Wärmeerzeugung Da das Untersuchungsgebiet <PLACE id="p211" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> das Nagoldfreibad beinhaltet, was hauptsächlich den Wärmebedarf im <TIMEX3 tid="t186" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> hat, und außerdem über einige Freiflächen, zum Beispiel auf dem Gelände einer ehemaligen Papierfabrik oder im Süden des Gebietes, verfügt, bietet sich in <PLACE id="p212" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> der Einsatz von Solarthermie an.
+
+Die Anlagen müssten mit einem Saisonalspeicher und einem Biomethan-Kessel für Redundanz und Spitzenlast kombiniert werden.
+
+Alternativ könnten auch Wärmepumpen eingesetzt werden, die ihre Wärmequelle entweder aus dem Flusswasser (hier würde sich das bestehende Wasserkraftwerk <PLACE id="p213" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE>, siehe Abbildung 26) beziehen könnten.
+
+Bei beiden Optionen handelt es sich um Wärme-64 erzeugungstechnologien, die für ein Niedertemperaturnetz geeignet sind, weshalb beide Optionen noch zusätzliche Wärmepumpen an den jeweiligen Gebäuden benötigen.
+
+In Tabelle 11 sind die Investitionskosten laut dem Technikkatalog der KEA BW für die jeweiligen Optionen aufgelistet.
+
+In Abbildung 47 ist das Ergebnis des Variantenvergleichs zu sehen.
+
+Mit den getroffenen Annahmen liegt die Flusswassernutzung preislich leicht über der Solarthermie in Kombination mit einem Biomassekessel.
+
+Auch hier müssen die Berechnungen noch einmal um weitere Kostenfaktoren erweitert und aktualisiert werden, bevor eine endgültige Investitionsentscheidung getroffen werden kann.
+
+3.2.6.3 Untersuchungsgebiet <PLACE id="p214" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> Lage Der <PLACE id="p215" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtteil <PLACE id="p216" type="" geo="DEBKGGND00000TUT">Eutingen an der Enz</PLACE> befindet sich im östlichen Teil des Stadtgebiets <PLACE id="p218" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>.
+
+Das Gebiet liegt nördlich des Enzufers und weist zahlreiche Potenziale für erneuerbare Energien auf.
+
+Da eine Verlegung von Wärmenetzen über Bahntrassen und Flüsse hinweg in den meisten Fällen sehr aufwändig ist, wurde vorerst bei der Szenarioanalyse nur das Gebiet zwischen der <PLACE id="p219" type="" geo="DEBKGGND00001YJ7">Enz</PLACE> und der Fernbahntrasse betrachtet.
+
+Dieses Gebiet ist prädestiniert, Technologie Kosten  Solarthermieanlage (ca. 15 MW)  Ca.
+
+14,6 Mio € Saisonalspeicher (ca. 8 GWh/<TIMEX3 tid="t187" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Speicherkazität) Ca.
+
+21 Mio € Biomethan-Kessel (7 MW) Ca.
+
+0,9 Mio € Wärmepumpe (ca. 3,5 MW) Ca.
+
+12 Mio € Dezentrale Wärmepumpen  Ca.
+
+8 Mio € 65 da hier zum einen ein größeres Gebäude für die kommunale Feuerwehr neu gebaut wird, zum anderen weil hier die Wärmedichten in <PLACE id="p220" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> am höchsten sind (siehe Abschnitt 2.1, Abbildung 6).
+
+Bei entsprechendem Kundeninteresse könnte hier aber ggf. auch ein größeres Wärmenetz verlegt werden.
+
+Energetische Ausgangssituation In <PLACE id="p221" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> werden <TIMEX3 tid="t188" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> die meisten (86 %) Gebäude mit erdgasbasierten Wärmeerzeugungsanlagen beheizt.
+
+Außerdem sind in dem Gebiet laut Kehrbuchdaten des zuständigen Schornsteinfegers ca. 35 % der Wärmeerzeugungsanlagen in <PLACE id="p222" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> <TIMEX3 tid="t189" type="DURATION" value="P30Y" mod="EQUAL_OR_MORE">30 Jahre</TIMEX3> alt oder älter.
+
+Es ist deshalb davon auszugehen, dass es eine hohe Nachfrage an einer Versorgung durch ein Fernwärmenetz gibt.
+
+Der <TIMEX3 tid="t190" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Wärmebedarf des Gebiets beträgt ca. 18 GWh/<TIMEX3 tid="t191" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>; die Versorgung des kompletten Gebietes über ein Wärmenetz würde Wärmetrassen von ca. 5.000 m und eine Erzeugungskapazität von 12 MW erfordern.
+
+66 Optionen für Wärmeerzeugung  In <PLACE id="p223" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> endet der Abfluss der <PLACE id="p224" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Kläranlage, aus dem über einen Wärmetauscher Wärme entzogen werden könnte (weitere Details siehe Potenzialanalyse, Abschnitt 2.2.5).
+
+Hier besteht zum einen die Möglichkeit, eine Hochtemperaturwärmepumpe an den Wärmetauscher anzuschließen und das Netz mit einer hohen Vorlauftemperatur zu beheizen.
+
+Eine Alternative ist es, eine niedrigere Temperatur in das Wärmenetz einzuspeisen und dann über dezentrale Wärmepumpen in den Gebäuden das jeweils benötigte Temperaturniveau zu erzeugen.
+
+Weiterhin befindet sich westlich des Stadtteils <PLACE id="p225" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> (nordöstlich der Kläranlage) eine Freifläche, die eventuell für die Wärmeerzeugung durch Erdwärmesonden genutzt werden könnte (weitere Informationen siehe Abschnitt 2.2.3).
+
+Dies würde allerdings nur ausreichend sein, um einen Teil des Wärmebedarfs im Untersuchungsgebiet zu decken und müsste deshalb noch einer anderen Wärmeerzeugungstechnologie kombiniert werden.
+
+Perspektivisch kann überlegt werden, ob ein Wärmenetz in <PLACE id="p226" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> mit dem Wärmenetz in der <PLACE id="p227" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Innenstadt verbunden werden könnte.
+
+Hier könnten dann ggf. die regenerativen Energiequellen aus <PLACE id="p228" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> in die Erzeugung des erweiterten Fernwärmenetzes integriert werden.
+
+In Tabelle 12 sind die Investitionskosten aufgelistet, die in Anlehnung an den Technikkatalog der KEA BW, für die Berechnung der Szenarien genutzt wurden.
+
+Anhand der genannten Annahmen wurden die Wärmeerzeugungskosten für die einzelnen Technologien ermittelt.
+
+In Abbildung 50 ist das Ergebnis des Variantenvergleichs abgebildet.
+
+Hierbei wird ersichtlich, dass eine Versorgung mit Erdwärmesonden oder mit einem Wärmetauscher im Abfluss der Kläranlage in Kombination mit einer Großwärmepumpe die preisgünstigsten Wärmeerzeugungsoptionen sind.
+
+Auch hier sollten die Berechnungen detailliert (weitere Kostenfaktoren, etc.) und aktualisiert werden, bevor eine Investitionsentscheidung getroffen wird.
+
+Technologie Kosten  Verlegung Wärmenetz (ca. 5.000 m) Ca.
+
+9,1 Mio € Wärmetauscher Abfluss Kläranlage (ca. 1,25 MW)  Ca.
+
+1,0 Mio € Großwärmepumpe (ca. 1,25 MW) Ca.
+
+1,0 Mio € Dezentrale Wärmepumpen (12 MW) Ca.
+
+6,7 Mio € Geothermiebohrungen (369 Bohrungen à 4 kW) Ca.
+
+8,0 Mio € 67 3.2.6.4 Untersuchungsgebiet Gewerbegebiet PF8 Lage Das Gewerbegebiet PF8 befindet sich im Nordosten <PLACE id="p229" type="" geo="DEBKGGND00001GIK">Pforzheims</PLACE>, an der Autobahn A8. Erste Unternehmen haben sich bereits in dem Gewerbegebiet angesiedelt, die nächsten Ansiedlungen sind für <TIMEX3 tid="t192" type="DURATION" value="PXY">die kommenden Jahre</TIMEX3> geplant.
+
+Die energetische Versorgung des Gewerbegebiets wurde in einem Projekt der Stadtwerke <PLACE id="p230" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> parallel zur kommunalen Wärmeplanung untersucht.
+
+Die wichtigsten Ergebnisse der Untersuchung sollen in diesem Abschnitt vorgestellt werden.
+
+68 Energetische Ausgangssituation Über die meisten Gebäude innerhalb des Gewerbegebiets PF8 liegen keine Daten zu den <TIMEX3 tid="t193" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> genutzten Wärmeerzeugungsanlagen vor.
+
+Nur von 16 der 49 Gebäude sind Daten zu den bestehenden Wärmeerzeugungsanlagen vorhanden.
+
+Von diesen Gebäuden wird ein Großteil (63 %) mit erdgasbetriebenen Wärmeerzeugungsanlagen versorgt und ein kleinerer Teil mit heizölbetriebenen Anlagen.
+
+Auf Grund der anstehenden Neuansiedlungen und der <TIMEX3 tid="t194" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> verbreiteten Nutzung von fossilen Brennstoffen wird davon ausgegangen, dass eine Anschlussquote an ein Wärmenetz potenziell sehr hoch wäre.
+
+Der genaue Wärmebedarf des Gebietes sowie die exakten Kapazitäten für ein Wärmenetz hängen von dem Energiebedarf der <TIMEX3 tid="t195" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> dort angesiedelten Unternehmen ab und können deshalb zum <TIMEX3 tid="t196" type="DATE" value="PRESENT_REF">jetzigen Zeitpunkt</TIMEX3> (<TIMEX3 tid="t197" type="DATE" value="2023">2023</TIMEX3>) noch nicht exakt bestimmt werden.
+
+Optionen für Wärmeversorgung Die Optionen für die Wärmeversorgung wurden in einem separaten Projekt untersucht.
+
+In dem Projekt wurde nicht nur die <TIMEX3 tid="t198" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Wärmeversorgung des Gebietes, sondern auch die Stromversorgung und die Wechselwirkungen untereinander untersucht.
+
+Westlich des Gewerbegebiets befindet sich eine Biogasanlage, die <TIMEX3 tid="t199" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> nur für Stromproduktion für das Verteilnetz genutzt wird.
+
+Hier wurde im Rahmen des Projektes empfohlen, die bislang nicht genutzte Abwärme der Biogasanlage zu nutzen, um das Gewerbegebiet mit Wärme zu versorgen.
+
+Weiterhin könnte der erzeugte Strom über Direktvermarktungsverträge direkt von den Unternehmen vor Ort genutzt werden.
+
+<TIMEX3 tid="t200" type="DATE" value="PRESENT_REF">Aktuell</TIMEX3> laufen Gespräche mit dem Betreiber der Biogasanlage, um die technische und wirtschaftliche Umsetzbarkeit dieser Optionen zu prüfen.
+
+Sollte eine Kooperation mit dem Betreiber der Biogasanlage nicht zu Stande kommen, so wird der Aufbau einer neuen Wärmeerzeugungsanlage auf der Basis von erneuerbaren Energien (z.B. Biogas, Holzhackschnitzel, etc.) empfohlen.
+
+Perspektivisch ist angedacht, das neue Wärmenetz im Gewerbegebiet PF8 mit dem bestehenden Wärmenetz in der <PLACE id="p231" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Kernstadt zu verbinden.
+
+Ob dies wirtschaftlich effizient ist, hängt von der Anschlussquote in den dazwischenliegenden Gebieten im <PLACE id="p232" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Nordosten ab.
+
+Zusätzlich zu der Wärmeversorgung wurde als Ergebnis der Untersuchung empfohlen, zusätzlich Strom aus Photovoltaikanlagen oder Windkraftanlagen zu erzeugen.
+
+Die Photovoltaikanlagen könnten dabei sowohl auf Freiflächen westlich des Gewerbegebiets als auch auf den Dachflächen der Unternehmen installiert werden.
+
+Für Windkraftanlagen gäbe es einen potenziellen Standort nördlich des <PLACE id="p233" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Stadtgebiets.
+
+Der Strom könnte dann genutzt werden, um zum einen direkt den Stromverbrauch der Unternehmen zu decken, zum anderen könnte aus überschüssigem Strom aus Photovoltaik- und Windkraftanlagen mit einem Elektrolyseur Wasserstoff hergestellt werden, der zum Beispiel zur Erzeugung von Prozesswärme von den Unternehmen genutzt werden könnte.
+
+In welchem Maße Stromerzeugungsanlagen installiert werden und ob diese wirtschaftlich sind, hängt sowohl von dem Stromverbrauch und dem Lastgang der in <TIMEX3 tid="t201" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> sich ansiedelnden Unternehmen ab, als auch von der Förderkulisse für die Stromerzeugungsanlagen und den Elektrolyseur.
+
+Prinzipiell wird empfohlen, soviel erneuerbaren Strom und Wasserstoff wie 69 technisch und wirtschaftlich effizient möglich zu erzeugen, um somit einen größtmöglichen Beitrag zur Energiewende leisten zu können.
+
+Bei den Gebieten, bei denen in dem vorgestellten Szenario kein Wärmenetz vorgesehen wurde, wurde in dem Szenario davon ausgegangen, dass die Gebäude einzeln mit dezentralen Wärmeerzeugungsanlagen versorgt werden.
+
+Dies bedeutet nicht, dass für diese Gebiete perspektivisch ein Wärmenetz ausgeschlossen ist.
+
+Insbesondere bei Gebieten mit hoher Wärmedichte wie zum Beispiel in Teilen von <PLACE id="p234" type="" geo="DEBKGGND00003FN0">Brötzingen</PLACE> und der <PLACE id="p235" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Weststadt (als Erweiterung des Ausbaugebietes Arlinger), in <PLACE id="p236" type="" geo="DEBKGGND00000MKP">Huchenfeld</PLACE> oder <PLACE id="p237" type="" geo="DEBKGGND00000S84">Büchenbronn</PLACE> (als Erweiterung der Netze für kommunale Gebäude, siehe Anhang 1) oder in <PLACE id="p238" type="" geo="DEBKGGND00000RH4">Mäuerach</PLACE> bestehen hohe Chancen, dass bei ausreichender Anschlussquote der Aufbau eines Wärmenetzes oder der Anschluss an ein bestehendes Wärmenetz wirtschaftlich ist.
+
+Hierbei ist zu beachten, dass auf Grund von Höhenunterschieden in <PLACE id="p239" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> der Aufbau eines Wärmnetzes topographisch zum Teil technisch herausfordernd ist.
+
+Ist der Höhenanstieg zu stark, kann die Fließrichtung des Wärmenetzes nur mit hohem technischem Aufwand aufrechterhalten werden.
+
+Dies trifft zum Beispiel auf das Gebiet zwischen der <PLACE id="p240" type="" geo="DEBKGGND00001GIK">Pforzheimer</PLACE> Südweststadt und Sonnenhof zu, sowie auf das Gebiet zwischen der <PLACE id="p241" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> Kernstadt und <PLACE id="p242" type="" geo="DEBKGGND00003IXC">Buckenberg</PLACE>.
+
+Weiterhin wird empfohlen, dass bei Umrüstung von Heizungsanlagen die Kommunikation mit den Gebäudebesitzern umliegender Gebäude gesucht wird.
+
+Hier können sich Synergien für eine gemeinsame effiziente Wärmeversorgung in Form von Nahwärmeinseln bilden.
+
+An welchen Stellen eine gemeinsame Wärmeversorgung technisch und wirtschaftlich effizient ist, muss im Einzelfall individuell geprüft werden.
+
+3.2.7.1 Ergebnisse für die Szenarioberechnungen dezentral versorgter Gebiete Für die Wärmeversorgung der dezentral versorgten Gebiete werden zwei verschiedene Szenarien angenommen.
+
+In einem ersten Szenario werden alle Gebäude mit einem Wärmebedarf von unter 50.000 kWh/<TIMEX3 tid="t202" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> mit einer Luftwärmepumpe3 versorgt.
+
+Bei allen Gebäuden mit einem Wärmebedarf von über 50.000 kWh/<TIMEX3 tid="t203" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> werden 65 % des Wärmebedarfs mit einer Luftwärmepumpe gedeckt und 35 % des Wärmebedarfs mit einem Heizkessel, der mit klimaneutralem Gas gespeist wird.
+
+Bei dem zweiten Szenario werden alle dezentralen Gebäude mit einer Luftwärmepumpe versorgt, die an die jeweilige Heizlast des Gebäudes angepasst ist.
+
+In beiden Szenarien wird davon ausgegangen, dass alle Gebäude, die <TIMEX3 tid="t204" type="DATE" value="PRESENT_REF">heute</TIMEX3> mit holzbasierten Wärmeerzeugungsanlagen beheizt werden, auch in <TIMEX3 tid="t205" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> mit holzbasierten Anlagen versorgt werden.
+
+70 Grund für die Aufteilung in zwei Szenarien ist, dass zum <TIMEX3 tid="t206" type="DATE" value="PRESENT_REF">heutigen</TIMEX3> Stand Luftwärmepumpen für hohe Verbräuche in Kombination mit hohen Vorlauftemperaturen sowohl bei der Anschaffung als auch im Betrieb sehr kostenintensiv sind und Platz zur Aufstellung einer Außeneinheit benötigt wird (DAA GmbH, <TIMEX3 tid="t207" type="DATE" value="2023">2023</TIMEX3>).
+
+Es ist von der technischen Entwicklung in <TIMEX3 tid="t208" type="DURATION" value="PXY">den nächsten Jahren</TIMEX3> abhängig, ob Luftwärmepumpen auch bei hohen Verbräuchen in Bestandsgebäuden flächendeckend effizient eingesetzt werden können (Fraunhofer ISE, <TIMEX3 tid="t209" type="DATE" value="2020">2020</TIMEX3>).
+
+Alternativ können durch energetische Sanierungen und eine Modernisierung des Heizungssystems die Vorlauftemperaturen bei Bestandsgebäuden soweit abgesenkt werden, dass eine Luftwärmepumpe effizient eingesetzt werden kann.
+
+Aus diesem Grund sollte die energetische Sanierung von Gebäuden oberste Priorität haben.
+
+Bei der Variante, der die Spitzenlast mit Biomethan gedeckt wird, ist fraglich, ob genügend klimaneutral erzeugtes Biomethan zur Verfügung steht um den Wärmebedarf entsprechend zu decken.
+
+Dementsprechend haben beide Szenarien aus <TIMEX3 tid="t210" type="DATE" value="PRESENT_REF">heutiger</TIMEX3> Sicht Vor- und Nachteile.
+
+Welche klimaneutralen Wärmeversorgungen sich für hohe Verbräuche durchsetzen, werden <TIMEX3 tid="t211" type="DURATION" value="PXY">die nächsten Jahre</TIMEX3> und <TIMEX3 tid="t212" type="DURATION" value="PXY">Jahrzehnte</TIMEX3> zeigen.
+
+Um auch eine zeitliche Entwicklung des Austauschs aufzeigen zu können, wurde in dem Szenario auch der Zeitpunkt des Austauschs der Wärmeerzeugungsanlagen festgelegt.
+
+Um diesen Zeitpunkt zu bestimmen, wurde in dem Szenario davon ausgegangen, dass alle Wärmeerzegungsanlagen <TIMEX3 tid="t213" type="DURATION" value="P30Y">30 Jahre</TIMEX3> nach dem Einbau ausgetauscht werden.
+
+Sind die Wärmeerzeugungsanlagen laut der Kehrbuchdaten der Schornsteinfeger bereits älter als <TIMEX3 tid="t214" type="DURATION" value="P30Y" mod="MORE_THAN">30 Jahre</TIMEX3>, werden sie in dem Szenario im <TIMEX3 tid="t215" type="DATE" value="2023">Jahr 2023</TIMEX3> ausgetauscht.
+
+Ist das Datum der Inbetriebnahme nicht bekannt, so wurde <TIMEX3 tid="t216" type="DATE" value="2028">das Jahr 2028</TIMEX3> als Austauschjahr festgelegt.
+
+Außerdem wurden alle fossil betriebenen Anlagen, die <TIMEX3 tid="t217" type="DATE" value="2010" mod="AFTER">nach 2010</TIMEX3> eingebaut wurden im <TIMEX3 tid="t218" type="DATE" value="2040">Jahr 2040</TIMEX3> ausgetauscht, um auch bei diesen Gebäuden das Ziel der Klimaneutralität zu erreichen.
+
+In Abbildung 52 und Abbildung 53 ist die Entwicklung der Wärmeerzeugung für die dezentralen Gebiete mit den Annahmen der zwei vorgestellten Szenarien dargestellt.
+
+Anhand der Grafiken ist deutlich zu erkennen, dass in beiden Szenarien die fossil betriebenen Wärmeerzeugungsanlagen sukzessive durch erneuerbare Wärmeerzeugungsanlagen ersetzt werden.
+
+Während es sich bei den neuen Wärmeerzeugungsanlagen in Szenario 1 bei Gebäuden mit höherem Verbrauch um eine Kombination aus Luftwärmepumpen und Biomethan handelt und für Gebäude mit geringerem Verbrauch in dem Szenario Luftwärmepumpen eingesetzt werden, wird in Szenario 2 für alle Gebäude (außer solche, die bereits mit Biomasse beheizt werden) der Einsatz von Luftwärmepumpen angenommen.
+
+71 In Abbildung 54 sind die Kosten der Umrüstung der dezentralen Erzeugung dargestellt.
+
+Die Kosten wurden dabei als Vollkosten über <TIMEX3 tid="t219" type="DURATION" value="P20Y">20 Jahre</TIMEX3> berechnet, ebenfalls unter den Annahmen, die in Abschnitt 3.2.3 genannt sind.
+
+Die kumulierten Kosten in der Abbildung zeigen, dass Szenario 1 (verbrauchsintensive Gebäude erhalten eine Kombination aus Luftwärmepumpe und Biomethankessel) kostenintensiver ist als das Szenario 2 (alle Gebäude erhalten eine Luftwärmepumpe).
+
+72 Die Kostenaufstellung ist, ebenso wie bei den Wärmenetzen, wieder nur eine grobe Abschätzung auf der Grundlage der im Technikkatalog der KEA BW angegebenen Kosten und den Annahmen in Kapitel 3.2.3.
+
+Welche Wärmeversorgung für das jeweilige Gebäude technisch und wirtschaftlich am effizientesten ist, muss in einer Einzelfallentscheidung geprüft werden.
+
+Hierzu empfehlen wir, die in Abschnitt 3.2.2 vorgestellten Optionen für mögliche Versorgungsoptionen zu prüfen.
+
+Um die Bandbreite der Versorgungsoptionen noch einmal weiter zu beleuchten, werden im nächsten Abschnitt verschiedene Optionen für ein Beispielhaus verglichen.
+
+3.2.7.2 Ergebnisse für ein Beispielhaus Um ein passendes Beispielgebäude für das Stadtgebiet <PLACE id="p243" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zu bestimmen, wurden zuerst die Heizlasten der Gebäude in <PLACE id="p244" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> analysiert.
+
+Die Verteilung der Heizlasten der Gebäude im Stadtgebiet <PLACE id="p245" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> ist in Abbildung 55 dargestellt.
+
+Die Abbildung zeigt, dass es einen deutlichen Peak bei der Verteilung der Heizlasten zwischen 10 und 20 kW gibt.
+
+Etwa 25 % der Gebäude in der <PLACE id="p246" type="" geo="DEBKGGND00001GIK">Stadt Pforzheim</PLACE> benötigen eine Heizlast zwischen 10 und 20 kW, die am häufigsten auftretende Heizlast ist 14 kW bei ca. 3 % der Gebäude im Stadtgebiet <PLACE id="p247" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE>.
+
+73 Auf Grund der Verteilung der Heizlasten bei den Gebäuden im Stadtgebiet <PLACE id="p248" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> wurde als Beispielhaus ein Gebäude mit 14 kW Heizlast angenommen, für die im Folgenden ein Vollkostenvergleich für verschiedene Technologien vorgestellt wird.
+
+Um die Ergebnisse vergleichbar zu gestalten, wurde, analog zu den Betrachtungen der Kosten bei den Wärmenetzen, ein Betrachtungszeitraum von <TIMEX3 tid="t220" type="DURATION" value="P20Y">20 Jahren</TIMEX3> angenommen und das Ergebnis heruntergerechnet auf Vollkosten pro verbrauchter kWh.
+
+Die weiteren Annahmen entsprechen den in Abschnitt 3.2.3 vorgestellten Datengrundlagen.
+
+Das Ergebnis des Kostenvergleichs ist in Abbildung 56 zu sehen.
+
+In der Abbildung wird deutlich, dass die preisgünstigste Technologie, die betrachtet wurde, die Beheizung des Gebäudes mit einer Luftwärmepumpe ist, dicht gefolgt von der Luftwärmepumpe in Kombination mit Solarthermie und der Nutzung von Erdwärmesonden.
+
+Hierbei ist jedoch zu beachten, dass Luftwärmepumpen bei höheren Temperaturniveaus des Heizungssystems ineffizienter arbeiten.
+
+Weitere Vor- und Nachteile der betrachteten Technologien sind in Tabelle 3 in Abschnitt 3.2.3 zu finden.
+
+Welche Technologie für das jeweilige Gebäude geeignet ist und welche Kosten durch Installation und Betrieb der Wärmeerzeugungsanlage individuell entstehen, muss im Einzelfall geprüft und bewertet werden.
+
+74 Um einen Gesamtüberblick über die erstellten Szenarien zu bekommen, werden in diesem Kapitel die Ergebnisse der Szenarien noch einmal zusammengefasst.
+
+Dabei wird, entsprechend der verschiedenen Annahmen in den dezentral versorgten Gebieten (siehe Abschnitt 3.2.7), unterschieden in zwei verschiedene Szenarien: Szenario 1 In dem Szenario werden alle Gebäude, die dezentral mit Wärme versorgt werden und einen Verbrauch von über 50.000 kWh/a haben, nach der Umrüstung der Wärmeerzeugungsanlage mit einer Luftwärmepumpe in Kombination mit einem Biomethankessel beheizt und alle Gebäude, die dezentral mit Wärme versorgt werden und einen geringeren Verbrauch als 50.000 kWh/a haben, nach der Umrüstung mit einer Luftwärmepumpe ausgestattet.
+
+Gebäude, die in dezentral mit Wärme versorgten Gebieten liegen und <TIMEX3 tid="t221" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> eine holzbasierte Wärmeversorgung haben, erhalten nach der Umrüstung eine neue, holzbasierte Erzeugungsanlage.
+
+Die Gebäude, die in den aufgeführten Eignungsgebieten für Wärmenetze liegen (siehe Abschnitt 3.2.4 – 3.2.6) werden in dem Szenario an das Wärmenetz angeschlossen.
+
+Szenario 2 In dem Szenario werden alle Gebäude, die nicht in Eignungsgebieten für Wärmenetze liegen, nach der Umrüstung der Wärmeerzeugungsanlage mit einer Luftwärmepumpe beheizt.
+
+Ausnahme sind Gebäude mit einer holzbasierten Wärmeerzeugungsanlage, diese bekommen eine neue holzbasierte Wärmeerzeugungsanlage.
+
+Liegen die Gebäude in den in Abschnitt 3.2.4 – 3.2.6 aufgeführten Eignungsgebieten, so werden sie nach Ende der Lebensdauer der Wärmeerzeugungsanlage an das entsprechende Wärmenetz angeschlossen.
+
+75 Um die Transformation der Wärmeversorgung in dem Szenario zeitlich darzustellen, wurde davon ausgegangen, dass jede Wärmeerzeugungsanlage <TIMEX3 tid="t222" type="DURATION" value="P30Y">30 Jahre</TIMEX3> nach ihrer Inbetriebnahme entweder durch den Anschluss an ein Wärmenetz oder durch eine neue Wärmeerzeugungsanlage auf der Grundlage von erneuerbaren Energien ersetzt wird.
+
+Gebäude, bei denen das Alter der Wärmeerzeugungsanlage nicht bekannt ist, wurde, analog zu den in Abschnitt 3.2.7 vorgestellten Szenarien, eine Umrüstung zu einem Wärmenetzanschluss oder einer neuen Wärmeerzeugungsanlage im <TIMEX3 tid="t223" type="DATE" value="2028">Jahr 2028</TIMEX3> angenommen.
+
+Gebäude, deren fossile Wärmeerzeugungsanlage <TIMEX3 tid="t224" type="DATE" value="2010" mod="AFTER">nach 2010</TIMEX3> in Betrieb genommen wurde, werden im <TIMEX3 tid="t225" type="DATE" value="2040">Jahr 2040</TIMEX3> an ein Wärmenetz angeschlossen oder mit einer klimaneutralen Wärmeerzeugungsanlage ausgestattet.
+
+Abbildung 57 und Abbildung 58 zeigen die Entwicklung der Wärmeerzeugung in den zwei Szenarien.
+
+Dabei ist in beiden Szenarien deutlich zu erkennen, dass der Anteil von Erdgas und Heizöl sukzessive sinkt und durch erneuerbare Wärmeerzeugung ersetzt wird.
+
+In Szenario 1 76 handelt es sich dabei um eine Wärmeversorgung mit klimaneutralen Wärmenetzen, Luftwärmepumpen, Biomethan und Holz und in Szenario 2 lediglich um klimaneutrale Wärmenetze, Luftwärmepumpen und Holz.
+
+Aus der Aufstellung der Energieerzeugung in den zwei Szenarien lässt sich eine Energie- und CO2-Bilanz für <TIMEX3 tid="t226" type="DATE" value="2030">die Jahre 2030</TIMEX3> und <TIMEX3 tid="t227" type="DATE" value="2040">2040</TIMEX3> prognostizieren.
+
+In  Tabelle 13 sind die Energie- und CO2-Bilanzen entsprechend der zwei Szenarien aufgeführt.
+
+Aus der Energie- und CO2-Bilanz wird ersichtlich, dass es in beiden Szenarien im <TIMEX3 tid="t228" type="DATE" value="2040">Jahr 2040</TIMEX3> nur noch zwei Energieträger gibt, die sehr geringe Mengen an Treibhausgasemissionen verursachen.
+
+Das sind zum einen Luftwärmepumpen, die durch den genutzten Strom Treibhausgasemissionen erzeugen.
+
+Zur Bilanzierung des von den Wärmepumpen genutzten Stroms wurde der Treibhausgasemissionsfaktor des bundesdeutschen Strommix herangezogen, der im Technikkatalog der KEA BW veröffentlicht wurde.
+
+Dieser wird für <TIMEX3 tid="t229" type="DATE" value="2040">das Jahr 2040</TIMEX3> mit 0,151 t 77 CO2Äq/MWh prognostiziert, wodurch sich bilanziell Treibhausgasemissionen durch die Nutzung von Wärmepumpen ergeben.
+
+Es wird hier empfohlen, Photovoltaikanlagen zu der Erzeugung des von Luftwärmepumpen genutzten Stroms einzusetzen (siehe Abschnitt 2.3.1), um das Ziel der Klimaneutralität zu erreichen.
+
+Weiterhin entstehen in den Szenarien im <TIMEX3 tid="t230" type="DATE" value="2040">Jahr 2040</TIMEX3> noch geringe Mengen an Treibhausgasemissionen durch die Nutzung von Holz als Brennstoff.
+
+Auch hier wird der Treibhausgasemissionsfaktor des Technikkatalogs der KEA BW zu Grunde gelegt, bei dem die Emissionen durch Transport und Aufbereitung des Holzes einberechnet werden.
+
+Das gleiche gilt für Biomethan, bei dem ebenfalls die Vorkette bei der Bilanzierung der Treibhausgasemissionen mit einbezogen wird.
+
+Hier wird empfohlen Kompensationsmaßnahmen, wie zum Beispiel Aufforstung, durchzuführen, um die Treibhausgasemissionen auszugleichen und das Ziel der Klimaneutralität zu erreichen.
+
+Zusammenfassend lässt sich als Ergebnis der Szenarioanalyse sagen, dass die Umrüstung zu einer klimaneutralen Wärmeversorgung bis <TIMEX3 tid="t231" type="DATE" value="2040">2040</TIMEX3> zwar möglich ist, aber sowohl der Zeitrahmen als auch die Komplexität der technischen Lösungen und die Bewältigung der anfallenden Kosten sehr ambitioniert sind.
+
+Aus den im Rahmen der kommunalen Wärmeplanungen durchgeführten Betrachtungen wurde eine Wärmewendestrategie mit verschiedenen <TIMEX3 tid="t232" type="DATE" value="FUTURE_REF">kurzfristigen</TIMEX3> und <TIMEX3 tid="t233" type="DATE" value="FUTURE_REF">langfristigen</TIMEX3> Maßnahmen abgeleitet.
+
+Diese Strategie besteht im Wesentlichen aus zwei Säulen: Zum einen soll eine Senkung des Wärmebedarfs durch energetische Gebäudesanierungen erreicht werden, zum anderen soll der verbleibende Wärmebedarf mit Hilfe von Wärmenetzen und dezentralen Wärmeerzeugungsanlagen auf der Basis von regenerativen Energien gedeckt werden.
+
+Um das Ziel der klimaneutralen Wärmeerzeugung zu erreichen, wurden im Rahmen der kommunalen Wärmeplanung für das Stadtgebiet <PLACE id="p249" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> sowohl <TIMEX3 tid="t234" type="DATE" value="FUTURE_REF">kurzfristige</TIMEX3> als auch <TIMEX3 tid="t235" type="DATE" value="FUTURE_REF">langfristige</TIMEX3> Maßnahmen identifiziert.
+
+Die Maßnahmen wurden gemeinsam mit der Stadtverwaltung <PLACE id="p250" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> und den Stadtwerken <PLACE id="p251" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> erarbeitet und sind somit mit zwei wichtigen lokalen Akteuren im Bereich Energie abgestimmt.
+
+Die <TIMEX3 tid="t236" type="DATE" value="FUTURE_REF">kurzfristigen</TIMEX3> Maßnahmen sollen dabei <TIMEX3 tid="t237" type="DURATION" value="P5Y" mod="EQUAL_OR_LESS">spätestens bis fünf Jahre</TIMEX3> nach Abschluss der Wärmeplanung (also maximal bis zum <TIMEX3 tid="t238" type="DATE" value="2028">Jahr 2028</TIMEX3>) gestartet werden und im besten Falle auch in diesem Zeitraum bereits umgesetzt werden.
+
+Bei den <TIMEX3 tid="t239" type="DATE" value="FUTURE_REF">langfristigen</TIMEX3> Maßnahmen erstreckt sich die Umsetzung über einen längeren Zeitraum.
+
+Sie müssen deshalb bis zur Erreichung des Ziels der Klimaneutralität kontinuierlich verfolgt und umgesetzt werden.
+
+Im Folgenden wird ein Überblick über die erarbeiteten Maßnahmen gegeben, die dann in den Abschnitten 4.2.1 und 4.2.2 in einzelnen Maßnahmensteckbriefen vorgestellt werden:  78 1.
+
+<TIMEX3 tid="t240" type="DATE" value="FUTURE_REF">Kurzfristige</TIMEX3> Maßnahmen 1.1 Entwicklung eines Indikators zur Förderung ökologischer Heiztechnologien 1.2 Aufbau Nahwärmenetz <PLACE id="p252" type="" geo="DEBKGGND00000MKP">Huchenfeld</PLACE> mit kommunalen Liegenschaften als Ankergebäude 1.3 Versorgung der Schulgebäude in <PLACE id="p253" type="" geo="DEBKGGND00000S84">Büchenbronn</PLACE> mit erneuerbarer Wärme 1.4 Weitere Untersuchungen der Machbarkeit für das Nahwärmenetz <PLACE id="p254" type="" geo="DEBKGGND00000C2T">Würm</PLACE> 1.5 Weitere Untersuchungen der Machbarkeit zur Nutzung der erneuerbaren Energien in <PLACE id="p255" type="" geo="DEBKGGND00000TUT">Eutingen</PLACE> 1.6 Weitere Untersuchungen für den Aufbau eines Nahwärmenetzes in <PLACE id="p256" type="" geo="DEBKGGND00003IXA">Dillweißenstein</PLACE> 1.7 Beratungsangebote für Sanierungen und Heizungstausch (bestehende Angebote bewerben und ggf. ausbauen) inkl. Umsetzung 2.
+
+<TIMEX3 tid="t241" type="DATE" value="FUTURE_REF">Langfristige</TIMEX3> Maßnahmen 2.1 Durchführung von energetischen Gebäudesanierungen und Steigerung der Gebäudeeffizienz 2.2 Verankerung von Vorgaben für erneuerbare Wärmeversorgung für Neubaugebiete in Bebauungsplänen 2.3 Senkung der Treibhausgasemissionen bei fossil beheizten Gebäuden durch Anschluss an Wärmenetze oder die Nutzung von dezentralen erneuerbare Wärmeerzeugungsoptionen 2.4 Senkung der Treibhausgasemissionen von kommunalen Gebäuden durch energetische Sanierungen und den Einsatz von erneuerbaren Energien 79 80 81 82 83 84 85 86 87 88 89 90 In der Bestandsanalyse wurde gezeigt, dass im <TIMEX3 tid="t242" type="DATE" value="2022">Jahr 2022</TIMEX3> 80 % des Wärmebedarfs im Stadtgebiet <PLACE id="p257" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> mit fossilen Brennstoffen (Erdgas und Heizöl) gedeckt wurden.
+
+Um das Ziel der Klimaneutralität bis zum <TIMEX3 tid="t243" type="DATE" value="2040">Jahr 2040</TIMEX3> zu erreichen, muss es darum eine grundlegende Transformation im Bereich Wärme geben.
+
+Die Potenzialanalyse zeigt, dass es im Stadtgebiet <PLACE id="p249" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zahlreiche Potenziale für erneuerbare Wärmeerzeugung gibt.
+
+Dazu gehört sowohl ein hohes Solarpotenzial als auch das Potenzial durch Geothermie oder Wärmegewinnung aus dem Ablauf der Kläranlage.
+
+In der anschließenden Szenarioanalyse (Kapitel 3) wurde gezeigt, dass die Umrüstung auf eine klimaneutrale Wärmeversorgung technisch möglich ist.
+
+Um dies zu erreichen, stehen bereits zum <TIMEX3 tid="t210" type="DATE" value="PRESENT_REF">aktuellen Zeitpunkt</TIMEX3> mehrere Wärmeerzeugungstechnologien zur Verfügung, weitere befinden sich <TIMEX3 tid="t211" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> in der Entwicklung.
+
+Die aus der Szenarioanalyse abgeleitete Wärmewendestrategie besteht aus zwei Säulen: Zum einen die Reduzierung des Wärmebedarfs durch energetische Sanierungen, zum anderen die erneuerbare Erzeugung von Wärme über klimaneutrale Wärmenetze oder erneuerbare dezentrale Erzeugungsoptionen.
+
+Zusammenfassend kann gesagt werden, dass das Ziel der Klimaneutralität technisch möglich ist, jedoch nur erreicht werden kann, wenn bei jeder Investitionsentscheidung konsequent auf erneuerbare Energien gesetzt wird.
+
+Denn jede Neuinstallation einer Wärmeerzeugungsanlage mit fossilen Brennstoffen gefährdet das Ziel der Klimaneutralität.
+
+Die Erreichung der Klimaneutralität im Bereich Wärme verlangt deshalb ein Umdenken bei der, bislang zum Großteil fossil basierten, Wärmeversorgung und ist darum eine vielschichtige und komplexe Aufgabe.
+
+Hier müssen die Vorgaben der Bundesregierung und der Stadtverwaltung <PLACE id="p250" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> eng abgestimmt sein mit den Angeboten von Stadtwerken und Heizungsbauern.
+
+Aus diesem Grund sollten alle relevanten Akteure im Stadtgebiet eng zusammenarbeiten, um die Transformation zur klimaneutralen Wärmeversorgung im Stadtgebiet <PLACE id="p251" type="" geo="DEBKGGND00001GIK">Pforzheim</PLACE> zu bewältigen.
+
+
+
+
+
+
+
+</TEXT></TimeML>
