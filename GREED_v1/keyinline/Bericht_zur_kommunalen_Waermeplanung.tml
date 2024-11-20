@@ -1,0 +1,1781 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>Bericht_zur_kommunalen_Waermeplanung</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-12-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-12-01</TIMEX3></DCT>
+<TEXT><TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">Aktuell</TIMEX3> macht Wärme einen Anteil von über 50 % des gesamten deutschen Energieverbrauchs aus.
+
+Lediglich ca. 15 % dieser Wärme wurde im <TIMEX3 tid="t2" type="DATE" value="2020">Jahr 2020</TIMEX3> aus erneuerbaren Energien bereitgestellt.
+
+Diese Zahlen begründen die Notwendigkeit einer erfolgreichen Wärmewende, die sowohl eine deutliche Reduktion des Wärmeverbrauchs durch energetische Sanierung und effiziente Wärmebereitstellung wie auch eine Umstellung erneuerbare Energiequellen beinhalten muss.
+
+Zur Erreichung dieses Ziels wurde das Klimaschutzgesetz (KSG) <PLACE id="p1" type="" geo="DEBKGGND00001BBR">des Landes Baden-Württemberg</PLACE> <TIMEX3 tid="t3" type="DATE" value="2020" mod="END">Ende des Jahres 2020</TIMEX3> novelliert.
+
+Als Zwischenziel sollen die THG-Emissionen bis <TIMEX3 tid="t4" type="DATE" value="2030">2030</TIMEX3> um minus 65 % gegenüber <TIMEX3 tid="t5" type="DATE" value="1990">dem Referenzjahr 1990</TIMEX3> gesenkt werden – die Klimaneutralität im Gebäudebestand soll bis <TIMEX3 tid="t6" type="DATE" value="2040">2040</TIMEX3>                             erreicht werden.
+
+Ein zentraler Baustein der Novelle des Klimaschutzgesetzes ist die Einführung der verpflichtenden kommunalen Wärmeplanung für Stadtkreise und große Kreisstädte als standardisiertes Vorgehen (siehe KSG BW <TIMEX3 tid="t7" type="DATE" value="2020">2020</TIMEX3>, §7).
+
+Mit Hinblick auf diese Verpflichtung hat <PLACE id="p2" type="" geo="DEBKGGND000019E2">die Stadt Offenburg</PLACE> im <TIMEX3 tid="t8" type="DATE" value="2021">Jahr 2021</TIMEX3> Drees und Sommer sowie die badenova GmbH als Unterauftragnehmerin mit der Erarbeitung der Kommunalen Wärmeplanung beauftragt.
+
+Die Erstellung erfolgte in enger Zusammenarbeit mit <PLACE id="p3" type="" geo="DEBKGGND000019E2">der Stadt Offenburg</PLACE> und der Wärmeversorgung <PLACE id="p4" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>.
+
+Der vorliegende Bericht fasst die Ergebnisse der Kommunalen Wärmeplanung zusammen.
+
+Detaillierte Ergebnisse liegen zudem in Kartenform sowie in Steckbriefen zu den einzelnen Stadt- und Ortsteilen (s.
+
+Anlage) vor.
+
+Der Bericht orientiert sich am Handlungsleitfaden Kommunale Wärmeplanung in der Fassung vom <TIMEX3 tid="t9" type="DATE" value="2020-12">Dezember 2020</TIMEX3>, der im Auftrag des Ministeriums für Umwelt, Klima und Energiewirtschaft <PLACE id="p5" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> von der KEA Klimaschutz- und Energieagentur <PLACE id="p6" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> GmbH (KEA-BW) erstellt wurde.
+
+Entsprechend der Vorgaben des Leitfadens besteht der Bericht aus den fünf Bausteinen bzw. Kapiteln (1) Bestandsanalyse, (2) Potenzialanalyse, (3) Entwicklung eines klimaneutralen Zielszenarios für <TIMEX3 tid="t10" type="DATE" value="2040">2040</TIMEX3> (bzw. <TIMEX3 tid="t11" type="DATE" value="2035">2035</TIMEX3>) und (4) Festlegung der kommunalen Wärmewendestrategie und (5) des Maßnahmenkatalogs.
+
+Der erste Schritt und Ausgangspunkt für die strategische kommunale Wärmeplanung ist die systematische und qualifizierte Erhebung des <TIMEX3 tid="t12" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Wärmebedarfs bzw. Wärmeverbrauchs und der daraus resultierenden Treibhausgas-Emissionen.
+
+Bei der Erhebung der Daten wurden zum einen Primärdaten von den gas- und wärmenetzversorgten Gebäuden genutzt, aus den Stromdaten der Verbrauch für Wärmepumpen und der Heizungsstrom integriert, und, für die nichtleitungsgebundenen Gebäude, anhand der Schornsteinfegerstatistik Verbrauchswerte berechnet.
+
+Im nächsten Schritt wurden Kartensets zu Baujahr, Typ und Nutzungsarten der Gebäude erstellt.
+
+Mit den detaillierten Schornsteinfegerdaten wurde eine Heizanlagenstatistik (Verteilung der Brennstoffe, durchschnittliches Baujahr der Heizanlagen etc.) auf Baublockebene erstellt.
+
+Mithilfe eines Geographischen Informationssystems (GIS) wurden die Wärmeverbrauchsdaten verortet.
+
+Gleichzeitig wurden die Daten auf Baublockebene aggregiert, um den Datenschutz im Rahmen des kommunalen Wärmeplans zu gewährleisten.
+
+In Abbildung 1 ist der absolute Wärmeverbrauch <TIMEX3 tid="t13" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> auf Baublockebene in farblichen Abstufungen dargestellt.
+
+Für die Abbildung wurde ein Ausschnitt aus <PLACE id="p7" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> gewählt, der zum einen die Kernstadt abbildet und zum anderen das Burda- und Messeareal sowie den Stadtteil Albersbösch zeigt.
+
+Dieser Ausschnitt wird für dieses Fachgutachten durchgehend beispielhaft verwendet, da er alle zu betrachtenden Gegebenheiten einer Kommune (Stadtkern, Siedlungsentwicklung, Messeareal, Gewerbe/Industrie) abbildet.
+
+Unter der Legende rechts ist ein Navigationsbereich eingefügt, der zur Orientierung dient und der verdeutlicht, welcher Teil <PLACE id="p8" type="" geo="DEBKGGND000019E2">der Stadt Offenburg</PLACE> gerade angezeigt wird.
+
+  Abbildung 2 stellt die Wärmedichte dar.
+
+Diese beschreibt den Wärmeverbrauch bezogen auf die Flächeneinheit Hektar.
+
+Dargestellt ist die Wärmedichte auf Baublockebene.
+
+Die Skalierung der Wärmedichte erfolgt zwischenkleiner500 MWh undgrößer4.001 MWh.
+
+Verschiedene Faktoren üben Einfluss auf das dargestellte Ergebnis, z.B. wie viele Verbraucher in dem Baublock vorhanden sind, wie groß die Fläche des Baublocks ist und wie viel in diesem Baublock verbraucht wird.
+
+Als ein Beispiel soll auf den roten Baublock mittig verwiesen werden.
+
+Hier befindet sich ein Teil des Burda Areals mit der Druckerei, wo aufgrund der Produktionsprozesse sehr viel Energie benötigt wird.
+
+Datengrundlage: Verbrauchswerte Gasversorger, Wärmeversorger, Stromversorger, öffentliche Liegenschaften, Bezirksschonsteinfeger GIS – Karte(n): Absoluter Wärmeverbrauch auf Baublockebene, Wärmedichte auf Baublockebene
+
+Zur Beschreibung der Gebäudestruktur wurde die „Deutsche Gebäudetypologie“ des Instituts für Wohnen und Umwelt (IWU) verwendet.
+
+Die Einordnung der Gebäude in diese Typologie ermöglicht die Analyse der Energieeinsparpotenziale für einen größeren Gebäudebestand.
+
+Bei der Typologie wird davon ausgegangen, dass Gebäude aus einer bestimmten Bauzeit in der Regel ähnliche Baustandards und damit ähnliche thermische Eigenschaften ausweisen.
+
+Aus der Sortierung der Gebäude in die Gebäudetypologie lassen sich Aussagen über die Siedlungsstruktur <PLACE id="p9" type="" geo="DEBKGGND000019E2">der Stadt Offenburg </PLACE>treffen.
+
+Abbildung 3 zeigt beispielhaft die Siedlungsstruktur des ausgewählten Ausschnitts von <PLACE id="p10" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, charakterisiert nach Altersklassen.
+
+Für die Darstellung wurde jeweils der Gebäudetyp mit dem größten Anteil im Baublock farblich ausgewiesen (primäres Gebäudealter im Baublock).
+
+Mit den eingefärbten Punkten ist der Anteil des jeweiligen Primärgebäudetyps im Baublock in 25 Prozent-Schritten dargestellt (rot = Anteil ≥ 76 Prozent).
+
+Daraus kann das Potenzial für Energiesparmaßnahmen abgeleitet werden.
+
+Deutlich lassen sich der Stadtkern und die angrenzende Erweiterung der Stadt unterscheiden.
+
+Datengrundlage: Wärmekataster <PLACE id="p11" type="" geo="DEBKGGND000019E2">der Stadt Offenburg</PLACE> GIS – Karte(n): Gebäudealter auf Baublockebene
+
+Die kommunale Wärmeplanung gilt für die gesamte Gemeindefläche <PLACE id="p12" type="" geo="DEBKGGND000019E2">der Stadt Offenburg</PLACE>, schließt also auch Gewerbe- und Industriegebiete ein.
+
+Das Stadtgebiet <PLACE id="p13" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> gliedert sich wie viele Kommunen in eine Kernstadt mit Geschäftszentrum, umliegende Wohnbebauung und eingestreute oder am Rand angesiedelte Misch- und Gewerbegebiete.
+
+Die Wärmeversorgungsoptionen für diese Strukturen sind unterschiedlich, so dass es wichtig ist, die unterschiedlichen Gebiete für die kommunale Wärmeplanung zu identifizieren.
+
+Im ersten Schritt wurde, anhand der ALKIS-Daten und des Wärmekatasters der <PLACE id="p14" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE>, für jeden Baublock jeweils die Hauptnutzungsart festgelegt.
+
+  Abbildung 5 weist für jeden Baublock den Primärgebäudetyp (den am häufigsten vorkommende Gebäudetyp) mit dem größten Anteil im Baublock aus.
+
+Die farbigen Punkte weisen den prozentualen Anteil dieses Gebäudetyps im Baublock aus.
+
+Die Abbildung verdeutlicht, wie die einzelnen Gebäudetypen auf die Baublöcke verteilt sind.
+
+Dies kann der Gebietsdefinition mit beispielsweise Reihen-, Doppel- und Einfamilienhäusern dienen.
+
+Diese Gebäudetypen spielen bei der Erschließung der Einsparpotenziale eine große Rolle.
+
+Zum einen verzeichnen sie im Durchschnitt den höchsten Energieverbrauch pro Person, zum anderen werden Einfamilienhäuser meist vom Eigentümer bzw. von der Eigentümerin selbst bewohnt.
+
+Der Nutzen von Sanierungsmaßnahmen wird hier aufgrund der Betroffenheit eher gesehen, was die Bereitschaft der Eigentümerin bzw. des Eigentümers, Investitionen zur Energieeinsparung vorzunehmen, erhöht.
+
+Große Mehrfamilienhäuser hingegen eignen sich z.B. gut für den Anschluss an ein Wärmenetz.
+
+Die <PLACE id="p15" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Wärmeversorgung hat in <TIMEX3 tid="t14" type="DURATION" value="PXY">den letzten Jahren</TIMEX3> aktiv den Ausbau von Wärmenetzen vorangetrieben.
+
+Eine Übersicht über die in <TIMEX3 tid="t15" type="DURATION" value="PXY">den letzten Jahren</TIMEX3> initiierten Wärmenetze gibt Abbildung 7.
+
+Hier sind rot schraffiert die bekannten Bestandsgebiete der <PLACE id="p16" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Wärmeversorgung.
+
+In Pink sind die bekannten Leitungsverläufe eingezeichnet (siehe Abbildung 7).
+
+<TIMEX3 tid="t16" type="DATE" value="PRESENT_REF">Aktuell</TIMEX3> existieren drei Bestandsnetze: Kreuzschlag OG18 und Eichendorfschule OG20 Art: Fernwärme Temperaturniveau: gleitende an der Außentemperatur 75 – 95°C Wärmeleistung installiert: ca. 10.000 kW <TIMEX3 tid="t17" type="SET" freq="EVERY" value="P1Y">Jährliche</TIMEX3> Wärmemengen: stark wachsende ca. 9.000 MWh (<TIMEX3 tid="t18" type="DATE" value="2020">2020</TIMEX3>) • Mühlbachareal OG19 und Gustav-Ree-Anlage OG12 Art: Fernwärme Temperaturniveau: gleitende an der Außentemperatur 75 – 80°C Wärmeleistung installiert: ca. 7.000 kW <TIMEX3 tid="t19" type="SET" freq="EVERY" value="P1Y">Jährliche</TIMEX3> Wärmemengen: stark wachsende ca. 4.000 MWh (<TIMEX3 tid="t20" type="DATE" value="2020">2020</TIMEX3>) • Paul-Gerhardt-Werk / Klinikum OG00 -> Oststadt Art: Fernwärme Temperaturniveau: gleitende an der Außentemperatur 75 – 95°C Wärmeleistung installiert: ca. 6.400 kW <TIMEX3 tid="t21" type="SET" freq="EVERY" value="P1Y">Jährliche</TIMEX3> Wärmemengen: stark wachsende ca. 8.000 MWh (<TIMEX3 tid="t22" type="DATE" value="2020">2020</TIMEX3>) Abbildung 6: Gasverbrauchswerte auf Baublockebene Die <PLACE id="p17" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> hat zudem ein gut ausgebautes Erdgasnetz.
+
+Die Wohn- und Gewerbegebiete sind weitestgehend mit Erdgasleitungen erschlossen und weisen eine relativ hohe Leitungsdichte aus.
+
+In Abbildung 6 ist der Gasverbrauch auf Baublockebene für das gesamte Stadtgebiet dargestellt.
+
+Anhand der Punkte in den Baublöcken kann man den Anteil des Gasverbrauchs im Baublock ablesen.
+
+Innerhalb der Kernstadt liegt dieser meist zwischen 60 und 100 Prozent.
+
+  Abbildung 7 stellt den <TIMEX3 tid="t23" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Ausbaustand der Gasnetzinfrastruktur und die Versorgung mit Fernwärme (blauer Leitungsverlauf) für einen Ausschnitt <PLACE id="p18" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> dar.
+
+Es wird deutlich, dass in manchen Gebieten Parallelstrukturen von Gas- und Wärmenetzen geschaffen wurden.
+
+Die <PLACE id="p19" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> hat sich zum Ziel gesetzt, den Energiebedarf im Bereich Wärme zu reduzieren und den Ausbau von zentral versorgten Wärmeverbünden voranzutreiben.
+
+Die Wärmenetzplanung sieht <TIMEX3 tid="t24" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> einen Ausbau in mehreren Stufen vor.
+
+So soll bereits <TIMEX3 tid="t25" type="DATE" value="2026">2026</TIMEX3> in weiten Teilen der Kernstadt der Anschluss an ein Wärmenetz ermöglicht werden.
+
+Die unterschiedlichen Ausbaustufen sind in Abbildung 8 dargestellt.
+
+Für die Wärmeversorgung entsteht in lokalen Heizzentralen Wärme aus einem Mix aus Kraft-Wärmekopplung, industrieller Abwärme und regenerativen Energiequellen.
+
+Im Rahmen eines Transformationsplans, müssen diese Wärmequellen <TIMEX3 tid="t26" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> vollständig regenerativ werden.
+
+Da der Anteil der Energie zur Wärmeversorgung einen sehr großen Anteil des Gesamtenergieverbrauchs beansprucht, können durch den Ausbau von Wärmeverbünden und dem Einsatz Erneuerbarer Energien, die CO2-Emissionen gesenkt und Effizienzsteigerungen erzielt werden.
+
+  Die Wärmenetze werden <TIMEX3 tid="t27" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> (Stand <TIMEX3 tid="t28" type="DATE" value="2022-07">Juli 2022</TIMEX3>) von sechs Blockheizkraftwerken (Paul-Gerhardt Werk, Kreuzschlag, Konrad-Adenauer-Schule und E-Werk Mittelbaden), zwei Kältemaschinen (E-Werk Mittelbaden), einer Gasturbine (Burda Druck GmbH) und einer Wärmepumpentechnik (Gesundheitszentrum) gespeist.
+
+Für den Ausbau der Wärmeversorgung sind <TIMEX3 tid="t29" type="DATE" value="FUTURE_REF">kurz-</TIMEX3> und <TIMEX3 tid="t30" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> weitere Heizzentralen geplant.
+
+Die <PLACE id="p20" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> betreibt ebenfalls mehrere Blockheizkraftwerke in kommunalen Gebäuden: Festhalle/Feuerwehr <PLACE id="p21" type="" geo="DEBKGGND000009MI">Windschläg</PLACE> Feuerwehr Nord Halle/Schule <PLACE id="p22" type="" geo="DEBKGGND000009LJ">Bohlsbach</PLACE> Astrid-Lindgren-Schule Okengymnasium Oken-Sporthalle Schillergymnasium Technisches Rathaus Ritterhausmuseum Musikschule Kufo Kita <PLACE id="p23" type="" geo="DEBKGGND00000WRJ">Rammersweier</PLACE> Halle/Schule <PLACE id="p24" type="" geo="DEBKGGND00000WRJ">Rammersweier</PLACE> Schule / Kindergarten <PLACE id="p25" type="" geo="DEBKGGND00000MHH">Fessenbach</PLACE> Festhalle <PLACE id="p26" type="" geo="DEBKGGND00000RYO">Elgersweier</PLACE> Abbildung 9 gibt eine Übersicht über die Bestandsanlagen und die geplanten Anlagen (Ausschnitt).
+
+Datengrundlage: Wärmeverbrauchsdaten und Wärmenetzdaten der Wärmeversorgung <PLACE id="p27" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, Leitungsverläufe des Erdgasnetzes, bekannte Heizzentralen und BHKW der Wärmeversorgung und der <PLACE id="p28" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> GIS – Karte(n): Bestehende Wärmenetze mit Leitungsverlauf und Gasnetzinfrastruktur, Wärmenetz mit Bestandsnetz und Ausbaustufen bis <TIMEX3 tid="t31" type="DATE" value="2026">2026</TIMEX3>, Bekannte Heizzentralen und BHKW.
+
+Die Energieinfrastruktur gibt Hinweise zu Art und Menge der zur Wärmeversorgung eingesetzten Energieträger.
+
+Im folgenden Abschnitt wird der <TIMEX3 tid="t32" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Stand der Wärmeenergieversorgung der <PLACE id="p29" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> beschrieben.
+
+Zunächst wird der Ausbaustand der Gasnetz- und Wärmenetzinfrastruktur (leitungsgebundene Energieträger) dargestellt.
+
+Anschließend folgt eine Auswertung der nichtleitungsgebundenen Energieträger.
+
+Leitungsgebundene Energieträger Der örtliche Gasnetzbetreiber hat im Rahmen des kommunalen Wärmeplans adressscharfe Verbrauchswerte für den Energieträger Erdgas zur Verfügung gestellt.
+
+Diese wurden anhand der Baublöcke datenschutzkonform aggregiert.
+
+Abbildung 10 enthält die geografisch aufbereitete Information.
+
+Zum einen wurden die aggregierten Verbrauchswerte auf einer Skala vonkleiner1 Mio. kWh/<TIMEX3 tid="t33" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> undgrößer50 Mio. kWh/<TIMEX3 tid="t34" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> farblich im Baublock dargestellt.
+
+Zum anderen wurde mit einem Punktesystem prozentual dargestellt, wie hoch der Anteil des Gasverbrauchs im Baublock ist.
+
+Deutlich lassen sich die überwiegend erdgasversorgten Gebiete, mit einem hohen Anteil Erdgasverbrauch, und Gebiete, in denen es keinen Erdgasverbrauch gibt, unterscheiden (siehe rote Markierungen).
+
+  Die Daten für die Strom-Speicherheizungen und für die Wärmepumpen hat die <PLACE id="p30" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> vom regionalen Stromversorger der Syna GmbH/ Netze Mittelbaden GmbH erhalten.
+
+Hierfür wurden gesonderte Darstellungen angefertigt.
+
+In Abbildung 11 ist dargestellt, in welchen Gebieten Heizungsstrom als Energieträger genutzt wird und wie hoch der Anteil des Heizungsstroms am Gesamtwärmebedarf im Baublock ist.
+
+Die nachfolgende Dichtekarte (Abbildung 12) verdeutlicht die Gebiete, in denen u.a. Heizungsstrom als Energieträger genutzt wird.
+
+Anhand der unterschiedlichen Schattierungen kann man der Karte räumliche Konzentrationen von Stromspeicherheizungen (dunkelblau) entnehmen.
+
+  Nichtleitungsgebundene Energieträger Anhand der Schornsteinfegerdaten können die nichtleitungsgebundenen (Heizöl, Holz (pellets), Kohle, Flüssiggas etc.) Verbrauchsstellen verortet werden.
+
+In Abbildung 13 ist farblich dargestellt, wie viele nichtleitungsgebundene Verbrauchsstellen in jedem Baublock enthalten sind.
+
+Um der Aussage mehr Gewichtung zu geben, wurde zusätzlich mit Punkten dargestellt, wie viel Prozent der Anteil der nichtleitungsgebundenen Verbrauchsstellen im Baublock beträgt.
+
+Die räumliche Verteilung zeigt sehr gut die Gebiete, in denen es einen hohen Anteil an nichtleitungsgebundenen Energieträgern gibt und wie hoch wiederum der Anteil dieser Energieträger im Baublock ist.
+
+In Abbildung 14 ist die Anzahl der Wärmepumpen in den einzelnen Baublöcken dargestellt.
+
+Sogenannte Luft-Wasser-Wärmepumpen entziehen der Umgebungsluft Wärme und geben sie auf einem höheren Temperaturniveau an das Heizsystem ab.
+
+Je niedriger der Temperaturhub zwischen Quelle und Vorlauftemperatur, desto effizienter arbeiten Luft-Wasser-Wärmepumpen.
+
+Im Vergleich zu Erdwärmepumpen, die <TIMEX3 tid="t35" type="DURATION" value="P1Y">das ganze Jahr</TIMEX3> über eine gleichbleibende Wärmequelle verfügen, sind Luft-Wasser-Wärmepumpen weniger effizient, aber bei den Anschaffungskosten günstiger.
+
+Zudem sind die baulichen Voraussetzungen geringer und dadurch die Installation nahezu in jedem Gebäude möglich.
+
+Diese Technologie kann nicht nur in energetisch effizienten Neubauten, sondern auch im Bestand eingesetzt werden.
+
+Ein ökologischer und ökonomischer Betrieb wird bei dieser Technologie durch möglichst niedrige Heizsystemtemperaturen bestimmt.
+
+Dabei müssen nicht unbedingt Flächenheizsysteme eingesetzt werden, sondern oftmals reichen die vorhandenen, oft überdimensionierten Heizkörper aus.
+
+Eine energetische Sanierung der Gebäudehülle unterstützt den effizienten Einsatz einer Wärmepumpe.
+
+Eine weitere Einschränkung bzw. Ausschlusskriterium ist der Lärmschutz.
+
+Für benachbarte Grundstücke müssen die Grenzwerte der Technischen Anleitung zum Schutz gegen Lärm (TA Lärm) für die jeweiligen Gebiete eingehalten werden.
+
+  Die Wärmepumpendichtekarte verdeutlicht zudem, in welchen Gebieten ein hoher Anteil an Wärmepumpen vorhanden ist (s.
+
+Abbildung 15).
+
+In <PLACE id="p31" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> gibt es vereinzelt Stadtteile, in denen noch Kohle als Energieträger eingesetzt wird.
+
+Auf dem Ausschnitt in Abbildung 16 sind zwei Baublöcke zu sehen (oberer und rechter Bildrand), in denen noch eine geringe Menge an Kohle als Energieträger eingesetzt wird.
+
+Der Anteil der Kohle am Wärmeverbrauch im Baublock beträgt in <PLACE id="p32" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> jedoch nie mehr als vier Prozent.
+
+  Anders sieht es beim Heizölverbrauch aus.
+
+In Abbildung 17 ist deutlich sichtbar, dass Heizöl in den meisten Baublöcken noch als Energieträger eingesetzt wird.
+
+Die unterschiedlichen Farben in den Baublöcken zeigen, wie hoch der Heizölverbrauch jeweils im Baublock ist.
+
+Die Punkte zeigen, wie hoch der Heizölanteil am Gesamtwärmeverbrauch im Baublock ist.
+
+Vereinzelt gibt es Baublöcke, bei denen der Anteil des Heizölverbrauchs über 60 Prozent liegt.
+
+Gebiete mit einem hohen Anteil an Ölheizungen spielen in der kommunalen Wärmeplanung eine besondere Rolle, da in diesen fossilen, nicht leitungsgebundenen Arealen der Transformationsdruck klimaneutral zu werden, eventuell in <TIMEX3 tid="t36" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> auch an einen Energieträgerwechsel gekoppelt ist.
+
+In einzelnen Baublöcken wird auch Flüssiggas als Energieträger eingesetzt.
+
+In Abbildung 18 ist der Flüssiggasverbrauch auf Baublockebene für den gewählten Ausschnitt des Stadtgebiets dargestellt.
+
+Die Punkte geben an, wie hoch der Anteil von Flüssiggas als Energieträger am Wärmeverbrauch im Baublock ist.
+
+  Klärgas als Energieträger fällt in <PLACE id="p33" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> an der Kläranlage des AZV <PLACE id="p34" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> an (s.
+
+Abbildung 19).
+
+Das bei der Kläranlage im Faulturm entstehende Klärgas wird im BHKW als Energieträger eingesetzt.
+
+Die erzeugte elektrische Energie wird für den Kläranlagenbetrieb verwendet.
+
+Die erzeugte thermische Energie wird für die Beheizung der Faultürme und der Betriebsräume eingesetzt.
+
+Abbildung 20 enthält den Verbrauch von Holz als weiteren nichtleitungsgebundenen Energieträger für den ausgewählten Ausschnitt im Stadtgebiet.
+
+In den Baublöcken ist der Gesamtverbrauch farblich abgestuft, der Holzanteil im Baublock ist als farblicher Punkt prozentual dargestellt.
+
+Auffällig hierbei ist der dunkelgrüne Baublock am unteren Bildrand.
+
+Hierbei handelt es sich um die Justizvollzugsanstalt (JVA) <PLACE id="p35" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, welche einen großen Teil der Wärme über eine Hackschnitzelanlage deckt.
+
+Abbildung 21 zeigt die Altersstruktur der Heizanlagen verteilt auf die Baublöcke für den ausgewählten Ausschnitt im Stadtgebiet.
+
+Es wurde pro Baublock ein durchschnittliches Baujahr der Heizanlagen errechnet.
+
+Die Gebäudestruktur der eher älteren Kernstadt weist auch entsprechend Heizanlagen mit einem durchschnittlich älteren Baualter auf.
+
+Die äußeren entwickelten Siedlungsbereiche verfügen über einen höheren Anteil von Baublöcken mit einem jüngeren durchschnittlichen Baujahr der Heizanlagen.
+
+Gerade in den Baublöcken mit einem durchschnittlich höheren Heizungsalter gibt es Handlungsbedarf und eventuell aufgrund von einem anstehenden Kesseltausch auch eine höhere Bereitschaft den Energieträger zu wechseln bzw. an ein Wärmenetz anzuschließen.
+
+Datengrundlage: Verbrauchswerte Erdgasnetzbetreiber, Stromnetzbetreiber, Heizanlagenstatistiken der Schornsteinfeger GIS – Karte(n): Erdgasverbrauch auf Baublockebene, Nichtleistungsgebundene Energieträger im Baublock mit Anteil, Verteilung Heizungsstrom, Dichtekarte Heizungsstrom, Verteilung Wärmepumpen, Dichtekarte Wärmepumpen, Kohleverbrauch pro Baublock, Heizölverbrauch pro Baublock, Flüssiggasverbrauch pro Baublock, Klärgasverbrauch, Verteilung Holzverbrauch mit Anteil im Baublock, Altersstruktur der Heizanlagen
+
+Im folgenden Kapitel werden die vorhandenen Potenziale analysiert und bewertet.
+
+Aufgeteilt werden die Potenziale in erneuerbare Energien zur Wärmeversorgung sowie in erneuerbare Stromquellen für die Wärmeversorgung.
+
+Hintergrund Bei der energetischen Nutzung der Biomasse kann zwischen Energieholz und Biogas unterschieden werden.
+
+Energieholz in der Form von Stückholz, Holzpellets oder Holzhackschnitzel wird aus der Forstwirtschaft sowie aus der holzverarbeitenden Industrie gewonnen und wird hauptsächlich für die Wärmeerzeugung genutzt, während Biogas aus verschiedenen Substraten, vor allem aus der Landwirtschaft, erzeugt werden kann und sowohl für die Erzeugung von Strom als auch von Wärme genutzt wird.
+
+Im Rahmen des kommunalen Wärmeplans wurde das Potenzial an Biomasse (Biogas und Energieholz) für die energetische Nutzung auf dem Stadtgebiet <PLACE id="p36" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> durch eine empirische Erhebung (Befragung, statistische Daten) ermittelt.
+
+Es wird zunächst das technische Potenzial anhand des tatsächlichen Massenaufkommens der Biomasse beziffert, anschließend werden die <TIMEX3 tid="t37" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Verwertungspfade aufgeführt.
+
+Eine effektive Nutzung von Biomasse wird durch eine Kaskadennutzung erreicht.
+
+An der Spitze dieser Pyramide steht die Nutzung von Biomasse als Nahrungsmittel.
+
+In einer zweiten Nutzungsstufe wird eine stoffliche Nutzung der Biomasse, wie beispielsweise die Herstellung von Baustoffen oder Verpackungsmaterialien, überprüft.
+
+Erst im Anschluss ist eine energetische Nutzung sinnvoll.
+
+In dieser Studie wird daher der Schwerpunkt auf das Energiepotenzial von Reststoffen gelegt, die bisher keinem Verwertungspfad unterliegen oder durch einen kosteneffizienten und ökologischen Verwertungspfad ersetzt werden können.
+
+Biogassubstrat- und Energiepotenziale aus Ackerpflanzen Eine leicht zugängliche Quelle für Biomasse sind die Reststoffe, wie sie bei der Bewirtschaftung von Ackerflächen anfallen.
+
+Die meisten dieser organischen Reststoffe können als Substrat für eine Biogasanlage verwendet werden.
+
+In <PLACE id="p37" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> werden auf einer Fläche von 934 ha Ackerpflanzen kultiviert (Stand <TIMEX3 tid="t38" type="DATE" value="2020">2020</TIMEX3>).
+
+Auf diesen Flächen werden verschiedene Getreidearten angebaut, davon hauptsächlich Körnermais.
+
+Reststoffe der Körnermaisbewirtschaftung stellen mit umgerechnet ca. 2.616 MWh/<TIMEX3 tid="t39" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> das größte verfügbare Energiepotenzial der ackerbaulichen Reststoffe dar.
+
+Reststoffe der Körnermaisproduktion sind die Stängel und Blätter, die in der Regel entweder zum Humusaufbau auf dem Feld verbleiben oder in Form von Silage der Tierernährung dienen.
+
+Getreidestroh (Winter- und Sommergerstenstroh) kommt auf ca. 70 MWh/<TIMEX3 tid="t40" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>.
+
+Auf Silomais entfallen zusätzlich 55 ha.
+
+Silomais stellt somit ein verfügbares Energiepotenzial von umgerechnet 1.041 MWh/<TIMEX3 tid="t41" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> dar.
+
+Raps wird auf rund 72 ha angebaut.
+
+Die Rapsrückstände verfügen über ein Energiepotenzial von rund 1.025 MWh/<TIMEX3 tid="t42" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>.
+
+  Zusätzlich zu den Reststoffen aus dem bestehenden Ackeranbau können auch brachliegende Flächen, die sich für den landwirtschaftlicher Anbau von Pflanzen für die Lebensmittelproduktion nicht eignen, für den Anbau von Energiemais genutzt werden.
+
+Mais ist ein erprobtes Biogassubstrat mit einer hohen spezifischen Biogasausbeute.
+
+Eine Bepflanzung der brachliegenden Flächen, z.B. mit Energiemais, könnte daher sinnvoll sein.
+
+Lediglich 71 ha (sieben Prozent) der Ackerfläche in <PLACE id="p38" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> liegen nach Angaben des STALA BW brach.
+
+Zur Kalkulation des Energiepotenzials dieser brachliegenden Fläche wird ein Anbau von Energiemais mit einem um 50 Prozent verminderten Ertrag angesetzt.
+
+Durch den Anbau von Energiemais auf den brachliegenden Flächen könnten zusätzlich 2.239 MWh/<TIMEX3 tid="t43" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> an Energie generiert werden.
+
+Das Energiepotenzial der Ackerpflanzen verteilt sich in <PLACE id="p39" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> auf 16 Haupterwerbslandwirte und 50 Nebenerwerbslandwirte.
+
+Eine ökologische Bewertung der Nutzung dieser Biomasse ist abhängig davon, ob diese Reststoffe als organischer Dünger oder zur Tierernährung genutzt werden.
+
+Im ersten genannten Fall stellt die Nutzung dieser Reststoffe in einer Biogasanlage eine Wertschöpfung dar, da am Ende des Biogasprozesses erneut ein hochwertiger Dünger entsteht.
+
+Bei Letzterem ist eine Falluntersuchung notwendig, ob die als Tierfutter genutzte Biomasse kostengünstig und unter ökologischen Gesichtspunkten äquivalent substituiert werden kann.
+
+Neben den Ackerflächen werden in <PLACE id="p40" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> weitere 281 ha als Dauergrünlandflächen genutzt.
+
+Die auf diesen Flächen produzierte Grassilage gilt auch als Reststoff und kann in einer Biogasanlage verwertet werden.
+
+Grassilage von Dauergrünlandflächen weist in <PLACE id="p41" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ein Energiepotenzial von über 1.302 MWh/<TIMEX3 tid="t44" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> auf.
+
+Rund 139 ha werden als Rebland genutzt.
+
+Nach dem Keltern bleibt ein Pressrückstand zurück, der sogenannte Traubentrester.
+
+Er umfasst Kerne, Schalen und teilweise Rispen.
+
+Traubentrester wird meistens als Dünger in den Weinberg ausgebracht, eignet sich aber gut als Biogassubstrat.
+
+Am Ende des Biogasprozesses entsteht ein hochwertigerer Dünger sowie Strom und Wärme.
+
+Das Energiepotenzial würde hier 182 MWh <TIMEX3 tid="t45" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> betragen.
+
+Mit dem Obstanbau auf ca. 79 ha Fläche lassen sich zusätzlich ca. 349 MWh Energie aus Obsttrester nutzen.
+
+Insgesamt ergibt sich ein theoretisches Gesamtpotenzial von ca. 8.294 MWh/<TIMEX3 tid="t46" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> aus der energetischen Nutzung von Ackerbaupflanzen und Grassilage.
+
+Biogassubstrat- und Energiepotenziale aus der Tierhaltung Die Nutzung von tierischen Exkrementen als Biogassubstrat ist ökologisch sinnvoll, denn die vergorene Gülle bzw. der ausgefaulte Festmist kann nach der Nutzung in einer Biogasanlage in Form von Biogasgülle als hochwertiger organischer Dünger auf das Feld ausgebracht werden.
+
+Das Statistische Landesamt gibt für <PLACE id="p42" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> einen Hühnerbestand von 1.066 Tieren, einen Rinderbestand von 636 Tieren und einen Pferdebestand von 24 Tieren im <TIMEX3 tid="t47" type="DATE" value="2020">Jahr 2020</TIMEX3> an.
+
+Weitere Tiere aus der Viehwirtschaft werden nicht angegeben.
+
+Das energetische Potenzial des Pferdemists liegt bei 76 MWh, das Potenzial der Rindergülle bei 644 MWh und das des Hühnerkots bei 2 MWh.
+
+Biogassubstrat- und Energiepotenziale aus organischen Abfällen Eine energetische Nutzung von Rest- und Abfallstoffen ist aus ökologischer Sicht sehr attraktiv, da keine Konkurrenz zu Nahrungsmitteln besteht und es sich teilweise um Abfallstoffe handelt, die bisher entsorgt werden müssen.
+
+Die Nutzung der organischen Abfälle birgt ein energetisches Potenzial von ca. 3.737 MWh/<TIMEX3 tid="t48" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>.
+
+Die Verwertung in einer Biogasanlage in <PLACE id="p43" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> (oder Umgebung) wird in dieser Studie jedoch ausgeschlossen, da die Entsorgung dieser Abfälle in der Verantwortung des Landkreises <PLACE id="p44" type="" geo="DEBKGGND00000YA4">Ortenau</PLACE> liegt.
+
+Diese werden zusammen mit dem Restmüll in der Müllverwertungsanlage Kahlenberg nach dem dort entwickelten ZAK-Verfahren verwertet.
+
+In <PLACE id="p45" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> gibt es die Molkerei Schwarzwaldmilch, welche im Rahmen der Biomasseuntersuchung auch auf Reststoffe befragt wurde.
+
+Im Produktionsprozess fallen hier Molkereiabfälle im Umfang von ca. 6.575 t <TIMEX3 tid="t49" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> an.
+
+Diese bergen ein energetisches Potenzial von ca. 4.275 MWh.
+
+In Molkereien fällt meist Abwasser zum Beispiel bei Reinigungs- und Spülvorgängen in der Produktion an.
+
+Diese Abfälle lassen sich unter bestimmten Vorrausetzung zu Biogas aufbereiten.
+
+Da Molkereien oft individuelle Arbeitsprozesse und eigene Kreisläufe haben, gilt es hier das Potenzial wirtschaftlich zu prüfen.
+
+Gesamterzeugungspotenzial Biogas Das technische Biogaspotenzial summiert sich in <PLACE id="p46" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> auf einen Gesamtwert von ca. 15.409 MWh/<TIMEX3 tid="t50" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>, was im Rahmen der Stromerzeugung einem elektrischen Biogaspotenzial von 5.855 MWh/<TIMEX3 tid="t51" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> entsprechen würde und einer Biogasanlage mit ca. 861 kWel Leistung.1 Das größte theoretische Potenzial besteht, wie oben beschrieben, in der energetischen Nutzung der Reststoffe von Körnermais und auf Brachflächen angepflanztem Energiemais.
+
+In dieser Studie unberücksichtigt bleiben allerdings konkurrierende, insbesondere aber bestehende Verwertungspfade und die Transportkosten der Biomasse, die nur durch individuelle Befragungen und Prüfungen ermittelt werden können.
+
+In einem weiteren Schritt ist eine Wirtschaftlichkeitsanalyse notwendig, welche besonders die vorher genannten Punkte berücksichtigt.
+
+Biomasse aus der Forstwirtschaft Die Quantifizierung der kommunalen Energieholzpotenziale konnte einerseits durch konkrete Holzeinschlagsdaten, andererseits auf Basis von Erfahrungsberichten der zuständigen Forstverwaltung durchgeführt werden.
+
+In <PLACE id="p47" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> beläuft sich die Waldfläche auf 2.662 ha.
+
+Davon sind 2.282 ha Stadtwald und 380 ha in Privatbesitz.
+
+Das eingeschlagene Holz wird energetisch genutzt und als Hackschnitzel (1.900 fm/<TIMEX3 tid="t52" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>) und Brennholz (5.800 fm/<TIMEX3 tid="t53" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>) verwendet.
+
+Nach Auskunft der zuständigen Förster wird die Waldfläche in <PLACE id="p48" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> bereits nachhaltig bewirtschaftet, so dass keine zusätzlichen energetischen Potenziale vorhanden sind.
+
+Bisher ungenutzter Zuwachs verbleibt vor allem aus Gründen der Ökologie und Nachhaltigkeit im Wald.
+
+Datengrundlage: Stala Daten BW, Abfrage bei Unternehmen mit potenziellen Reststoffen, Abfrage bei zuständigen Förstern, Abfrage bei TBO zu Landschaftspflegematerial.
+
+Erdwärme kann in der <PLACE id="p49" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> auf verschiedenen Ebenen einen Beitrag zur Wärmewende leisten.
+
+In Abbildung 22 ist das Geothermiepotenzial in den einzelnen Baublöcken dargestellt und in Tabelle 1 werden die quantitativen Potenziale aufgelistet.
+
+Im Bereich der oberflächennahen Geothermie lassen sich viele private Wohngebäude mit Erdwärmesonden beheizen.
+
+Allerdings stehen insbesondere im Zielgebiet der Machbarkeitsuntersuchung das Alter und der hohe Wärme- bzw. Leistungsbedarf der Gebäude einer effizienten direkten Anwendung im Wege.
+
+In den eng bebauten Arealen sind dazu auch die Grundstücksflächen oft zu klein, um mehrere Erdwärmesonden abzuteufen.
+
+Genehmigungsverfahren für notwendige Eingriffe in den Untergrund werden durch die Behörden eher restriktiv gehandhabt.
+
+  Für die erdwärmegebundene Versorgung eines Wärmenetzes oder großer Gebäudekomplexe müssen Freiflächen gefunden werden, die jeweils mehrere hundert Quadratmeter umfassen, da in Erdwärmefeldern der nötige Abstand zwischen den Sonden besonders groß sein kann.
+
+Zudem sollten diese Flächen natürlich nicht gleichzeitig für den Straßenverkehr, oder für regelmäßige Ansammlungen von Menschen genutzt werden.
+
+Anhand von gängigen Algorithmen, die für Softwareprogramme zur Berechnung von Erdwärmesonden verwendet werden, können die Entzugsleistungen für Erdwärmesondenfelder verschiedener Größe ermittelt werden.
+
+Die Ergebnisse dienen dennoch mehr einer groben Abschätzung des Wärmepotenzials, da die Auslegung von Erdwärmesondenfeldern stark von der Geometrie der Sondenbelegung in Verbindung mit der Tiefe der Sonden abhängig ist.
+
+Die bereits oben genannten Hindernisse für die Anwendung sind die gleichen.
+
+Für viele potenzielle Erdwärmesondenfelder wird eine behördliche Erlaubnis nur schwer zu erreichen sein.
+
+Ein weiteres Potenzial bietet die Installation von Grundwasserbrunnen.
+
+Als grobe Richtgröße kann hier ein Potenzial von 2,2 MW für zehn Brunnen angegeben werden.
+
+Ein einzelner Brunnen könnte unter den vermuteten Gegebenheiten des Untergrundes zwischen 100 und 300 kW Entnahmeleistung anbieten.
+
+Obwohl im betrachteten Gebiet mehrere Grundwasserschutzgebiete ausgewiesen sind, ist das Gesamtpotenzial von Grundwasser zur oberflächennahen Erdwärmenutzung dennoch als sehr hoch einzustufen.
+
+Allerdings sind Voruntersuchungen der Gewässerchemie und zur Grundwasser-Ergiebigkeit nötig.
+
+Auf genauere quantitative Potenzialangaben wird daher an dieser Stelle verzichtet.
+
+Für die Nutzung der Tiefengeothermie, bei der in deutlich über 400 m Tiefe Gesteinsschichten gebohrt wird, kann auf die Potenzialangaben aus der GeORG-Studie von <TIMEX3 tid="t54" type="DATE" value="2012">2012</TIMEX3> zugegriffen werden.
+
+Über eine Anwendung der Tiefengeothermie im Gebiet <PLACE id="p50" type="" geo="DEBKGGND00000AO2">Goldscheuer</PLACE>, westlich von <PLACE id="p51" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, wird schon länger nachgedacht.
+
+Allerdings hatten sich die Untersuchungen bisher immer auf die Stromproduktion fokussiert, so dass mit dem Schadensfall in Basel im <TIMEX3 tid="t55" type="DATE" value="2005">Jahr 2005</TIMEX3> auch dieses Vorhaben beendet wurde.
+
+Nichtsdestotrotz ist der Aufbau des Untergrundes grundsätzlich sehr gut geeignet für verschiedene Formen der Anwendung.
+
+Zum einen könnten Thermalwässer mit ca. 140 °C gehoben und über eine Anbindung an ein Wärmenetz in <PLACE id="p52" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> technisch angeschlossen werden.
+
+Der potenzielle thermische Leistungsbereich der hydrothermalen Geothermie wird hier grob mit 4 bis 6 MW berechnet.
+
+Für eine petrothermale Geothermie in Tiefen von über 3.000 m u. GOK könnten auch 13 MW thermische Leistung erzeugt werden.
+
+Bei den angegebenen Temperaturen kann eine Stromproduktion möglich sein, vorausgesetzt die Quellschüttungen lassen dies im wirtschaftlichen Maße zu.
+
+Zu berücksichtigen ist, dass die Parameter der Berechnungsformeln erheblichen Schwankungen unterliegen können.
+
+Alle Angaben werden in Tabelle 1 zusammengefasst und spiegeln Richtgrößen wider.
+
+Anwendung Parameter Potenziale Grundwasserbrunnen Dezentrale Erdwärmenutzung Erdwärmesondenfelder Sondenfelder mit Erdwärmesonden bei 99 m Länge Hydrothermale Geothermie Petrothermale Geothermie Datengrundlage: ISONG BW, Wärmekataster, GeORG.
+
+GIS – Karte(n): Erdwärmesondenpotenzial auf Baublockebene, Geothermiepotenzial zur Wärmebedarfsdeckung von Wohngebäuden - im sanierten Zustand ab <TIMEX3 tid="t56" type="DATE" value="1969">Baujahr 1969</TIMEX3>.
+
+Grundwasserbrunnen bei kF Werten zwischen 0,001 und 0,003 m/<TIMEX3 tid="t57" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> und im Mittel je 10 l/<TIMEX3 tid="t58" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> Quellschüttung Abhängig vom Wärmebedarf der Wohngebäude und vom Platzangebot der Grundstücke Thermalwasserhorizonte im Deckgebirge mit zwischen  115 °C und 140 °C Wassertemperatur und bei 20 und 45 l/<TIMEX3 tid="t59" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> Quellschüttung.
+
+Re-Iinjektion bei 40 bis 60 °C.
+
+Kristallinbohrung bis mindestens 3.000 m Tiefe bei 150°C und 50 l/<TIMEX3 tid="t60" type="SET" freq="EVERY" value="PT1S">s</TIMEX3> Wasserumlauf.
+
+Reinjektion bei 60 °C.
+
+ Zwischen 100 und 300 kW Entzugsleistung je Brunnen.
+
+Bei SCOP = 3,75 wird eine Gesamtleistung von ca. 2,2 MW bei 10 Brunnen erreicht.
+
+Ca.
+
+64 GWh/<TIMEX3 tid="t61" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>, entspricht  ca. 20 % des Gesamtwärmeverbrauchs im privaten Sektor in <PLACE id="p53" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> In der Größenordnung von 5-15 GWh/<TIMEX3 tid="t62" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> als grobe Richtgröße für das Potenzial in <PLACE id="p54" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, je nach Anzahl und Größe der Sondenfelder 4 bis 6 MW thermische Bruttoleistung 13 MW thermische Bruttoleistung sind zu erwarten
+
+In <PLACE id="p55" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> stehen etwa 600.000 km Kanalnetz (Statista <TIMEX3 tid="t63" type="DATE" value="2021">2021</TIMEX3>) mit temperiertem Abwasser zur Verfügung, welches ein großes Potenzial für die Wärmewende darstellt.
+
+Diesem, in jeder Kommune vorhandenen, Kanalnetz können im Abwasserkanal oder im Auslauf einer Kläranlage theoretisch Wärmemengen entnommen werden.
+
+Im <TIMEX3 tid="t64" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3> liegt die Temperatur in konventionellen Abwasserkanälen mit 10 bis 12 °C deutlich höher als bei anderen Wärmequellen.
+
+Im <TIMEX3 tid="t65" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> liegt die Temperatur in den Kanälen bei ca. 15 bis 20 °C und ist damit meist kühler als die Außenluft.
+
+Somit bietet sich die Abwasserwärmenutzung nicht nur zum Heizen im <TIMEX3 tid="t66" type="SET" freq="EVERY" value="XXXX-WI">Winter</TIMEX3>, sondern auch zum Kühlen im <TIMEX3 tid="t67" type="SET" freq="EVERY" value="XXXX-SU">Sommer</TIMEX3> an.
+
+Die Verfügbarkeit von Abwasser als Wärmequelle bzw. senke liegt sowohl zeitlich als auch räumlich günstig.
+
+Denn größere Mengen an Abwasser fallen in Ballungsräumen und Industriebetrieben an, wo man gleichzeitig einen hohen Energiebedarf hat.
+
+Das Angebot (Abwasserwärme) deckt sich dort zeitlich mit dem Bedarf (Wärmeenergiebedarf).
+
+Um Wärme oder Kälte aus dem Abwasserkanal gewinnen zu können gibt es verschiedene Systeme.
+
+Die gängigsten sind Kanalwärmetauscher, die direkt im Kanal installiert werden und Bypasswärmetauscher.
+
+Ein Kanalwärmetauscher kann nachträglich in Kanälen ab einer Nennweite von DN 400 installiert werden.
+
+Bei Neubau eines Abwasserkanals können Kanalelemente mit einem integrierten Wärmetauscher eingesetzt werden.
+
+Die Wärmetauscher Flächen bestehen aus einem Material mit hoher Wärmeleitfähigkeit und sind meist doppellagig, um das Durchströmen eines Zwischenmediums zu ermöglichen.
+
+Bei diesem Prozess kann eine Leistung zwischen 2 und 4 kW pro m² dem Abwasser entnommen werden (DBU <TIMEX3 tid="t68" type="DATE" value="2005">2005</TIMEX3>).
+
+Die Länge eines Kanalwärmetauschers kann ohne weiteres 200-300 m betragen (DWA <TIMEX3 tid="t69" type="DATE" value="2008">2008</TIMEX3>).
+
+Ein Bypasswärmetauscher entnimmt nur einen Teil des Abwasserstroms.
+
+Die Wärme wird hierbei über Doppelrohr- oder Plattenwärmetauscher übertragen.
+
+Der Vorteil gegenüber einem Kanalwärmetauscher ist der nicht notwendige Eingriff in die bestehende Kanalleitung und die Unabhängigkeit von Kanalgröße und Geometrie.
+
+Jedoch sind Bypasswärmetauscher aufgrund der hohen Anfangsinvestitionen nur für größere Systeme geeignet (Christ und Mitsdoerffer <TIMEX3 tid="t70" type="DATE" value="2009">2009</TIMEX3>).
+
+Nutzbar wird die Wärme mittels einer Wärmepumpe, die die Abwasserwärme auf ein höheres Temperaturniveau bringt.
+
+Die Abwasserwärme kann aber mittlerweile auch für die Einspeisung in kommunale Wärmenetze genutzt werden.
+
+Wichtige Faktoren bei der Abwasserwärmenutzung sind die Größe des Abwasserkanals, die Durchflussrate des Abwassers im Kanal (mindestens 15 l/<TIMEX3 tid="t71" type="SET" freq="EVERY" value="PT1S">s</TIMEX3>), die Temperatur, die Mindestabnahme, die Verfügbarkeit des Abwassers (<TIMEX3 tid="t72" type="SET" freq="EVERY" value="P3M">Jahreszeitliche</TIMEX3> Schwankungen oder konstante Verfügbarkeit) und die Distanz zwischen Abwasserwärmequelle und Verbraucher (IFEU Studie).
+
+Auch eine ortsansässige Kläranlage bietet, im Bereich des Kläranlagenauslauf, die Möglichkeit, die Abwärme des Abwassers mit einer Groß-Wärmepumpe zu nutzen, sofern dieser Prozess nicht den Ablauf der Anlage stört.
+
+Die <PLACE id="p56" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> hat im <TIMEX3 tid="t73" type="DATE" value="2004">Jahr 2004</TIMEX3> eine Studie zur Abwasserwärmenutzung an einzelnen kommunalen Liegenschaften durchgeführt.
+
+Diese Studie sollte mit dem Fortschritt der Technik und im Rahmen der Wärmenetzausbaustrategie ggf. erneuert werden.
+
+Es wurden 19 Betriebe in <PLACE id="p57" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> angeschrieben und gebeten, den Fragebogen zur Abwärmenutzung der KEA BW auszufüllen.
+
+Alle 19 Betriebe (an 26 Standorten) haben den ausgefüllten Fragebogen an die Stadt zurückgesandt.
+
+Sechs Betriebe gaben an, dass sie auskoppelbare Abwärme zur Verfügung hätten.
+
+Bei den angegebenen Abwärmequellen handelt es sich um Dampf, Abwasser oder den Kühlkreislauf.
+
+Es sollte nun geprüft werden, ob die anfallende Abwärme der Betriebe sich technischwirtschaftlich für die Nutzung in einem Wärmenetz erschließen lassen könnte.
+
+Datengrundlage: Abwärme - Fragebogen der KEA (an ausgewählte Unternehmen versandt), konkrete Nachfrage bei Unternehmen GIS – Karte(n): Abwärmepotenzial Gewerbe und Industrie
+
+Kraft-Wärme-Kopplungs-Anlagen (KWK-Anlagen) sollen nach der Bundes- und Landesregierung einen wichtigen Beitrag zur Optimierung der Energiebereitstellung liefern (UMBW, <TIMEX3 tid="t74" type="DATE" value="2015">2015</TIMEX3>).
+
+Die <PLACE id="p58" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> betreibt selbst 14 eigene Anlagen in kommunalen Einrichtungen (vgl. Kapitel 1.3.1).
+
+Die Wärmenetze werden <TIMEX3 tid="t75" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> zum Teil mit Blockheizkraftwerken (Paul-Gerhardt Werk, Kreuzschlag, Konrad-Adenauer-Schule und E-Werk Mittelbaden) gespeist.
+
+Diese Anlagen und noch weitere bestehende Anlagen, in privaten Haushalten oder Gewerbebetrieben, deckten im <TIMEX3 tid="t76" type="DATE" value="2017">Jahr 2017</TIMEX3> ca. zehn Prozent des Wärmebedarfs und ca. 14 Prozent des Stromverbrauchs der Stadt.
+
+Für den Aufbau von Nahwärmeverbünden mit KWK-Anlagen bestehen in der <PLACE id="p59" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> gute Potenziale, da die bestehenden Wärmenetze erweitert werden bzw. neue Wärmenetze entstehen sollen.
+
+Insbesondere in Kombination mit Sanierungs- und Quartierskonzepten in Bereichen mit großen Verbrauchern können Potenziale genauer identifiziert und untersucht werden.
+
+Bei anstehenden Heizungssanierungen von kommunalen Liegenschaften sollte der potenzielle Einsatz von KWK-Anlagen und ein möglicher Aufbau eines Nahwärmenetzes geprüft werden.
+
+Neben den privaten Haushalten sollte besonders in Gewerbebetrieben der Einbau von KWK-Anlagen weiter vorangetrieben werden.
+
+Durch Öffentlichkeitsarbeit und der Vernetzung von <PLACE id="p60" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Unternehmen können die Betriebe die notwendigen Informationen erhalten.
+
+Der Umstieg auf KWK-Anlagen wird ihnen somit erleichtert.
+
+Ein wichtiger Punkt, der jedoch beim Einsatz der Kraft-Wärme-Kopplung berücksichtigt werden sollte, ist, dass <TIMEX3 tid="t77" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> die Mehrheit dieser Anlagen mit fossilen Brennstoffen betrieben wird, daher muss hier die Defossilisierung und ein Betrieb dieser Anlagen mit erneuerbaren Energien oder synthetischen Gasen angestrebt werden.
+
+Hintergrund Die <PLACE id="p61" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> hat aufgrund ihrer Lage eine günstige Solareinstrahlung, welche die Nutzung von Sonnenenergie außergewöhnlich wirtschaftlich macht.
+
+Laut Globalstrahlungsatlas der LUBW liegt hier der <TIMEX3 tid="t78" type="SET" freq="EVERY" value="P1Y">jährliche</TIMEX3> Energieertrag, bezogen auf eine horizontale Fläche, bei ca. 1.113 kWh und damit über dem bundesdeutschen Durchschnitt (LUBW, <TIMEX3 tid="t79" type="DATE" value="2020">2020</TIMEX3>a).
+
+Laut dem LUBW-Energieatlas gibt es in der Gemeinde 1.071 bestehende Anlagen, die im <TIMEX3 tid="t80" type="DATE" value="2017">Jahr 2017</TIMEX3> 16.454 MWh Strom erzeugt haben.
+
+Mit fünf Prozent Anteil an der Stromerzeugung leistete die Photovoltaik im <TIMEX3 tid="t81" type="DATE" value="2017">Jahr 2017</TIMEX3> somit einen sichtbaren Beitrag zum Klimaschutz in der Stadt.
+
+Außerdem wurde im <TIMEX3 tid="t82" type="DATE" value="2017">Jahr 2017</TIMEX3> ein Prozent der Wärme in der Stadt über Solarthermieanlagen erzeugt.
+
+Um das weitere Ausbaupotenzial der Solarenergie in der <PLACE id="p62" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> genauer abzuschätzen, wurde das theoretische Solarflächenpotenzial auf Dachflächen und auf Freiflächen ermittelt und ausgewertet.
+
+Hierzu wurde auf den Energieatlas <PLACE id="p63" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> der Landesanstalt für Umwelt <PLACE id="p64" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (LUBW) zurückgegriffen (LUBW, <TIMEX3 tid="t83" type="DATE" value="2021">2021</TIMEX3>).
+
+Die Solarstrahlung auf Dachflächen kann sowohl zur Erzeugung von Wärme (Solarthermie) als auch von Strom (Photovoltaik) genutzt werden.
+
+Solarenergiepotenziale auf bestehende Dachflächen Die Auswertung des Solarpotenzials auf Dachflächen ergab, dass 92 Prozent der potenziellen Modulflächen als gut oder sehr gut geeignet eingeschätzt werden (vgl. Tabelle 2).
+
+Diese Dächer können aufgrund ihrer Ausrichtung und Neigung sehr gut für eine Belegung mit solarthermischen Anlagen oder mit Photovoltaikanlagen genutzt werden.
+
+Eine belastbare Aussage über Statik und Beschaffenheit der individuellen Dachpotenziale ist aber nur durch eine Prüfung vor Ort möglich.
+
+Dachausrichtung Gesamtfläche Anteil an Gesamtfläche Sehr gut geeignet 492.813 m2 40 % Gut geeignet 646.883 m2 52 % Bedingt geeignet 101.312 m2 8 %   In Abbildung 24 ist die Eignung der Dachflächen grafisch dargestellt, so dass man sehr gut einen Überblick erhält, welche Gebäude im Kartenausschnitt eine sehr gute Dachflächenausrichtung bzw. eignung aufweisen.
+
+In Abbildung 25 ist das PV-Potenzial auf Baublockebene für den Kartenausschnitt dargestellt.
+
+In den Baublöcken sind die Ertragswerte pro Baublock in MWh/<TIMEX3 tid="t84" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> dargestellt.
+
+Hierbei wurde nicht berücksichtigt, welche bestehenden Anlagen im Baublock vorhanden sind und wie hoch deren Ertragswert ist.
+
+Es handelt sich um ein Gesamtpotenzial pro Baublock.
+
+Der weitere Zubau von PV-Modulen wird allerdings maßgeblich von der sich fortlaufend ändernden Gesetzeslage, Förderbedingungen, der Preisentwicklung der Module und Batterien sowie natürlich von der Investitionsbereitschaft der Gebäudeeigentümer und eigentümer*innen abhängen.
+
+Das Potenzial für Solarthermie wurde auf Grundlage der Daten des LUBW-Energieatlas berechnet.
+
+Hierzu wurden sämtliche als Potenzial ausgewiesenen Dachflächen berücksichtigt.
+
+Für die Solarthermie-Potenzialflächen wurde ein <TIMEX3 tid="t85" type="DURATION" value="P1Y">Jahresnutzungsgrad</TIMEX3> von 30 Prozent und ein Abminderungsfaktor für Flachdächer von 40 Prozent angenommen.
+
+Es erfolgte keine Berücksichtigung der jeweiligen Gebäudenutzung, auf welchen sich die Dachflächen befinden.
+
+Das Solarthermie-Potenzial gibt somit das absolut mögliche Potenzial der einzelnen Dachflächen an und wurde auf Baublockebene aggregiert und in MWh/<TIMEX3 tid="t86" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> dargestellt.
+
+Der Energieatlas <PLACE id="p65" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> listet, zusätzlich zum PV-Potenzial auf Dächern, Angaben zum Potenzial für PV-Anlagen auf Freiflächen auf (LUBW, <TIMEX3 tid="t87" type="DATE" value="2021">2021</TIMEX3>), die theoretisch für PV-Nutzung nach dem EEG und der Freiflächenöffnungsverordnung (FFÖ-VO) geeignet sind.
+
+Demnach sind mehrere Flächenabschnitte entlang der Bahnlinien und der Autobahn für die Errichtung von PV-Freiflächenanlagen geeignet.
+
+Laut Energieatlas BW sind davon rund 91 ha als geeignet eingestuft (vgl. Tabelle 3).
+
+Bedingt geeignet bedeutet, dass diesen grundsätzlichen Potenzialflächen bestimmte Restriktionen entgegenstehen, aufgrund derer mit Einschränkungen oder Auflagen zu rechnen ist (z.B. in Naturschutz-, Landschaftsschutz- oder Überschwemmungsgebieten) (LUBW, <TIMEX3 tid="t88" type="DATE" value="2022">2022</TIMEX3>).
+
+In Abbildung 28 ist das Stromerzeugungspotenzial der Freiflächen in <PLACE id="p66" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, aufgeteilt auf die Stadtgebiete, zusätzlich zu den bestehenden Anlagen, dargestellt.
+
+Ebenfalls sind hier die durch den Regionalverband südlicher Oberrhein (RVSO) zusätzlich angegebenen Restriktionsflächen abgebildet.
+
+Diese Flächen dienen z.B. der Grünzäsur und müssen von dem vom LUBW ausgewiesenen Potenzial noch abgezogen werden.
+
+In <PLACE id="p67" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> bleiben dann 78,3 ha Potenzialfläche übrig, auf der theoretisch PV-Freiflächenanlagen realisiert werden könnten.
+
+Insgesamt ergibt sich ein Potenzial von 86.191 MWh.
+
+Potenzialflächen nach Standort Eignungsklasse Entlang der Autobahn Entlang der Bahnlinien geeignet 50 ha 41 ha Quelle: LUBW, <TIMEX3 tid="t89" type="DATE" value="2022">2022</TIMEX3>   Datengrundlage: LUBW Energieatlas, RVSO Abfrage zu Restriktionsflächen GIS – Karte(n): PV-Dachflächenpotenzial auf Baublockebene, Solarthermiepotenzial auf Baublockebene, Freiflächenpotenzial – Potenzialflächen, Freiflächenpotenzial aggregiert auf Ortsteilebene
+
+Bei der Erfassung des Windkraftpotenzials wurde im ersten Schritt der Energieatlas des LUBWs herangezogen, der als erste Planungsgrundlage für die Suche nach wirtschaftlichen Standorten dient (LUBW, <TIMEX3 tid="t90" type="DATE" value="2022">2022</TIMEX3>).
+
+Um eine bessere Aussage treffen zu können, wurden diese Ergebnisse mit den Berechnungen der badenovaWÄRMEPLUS in Zusammenarbeit mit dem grünen Emissionshaus zum Windpotenzial verglichen.
+
+Bei der Auswertung potenzieller Standorte werden neben der Windgeschwindigkeit, auch immissionsschutzrechtliche Themen wie Schall und Schattenwurf, Naturschutz- und Raumordnungsbelange berücksichtigt.
+
+Als wirtschaftlich interessant für die Entwicklung von Windkraftanlagen gelten in der Regel Standorte mit hohen mittleren Windleistungsdichten.
+
+Aus den Untersuchungen gehen zwei Potenzialgebiete auf <PLACE id="p68" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Gebiet hervor.
+
+Zum einen das Potenzialgebiet Escholzkopf / <PLACE id="p69" type="" geo="DEBKGGND00002IH9">Brandeckkopf</PLACE> und zum anderen ein Gebiet rund um das Silberköpfle.
+
+Bei dem Potenzialgebiet Eschholzkopf / <PLACE id="p70" type="" geo="DEBKGGND00002IH9">Brandeckkopf</PLACE> besteht ein Potenzial für sechs Windkraftanlagen, die zum Teil allein durch die <PLACE id="p71" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE>, zum Teil im Verbund mit Nachbargemeinden, umgesetzt werden könnten.
+
+Die Windgeschwindigkeit in dem Gebiet ist gut (freie Anströmung).
+
+Vereinzelt gibt es gesetzlich geschützte Biotope, diese müssen bei der weiteren Planung berücksichtigt werden.
+
+Weiter gibt es einige weiche Kriterien, welche berücksichtig werden müssen: Zentraler Bereich des Landschaftsschutzgebiets Brandeck Auerhuhn: Kategorie 4 (keine Restriktionen) Bannwald südlich des Gebietes.
+
+Bei dem Potenzialgebiet Silberköpfle gäbe es Potenzial für fünf Windkraftanlagen.
+
+Hier herrschen befriedigende Windgeschwindigkeiten (Geländehöhe und Abschattung durch Erhebungen im SW).
+
+Gleichzeitig gilt es hier einige Restriktionen / Einschränkungen zu berücksichtigen: schwierige, aber machbare Erschließung (topographische Lage)  Streulage (Standorte in Höhenlage teilweise durch Täler getrennt, Insellage in der Vorgebirgszone) Restriktionen für Windenergieanlagen (WEA) in/durch Nachbargemeinden.
+
+Einschränkungen durch einen nahegelegenen Gleitschirmstartplatz Schutzgebiete o Tabu Kriterien: o Weiche Kriterien:  Vereinzelt gesetzlich geschützte Biotope.
+
+Auerhuhn: Kategorie 4 (keine Restriktionen) Wasserschutzgebietszone IIIB nördlich des Potenzialgebiets Der westliche Teil des Potenzialgebiets liegt teilweise in FFH-Gebiet  Klimaschutzwald komplett auf östlicher Potenzialfläche Naturpark <PLACE id="p72" type="" geo="DEBKGGND00000YU6">Schwarzwald Mitte/Nord</PLACE>   Für beide Standorte gibt es die Herausforderung, dass in einem 30 km Radius um den Flughafen Straßburg herum keine Windkraftanlage in Frankreich gebaut werden darf.
+
+Diese Restriktion gilt nicht offiziell für <PLACE id="p73" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE>, jedoch muss die deutsche Luftfahrtbehörde nach Rücksprache mit der französischen Luftfahrbehörde im Einzelfall über die Genehmigung entscheiden.
+
+<PLACE id="p74" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> liegt am Rand dieses Abstandspuffers, aber alle Potenzialflächen (inkl. <PLACE id="p75" type="" geo="DEBKGGND00002IH9">Brandeckkopf</PLACE>) sind von dieser Kann-Regelung betroffen.
+
+Der Standort Silberköpfle ist aufgrund seiner Beschränkungen (Windgeschwindigkeit, Gelände, Flächenangebot) kein attraktiver Standort.
+
+Der Eschholzkopf/<PLACE id="p76" type="" geo="DEBKGGND00002IH9">Brandeckkopf</PLACE> ist aufgrund des Windpotentials (Messungen wären erforderlich), der möglichen Anlagenanzahl, der Eigentumsverhältnisse (Großteil der Flächen in kommunaler Hand) und vorhandenen Schutzgüter ein attraktiver Standort.
+
+Für eine genaue Berechnung des energetischen Windertrages und damit auch der Wirtschaftlichkeit von Anlagen an diesem Standort sind daher Langzeitmessungen der Windgeschwindigkeit notwendig.
+
+Datengrundlage: LUBW Energieatlas, Untersuchung badenovaWÄRMEPLUS/DGE GIS – Karte(n): Windhöffigkeit <PLACE id="p77" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>
+
+Laut dem Energieatlas des LUBWs gibt es auf <PLACE id="p78" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Stadtgebiet zwei bestehende Wasserkraftanlagen.
+
+In Abbildung 31 sind diese Anlagen mit einem blauen Punkt dargestellt.
+
+Entlang der <PLACE id="p79" type="" geo="DEBKGGND00001S0Q">Kinzig</PLACE> gibt es eine aktive Wasserkraftanlage, welche vom E-Werk Mittelbaden betrieben wird.
+
+Die Wasserkraftanlage „Großer Deich“ befindet sich parallel zum Gifizsee.
+
+Bei dem Anlagentyp handelt es sich um ein Flusskraftwerk mit einer installierten Leistung von 500 kW.
+
+Demnach liegt das Stromerzeugungspotenzial bei ca. 1.562 MWh/<TIMEX3 tid="t91" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> (unter Annahme die Volllaststunden von 3.123 /<TIMEX3 tid="t92" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>).
+
+Im <TIMEX3 tid="t93" type="DATE" value="2020">Jahr 2020</TIMEX3> erzeugte die Anlage jedoch nur ca. 1.002 MWh.
+
+Ein Grund hierfür ist, eine hinter der Anlage existierende Sand-/Kiesbank, welche den nötigen Zug der Anlage verhindert.
+
+Die Fallhöhe beträgt 2,90 m und der mittlere Abfluss in diesem Bereich 24,9 m3/<TIMEX3 tid="t94" type="SET" freq="EVERY" value="PT1S">s</TIMEX3>.
+
+Die Anlage versorgt laut dem E-Werk Mittelbaden rund 500 Haushalte mit Ökostrom und der durchgängige Fischauf- und abstieg ermöglicht es, den Wanderfischen, wie dem Lachs, problemlos das Wasserkraftwerk zu passieren.
+
+Im Bereich des großen Deichs besteht zudem ein Ausbaupotenzial (grün).
+
+Der Standort wird allerdings in Hinsicht auf die Wirtschaftlichkeit als grenzwertig eingestuft, da der Standort an einer Programmstrecke für die Lachswiederansiedlung liegt.
+
+Bei der Errichtung einer Neuanlage ist daher mit erhöhten Anforderungen und Auflagen zu rechnen, die die Genehmigungsfähigkeit und Wirtschaftlichkeit entgegenstehen können.
+
+Eine detaillierte Aussage zu Wasserkraft-Ausbaupotenzialen kann letztlich jedoch nur über die Vor-Ort-Prüfung eines Standorts gemacht werden.
+
+Eine weitere Anlage steht am <PLACE id="p80" type="" geo="DEBKGGND00001NFS">Mühlbach</PLACE>.
+
+Hier wurde im Mühlbachareal eine alte Anlage abgebaut, 45 Meter nach Süden verlegt und dort <TIMEX3 tid="t95" type="DATE" value="2014">2014</TIMEX3> durch eine deutlich leistungsfähigere Wasserkraftanlage ersetzt.
+
+Entlang des Mühlbachs weist der LUBW-Energieatlas eine weitere Wasserkraftanlage aus: Das Ausleitungskraftwerk „<PLACE id="p81" type="" geo="DEBKGGND000023YM">Räderbach</PLACE>“ ist jedoch laut LUBW stillgelegt.
+
+Datengrundlage: LUBW-Energieatlas, Abfrage bei Betreiber GIS – Karte(n): Wasserkraftanlagen Bestand und Ausbaupotenzial
+
+Der Powerto-Gas Technologie (PtG) wird eine entscheidende Rolle bei der Energiewende beigemessen.
+
+In Zeiten hoher Einspeisemengen von Wind- und Solarenergie bei gleichzeitig niedrigem Bedarf, kann es zu einem Überangebot an Strom kommen.
+
+Durch den Ausbau erneuerbarer Energien und die Abschaltung konventioneller Grundlastkraftwerke (Kern- und Kohlekraftwerke) wird dieses Missverhältnis noch größer werden.
+
+PtG-Anlagen machen die überschüssige Energie durch die Umwandlung von elektrischer in chemische Energie speicherbar.
+
+Da Wasserstoff <TIMEX3 tid="t96" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> noch sehr rar ist und auch in naher <TIMEX3 tid="t97" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> nicht unbegrenzt verfügbar sein wird, gilt es zunächst Wasserstoff in die Bereiche zu bringen, in denen er am sinnvollsten eingesetzt werden kann.
+
+Dies betrifft vor allem die energieintensiven industriellen Prozesse, welche auf hohe Energiedichten und hohe Temperaturen angewiesen sind.
+
+Auch im Schwerlastverkehr ist Wasserstoff eine sehr gute Alternative.
+
+Über Brennstoffzellen lässt sich der getankte Wasserstoff in Strom umwandeln, der für den elektrischen Antrieb sorgt.
+
+Brennstoffzellenfahrzeuge weisen im Vergleich zu batterieelektrischen Fahrzeugen eine deutlich kürzere „Tankzeit“ und eine höhere Reichweite auf.
+
+Außerdem ist die Speicherfähigkeit von Wasserstoff von zentraler Bedeutung für den Ausgleich der Stromnetzlast.
+
+An sonnigen und windigen <TIMEX3 tid="t98" type="DURATION" value="PXD">Tagen</TIMEX3> kann Überschussstrom per Elektrolyse in Wasserstoff umgewandelt und gespeichert werden.
+
+Dieser Wasserstoff kann dann wiederum an <TIMEX3 tid="t99" type="DURATION" value="PXD">Tagen</TIMEX3>, in denen Strommangel herrscht, wieder in Strom umgewandelt und in das Stromnetz eingespeist werden.
+
+Zudem lässt sich Wasserstoff auch in das bestehende Gasnetz integrieren.
+
+Die Verfügbarkeit von erneuerbaren Gasen könnte vor allem für den vorwiegenden Industriezweig der Metallerzeugnisse bzw. bearbeitung in <PLACE id="p82" type="" geo="DEBKGGND00001CYS">Achern</PLACE> essenziell sein.
+
+Einzelne Prozessschritte benötigen Wärme auf Temperaturniveaus über 300 °C.
+
+Um diese hohen Temperaturniveaus zu erreichen, bedarf es molekülbasierter Energieträger, da hier der Elektrifizierung technische Grenzen gesetzt sind.
+
+Wasserstoff und synthetisches Methan sind ebenso vielseitig einsetzbar wie Erdgas.
+
+Auch andere Vorteile wie die Speicherbarkeit und die vorhandene Erdgasverteilinfrastruktur können durch den Einsatz dieser Gase genutzt werden.
+
+Synthetische-Gase werden jedoch voraussichtlich auch <TIMEX3 tid="t100" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> im Zeithorizont bis <TIMEX3 tid="t101" type="DATE" value="2050">2050</TIMEX3> ein knappes Gut bleiben, da auch erneuerbarer Strom nur in begrenzten Mengen zur PtG-Erzeugung zur Verfügung steht bzw. stehen wird.
+
+Der Vergleich zwischen der notwendigen Elektrolyseleistung für einen vollständigen Erdgasersatz in <PLACE id="p83" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> durch Wasserstoff und die bis <TIMEX3 tid="t102" type="DATE" value="2030">2030</TIMEX3> vorgesehenen Elektrolyseleistung, die mit staatlicher Förderung in <PLACE id="p84" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> bzw. in der Europäische Union (EU) aufgebaut werden soll, macht deutlich, dass <TIMEX3 tid="t103" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> nicht mit einer deutlichen Dekarbonisierung im Gasbereich durch Wasserstoff zu rechnen ist, auch wenn bis <TIMEX3 tid="t104" type="DATE" value="2030">2030</TIMEX3> der Gasabsatz u.a. durch Effizienzmaßnahmen sinkt.
+
+Auch die <TIMEX3 tid="t105" type="DATE" value="FUTURE_REF">langfristigen</TIMEX3> Perspektiven sind von hoher Unsicherheit geprägt.
+
+Bei der Diskussion um die Rolle von PtG in der <TIMEX3 tid="t106" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Energieversorgung spielen daher Überlegungen zur sinnvollen Zuteilung eines knappen Energieträgers eine zentrale Rolle.
+
+Die höchste Priorität liegt in den Bereichen, wo Alternativen nur begrenzt oder nicht verfügbar sind.
+
+Demnach wird der Einsatz in der Industrie für die stoffliche Nutzung am höchsten priorisiert, gefolgt vom Einsatz für Hochtemperatur-Anwendungen in der Industrie und den Teilen des Verkehrssektors, die nicht durch Elektrifizierung dekarbonisiert werden können (Schiffs-, Schwerlast- und Flugverkehr).
+
+Für Niedertemperaturanwendungen wie Raumwärme und Warmwasser in privaten Haushalten und Gewerbe können Wärmepumpen, Solarthermie und Biomasse eingesetzt werden.
+
+Dadurch besteht eine niedrigere Priorität für den Einsatz erneuerbarer Gase, so dass kein flächendeckender Einsatz von erneuerbaren Gasen bis zum <TIMEX3 tid="t107" type="DATE" value="2040">Jahr 2040</TIMEX3> zu erwarten ist.
+
+Zu dieser Einschätzung kommen auch folgende zwei Studien: RESCUE-Studie des Umweltbundesamtes  (Purr, et al. <TIMEX3 tid="t108" type="DATE" value="2019">2019</TIMEX3>) Langfristszenarien des Bundeswirtschaftsministeriums (Fraunhofer ISI, Consentec GmbH, ifeu <TIMEX3 tid="t109" type="DATE" value="2017">2017</TIMEX3>).
+
+Die jeweiligen Prozesse und die damit verbundenen Temperaturanforderungen unterscheiden sich stark von Branche zu Branche.
+
+Die folgende Abbildung zeigt typische Temperaturanforderungen verschiedener Wirtschaftszweige.
+
+Die Potenzialanalyse zeigt, dass die <PLACE id="p85" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> über Potenziale zur Steigerung der Energieeffizienz, zur Energieeinsparung und zur Erzeugung von Wärme und Strom aus erneuerbaren Energien verfügt.
+
+In der folgenden Tabelle 4 sind die Potenziale der <PLACE id="p86" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> zur Erzeugung von Wärme und Strom aus erneuerbaren Energien übersichtlich zusammengefasst.
+
+Energiequelle Anwendungsbereich Erzeugungspotenzial Biomasse Biogas  Stromerzeugung Oberflächennahe Erdwärme Tiefengeothermie Hydrothermale Geothermie Zentrale Wärmeversorgung 4 bis 6 MW thermische Bruttoleistung Energieholz Zentrale/ dezentrale Wärmeversorgung Kein weiteres Potenzial Erdwärmesonden Dezentrale Wärmeversorgung Ca.
+
+60 GWh /<TIMEX3 tid="t110" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> Erdwärmesondenfelder Zentrale Wärmeversorgung In der Größenordnung von 5-15 GWh/<TIMEX3 tid="t111" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> als grobe Richtgröße für das Potenzial in <PLACE id="p87" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>, je nach Anzahl und Größe der Sondenfelder.
+
+Grundwasserbrunnen Zentrale/ dezentrale Wärmeversorgung Zwischen 100 und 300 kW Entzugsleistung je Brunnen.
+
+Bei SCOP = 3,75 wird eine Gesamtleistung von ca. 2,2 MW bei 10 Brunnen erreicht.
+
+Petrothermale Geothermie Zentrale Wärmeversorgung bei gleichzeitiger Stromerzeugung Zentrale/ dezentrale Wärmeversorgung 5.885 MWh/<TIMEX3 tid="t112" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> 5.019 MWh/<TIMEX3 tid="t113" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> Unberücksichtigt hierbei bestehende oder konkurrierende Verwertungspfade.
+
+entspricht 21 % des Gesamtwärmebedarfs im privaten Sektor in <PLACE id="p88" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> 13 MW thermische Bruttoleistung sind zu erwarten Energiequelle Anwendungsbereich Erzeugungspotenzial Solarthermie Solarthermie auf Dachflächen Zentrale/ dezentrale Wärmeversorgung Individuell zu prüfen.
+
+Umweltwärme Luft Zentrale/ dezentrale Wärmeversorgung Gesamtpotenzial nicht bezifferbar.
+
+Abwärme Gewerbe Zentrale Wärmeversorgung Im Rahmen von Machbarkeitsstudien näher zu ermitteln.
+
+Windkraft Wind Stromerzeugung Potenzial für fünf Windkraftanlagen Wasserkraft Fließgewässer Stromerzeugung Zwei Wasserkraftanlagen in Betrieb, eine Wasserkraftanalage stillgelegt, potenzieller Standort eher schwierig umsetzbar Photovoltaik Dachflächen Stromerzeugung Zusätzlich 152.511 MWh/<TIMEX3 tid="t114" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3> Solarthermie auf Freiflächen Zentrale Wärmeversorgung Individuell zu prüfen.
+
+Abwasser Zentrale Wärmeversorgung Keine genauen Angaben.
+
+Freiflächen Stromerzeugung 86.191 MWh/<TIMEX3 tid="t115" type="SET" freq="EVERY" value="P1Y">Jahr</TIMEX3>
+
+In diesem Kapitel wird aufgezeigt, wie sich der Endenergieverbrauch sowie der Wärmeenergieträgermix bis ins <TIMEX3 tid="t116" type="DATE" value="2040">Jahr 2040</TIMEX3> in den Sektoren private Haushalte, kommunale Liegenschaften, GHD, Industrie und Verkehr entwickelt.
+
+Die Entwicklung zum Stromverbrauch sowie der Endenergieverbrauch des Sektors Verkehr wurden aus dem Bericht „Klimaschutzstrategie – <PLACE id="p89" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> Klimaneutral <TIMEX3 tid="t117" type="DATE" value="2040">2040</TIMEX3>“ (im Folgenden: KSK <PLACE id="p90" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>) entnommen.
+
+Diese Werte werden nur zur Vollständigkeit in den prognostizierten Endenergieverbrauch mit aufgenommen.
+
+Es wird nicht näher auf den Sektor Verkehr sowie auf den Nutzerstrom eingegangen.
+
+Der Gesamtendenergiebedarf für <PLACE id="p91" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> zeigt das prognostizierte Versorgungszenario für Wärme- und Stromendenergie sowie für den Verkehr.
+
+Die Entwicklung der Wärmeenergie liegt den <TIMEX3 tid="t118" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Daten und getroffenen Annahmen der kommunalen Wärmeplanung zu Grunde und wird in den nachfolgenden Unterkapiteln näher analysiert.
+
+In Abbildung 33 ist der gesamte prognostizierte Endenergieverbrauch abgebildet.
+
+Ersichtlich wird, dass <TIMEX3 tid="t119" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> der Wärmeverbrauch den größten Anteil in der Verteilung ausmacht, gleichzeitig aber auch durch energetische Sanierungen das größte Einsparungspotenzial besitzt.
+
+Der Nutzerstrombedarf sinkt nur marginal.
+
+Allerdings wird deutlich, dass der Technikstrombedarf für die Wärmeversorgung ansteigt (s.
+
+gelbe Linie, vertieft in Kapitel 4.3).
+
+Der Endenergiebedarf reduziert sich insgesamt um etwa 48 % (<TIMEX3 tid="t120" type="DATE" value="2019">2019</TIMEX3>: 1.605 GWh; <TIMEX3 tid="t121" type="DATE" value="2030">2030</TIMEX3>: 1.124 GWh; <TIMEX3 tid="t122" type="DATE" value="2040">2040</TIMEX3>: 838 GWh).
+
+ Die Entwicklung des Wärmebedarfs hängt von unterschiedlichen Parametern ab.
+
+Diese können folgende sein (KEA BW):  a. Energetische Gebäudesanierung  b. Änderungen am Gebäudebestand (Neubau, Nachverdichtung) c. Neuansiedlung oder Abwanderung von Betrieben, Reduzierung beim Energiebedarf in Betried.
+
+Veränderte Nutzungsgewohnheiten e. Effekte des fortschreitenden Klimawandels (gegebenenfalls mit zusätzlichem Kühlbedarf) Nicht alle dieser Parameter sind messbar und in das Verbrauchsszenario integrierbar.
+
+Die Parameter c.d. werden in das Szenario nicht mit eingerechnet.
+
+Neubaugebiete werden – sofern diese bereits geplant sind – mit in das Szenario eingerechnet.
+
+Unabdingbar für die Szenarienberechnung ist jedoch der Parameter „a.
+
+Energetische Gebäudesanierung“.
+
+Eine energetische Gebäudesanierung kann den Energieverbrauch eines Gebäudes deutlich senken.
+
+Dies ist notwendig, um den Energiebedarf <TIMEX3 tid="t123" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> auch mit erneuerbaren Energien decken zu können.
+
+Die Berechnung des Wärmeenergiebedarfs bis <TIMEX3 tid="t124" type="DATE" value="2040">2040</TIMEX3> für private Haushalte basiert auf der verabschiedeten Sanierungsrate des KSK <PLACE id="p92" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE>.
+
+Diese beträgt zwei Prozent.
+
+Dabei wurden die flächenbezogenen Energieverbräuche nach Baualtersklassen bis <TIMEX3 tid="t125" type="DATE" value="2040">2040</TIMEX3> aus dem Leitfaden der KEA herangezogen2.
+
+Für die Sektoren GHD, Industrie und kommunale Liegenschaften wurden die prozentualen Annahmen zur Wärmeenergieeinsparung aus dem KEA-Leitfaden verwendet.
+
+(s.
+
+Tabelle 6)  Der <TIMEX3 tid="t126" type="DATE" value="PRESENT_REF">derzeitige</TIMEX3> Wärmeenergiebedarf lag im <TIMEX3 tid="t127" type="DATE" value="2019">Jahr 2019</TIMEX3> bei etwa 968 GWh.
+
+Dieser kann durch die angenommene energetische Sanierung bis <TIMEX3 tid="t128" type="DATE" value="2040">2040</TIMEX3> um ca. 280 GWh reduziert werden.
+
+Das entspricht einem Anteil von etwa 29 Prozent.
+
+Um diese Einsparungen zu erzielen, sind erhebliche Ambitionen notwendig.
+
+Es ist daher wichtig, dass Beratungsangebote zur energetischen Sanierung stattfinden, Anreize und Förderangebote ausgebaut und strukturelle Veränderungen vorgenommen werden (bspw. Förderung von handwerklichen Berufen).
+
+Durch die Wärmeenergieeinsparung können auch die CO2-Emissionen deutlich reduziert werden.
+
+Dennoch braucht es zudem einen Energieträgerwechsel, um die Wärmeversorgung <TIMEX3 tid="t129" type="DATE" value="2040">2040</TIMEX3> klimaneutral bereit zu stellen.
+
+Ein großer Anteil der benötigten Wärmeenergie wird <TIMEX3 tid="t130" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> strombasiert – in Form einer Wärmepumpe - zur Verfügung gestellt werden müssen.
+
+Parallel werden aber auch Biomasse, Solarthermie oder synthetische Brennstoffe als Energieträger eingesetzt.
+
+Der Energieträgermix ändert sich je nach Sektor.
+
+Angenommen wird außerdem, dass Kohle und Heizöl als Energieträger bis <TIMEX3 tid="t131" type="DATE" value="2030">2030</TIMEX3> nicht mehr vorhanden sein werden.
+
+Erdgas wird stetig reduziert und ab <TIMEX3 tid="t132" type="DATE" value="2040">2040</TIMEX3> ebenfalls nicht mehr im Energieträgermix vorhanden sein.
+
+ben durch Effizienzmaßnahmen, Produktionsschwankungen etc. Kommunale Liegenschaften 16 % bis <TIMEX3 tid="t133" type="DATE" value="2040">2040</TIMEX3> Private Haushalte 2 % <TIMEX3 tid="t134" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> Industrie 29 % bis <TIMEX3 tid="t135" type="DATE" value="2040">2040</TIMEX3> Sektor Wärmeeinsparung GHD 37 % bis <TIMEX3 tid="t136" type="DATE" value="2040">2040</TIMEX3>  Abbildung 34 zeigt die Entwicklung des prognostizierten Energieträgermixes von <TIMEX3 tid="t137" type="DATE" value="2019">2019</TIMEX3>, dem Zwischenziel <TIMEX3 tid="t138" type="DATE" value="2030">2030</TIMEX3> und <TIMEX3 tid="t139" type="DATE" value="2040">dem Zieljahr 2040</TIMEX3>.
+
+Im <TIMEX3 tid="t140" type="DATE" value="2019">Jahr 2019</TIMEX3> lag der prozentuale Anteil von Erdgas bei etwa 70 Prozent und von Heizöl bei 24 Prozent.
+
+Im <TIMEX3 tid="t141" type="DATE" value="2030">Jahr 2030</TIMEX3> soll der Anteil von Erdgas nur noch 37 Prozent des Energieträgermixes ausmachen, wogegen Wärmepumpen bereits einen Anteil von 39 Prozent haben sollen.
+
+Das entspricht in etwa einer installierten Leistung von 180 MW.
+
+Im <TIMEX3 tid="t142" type="DATE" value="2040">Jahr 2040</TIMEX3> liegt der prognostizierte Anteil von Wärmepumpen bei 64 Prozent.
+
+Biomasse steigt von <TIMEX3 tid="t143" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> fünf Prozent auf zehn Prozent im <TIMEX3 tid="t144" type="DATE" value="2040">Jahr 2040</TIMEX3>.
+
+Solarthermie auf acht Prozent und synthetische Brennstoffe auf zwölf Prozent.
+
+Die Fernwärme soll bis ins <TIMEX3 tid="t145" type="DATE" value="2030">Jahr 2030</TIMEX3> einen Anteil von 19 Prozent (161 GWh) des gesamten Wärmeendenergiebedarfs von <PLACE id="p93" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ausmachen.
+
+Im <TIMEX3 tid="t146" type="DATE" value="2040">Jahr 2040</TIMEX3> liegt der prognostizierte Anteil bei etwa 47 Prozent (327 GWh).
+
+(vgl. Unterkapitel Fernwärmeausbau 5.2)
+
+Im <TIMEX3 tid="t147" type="DATE" value="2019">Jahr 2019</TIMEX3> lag der Wärmeverbrauch im Sektor private Haushalte bei etwa 395 GWh.
+
+Bei einer Sanierungsrate von zwei Prozent kann der Wärmebedarf <TIMEX3 tid="t148" type="DATE" value="2040">bis 2040</TIMEX3> auf etwa 297 GWh/<TIMEX3 tid="t149" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> gesenkt werden.
+
+Das entspricht in etwa 25 Prozent.
+
+Dabei wurde angenommen, dass der flächenbezogene Energiebedarf im Mittel bei 80 kWh/m²*<TIMEX3 tid="t150" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> liegt (KEA BW).
+
+Durch eine ambitioniertere Sanierungsrate über zwei Prozent wäre ein größeres Wärmeenergieeinsparungspotenzial möglich.
+
+Der größte Anteil im Energieträgermix des Sektors private Haushalte ist Erdgas (70 Prozent), gefolgt von Heizöl (24 Prozent).
+
+Die übrigen sechs Prozent verteilen sich auf Biomasse, Heizstrom und Kohle.
+
+Der durchschnittliche CO2-Faktor im Energieträgermix lag <TIMEX3 tid="t151" type="DATE" value="2019">2019</TIMEX3> somit bei 0,245 t CO2/MWh.
+
+Im <TIMEX3 tid="t152" type="DATE" value="2040">Jahr 2040</TIMEX3> wird angenommen, dass 67 Prozent des Wärmebedarfs mit Wärmepumpen erzeugt wird, zehn Prozent über Solarthermie, zwölf Prozent mit Biomasse und der Rest über Direktstrom bzw. mit synthetischen Brennstoffen.
+
+Dabei wird ein Teil des Wärmebedarfs über die Fernwärme bereitgestellt.
+
+Der durchschnittliche CO2-Faktor beträgt dann in etwa 0,115 t CO2/MWh.
+
+Die Veränderung des Energieträgermixes ist in Abbildung 35 dargestellt.
+
+Im <TIMEX3 tid="t153" type="DATE" value="2019">Jahr 2019</TIMEX3> lag der Wärmeverbrauch im Sektor GHD bei etwa 219 GWh.
+
+Über energetische Sanierung kann der Wärmebedarf bis <TIMEX3 tid="t154" type="DATE" value="2040">2040</TIMEX3> auf etwa 138 GWh/<TIMEX3 tid="t155" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> gesenkt werden.
+
+Das entspricht einer Reduktion um 37 Prozent.
+
+Aus den Untersuchungen des KSK <PLACE id="p94" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> geht hervor, dass die Prozesswärme insgesamt einen Anteil von etwa 15 Prozent des Wärmebedarfs ausmacht.
+
+Dies entspricht in etwa 33 GWh im <TIMEX3 tid="t156" type="DATE" value="2019">Jahr 2019</TIMEX3>.
+
+Im Unterkapitel 4.2.3 Sektor Industrie wird das Thema Prozesswärme detaillierter thematisiert.
+
+Den größten Anteil im Energieträgermix macht auch hier Erdgas mit 70 Prozent aus, gefolgt von Heizöl mit 24 Prozent.
+
+Die übrigen sechs Prozent verteilen sich ebenfalls auf Biomasse, Heiz- und Direktstrom.
+
+Der durchschnittliche CO2-Faktor im Energieträgermix lag <TIMEX3 tid="t157" type="DATE" value="2019">2019</TIMEX3> somit bei 0,244 t CO2/MWh.
+
+Im <TIMEX3 tid="t158" type="DATE" value="2040">Jahr 2040</TIMEX3> wird angenommen, dass 66 Prozent des Wärmebedarfs mit Wärmepumpen erzeugt werden, zehn Prozent jeweils über Solarthermie und Biomasse, acht Prozent über synthetische Brennstoffe und sechs Prozent mit Direktstrom.
+
+Dabei wird ein Teil des Wärmebedarfs über die Fernwärme bereitgestellt.
+
+Der durchschnittliche CO2-Faktor beträgt im <TIMEX3 tid="t159" type="DATE" value="2040">Jahr 2040</TIMEX3> in etwa 0,114 t CO2/MWh.
+
+Der Veränderung des Energieträgermixes ist in Abbildung 36 dargestellt.
+
+Im <TIMEX3 tid="t160" type="DATE" value="2019">Jahr 2019</TIMEX3> lag der Wärmeverbrauch von <PLACE id="p95" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> im Sektor Industrie bei etwa 332 GWh.
+
+Über energetische Sanierung kann der Wärmebedarf bis <TIMEX3 tid="t161" type="DATE" value="2040">2040</TIMEX3> auf etwa 236 GWh/<TIMEX3 tid="t162" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> gesenkt werden.
+
+Das entspricht einer Reduktion um 29 Prozent.
+
+Allerdings ist es bei Industriegebäuden wichtiger, dass die Prozesse klimaneutral umgerüstet werden, da hier die größeren Einsparungspotenziale liegen.
+
+Aus den Untersuchungen des KSK <PLACE id="p96" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> geht hervor, dass die Prozesswärme insgesamt einen Anteil von 66 Prozent des Wärmebedarfs ausmacht.
+
+Dies entspricht in etwa 219 GWh im <TIMEX3 tid="t163" type="DATE" value="2019">Jahr 2019</TIMEX3>.
+
+Der überwiegende Anteil wird <TIMEX3 tid="t164" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> aus fossilen Energieträgern bereitgestellt (> 90 Prozent).
+
+Die Umstellung der Prozesswärme stellt eine große Herausforderung auf dem Weg zur Klimaneutralität dar.
+
+Die jeweiligen Prozesse und die damit verbundenen Temperaturanforderungen unterscheiden sich stark von Branche zu Branche (s.
+
+Kapitel 2.3.2, Abbildung 32: Industrieller Wärmebedarf nach Wirtschaftszweigen Abbildung 32).
+
+Nicht jede Temperaturanforderung kann mit jedem erneuerbaren Energieträger erreicht werden.
+
+<TIMEX3 tid="t165" type="DATE" value="FUTURE_REF">Langfristig</TIMEX3> werden Verbrennungsprozesse daher notwendig bleiben.
+
+In Tabelle 7 werden die potenziellen Prozesswärmetemperaturen unterschiedlicher erneuerbarer Energieträger dargestellt.
+
+Deutlich wird, dass insbesondere die hohen Temperaturen nur mit brennbaren Prozessen (Biomethan, Wasserstoff) erreicht werden können.
+
+Allgemeingültige Lösungen zur Reduzierung des Bedarfs an Prozesswärme oder zum Wechsel der eingesetzten Energieträger kann es daher nicht geben.
+
+Der Pfad zur emissionsfreien Bereitstellung von Prozesswärme lässt sich laut IN4climate.NRW in 4 Stufen mit folgender Priorisierung untergliedern:  (1) Steigerung der Effizienz: Energetische Sanierung der Gebäudehülle und Nutzung von Abwärme  (2) Erschließung lokaler erneuerbarer Wärmequellen: Nutzung von Wärmepumpen und Solarthermie (3) Elektrische Wärmeerzeugung/Powerto-Heat: Nutzung von Speicherkapazität zur Lastgangverschiebung sowie Flexibilisierung des Stromangebotes  (4) Alternative Energieträger: grüner Wasserstoff, Biomethan/synthetisches Methan.
+
+Alternative Energieträger (Stufe 4) sollen demnach nur dann eingesetzt werden, wenn aufgrund der Prozesstemperaturen keine andere Möglichkeit besteht.
+
+Nach dem <TIMEX3 tid="t166" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> technischen Stand sind alternative Energieträger auch noch nicht wirtschaftlich realisierbar.
+
+Dennoch sollte eine sukzessive Substitution durch grünen Wasserstoff oder Biomethan bzw. synthetisches Methan (im weiteren synthetische Brennstoffe) geprüft werden.
+
+Der Energieträgermix von <PLACE id="p97" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> im <TIMEX3 tid="t167" type="DATE" value="2019">Jahr 2019</TIMEX3> ist auch im Sektor Industrie vergleichbar mit den beiden anderen Sektoren private Haushalte und GHD.
+
+Der durchschnittliche CO2-Faktor lag <TIMEX3 tid="t168" type="DATE" value="2019">2019</TIMEX3> bei Geothermie 180 Solarthermie  250 Strom aus erneuerbaren Energien 350 (> 1.000) Biomasse 500 Biomethan / synthetisches Methangrößer1.500 Grüner Wasserstoff 2.000 – 3.000 Erneuerbare Energieträger Potenzielle Prozesswärmetemperatur in °C 0,244 t CO2/MWh.
+
+Im <TIMEX3 tid="t169" type="DATE" value="2040">Jahr 2040</TIMEX3> wird angenommen, dass 58 Prozent des Wärmebedarfs mit Wärmepumpen erzeugt wird, 25 Prozent über synthetische Brennstoffe, sieben Prozent mit Biomasse, vier Prozent über Solarthermie und sechs Prozent mit Direktstrom.
+
+Der Anteil an synthetischen Brennstoffen wird im Sektor Industrie deutlich höher angesetzt.
+
+Es wird davon ausgegangen, dass insbesondere die Prozesswärme teilweise über synthetische Brennstoffe gedeckt wird, damit die hohen Prozesstemperaturen erreicht werden können.
+
+In <TIMEX3 tid="t170" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> sollten die benötigten Temperaturniveaus für die Industrie <PLACE id="p98" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> identifiziert werden, um so die tatsächlichen Bedarfe an synthetischen Brennstoffen bzw. Biomasse zu identifizieren.
+
+Ein Teil des Wärmebedarfs wird auch hier über die Fernwärme bereitgestellt.
+
+Der durchschnittliche CO2-Faktor beträgt mit den angesetzten Annahmen im <TIMEX3 tid="t171" type="DATE" value="2040">Jahr 2040</TIMEX3> in etwa 0,107 t CO2/MWh.
+
+Der Veränderung des Energieträgermixes ist in Abbildung 37 dargestellt.
+
+Im <TIMEX3 tid="t172" type="DATE" value="2019">Jahr 2019</TIMEX3> lag der Wärmeverbrauch im Sektor GHD bei etwa 23 GWh.
+
+Durch die energetische Sanierung kann der Wärmebedarf bis <TIMEX3 tid="t173" type="DATE" value="2040">2040</TIMEX3> auf etwa 19 GWh/<TIMEX3 tid="t174" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> gesenkt werden.
+
+Das entspricht einer Reduktion um 16 Prozent.
+
+Der größte Anteil im Energieträgermix macht auch im Sektor kommunale Liegenschaften Erdgas mit 70 Prozent aus, gefolgt von Heizöl mit 24 Prozent.
+
+Die übrigen sechs Prozent verteilen sich ebenfalls auf Biomasse, Heiz- und Direktstrom.
+
+Der durchschnittliche CO2-Faktor im Energieträgermix lag <TIMEX3 tid="t175" type="DATE" value="2019">2019</TIMEX3> somit bei 0,244 t CO2/MWh.
+
+Im <TIMEX3 tid="t176" type="DATE" value="2040">Jahr 2040</TIMEX3> wird angenommen, dass 70 Prozent des Wärmebedarfs mit Wärmepumpen erzeugt wird, jeweils zehn Prozent über Solarthermie bzw. mit Biomasse, sieben Prozent über synthetische Brennstoffe und sechs Prozent mit Direktstrom.
+
+Dabei wird ein Teil des Wärmebedarfs über die Fernwärme bereitgestellt.
+
+Der durchschnittliche CO2-Faktor beträgt dann in etwa 0,119 t CO2/MWh.
+
+Der Veränderung des Energieträgermixes ist in Abbildung 38 dargestellt.
+
+Durch die energetische Sanierung und den Energieträgerwechsel lassen sich die CO2-Emissionen kontinuierlich reduzieren.
+
+Mit den getroffenen Annahmen können die CO2-Emissionen von etwa 235.400 t CO2/<TIMEX3 tid="t177" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> auf etwa 25.700 tCO2/<TIMEX3 tid="t178" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> reduziert werden (s.
+
+Abbildung 39).
+
+Das bedeutet eine Reduktion bis <TIMEX3 tid="t179" type="DATE" value="2030">2030</TIMEX3> um etwa 57 Prozent und bis <TIMEX3 tid="t180" type="DATE" value="2040">2040</TIMEX3> um etwa 89 Prozent.
+
+Die CO2-Faktoren wurden dem Technikkatalog der KEA BW entnommen.
+
+Zudem wird angenommen, dass für die Herstellung der synthetischen Brennstoffe nur erneuerbarer Strom verwendet wird.
+
+Abbildung 40 zeigt die Entwicklung der CO2-Bilanz nach Energieträger.
+
+Im <TIMEX3 tid="t181" type="DATE" value="2019">Jahr 2019</TIMEX3> wurden 98 Prozent der CO2-Emissionen durch Erdgas und Heizöl verursacht.
+
+Auch im <TIMEX3 tid="t182" type="DATE" value="2030">Jahr 2030</TIMEX3> macht Erdgas noch 70 Prozent der CO2-Emissionen aus.
+
+Im <TIMEX3 tid="t183" type="DATE" value="2040">Jahr 2040</TIMEX3> werden die meisten CO2-Emissionen (etwa 82 Prozent) durch den noch nicht vollständig emissionsfreien CO2-Strommix in <PLACE id="p99" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> verursacht, der für die Nutzung von Wärmepumpen und Direktstrom benötigt wird.
+
+Durch eine vollständige Verwendung von Ökostrom könnten die CO2-Emissionen auf unter 5.000 tCO2/<TIMEX3 tid="t184" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> reduziert werden.
+
+Die kommunalen Liegenschaften beziehen bereits zu 100 Prozent Ökostrom.
+
+Empfohlen wird, dass auch die Fernwärme schnellstmöglich 100 Prozent Ökostrom verwendet.
+
+Der Strombedarf für die Wärmeversorgung wird aufgrund der überwiegend strombasierten Heizungssysteme, insbesondere der Nutzung von Wärmepumpen, in <TIMEX3 tid="t185" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> stetig ansteigen.
+
+Auch die Nutzung von synthetischen Brennstoffen erhöht den Anteil des Strombedarfs.
+
+Um den Strombedarf für die Nutzung einer Wärmepumpe zu berechnen, wurde vereinfacht eine <TIMEX3 tid="t186" type="DURATION" value="P1Y">Jahresarbeitszahl</TIMEX3> (JAZ) von 4,5 angenommen.
+
+Bis <TIMEX3 tid="t187" type="DATE" value="2040">2040</TIMEX3> müssen mit den zu Grunde liegenden Annahmen in etwa 98 GWh Strom <TIMEX3 tid="t188" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> für den Betrieb von Wärmepumpen bereitgestellt werden.
+
+Für die synthetischen Brennstoffe müssten bis <TIMEX3 tid="t189" type="DATE" value="2040">2040</TIMEX3> in etwa 136 GWh Strom <TIMEX3 tid="t190" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> bereit gestellt werden3.
+
+Dies führt zu einem prognostizierten Gesamtstrombedarf für die Wärmeversorgung im <TIMEX3 tid="t191" type="DATE" value="2040">Jahr 2040</TIMEX3> von 275 GWh Strom <TIMEX3 tid="t192" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> (vgl. Abbildung 41).
+
+Um ein sicheres Betreiben der Stromleitungen zu gewährleisten, sollte eine sukzessive Vorrüstung, für den Ausbau der Stromnetzinfrastruktur vorgenommen werden, um a) umfangreiche Netzeinspeisungen aus dezentralen PV-Anlagen sowie den Direktverbrauch b) die Einbindung von Wärmepumpensystemen (dezentral, zentral) sowie synthetischen Brennc) die Einbindung von Elektro-Ladeinfrastruktur entsprechend den Ausbauzielen zur Wärmewende, Verkehrswende und Stromwende zu ermöglichen.
+
+Die Bedarfe an technischen Maßnahmen zur Ertüchtigung von Bestandsnetzen oder Neuverlegung von Stromtrassen und leitungen sind mit den jeweiligen Netzbetreibern auf Hoch-, Mittel- und Niederspannungsebene abzustimmen.
+
+Der Strombedarf für die Wärmeerzeugung muss <TIMEX3 tid="t193" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> emissionsfrei generiert werden, um die Klimaschutzziele zu erreichen.
+
+Daher ist ein Ausbau der dezentralen Stromerzeugung unabdingbar.
+
+Die Nutzung bestehender Dachflächen zur PV-Stromerzeugung ist daher ein wesentliches Instrument der Stromwende.
+
+Als prioritäre Maßnahmen sollten alle Gebäude der Stadt mit PV-Anlagen ausgestattet werden, wenn noch nicht geschehen.
+
+innerhalb des Quartiers, stoffen zur Elektrifizierung des Wärmesektors und Seit <TIMEX3 tid="t194" type="DATE" value="2022-05-01">dem 01. Mai 2022</TIMEX3> gilt die Verordnung zur Solarpflicht in <PLACE id="p100" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> für Neubauten und ab <TIMEX3 tid="t195" type="DATE" value="2030-01">Januar 2030</TIMEX3> auch für alle grundlegenden Dachsanierungen (PVPf-VO <TIMEX3 tid="t196" type="DATE" value="2021">2021</TIMEX3>).
+
+Es wird empfohlen, in Rücksprache mit den Gebäudeeigentümer*innen eine möglichst hohe PV-Anlagenleistung zu installieren.
+
+Die Anlagenleistung kann sich am Gebäudetyp orientieren.
+
+Bei Flachdächern sollten mindestens 30 Prozent der Bruttodachflächen mit PV belegt werden, bei allen anderen Dachformen, wenn möglich, mindestens 20 Prozent der Bruttodachfläche.
+
+Dadurch kann der CO2-Faktor des Strommixes <TIMEX3 tid="t197" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> deutlich reduziert werden und führt zudem zu steigender Unabhängigkeit von Strompreisen.
+
+Zudem sind auf dem Gemeindegebiet von <PLACE id="p101" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> insgesamt 11 Standorte für Windkraftanlagen ausgewiesen, welche ein Gesamtpotenzial von etwa 1,2 GWh/<TIMEX3 tid="t198" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> aufweisen.
+
+Dennoch wird deutlich, dass die vorhandenen Potenziale auf <PLACE id="p102" type="" geo="DEBKGGND000019E2">Offenburger</PLACE> Gemeindegebiet nicht ausreichen, um den gesamten <TIMEX3 tid="t199" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Strombedarf in der Stadt decken zu können.
+
+Insbesondere für die Herstellung von synthetischen Brennstoffen wird eine erhebliche Strommenge benötigt.
+
+So werden für etwa 86 GWh Wärmeenergie <TIMEX3 tid="t200" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> etwa 136 GWh Strom benötigt.
+
+Daher sollte der Bedarf an synthetischen Brennstoffen so gering wie möglich gehalten werden und nur dort eingesetzt werden, wo keine andere Möglichkeit besteht.
+
+Auch als Langzeitspeicher kann die Herstellung von synthetischen Brennstoffen sinnvoll sein.
+
+Für die Gebäudewärme ist Wasserstoff daher nur geringfügig vorgesehen.
+
+Im nachfolgenden Kapitel wird das Vorgehen der Wärmewendestrategie näher beschrieben.
+
+Im ersten Schritt werden dafür die ausgewählten Eignungsgebiete vorgestellt.
+
+Anschließend werden die verschiedenen Versorgungsmöglichkeiten diskutiert und analysiert.
+
+Unterschieden wird dabei in: (1) Zentrale Versorgungsstrategien  (2) Dezentrale Versorgungsstrategien  Auch die Entwicklung des vorhandenen Erdgasnetzes wird beleuchtet.
+
+Als Eignungsgebiete für die <TIMEX3 tid="t201" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> zentrale Wärmeversorgung wurde die kleinräumige Gliederung, welche <PLACE id="p103" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> in 18 Stadtteile untergliedert, verwendet (s.
+
+Tabelle 8).
+
+Die Unterteilung auf Stadtteilebene stellt eine gute Möglichkeit dar, um Eignungsgebiete für die Wärmeversorgung in <PLACE id="p104" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> festzulegen.
+
+Für jedes dieser 18 Eignungsgebiete wurde ein individueller Steckbrief erstellt, welcher aus drei Seiten besteht (s.
+
+Abbildung 42).
+
+Die erste Seite gibt Auskunft über den <TIMEX3 tid="t202" type="DATE" value="PRESENT_REF">Status Quo</TIMEX3> der Wärmeversorgung, die Baualtersklassen und Gebäudenutzungen sowie über die vorhandenen EE-Potenziale.
+
+Auf der zweiten Seite werden Informationen zum Potenzial der energetischen Sanierung sowie Heizungsmodernisierung gegeben.
+
+Zudem kann hier entnommen werden, welches durchschnittliche Baualter die Heizungssysteme aufweisen und wie hoch der Anteil an Erdgas und Heizöl in den Baublöcken ist.
+
+Die dritte Seite unterscheidet sich je nach Versorgungsstrategie.
+
+Wird in dem Stadtteil Fernwärme ausgebaut, werden Informationen zur Fernwärme dargestellt.
+
+Ist keine Fernwärme geplant, sind Informationen für potenzielle Nahwärmenetze aufgelistet.
+
+Die Steckbriefe befinden sich im Anhang 2.
+
+o Fernwärme o Nahwärmenetze o Gasnetze o Heizungsmodernisierung  In der nachfolgenden Tabelle 8 werden die Eignungsgebiete hinsichtlich Fernwärme oder zentralen/dezentralen Lösungen aufgeteilt.
+
+Dabei wurden alle Eignungsgebiete, in welchen ein Fernwärmeausbau bis <TIMEX3 tid="t203" type="DATE" value="2040">2040</TIMEX3> geplant ist, markiert.
+
+In den Ortschaften außerhalb der Kernstadt <PLACE id="p105" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> sind, abhängig vom Baublock, sowohl zentrale als auch dezentrale Lösungen realisierbar.
+
+Zusätzlich wird in Tabelle 8 der Wärmeverbrauch von <TIMEX3 tid="t204" type="DATE" value="2019">2019</TIMEX3> sowie der prognostizierte Wärmeverbrauch im <TIMEX3 tid="t205" type="DATE" value="2040">Jahr 2040</TIMEX3> angegeben.
+
+Abbildung 43 visualisiert die vorrangigen Versorgungslösungen.
+
+Deutlich wird, dass in der Kernstadt <PLACE id="p106" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> überwiegend Fernwärme ausgebaut werden soll.
+
+Durch die enge Besiedelung sind die Wärmedichten dort am höchsten.
+
+In den Ortschaften außerhalb von <PLACE id="p107" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ist keine Fernwärme geplant.
+
+Daher wird es hier einen Mix aus dezentralen Einzellösungen und Nahwärmenetzen geben.
+
+Eignungsgebiet Nr.
+
+Fernwärme Zentral/ Stadtmitte 110 X - 152 108 Nordstadt 120 X - 253 176 Nordoststadt 130 X -   88 63 Südoststadt 140 X - 66 48 Südstadt 150 X - 20 15 Südweststadt 160 X - 33 26 Weststadt 170 X - 98 68 <PLACE id="p108" type="" geo="DEBKGGND000009LJ">Bohlsbach</PLACE> 210 X x 22 16 <PLACE id="p109" type="" geo="DEBKGGND000009MI">Windschläg</PLACE> 220 - X 18  14 <PLACE id="p110" type="" geo="DEBKGGND00000WRJ">Rammersweier</PLACE> 310 - X 21 15 Zell-Weierbach 320 - X 27 20 <PLACE id="p111" type="" geo="DEBKGGND00000MHH">Fessenbach</PLACE> 330 - X 12 9 <PLACE id="p112" type="" geo="DEBKGGND00000RYO">Elgersweier</PLACE> 410 - X 58 40 <PLACE id="p113" type="" geo="DEBKGGND000009NA">Zunsweier</PLACE> 420 - X 26 19 <PLACE id="p114" type="" geo="DEBKGGND00001FAE">Bühl</PLACE> 510 - X 7 5 <PLACE id="p115" type="" geo="DEBKGGND00000806">Waltersweier</PLACE> 520 - X 42 29 <PLACE id="p116" type="" geo="DEBKGGND00000G7N">Weier</PLACE> 530 - X 10 7 <PLACE id="p117" type="" geo="DEBKGGND00001A45">Griesheim</PLACE> 540 - X 15 11 Alle weiteren Informationen zu den jeweiligen Eignungsgebieten werden in den dazugehörigen Steckbriefen abgebildet.
+
+Dezentrale Wärmeverbrauch <TIMEX3 tid="t206" type="DATE" value="2019">2019</TIMEX3> [GWh/<TIMEX3 tid="t207" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>] Wärmeverbrauch <TIMEX3 tid="t208" type="DATE" value="2040">2040</TIMEX3>
+
+Mit der Wärmeversorgung <PLACE id="p118" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> (WVO) treibt die <PLACE id="p119" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> <TIMEX3 tid="t209" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> den Ausbau der Fernwärme voran.
+
+Der Fernwärmeausbau soll insbesondere in der Kernstadt von <PLACE id="p120" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> massiv ausgebaut werden.
+
+Ein dortiger Ausbau ist sinnvoll, da die Wärmedichten sehr hoch sind und somit ein Wärmenetz wirtschaftlich abbildbar ist.
+
+Gleichzeitig bestehen hier größere Hemmnisse für Einzellösungen, beispielsweise durch die geringe Flächenverfügbarkeit sowie Lärmemissionen (vgl. Abbildung 49).
+
+Lag die Wärmeabsatzmenge der WVO im <TIMEX3 tid="t210" type="DATE" value="2017">Jahr 2017</TIMEX3> noch bei etwa 14 GWh, ist diese bereits bis <TIMEX3 tid="t211" type="DATE" value="2021">2021</TIMEX3> auf fast das doppelte auf 27,4 GWh angestiegen.
+
+Die Fernwärme soll insbesondere in den Stadtteilen Stadtmitte, Nordstadt, Nordoststadt, Südstadt, Südoststadt, Südweststadt sowie der Weststadt ausgebaut werden.
+
+Die Ausbaugebiete sowie die Ausbauentwicklung ist in Abbildung 44 sowie im Fernwärmeausbauplan der WVO in Abbildung 45 dargestellt.
+
+Im Rahmen der kommunalen Wärmeplanung wurde in enger Abstimmung mit der WVO die Fernwärmeabsatzmenge im <TIMEX3 tid="t212" type="DATE" value="2040">Jahr 2040</TIMEX3> auf 327 GWh/<TIMEX3 tid="t213" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> angesetzt.
+
+In allen genannten Stadtteilen soll der Deckungsanteil mit Fernwärme bis <TIMEX3 tid="t214" type="DATE" value="2040">2040</TIMEX3> bei 65 % liegen.
+
+Eine genaue Zusammenstellung zwischen Wärmeverbrauch und Fernwärmeausbau der jeweiligen Stadtteile ist in Tabelle 9 zusammengetragen.
+
+Ziel dieser Ausbaustrategie ist die Schaffung eines möglichst flächendeckenden Angebots für eine <TIMEX3 tid="t215" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> klimaneutrale und energieeffiziente Wärmeversorgung.
+
+Vorrangig soll die Fernwärme dabei dort ausgebaut werden, wo sich große Verbraucher anschließen.
+
+Laut Schätzung der WVO werden in etwa 200 Mio. Euro für den Ausbau der Fernwärme bis <TIMEX3 tid="t216" type="DATE" value="2040">2040</TIMEX3> benötigt.
+
+Stadtteil Wärmeenergiebedarf Stadtmitte 108 70 Nordstadt 176 114 Nordoststadt 63 41 Südoststadt 48 31 Südstadt 15 10  Südweststadt 26 17 Weststadt 68 44 2040 [GWh/<TIMEX3 tid="t217" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>] Anteil Fernwärme <TIMEX3 tid="t218" type="DATE" value="2040">2040</TIMEX3> [GWh/<TIMEX3 tid="t219" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>] Deckungsanteil  Fernwärme <TIMEX3 tid="t220" type="DATE" value="2040">2040</TIMEX3> [%] 65%  Die <TIMEX3 tid="t221" type="DATE" value="PRESENT_REF">derzeitige</TIMEX3> Wärmebereitstellung erfolgt zu großen Teilen aus effizienten Kraft-Wärme-Kopplungsanlagen, jedoch basierend auf fossilen Brennstoffen.
+
+In <TIMEX3 tid="t222" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> soll die Fernwärme nach und nach auf emissionsneutrale Anlagen umgerüstet werden.
+
+Die Sektorkopplung wird dabei eine wichtige Rolle spielen.
+
+Die Wärmeenergiebereitstellung soll im Wesentlichen auf regenerativen Gasen und Strom basieren.
+
+Die regenerativen Gase sollen dabei aus Klärgas, Biogas, Holzgas oder Wasserstoff gewonnen werden.
+
+Der Strom soll aus PV- oder Windkraftanlagen generiert werden und insbesondere für die Verwendung von Wärmepumpen genutzt werden.
+
+Ergänzend dazu werden weitere Potenziale wie Abwärme oder Pellet- und Hackschnitzelkessel zur Wärmeversorgung eingesetzt.
+
+Das Grundprinzip der <TIMEX3 tid="t223" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> emissionsneutralen Wärmeversorgung wird in Abbildung 46 exemplarisch dargestellt.
+
+Wie sich die Fernwärme <TIMEX3 tid="t224" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> im Detail zusammenstellen wird und welche Anlagen wann gebaut werden sollen, wird im Rahmen einer verpflichtenden Maßnahme (s.
+
+5.4) in einer Roadmap in <TIMEX3 tid="t225" type="DURATION" value="P5Y">den kommenden fünf Jahren</TIMEX3> erarbeitet.
+
+Erste Wärmepumpenanlagen und andere Maßnahmen hin zu einer emissionsneutralen Fernwärmeversorgung sind bereits in Planung.
+
+<TIMEX3 tid="t226" type="DATE" value="FUTURE_REF">Kurzfristige</TIMEX3> Planung einer Wärmepumpenanlage mit 5.000 kW thermischer Leistung.
+
+Der Strom dafür wird von Windenergieanlagen des W-Werk Mittelbaden (iKWK) kommen.
+
+<TIMEX3 tid="t227" type="DATE" value="2023">2023</TIMEX3> soll der Pelletkessel von der <PLACE id="p121" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> im Nord-West-Schulzentrum übernommen werden.
+
+Dadurch kann der regenerative Anteil des Fernwärmenetzes gesteigert werden.
+
+<TIMEX3 tid="t228" type="DATE" value="2023">2023</TIMEX3> soll die Abwärme von Burda in das Fernwärmenetz integriert werden und weitere 2.000 Haushalte mit Wärme versorgen.
+
+<TIMEX3 tid="t229" type="DATE" value="PRESENT_REF">Derzeit</TIMEX3> sind 18.000 MWh geplant, könnte jedoch bis 50.000 MWh ausgebaut werden.
+
+Ab <TIMEX3 tid="t230" type="DATE" value="2024">2024</TIMEX3> möchte die WVO in neue innovative KWK-Anlagen investieren, welche das komplette Spektrum an regional verfügbaren Gasen <TIMEX3 tid="t231" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> abdecken kann.
+
+Regenerative Gase ab <TIMEX3 tid="t232" type="DATE" value="2025">2025</TIMEX3>/<TIMEX3 tid="t233" type="DATE" value="2026">26</TIMEX3>  Hackschnitzel-Kessel bis <TIMEX3 tid="t234" type="DATE" value="2028">2028</TIMEX3>
+
+Nicht in jedem Stadtteil von <PLACE id="p122" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ist ein Fernwärmeausbau geplant.
+
+Dies betrifft insbesondere die Ortsteile außerhalb der Kernstadt, in denen die Wärmedichte geringer ist.
+
+In diesen Gebieten kann ein Nahwärmenetz eine mögliche Lösung darstellen.
+
+Eine grundlegende Voraussetzung für eine zentrale Wärmenetzlösung ist dennoch, dass die Wärmedichte ausreichend hoch ist, sodass sich der hohe technische, wirtschaftliche und organisatorische Aufwand zum Aufbau von Wärmenetzstrukturen durch einen Energieversorger lohnt.
+
+Nur mit einer ausreichenden Wärmedichte kann gewährleistet werden, dass ein zentrales Nahwärmenetz wirtschaftlich betrieben werden kann.
+
+Die KEA-BW gibt dafür eine Klassifizierung der Wärmedichten nach potenziellen Eignungen für Wärmenetze an.
+
+In Tabelle 10 sind die Klassifizierungen aufgelistet, welche in wirtschaftlicher Konkurrenz zu dezentralen Einzellösungen stehen.
+
+Zu beachten ist jedoch, dass die Kosten für die Wärmeversorgung, je nach lokalen Gegebenheiten dennoch stark variieren können und die Klassifizierungen somit lediglich eine erste Indikation sind.
+
+Wärmedichte [MWh/ha*<TIMEX3 tid="t235" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>] Einschätzung der Eignung zur Errichtung von Wärmenetzen 0-70 Kein technisches Potenzial 70-175 Empfehlung von Wärmenetzen in Neubaugebieten 175-415 Empfohlen für Niedertemperaturnetze in Bestand 415 – 1.050 Richtwert für konventionelle Wärmenetze in Bestandgrößer1.050 Sehr hohe Wärmenetzeignung  In Bestandsgebieten wird demnach ein konventionelles Wärmenetz erst ab einer Wärmedichte vongrößer415 MWh/ha*<TIMEX3 tid="t236" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> als wirtschaftlich realisierbar empfohlen.
+
+Konventionelle Wärmenetze werden in der Regel mit sehr hohen Vorlauftemperaturen betrieben, sodass sich alle Bestandsgebäude – ohne Sanierungsmaßnahme -  anschließen können.
+
+Bei einer Wärmedichte zwischen 175 und 415 MWh/ha*<TIMEX3 tid="t237" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> wird ein Niedertemperaturnetz in Bestandsgebieten empfohlen.
+
+Hier kann es durchaus möglich sein, dass sich einige Gebäude erst nach entsprechenden Sanierungsmaßnahmen anschließen können, um mit geringeren Vorlauftemperaturen auszukommen.
+
+Eine Studie des Fraunhofer Instituts „Wärmepumpen in Bestandsgebäuden“ zeigt jedoch, dass auch ältere Gebäude (insbesondere ab <TIMEX3 tid="t238" type="DATE" value="197">den 1970er Jahren</TIMEX3>) mit geringem Sanierungsgrad mit einer Vorlauftemperatur unter 60 °C auskommen können.
+
+Beispielgebäude diesbezüglich werden in der Studie aufgezeigt (Fraunhofer <TIMEX3 tid="t239" type="DATE" value="2020">2020</TIMEX3>).
+
+Für ältere Gebäude können flankierende Sanierungsmaßnahmen erforderlich werden, bevor ein Anschluss möglich bzw. empfehlenswert ist.
+
+Die Wärmedichte wurde im Rahmen der Bestandsanalyse auf Baublockebene erhoben.
+
+Ob sich ein Nahwärmenetz tatsächlich für ein ausgewiesenes Gebiet technisch und wirtschaftlich realisieren lässt, o Klärgas am Neuklinikum o Konkretisierung der Wasserstofflösung o Biomassen-Vergasung Bio-Holzkohlevergasung  erste Schritte eingeleitet o fünf Prozent durch Hackschnitzel substituieren o 50.000 Schüttraumkubikmeter + 10.000 Tonnen Restholz + 5.000t Altholz Klasse 2 muss durch weitere Untersuchungen und Planungen geprüft werden.
+
+Dies kann im Rahmen einer Machbarkeitsstudie, beispielsweise nach der Bundesförderung für effiziente Wärmenetze durchgeführt werden.
+
+Die wesentlichen Schritte sind folgende:  Schritt 1: Zonierung des Untersuchungsgebietes   Zusammenschluss geeigneter Baublöcke (hohe Wärmedichte, kompakter Bauabschnitt, etc.)  Neubau/Kernsanierung von kommunalen Einrichtungen  Schritt 2: Bestandsanalyse des Untersuchungsgebietes  Wie viel Wärmeenergie wird im Untersuchungsgebiet benötigt?
+
+Wie verändert sich die Wärmeenergie durch die Sanierungsrate?
+
+Was sind die Vorlauftemperarturen im Gebiet und welche werden benötigt?
+
+Lastgangermittlung, um maximale Leistung zu identifizieren  Schritt 3: Potenzialanalyse Welche Potenziale sind im Untersuchungsgebiet vorhanden?
+
+Welche technischen Varianten lassen sich davon ableiten?
+
+Schritt 4: Untersuchung der technischen Varianten Können Potenziale genutzt werden, welche Ergiebigkeit lässt sich davon ableiten?
+
+Genehmigungsfähigkeit prüfen Wirtschaftlichkeitsbetrachtung der Varianten (Hinweis: Nutzung von Synergien prüfen, z.B. Tiefbauarbeiten, um Kosten einzusparen) Vorrangig sollten potenzielle Nahwärmenetze in den Gebieten eingehender untersucht werden, in welchen <TIMEX3 tid="t240" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> der Anteil an Heizöl als Energieträger hoch ist, die Heizungssysteme mit fossilen Brennstoffen ein hohes Alter aufweisen und in <TIMEX3 tid="t241" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> ausgetauscht werden müssen,  die Wärmedichte ausreichend vorhanden ist, und ggf. kommunale Liegenschaften in der Umgebung, bei welchen zeitnah eine Modernisierung der Heizungssysteme geplant ist, als Synergieeffekte nutzbar sind.
+
+ Für eine erste Einschätzung, wie hoch die Wärmedichte der Baublöcke in den Ortsteilen ohne Fernwärmeversorgung ist, wird in der nachfolgenden Abbildung 47 die relative Häufigkeit der Wärmedichte angegeben.
+
+Die Abbildung zeigt deutlich, dass die überwiegenden Baublöcke im Bereich 200 und 400 MWh/ha*<TIMEX3 tid="t242" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> liegen.
+
+Das bedeutet, ein Niedertemperaturnetz wäre durchaus in den meisten Ortsteilen großflächig wirtschaftlich umsetzbar.
+
+Ein flächendeckendes konventionelles Wärmenetz dagegen nicht.
+
+Die Baublöcke, welche eine Wärmedichte zwischen 415 und 1.050 MWh/ha*<TIMEX3 tid="t243" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> haben, sind eher vereinzelt und nicht immer nebeneinanderliegend zu finden.
+
+In den Steckbriefen werden für die Ortsteile, welche auch <TIMEX3 tid="t244" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> nicht mit Fernwärme versorgt werden, geeignete Gebiete für Nahwärmenetze aufgeführt.
+
+Dazu ist angegeben, wie viele Baublöcke innerhalb einer Wärmedichte-Klassifizierung liegen.
+
+Des Weiteren zeigt eine Graphik das Verhältnis des Baualters der Heizungsanlagen zu den Energieträgern Öl und Gas auf (s.
+
+exemplarische Graphik von <PLACE id="p123" type="" geo="DEBKGGND00001A45">Griesheim</PLACE> in Abbildung 48).
+
+Dadurch kann abgeleitet werden, in welchen Ortsteilen eine Machbarkeitsstudie für ein Nahwärmenetz vorrangig durchgeführt werden sollte.
+
+Dabei sollten Baublöcke, welche insbesondere einen hohen Anteil Öl, aber auch Gas als Energieträger, sowie ein durchschnittlich hohes Alter der Heizungssysteme aufweisen, vorranging geprüft werden, da davon auszugehen ist, dass dortige Heizungssysteme in <TIMEX3 tid="t245" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> ausgetauscht werden müssen.
+
+Wichtig ist, dass die betroffenen Bürger*innen frühzeitig darüber informiert werden, ob das Potenzial eines Nahwärmenetzes in Ihrer Nähe überprüft wird oder nicht.
+
+Wird eine Machbarkeitsstudie durchgeführt, sollte versucht werden, eine Modernisierung der Heizungsanlage hinauszuzögern bzw. eine Zwischenlösung zu finden (z.B. Umrüstung mit Second-Life-Heizungssystemen).
+
+Falls ein Nahwärmenetz ausgeschlossen wird, muss eine klimaneutrale dezentrale Einzellösung gefunden werden (s.
+
+Unterkapitel 4.3).
+
+<TIMEX3 tid="t246" type="DATE" value="FUTURE_REF">Mittelfristig</TIMEX3> sollten auch alle weiteren Baublöcke hinsichtlich der Machbarkeit eines Nahwärmenetzes bewertet werden.
+
+Die Realisierung eines Nahwärmenetzes bringt viele Chancen, jedoch auch Hemmnisse mit sich.
+
+Im Folgenden werden einige Chancen und Hemmnisse benannt:   Chancen: Bei der Umsetzung eines Nahwärmenetzes werden direkt einige Haushalte an eine klimaneutrale Wärmeversorgung angeschlossen.
+
+Gebäudeeigentümer*innen müssen nicht direkt selbst aktiv werden.
+
+Die Wärmegestehungskosten sind oftmals geringer gegenüber einer klimafreundlichen Einzellösung.
+
+Kann zur steigenden Akzeptanz von erneuerbaren Energien in der Bevölkerung führen.
+
+Hemmnisse: Technische Hemmnisse:  Organisatorische Hemmnisse:  Regulatorische Hemmnisse:  Verfügbarkeit von Flächen für Energiezentralen o Denkmalschutz o Erforderliche vorgelagerte Leistungen zur Netzertüchtigung durch den Stromnetzbetreiber o Hohe Temperaturanforderungen im unsanierten Bestand o Synchronisierung Zeitplanung Gebäudesanierung mit Wärmenetzplanung o Materialknappheit und Lieferengpässe o Handwerker-/Dienstleistermangel o „Bestandsschutz“/<TIMEX3 tid="t247" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> keine Verpflichtung zur Sanierung o Kostenumlage („Mieter-Vermieter-Dilemma“)
+
+Das Gasnetz in <PLACE id="p124" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ist ein sehr junges und gut erhaltenes Gasnetz.
+
+Es liegt sehr engmaschig und nahezu flächendeckend in allen Stadtteilen von <PLACE id="p125" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>.
+
+Betrieben wird das Gasnetz von badenova-Netze GmbH.
+
+Die Nutzungsdauer der Leitungen sind auf <TIMEX3 tid="t248" type="DURATION" value="P70Y">70</TIMEX3>-<TIMEX3 tid="t249" type="DURATION" value="P80Y">80 Jahre</TIMEX3> ausgelegt.
+
+In <TIMEX3 tid="t250" type="DURATION" value="P10Y">den kommenden zehn</TIMEX3> bis <TIMEX3 tid="t251" type="DURATION" value="P20Y">20 Jahren</TIMEX3> müssen - laut Gasnetzversorger - nur geringe Investitionskosten vorgenommen werden.
+
+<TIMEX3 tid="t252" type="DATE" value="PRESENT_REF">Derzeit</TIMEX3> ist die Erneuerung von etwa zehn km Leitung in <TIMEX3 tid="t253" type="DURATION" value="P20Y">den nächsten zwei Jahrzenten</TIMEX3> in Planung.
+
+Eine volle Versorgungssicherheit kann daher gewährleistet werden und es bestehen keine Sicherheitsbedenken.
+
+Gesetzlich hat der Gasnetzversorger den Auftrag zur Versorgungssicherheit und ist verpflichtet, diesen zu erfüllen.
+
+Das heißt, jede/jeder Hauseigentümer*in darf sich an das Erdgasnetz anschließen, sofern dies technisch möglich ist.
+
+Daher ist es sekundär, ob das Gasnetz in der Kernstadt von <PLACE id="p126" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> liegt oder außerhalb in den Ortschaften.
+
+Diese Regelung führt zu einem Dilemma.
+
+Einerseits ist der Gasnetzversorger gesetzlich dazu verpflichtet, die Versorgung sicherzustellen, anderseits soll aber auch das Ziel der Klimaneutralität bis <TIMEX3 tid="t254" type="DATE" value="2040">2040</TIMEX3> eingehalten werden.
+
+Es ist <TIMEX3 tid="t255" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> noch keine finale Entscheidung darüber getroffen worden, wie mit dem Erdgasnetz in <TIMEX3 tid="t256" type="DATE" value="FUTURE_REF">Zukunft</TIMEX3> verfahren werden soll.
+
+Fest steht jedoch, dass das Erdgasnetz <TIMEX3 tid="t257" type="DATE" value="FUTURE_REF">langfristige</TIMEX3> eine Transformation benötigt, wenngleich diese nicht überall direkt umgesetzt werden kann.
+
+In einem gemeinsamen Termin zwischen <PLACE id="p127" type="" geo="DEBKGGND000019E2">der Stadt Offenburg</PLACE>, badenovaNetze GmbH und der WVO <PLACE id="p128" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> wurde vereinbart, einen regelmäßigen Termin (<TIMEX3 tid="t258" type="SET" freq="EVERY" value="P6M">halbjährig</TIMEX3>) zu vereinbaren.
+
+In diesem Termin sollen <TIMEX3 tid="t259" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Planungen der Stadt (Ausbau Nahwärmenetze, Tiefbauarbeiten, etc.), der WVO <PLACE id="p129" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> (Fernwärmeausbaupläne) und der badenovaNetze GmbH (Erdgasnetzpläne) ausgetauscht werden.
+
+Dieser Austausch ist empfehlenswert, um Planungen besser zu koordinieren und doppelte Investitionen zu vermeiden.
+
+In Gebieten, in denen weder der Ausbau der Fernwärme vorgesehen ist noch die Einrichtung zentraler Nahwärmenetze sinnvoll erscheint, müssen dezentrale Einzellösungen gefunden werden.
+
+<TIMEX3 tid="t260" type="DATE" value="PRESENT_REF">Derzeit</TIMEX3> nutzen die meisten Einzellösungen fossile Brennstoffe wie Heizöl oder Erdgas als Energieträger.
+
+Um die Klimaziele zu erreichen, müssen die <TIMEX3 tid="t261" type="DATE" value="PRESENT_REF">derzeitigen</TIMEX3> Heizungssysteme auf klimaneutrale Lösungen umgerüstet werden.
+
+Hierfür eignen sich insbesondere strombasierte Lösungen wie Wärmepumpen oder in einigen Fällen regenerative Brennstoffe wie Pellets.
+
+In Abbildung 49 werden typische Einzellösungen mit den Vor- und Nachteilen der Heizungssysteme dargestellt.
+
+Heizungssysteme mit fossilen Brennstoffen werden als Einzellösung ausgeschlossen, da diese einen hohen CO2-Faktor aufweisen und somit klimaschädlich sind.
+
+Bereits im <TIMEX3 tid="t262" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> gültigem Gebäudeenergiegesetz (GEG) wird (mit Ausnahmeregelungen) gemäß §72 gefordert, dass Heizkessel mit flüssigen oder gasförmigen Brennstoffen, die <TIMEX3 tid="t263" type="DATE" value="1991-01-01" mod="BEFORE">vor dem 1.Januar 1991</TIMEX3> eingebaut worden sind, ausgetauscht werden müssen.
+
+Bei Heizkesseln, die <TIMEX3 tid="t264" type="DATE" value="1991-01-01" mod="AFTER">nach dem 1.Januar 1991</TIMEX3> eingebaut wurden, muss ein Austausch <TIMEX3 tid="t265" type="DURATION" value="P30Y" mod="EQUAL_OR_LESS">spätestens nach 30 Jahren</TIMEX3> erfolgen.
+
+Zusätzlich ist bereits vorgesehen, dass ab <TIMEX3 tid="t266" type="DATE" value="2026">2026</TIMEX3> Heizkessel, welche mit Heizöl oder mit festem fossilen Brennstoffen beschickt werden, nur unter gewissen Bedingungen weiter eingebaut werden dürfen.
+
+Das Erneuerbare-Wärme-Gesetz <PLACE id="p130" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> (EWärmeG) regelt außerdem, dass bei einem Austausch oder nachträglichen Einbau einer Heizanlage mindestens 15 % des <TIMEX3 tid="t267" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> Energiebedarfs aus erneuerbaren Energien gedeckt werden müssen oder der Wärmeenergiebedarf um mindestens 15 % gesenkt werden muss.
+
+Wie bereits erwähnt, ist eine dezentrale Einzellösung insbesondere in Gebieten erforderlich, in denen weder der Ausbau eines zentralen Nahwärmenetzes noch Fernwärme geplant oder umgesetzt wird.
+
+Dies betrifft hauptsächlich Ortschaften außerhalb der Kernstadt <PLACE id="p131" type="" geo="DEBKGGND000019E2">Offenburg</PLACE>.
+
+Es kann jedoch auch vorkommen, dass eine Heizungsmodernisierung in einem geplanten Fern- oder Nahwärmenetzgebiet erfolgen muss, bevor dieses errichtet wurde.
+
+Daher müssen die folgenden Szenarien unterschieden werden:  (1) Heizungsmodernisierung ohne Anschlussmöglichkeit an ein Fern- /Nahwärmenetz (2) Heizungsmodernisierung mit Anschlussmöglichkeit an ein Fern- /Nahwärmenetz  In beiden Fällen ist es wichtig, die Bürgerinnen und Bürger frühzeitig in die Ausbauplanung in den Stadtteilen einzubeziehen und sie entsprechend zu informieren.
+
+Im Fall (1) müssen sich die Bürgerinnen und Bürger darauf einstellen, dass eine dezentrale Einzel- oder Insellösung gefunden werden muss.
+
+Es empfiehlt sich, ihnen frühzeitig relevante Informationen zur Verfügung zu stellen und eine Kampagne zur Heizungsmodernisierung und energetischen Sanierung zu starten.
+
+Die Maßnahme wurde bereits im KSK <PLACE id="p132" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> verankert und ist auch in der kommunalen Wärmeplanung enthalten (s.
+
+Maßnahme 6.6).
+
+Die Beratung „Eignungs-Check Heizung“ für Gebäudeeigentümerinnen und eigentümer der Ortenauer Energieagentur sollte im Rahmen dieser Maßnahme intensiviert werden, idealerweise auch mit einer Beratung zur energetischen Sanierung.
+
+Der Fokus sollte dabei auf Baublöcke mit einem hohen Anteil Heizöl als Energieträger liegen.
+
+Heizöl hat mit 311 g CO2/kg den höchsten CO2-Faktor der Energieträger.
+
+<TIMEX3 tid="t268" type="DATE" value="FUTURE_REF">Mittelfristig</TIMEX3> sollten auch die Baublöcke beraten werden, welche <TIMEX3 tid="t269" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> an das Erdgasnetz angeschlossen sind oder Flüssiggas verwenden.
+
+Um die Baublöcke mit einem hohen Anteil Heizöl und alten Heizungssystemen zu identifizieren, kann Abbildung 48 aus Kapitel 4.2.2 herangezogen werden.
+
+Die Baublöcke werden auch in den Steckbriefen hervorgehoben, jedoch ohne Berücksichtigung potenziell geeigneter Nahwärmenetze.
+
+Sobald feststeht, in welchen Gebieten eine Machbarkeitsstudie durchgeführt werden soll, müssen diese Informationen ebenfalls berücksichtigt werden.
+
+Im Fall (2) können insbesondere die geplanten Fernwärmeausbaugebiete den Bürgerinnen und Bürgern bereits klar kommuniziert werden.
+
+In der Kernstadt <PLACE id="p133" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ist nahezu flächendeckend der Ausbau eines Fernwärmenetzes bis <TIMEX3 tid="t270" type="DATE" value="2040">2040</TIMEX3> geplant.
+
+Sobald das Fernwärmenetz an entsprechender Stelle ausgebaut wird, sollten sich Gebäude an das Fernwärmenetz anschließen.
+
+Die Fernwärme hat bereits <TIMEX3 tid="t271" type="DATE" value="PRESENT_REF">jetzt</TIMEX3> einen deutlich geringeren CO2-Faktor (Wert von WVO: ca. 44 kg CO2/MWh) als Gas und soll zudem bis <TIMEX3 tid="t272" type="DATE" value="2040">2040</TIMEX3> klimaneutrale Wärme bereitstellen (s.
+
+Kapitel 4.2).
+
+Gebäude, welche <TIMEX3 tid="t273" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> nicht am Gasnetz angeschlossen sind, sollten dazu motiviert werden, sich <TIMEX3 tid="t274" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> an das Fernwärmenetz anzuschließen.
+
+<TIMEX3 tid="t275" type="DATE" value="FUTURE_REF">Langfristig</TIMEX3> ist das die ökologischste und ökonomischste Variante.
+
+Zudem könnten in <TIMEX3 tid="t276" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> insbesondere in den Ortschaften außerhalb der Kernstadt <PLACE id="p134" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> Nahwärmenetze entstehen.
+
+Wie im Kapitel 4.2.2 beschrieben sollten Gebiete, in welchen eine Machbarkeitsstudie für ein Nahwärmenetz durchgeführt werden soll, zeitnah festgelegt und den Bürger*innen kommuniziert werden.
+
+In vielen Baublöcken weisen die Heizungssysteme ein sehr hohes Alter auf, sodass davon ausgegangen werden kann, dass diese in <TIMEX3 tid="t277" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> modernisiert werden müssen.
+
+Wenn jedoch dort ein Nahwärmenetz entstehen könnte, ist es wichtig, dass sich möglichst viele Gebäude anschließen.
+
+Daher empfiehlt es sich, Überbrückungstechnologien für diese Gebäude zu finden.
+
+Beispielsweise durch den Einbau von Second-Life-Heizungssystemen, bei welchen die Nutzungsdauer geringer ist.
+
+Somit kann verhindert werden, dass dezentrale Einzellösungen eine zentrale Lösung erschweren oder gar verhindern.
+
+Zusammenfassend kann festgehalten werden, dass der Wärmeenergiebedarf durch energetische Sanierungen bis <TIMEX3 tid="t278" type="DATE" value="2040">2040</TIMEX3> um 280 GWh/<TIMEX3 tid="t279" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> gesenkt werden kann.
+
+Dieses Ziel ist jedoch sehr ambitioniert und erfordert neben einer breitgefächerten Aufklärungsarbeit und umfangreichen Förderangeboten auch zusätzliche personelle Kapazitäten (Handwerker*innen, Elektriker*innen, etc.).
+
+Eine deutliche Reduzierung des Wärmeenergiebedarfs ist notwendig, um den Bedarf mit den vorhandenen Potenzialen decken zu können.
+
+Daher ist die Wärmeenergieeinsparung durch energetische Sanierung der erste wichtige Schritt bei der Erreichung einer klimaneutralen Wärmeversorgung.
+
+Die <PLACE id="p135" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> strebt an, zusammen mit der WVO das Fernwärmenetz deutlich auszubauen.
+
+Die Fernwärme soll bis <TIMEX3 tid="t280" type="DATE" value="2040">2040</TIMEX3> ebenfalls klimaneutral bereitgestellt werden.
+
+In <TIMEX3 tid="t281" type="DURATION" value="P5Y">den kommenden fünf Jahren</TIMEX3> wird die WVO daher ihre Ausbaupläne konkretisieren und in eine Roadmap überführen.
+
+Im Rahmen der kommunalen Wärmeplanung wurden die Ausbaupläne überarbeitet.
+
+Bis <TIMEX3 tid="t282" type="DATE" value="2040">2040</TIMEX3> soll der Fernwärmeausbau von <TIMEX3 tid="t283" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> etwa 28 GWh/<TIMEX3 tid="t284" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> auf 327 GWh/<TIMEX3 tid="t285" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> ansteigen, mit einem Deckungsanteil von 65 Prozent pro Stadtteil.
+
+Dieses Ziel ist ebenfalls sehr ambitioniert.
+
+Es bedarf hierfür eine gute Planung und personelle Kapazitäten sollten ausgebaut werden.
+
+Dennoch reicht der angestrebte Fernwärmeausbau nicht aus, um den gesamten Wärmeenergiebedarf der Kernstadt <PLACE id="p136" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> zu decken.
+
+Es soll daher in <TIMEX3 tid="t286" type="DURATION" value="P5Y">den kommenden fünf Jahren</TIMEX3> nochmal geprüft werden, ob die Ausbaugeschwindigkeit weiter erhöht werden könnte.
+
+Gleichzeitig macht dies deutlich, dass das Erdgasnetz weiterhin als Brückentechnologie benötigt wird und eine enge Absprache zwischen WVO, der <PLACE id="p137" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> und Badenova Netze GmbH empfehlenswert ist.
+
+Ziel muss es sein, Synergieeffekte optimal auszunutzen, um somit personelle und monetäre Verfügbarkeit effizient einzusetzen.
+
+Neben dem Fernwärmeausbau ist die Umsetzung von Nahwärmenetzen angedacht.
+
+Insbesondere in den Ortschaften außerhalb der Kernstadt könnten Nahwärmenetze sinnvoll ausgebaut werden, da in einigen Baublöcken ein hoher Anteil an Heizöl vorkommt und die Heizungssysteme oftmals sehr alt sind und zeitnah erneuert werden müssen.
+
+Es ist daher vorgesehen, dass die <PLACE id="p138" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> in <TIMEX3 tid="t287" type="DURATION" value="P5Y">den kommenden fünf Jahren</TIMEX3> erste Machbarkeitsstudien für Nahwärmenetze durchführt.
+
+In der <PLACE id="p139" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> sind einige Potenziale zu Umsetzung einer klimaneutralen Wärmeversorgung vorhanden.
+
+Das Potenzial zur Nutzung von Geothermie oder Grundwasserwärme ist in den meisten Stadtteilen gegeben.
+
+Jedoch muss die Genehmigungsfähigkeit im Einzelfall geprüft werden.
+
+Das Potenzial für Biomasse ist mit den Ausbauplänen der Fernwärme nahezu ausgeschöpft.
+
+Die Nutzung von Abwasserwärme ist in der <PLACE id="p140" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> noch nicht näher analysiert worden.
+
+Das Potenzial der Abwasserwärme ist groß und kann in einigen Stadtteilen zu einer klimaneutralen Wärmeversorgung beitragen.
+
+Daher wird empfohlen, die Potenziale in <TIMEX3 tid="t288" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> zu analysieren und in Machbarkeitsstudien zu berücksichtigen.
+
+Nicht genutzte Abwärmepotenziale sind in <PLACE id="p141" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> kaum vorhanden.
+
+Noch vorhandene Potenziale sollten, sofern möglich, verwendet werden.
+
+Zudem ist außerhalb <PLACE id="p142" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> auch ein Potenzial für Tiefengeothermie gegeben.
+
+Diese sollte in <TIMEX3 tid="t289" type="DURATION" value="PXY">den nächsten Jahren</TIMEX3> ebenfalls geprüft werden.
+
+Das Potenzial für die klimaneutrale Strombereitstellung ist ebenfalls groß.
+
+Allerdings muss dafür auch der PV-Ausbau auf den Dächern der privaten Haushalte genutzt werden.
+
+Zudem wird der Strombedarf für die Wärmeversorgung stetig ansteigen.
+
+Allein für die Wärmeversorgung würden <TIMEX3 tid="t290" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> etwa 275 GWh Strom <TIMEX3 tid="t291" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3> benötigt.
+
+Auch in anderen Bereichen (z.B. Verkehr) wird der Strombedarf ansteigen.
+
+Es ist daher notwendig die Energiewende als Gesamtes zu betrachten und eine Sektorkopplung voranzubringen.
+
+Das bedeutet, dass die Synergien der Sektoren in der Energiewirtschaft identifiziert werden müssen und diese optimal genutzt werden.
+
+Dazu ist es wichtig, dass alle relevanten Akteure der Energiewirtschaft im engen Austausch stehen und zudem eine integrierte Infrastrukturplanung realisiert wird, sodass Prozesse schneller und effizienter abgewickelt werden können.
+
+Damit die Energiewende gelingen kann, braucht es außerdem Fachkräfte unterschiedlicher Disziplinen.
+
+Gerade im Handwerk gibt es <TIMEX3 tid="t292" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> große Kapazitätsengpässe.
+
+Es wird empfohlen Förderprogramme aufzusetzen bzw. bestehende Programme auszuweiten, welche auf Handwerksbetreibe und Energieberatungsformen abzielen sowie Fachkräfte anwerben.
+
+Durch die Schaffung von Ausbildungsplätzen innerhalb <PLACE id="p143" type="" geo="DEBKGGND000019E2">Offenburgs</PLACE> kann die Wertschöpfung gesteigert werden und die Unabhängigkeit vom deutschlandweiten Fachkräftemangel entgegengewirkt werden.
+
+Damit die Ziele der kommunalen Wärmeplanung erreicht werden können ist es wichtig das die Stadt weiterhin als gutes Beispiel vorangeht.
+
+<TIMEX3 tid="t293" type="DATE" value="PRESENT_REF">Derzeit</TIMEX3> werden einige Sanierungsmaßnahmen und Machbarkeitsstudien zu Nahwärmenetzen durchgeführt.
+
+Auch einige Förderprogramme sind bereits vorhanden.
+
+Im Folgenden werden sechs prioritäre Maßnahmen vorgestellt, welche in <TIMEX3 tid="t294" type="DURATION" value="P5Y">den kommenden fünf Jahren</TIMEX3> umgesetzt werden müssen.
+
+Dazu gehören folgende Maßnahmen:
+
+1.Energetisches Quartierskonzept Südstadt
+
+2.Erweiterung des Nahwärmenetzes in Zell-Weierbach
+
+3.Erweiterung des Nahwärmenetzes in <PLACE id="p144" type="" geo="DEBKGGND00001A45">Griesheim</PLACE>
+
+4.Roadmap Umbau zur klimaneutralen Fernwärme
+
+5.Fernwärmeausbau bis <TIMEX3 tid="t295" type="DATE" value="2027">2027</TIMEX3>
+
+6.Kampagne zur energetischen Sanierung und Heizungsmodernisierung  
+
+<TIMEX3 tid="t296" type="DATE" value="PRESENT_REF">Derzeit</TIMEX3> werden die Grundlagen für die Ausweisung des nördlichen Teils der Südstadt als städtebauliches Sanierungsgebiet erarbeitet.
+
+Eine vertiefte Betrachtung des Stadtteils hinsichtlich seiner Energieeffizienz ist aufgrund des Baualters, der Energieträger und des Alters der Heizungsanlagen ebenfalls sinnvoll.
+
+Zudem sind große Teile des Bestands im Besitz der städtischen Wohnungsbaugesellschaft, so dass hier gute Gestaltungsmöglichkeiten gegeben sind, und die Kommune hier auch Vorbildwirkung entfalten kann.
+
+Mit einem energetischen Quartierskonzept (Phase A) mithilfe des KfW-Programmes „Energetische Stadtsanierung – Zuschüsse für integrierte Quartierskonzepte und Sanierungsmanager (432)“ werden zum einen Maßnahmen der Energieeffizienz von Gebäuden sowie des Umbaus auf erneuerbare Energien auf Ebene des Quartiers ermittelt.
+
+Zum anderen werden Aspekte der Resilienz gegenüber dem Klimawandel sowie nachhaltige Mobilität mit betrachtet.
+
+Die Erstellung von energetischen Quartierskonzepten wird mit 75 Prozent der förderfähigen Kosten gefördert.
+
+Kosten für Kampagne Ca.
+
+100.000 - 120.000 € davon werden 75 % gefördert Verantwortlicher Akteur <PLACE id="p145" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> Zeithorizont Start <TIMEX3 tid="t297" type="DATE" value="2023">2023</TIMEX3> (Ausarbeitung <TIMEX3 tid="t298" type="DURATION" value="P1Y" mod="APPROX">ca. 1 Jahr</TIMEX3>) Bei Realisierung des Projektes CO2-Einsparung 900 t CO2/<TIMEX3 tid="t299" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bis <TIMEX3 tid="t300" type="DATE" value="2040">2040</TIMEX3> Energieeinsparung 4,5 GWh/<TIMEX3 tid="t301" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bis <TIMEX3 tid="t302" type="DATE" value="2040">2040</TIMEX3>  Angestrebter Indikatorwert Die Südstadt hat eine Größe von etwa 199 ha.
+
+Fast 91 Prozent der Gebäude wurden <TIMEX3 tid="t303" type="DATE" value="1984" mod="BEFORE">vor 1984</TIMEX3>, und somit vor der Zweiten Wärmeschutzverordnung gebaut.
+
+Geprägt ist das Quartier von Ein- und Zweifamilienhäusern, Reihenhäusern und Mehrfamilienhäusern.
+
+Zudem liegt die kaufmännische Schule sowie die Haus- und Landwirtschaftliche Schule von <PLACE id="p146" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> in dem Stadtteil.
+
+Als Energieträger wird zu 83 Prozent Erdgas verwendet.
+
+Alle Informationen können im Steckbrief „Südstadt“ eingesehen werden.
+
+Ziel des energetischen Quartierskonzeptes ist es aus der Ausgangsanalyse des Gebietes konkrete Maßnahmen und deren Ausgestaltung abzuleiten, um insbesondere die Energieeffizienz im Quartier zu erhöhen.
+
+Die abgeleiteten Maßnahmen werden in einem Zeitplan priorisiert, Verantwortlichen zugeteilt und nach Machbarkeit und Wirtschaftlichkeit beurteilt.
+
+Ein weiteres Ziel ist die Mobilisierung der lokalen Akteure sowie die Information und Beratung im Rahmen der Öffentlichkeitsarbeit.
+
+Dabei werden Kommunikations- und Beteiligungskonzepte erarbeitet.
+
+Die Maßnahmen und Konzepte werden in der Phase B „Sanierungsmanagement“ in die Umsetzung gebracht.
+
+Zusätzlich können Fördermittel für die Energieberatung und für die energetische Sanierung eingeworben werden.
+
+Das energetische Quartierskonzept für den Stadtteil „Südstadt“ wäre das erste Projekt seiner Art und wäre somit ein städtisches Pilotprojekt.
+
+Auf Grund des hohen Sanierungsbedarfs, sowie des hohen Anteils von fossilen Energieträgern eignet sich das Gebiet optimal für die Durchführung eines energetischen Quartierskonzeptes.
+
+Durch die intensive Bearbeitung von allgemeinen Maßnahmen, Kommunikations- und Beteiligungskonzepten sowie der Öffentlichkeitsarbeit, können verschiedene Formate erprobt, validiert, optimiert und anschließend auf weitere Quartiere übertragen werden.
+
+Ziel ist es, die Sanierungsrate in dem Quartier zu steigern, ein höheres Bewusstsein für Klimaschutz bei den Bewohner*innen herbeizuführen und als Multiplikator-Projekt zu fungieren.
+
+Sanierungsrate nach der kommunalen Wärmeplanung, Sanierungstiefe private Haushalte idealerweise zwischen 80-100 kWh/m²*<TIMEX3 tid="t304" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>
+
+In Zell-Weierbach ist ein neuer Schulbau in Planung.
+
+Dieser grenzt an den bereits bestehenden Schulen (Weingartenschule und Schule Zell-Weierbach) an.
+
+In der unmittelbaren Nähe befindet sich ebenfalls noch ein Kindergarten.
+
+Für diesen Campus wird <TIMEX3 tid="t305" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> ein Nachhaltigkeitskonzept erstellt, in welchem neben einer Makrostudie zur klimaneutralen Energieversorgung (Nahwärmenetz) auch ein Mobilitätskonzept mitberücksichtigt wird.
+
+Untersucht werden <TIMEX3 tid="t306" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> zwei Varianten.
+
+Die Variante 1 umfasst <TIMEX3 tid="t307" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> nur den Schulneubau, die bereits bestehenden Schulen sowie den Kindergarten (s.
+
+Abbildung 50, gelbe Umrahmung).
+
+Der Wärmebedarf liegt in etwa bei 430 MWh/<TIMEX3 tid="t308" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Die Variante 2 (s.
+
+Abbildung 50, rote Umrahmungen) wird erweitert und umfasst neben dem Schulcampus auch noch weitere städtische Gebäude (Museum, Stadtverwaltung, Abtsberghalle) in umliegender Nähe.
+
+Hier liegt der Wärmebedarf bei etwa einem GWh/<TIMEX3 tid="t309" type="SET" freq="EVERY" value="P1Y">a</TIMEX3>.
+
+Der Projektstart ist <TIMEX3 tid="t310" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> ab <TIMEX3 tid="t311" type="DATE" value="2024">2024</TIMEX3> geplant.
+
+Für die Energieversorgung werden <TIMEX3 tid="t312" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> verschiedene Versorgungsvariationen untersucht.
+
+Insbesondere wird die Verwendung einer Wärmepumpe in Betracht gezogen.
+
+Dafür wurde bereits ein geologisches Gutachten durchgeführt.
+
+Dieses führte zu folgendem Ergebnis:  - Grundwasser: Laut der geologischen Untersuchung ist eine geothermische Nutzung über Entnahme- und Schluckbrunnen aufgrund des geringen zu erwartenden Grundwasserpotenzial eher nicht realisierbar - Wärmepumpe:  o Genehmigungsfähigkeit geothermischer Anlagen grundsätzlich gegeben.
+
+In Zell-Weierbach gibt es bereits zwei Erdsonden-Anlagen mit Sondentiefe von 160 m Hohes Wärmetransportpotenzial o Entzugsleistung etwa 37 W/m  o Theoretische Sondenanzahl: ca. 200 Stück a 160 m  Für den Stadtteil Zell-Weierbach ist <TIMEX3 tid="t313" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> kein Fernwärmeausbau vorgesehen.
+
+Als Maßnahme wird daher vorgeschlagen, eine Machbarkeitsstudie für ein Nahwärmenetz durchzuführen, welches die umliegenden Baublöcke in das Untersuchungsgebiet mit einbindet.
+
+Als erweitertes Untersuchungsgebiet wird das in Abbildung 51 aufgezeigte Untersuchungsgebiet vorgeschlagen.
+
+Mit Blick auf die dortige Wärmedichte liegen einige Baublöcke innerhalb des Richtwertes für konventionelle Wärmenetze im Bestand.
+
+Die anderen Baublöcke liegen in dem Bereich,empfohlen für Niedertemperaturnetze im Bestand.
+
+Die Wärmedichte der angrenzenden Baublöcke wird ebenfalls in Abbildung 51 dargestellt.
+
+Auch wenn nicht alle Baublöcke eine Wärmedichte von mehr als 415 MWh/ha*<TIMEX3 tid="t314" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> aufweisen, liegen die Baublöcke in der Nähe von größeren Einzelverbrauchern (Schulen, Kindergarten) und erzeugen einen Nutzermix durch die unterschiedlichen Gebäudetypen, wobei Synergien im Wärmelastgang genutzt werden können.
+
+Zudem sollen einige Straßenzüge im Rahmen des Nahwärmenetzes für die städtischen Gebäude aufgegraben werden, wodurch Kosten für die Tiefbauarbeiten partiell eingespart werden könnten.
+
+Auch eine Technikzentrale könnte gegebenenfalls auf dem Schulareal aufgestellt werden.
+
+Idealerweise läge diese dort mittig im erweiterten Untersuchungsgebiet.
+
+Auch die theoretische Anzahl der Erdsonden auf den städtischen Grundstücken wäre ausreichend, um den Wärmeenergieverbrauch von <TIMEX3 tid="t315" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> 3,3 GWh/<TIMEX3 tid="t316" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bei einer Anschlussquote von 70 % sicherzustellen.
+
+Im erweiterten Untersuchungsgebiet wird überwiegend mit Erdgas und Heizöl geheizt (s.
+
+Abbildung 52).
+
+Untersuchungsgebiet bei Zell-Weierbach Energieträgerverteilung  Durch ein Nahwärmenetz könnte eine hohe CO2-Einsparung erzielt werden.
+
+Zudem ist auch die Chance auf eine hohe Anschlussbereitschaft gegeben, da einige Haushalte in <TIMEX3 tid="t317" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> ihre Heizungssysteme modernisieren müssen.
+
+Einige Angaben zum Gebiet werden in Tabelle 12 aufgelistet.
+
+Anzahl Gebäude: Ca.
+
+193 (170 private Haushalte, 9 GHD, 11 öffentlich) Wärmeenergieverbrauch <TIMEX3 tid="t318" type="DATE" value="2019">2019</TIMEX3>: 4,7 GWh/<TIMEX3 tid="t319" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Wärmeenergieverbrauch <TIMEX3 tid="t320" type="DATE" value="2040">2040</TIMEX3>: 3,7 GWh/<TIMEX3 tid="t321" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (Reduktion ca. 21 %) <TIMEX3 tid="t322" type="DATE" value="PRESENT_REF">Aktuelle</TIMEX3> Energieträger: Überwiegend Gas und Heizöl (s.
+
+Abbildung 52) Kostensynergien: Tabelle 13 liefert einige Kennwerte zur Machbarkeitsstudie vom Untersuchungsgebiet in Zell-Weierbach.
+
+Eine Machbarkeitsstudie nach der Bundesförderung effizienter Wärmenetze (BEW) wird mit  50 Prozent gefördert.
+
+In der Förderung abgedeckt ist die Planungsleistung in Anlehnung an die HOAI Leistungsphase I-IV.
+
+Bei einer Realisierung des Nahwärmenetzes könnten bis <TIMEX3 tid="t323" type="DATE" value="2040">2040</TIMEX3> <TIMEX3 tid="t324" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> mehr als 1.000 t CO2 eingespart werden.
+
+Kosten Machbarkeitsstudie Ca.
+
+170.000 - 200.000 € davon werden 50 % gefördert Verantwortlicher Akteur <PLACE id="p147" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> Zeithorizont Machbarkeitsstudie <TIMEX3 tid="t325" type="DURATION" value="P1Y">1 Jahr</TIMEX3> (+ <TIMEX3 tid="t326" type="DURATION" value="P1Y">1 Jahr</TIMEX3> Verlängerung möglich) Bei Realisierung des Projektes CO2-Einsparung größer1.000 t CO2/<TIMEX3 tid="t327" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bis <TIMEX3 tid="t328" type="DATE" value="2040">2040</TIMEX3> Wärmegestehungskosten Zielwert bei Realisierung 70 % Anschlussquote bei 70 % Anschlussquote: 3,3 GWh/<TIMEX3 tid="t329" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bei 70 % Anschlussquote: 2,6 GWh/<TIMEX3 tid="t330" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Einige Straßenzüge müssen im Rahmen des eigentlichen Projektes sowieso aufgegraben werden.
+
+Dadurch können Tiefbaukosten partiell eingespart werden.
+
+Individuelle Prüfung notwendig, da starke Preisschwankungen; i.d.R zwischen 130-180 €/MWh (Förderung bereits eingerechnet)
+
+In <PLACE id="p148" type="" geo="DEBKGGND00001A45">Griesheim</PLACE> wird ein kleines Nahwärmenetz für die städtischen Gebäude umgesetzt (s.
+
+Abbildung 53).
+
+Die bestehende Schule wird <TIMEX3 tid="t331" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> saniert.
+
+Zudem wird ein neuer Kindergarten gebaut.
+
+Für die Wärmeversorgung ist eine Wärmepumpe mit 55 °C Vorlauftemperatur geplant.
+
+Die Wärmeenergie soll dabei dem Grundwasser entnommen werden.
+
+Ein geologisches Gutachten steht noch aus.
+
+Aufgrund der identifizierten Potenziale ist eine Nutzung von Grundwasser theoretisch gegeben.
+
+Auch die Verwendung von Erdsonden ist nicht ausgeschlossen.
+
+Die Dachflächen werden mit PV-Anlagen bestückt.
+
+Für den Stadtteil <PLACE id="p149" type="" geo="DEBKGGND00001A45">Griesheim</PLACE> ist <TIMEX3 tid="t332" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> kein Fernwärmeausbau vorgesehen.
+
+Als Maßnahme wird daher vorgeschlagen, eine Machbarkeitsstudie für ein Nahwärmenetz durchzuführen, welches die umliegenden Baublöcke in das Untersuchungsgebiet mit einbindet.
+
+Als erweitertes Untersuchungsgebiet wird das in Abbildung 54 aufgezeigtes Untersuchungsgebiet vorgeschlagen.
+
+Mit Blick auf die dortige Wärmedichte liegen einige Baublöcke innerhalb des Richtwertes für konventionelle Wärmenetze im Bestand.
+
+Die anderen Baublöcke liegen in dem Bereich empfohlen für Niedertemperaturnetze in Bestand.
+
+Die Wärmedichte der angrenzenden Baublöcke wird ebenfalls in Abbildung 54 dargestellt.
+
+Auch wenn nicht alle Baublöcke eine Wärmedichte mehr als 415 MWh/ha*<TIMEX3 tid="t333" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> aufweisen, liegen die Baublöcke in der Nähe von größeren Einzelverbrauchern (Schulen, Kindergarten) und erzeugen einen Nutzermix durch die unterschiedlichen Gebäudetypen, wobei Synergien im Wärmelastgang genutzt werden können.
+
+Zudem werden bei einem Beschluss des Nahwärmenetzes für die städtischen Gebäude sowieso Bauarbeiten durchgeführt, wodurch Kosten reduziert werden können.
+
+Auch eine Technikzentrale könnte gegebenenfalls auf dem städteeigenen Areal untergebracht werden.
+
+ Im erweiterten Untersuchungsgebiet wird überwiegend mit Heizöl und Erdgas geheizt (s.
+
+Abbildung 55).
+
+Durch ein Nahwärmenetz könnte eine hohe CO2-Einsparung erzielt werden.
+
+Zudem ist auch die Chance auf eine hohe Anschlussbereitschaft gegeben, da einige Haushalte in <TIMEX3 tid="t334" type="DURATION" value="PXY">den kommenden Jahren</TIMEX3> ihre Heizungssysteme modernisieren müssen.
+
+Der Wärmeenergieverbrauch lag <TIMEX3 tid="t335" type="DATE" value="2019">2019</TIMEX3> bei etwa 5,6 GWh/<TIMEX3 tid="t336" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> und kann bis <TIMEX3 tid="t337" type="DATE" value="2040">2040</TIMEX3> um etwa 21 Prozent reduziert werden (4,5 GWh).
+
+Einige Angaben zum erweiterten Untersuchungsgebiet werden in Tabelle 14 aufgelistet.
+
+Anzahl Gebäude: Ca.
+
+244 (235 private Haushalte, 5 GHD, 4 öffentlich) Wärmeenergieverbrauch <TIMEX3 tid="t338" type="DATE" value="2019">2019</TIMEX3>: 5,6 GWh/<TIMEX3 tid="t339" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Wärmeenergieverbrauch <TIMEX3 tid="t340" type="DATE" value="2040">2040</TIMEX3>: 4,5 GWh/<TIMEX3 tid="t341" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> (Reduktion ca. 21 %) <TIMEX3 tid="t342" type="DATE" value="PRESENT_REF">Aktuelle</TIMEX3> Energieträger: Überwiegend Heizöl und Gas (s.
+
+Tabelle 14 ) Kostensynergien: Zu prüfen, ob Tierbauarbeiten durchgeführt werden müssen bei 70% Anschlussquote: 4,0 GWh/<TIMEX3 tid="t343" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bei 70% Anschlussquote: 3,1 GWh/<TIMEX3 tid="t344" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> Untersuchungsgebiet bei <PLACE id="p150" type="" geo="DEBKGGND00001A45">Griesheim</PLACE> Energieträgerverteilung Tabelle 15 liefert einige Kennwerte zur Machbarkeitsstudie vom Untersuchungsgebiet in Zell-Weierbach.
+
+Bei der Realisierung des Nahwärmenetzes könnten bis <TIMEX3 tid="t345" type="DATE" value="2040">2040</TIMEX3> <TIMEX3 tid="t346" type="SET" freq="EVERY" value="P1Y">jährlich</TIMEX3> mehr als 1.300 t CO2 eingespart werden.
+
+Kosten Machbarkeitsstudie Ca.
+
+170.000 - 200.000 € davon werden 50 % gefördert Verantwortlicher Akteur <PLACE id="p151" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> Zeithorizont Machbarkeitsstudie <TIMEX3 tid="t347" type="DURATION" value="P1Y">1 Jahr</TIMEX3> (+ <TIMEX3 tid="t348" type="DURATION" value="P1Y">1 Jahr</TIMEX3> Verlängerung möglich) Bei Realisierung des Projektes CO2-Einsparung größer 1.300 t CO2/<TIMEX3 tid="t349" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bis <TIMEX3 tid="t350" type="DATE" value="2040">2040</TIMEX3> Wärmegestehungskosten Zielwert bei Realisierung 70 % Anschlussquote Individuelle Prüfung notwendig, da starke Preisschwankungen; i.d.R zwischen 130-180 €/MWh (Förderung bereits eingerechnet)
+
+Die Wärmeversorgung <PLACE id="p152" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> geht davon aus, dass bis <TIMEX3 tid="t351" type="DATE" value="2040">2040</TIMEX3> der Anteil von Fernwärme bereitgestellte Wärme um das 16fache ansteigen kann.
+
+Im <TIMEX3 tid="t352" type="DATE" value="2019">Jahr 2019</TIMEX3> wurden in etwa 20 GWh bereitgestellt, im <TIMEX3 tid="t353" type="DATE" value="2040">Jahr 2040</TIMEX3> soll dieser Wert auf 327 GWh anwachsen.
+
+Um die Vorgaben der Kommunalen Wärmeplanung einzuhalten, muss die <TIMEX3 tid="t354" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Versorgung jedoch klimaneutral erfolgen.
+
+<TIMEX3 tid="t355" type="DATE" value="PRESENT_REF">Aktuell</TIMEX3> wird der größte Anteil der Fernwärme über effiziente, erdgasbetriebene Blockheizkraftwerke produziert.
+
+Für eine klimaneutrale Wärmeversorgung müssen erneuerbare Energien zur Wärmeproduktion eingesetzt werden.
+
+Erste Ansätze dazu wurden bereits im Unterkapitel 5.2 genannt.
+
+Über eine detaillierte Analyse der vorhandenen Potenziale für erneuerbare Energien in <PLACE id="p153" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> und in der Region bei Berücksichtigung des <TIMEX3 tid="t356" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Wärmebedarfs soll eine Roadmap zum Umbau der Fernwärme entwickelt werden.
+
+Diese soll aufzeigen, welche Technologien wo zum Einsatz kommen können, eine grobe Zeitplanung aufstellen, sowie die voraussichtlichen Investitionskosten für Anlagen und den Umbau und die geplante Erhöhung der Wärmeproduktion aufführen.
+
+Dabei soll ebenfalls hinterfragt werden, ob die angestrebte Energiemenge tatsächlich erreicht werden kann und, ob gegebenenfalls noch eine größere Wärmemenge seitens der WVO im <TIMEX3 tid="t357" type="DATE" value="2040">Jahr 2040</TIMEX3> bereitgestellt werden könnte.
+
+Der Förderantrag für den sogenannte „Transformationsplan“ wird von der WVO bei der verantwortlichen Förderstelle noch in <TIMEX3 tid="t358" type="DATE" value="2023">2023</TIMEX3> gestellt, damit in <TIMEX3 tid="t359" type="DATE" value="2024">2024</TIMEX3> die Roadmap zum Umbau auf eine klimaneutrale Fernwärme erstellt werden kann.
+
+Kosten für Roadmap Ca.
+
+120.000 - 160.000 € Verantwortlicher Akteur Wärmeversorgung <PLACE id="p154" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> Zeithorizont Start <TIMEX3 tid="t360" type="DATE" value="2024-Q2">Q2/2024</TIMEX3> (Ausarbeitung <TIMEX3 tid="t361" type="DURATION" value="P1Y" mod="APPROX">ca. 1 Jahr</TIMEX3>) CO2-Einsparung Keine direkte Einsparung Ziel Detaillierte Roadmap
+
+Eine zentrale Rolle in der Wärmewendestrategie für <PLACE id="p155" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> kommt dem Aus- und Umbau der Fernwärme zu, was bereits bei der Fortschreibung des KSK <PLACE id="p156" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> ausgeführt wurde.
+
+Im <TIMEX3 tid="t362" type="DATE" value="2019">Jahr 2019</TIMEX3> wurden etwa 21 GWh Wärme über das Fernwärmenetz verteilt.
+
+Im <TIMEX3 tid="t363" type="DATE" value="2022">Jahr 2022</TIMEX3> lag der Anteil bereits bei etwa 35 GWh.
+
+Der Fernwärmeausbau in <PLACE id="p157" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> schreitet massiv voran und wird sich voraussichtlich in <TIMEX3 tid="t364" type="DURATION" value="PXY">den nächsten Jahren</TIMEX3> weiterhin beschleunigen.
+
+Die Nachfrage ist ungebrochen hoch.
+
+Bis <TIMEX3 tid="t365" type="DATE" value="2027">2027</TIMEX3> soll in etwa 103 GWh/<TIMEX3 tid="t366" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> der Wärmeenergie über das Fernwärmenetz verteilt werden.
+
+Dafür muss die Ausbaugeschwindigkeit bis <TIMEX3 tid="t367" type="DATE" value="2027">2027</TIMEX3> deutlich zunehmen (auf etwa 14 % <TIMEX3 tid="t368" type="SET" freq="EVERY" value="P1Y">pro Jahr</TIMEX3>).
+
+Wie sich die Fernwärme in den einzelnen Stadtteilen in etwa verteilt, ist in Abbildung 56 dargestellt.
+
+Nach Schätzungen der WVO belaufen sich die Kosten dafür auf etwa 60-70 Mio. Euro.
+
+Investitionskosten 30-35 Mio. €  Verantwortlicher Akteur Wärmeversorgung <PLACE id="p158" type="" geo="DEBKGGND000019E2">Offenburg</PLACE> Zeithorizont <TIMEX3 tid="t369" type="DATE" value="2023">2023</TIMEX3>-<TIMEX3 tid="t370" type="DATE" value="2027">2027</TIMEX3> CO2-Einsparung Noch nicht bekannt  Energieeinsparung - Zielwert  Wärmebereitstellung von 103 GWh im <TIMEX3 tid="t371" type="DATE" value="2027">Jahr 2027</TIMEX3>
+
+Bereits seit <TIMEX3 tid="t372" type="DURATION" value="PXY">einigen Jahren</TIMEX3> läuft erfolgreich die städtische Kampagne zur energetischen Gebäudesanierung „Klimafit im Quartier“.
+
+Darüber hinaus wird <TIMEX3 tid="t293" type="SET" quant="X" freq="EVERY" value="P1Y">mehrfach im Jahr</TIMEX3> über Veranstaltungen und Aktionstage über die Heizungsmodernisierung und Fernwärmeentwicklung informiert.
+
+Dies soll fortgeführt werden und durch zielgruppenspezifische Formate weiterentwickelt werden.
+
+Dabei können auf Basis der Bestandsanalyse der Kommunalen Wärmeplanung Quartiere mit hohem Heizölanteil und hohem Sanierungsbedarf priorisiert werden.
+
+Die im Rahmen der Wärmeplanung erarbeiteten Grundlagen auf Stadtteilebene bieten einen guten Anhaltspunkt für Themenschwerpunkte für Kampagnen und Aktionen im Quartier.
+
+In Tabelle 18 werden die zu erwartenden Kennwerte aus den Kampagnen aufgeführt.
+
+Kosten für Kampagne Ca.
+
+100.000 € Verantwortlicher Akteur <PLACE id="p159" type="" geo="DEBKGGND000019E2">Stadt Offenburg</PLACE> Zeithorizont Durchgehend  CO2-Einsparung Etwa 3.000 t CO2 im Sektor private Haushalte bei  angestrebter Sanierungsrate Energieeinsparung Etwa 4 GWh/<TIMEX3 tid="t356" type="SET" freq="EVERY" value="P1Y">a</TIMEX3> bei privaten Haushalten und angestrebter  Sanierungsrate und tiefe Angestrebter Indikatorwert Der Beratungsansatz soll dabei einen ganzheitlichen Sanierungsfahrplan zur stufenweisen klimaneutralen Wärmeversorgung durch energetische Sanierung und Nutzung erneuerbarer Energie darstellen.
+
+Als Grundlage soll der folgende Ansatz verwendet werden: (1) Energie einsparen, (2) Energieeffizienz erhöhen (3) Erneuerbare Energien nutzen (vgl. Abbildung 57).
+
+
+
+
+
+
+
+</TEXT></TimeML>

@@ -1,0 +1,1293 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>05_2024_cc_dekarblnd_tb1</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2024-05-01" temporalFunction="false" functionInDocument="CREATION_TIME">2024-05-01</TIMEX3></DCT>
+<TEXT>Zur Erreichung der Pariser Klimaziele ist es notwendig, die industrielle Produktion auf klimaneutrale Prozesse umzustellen.
+
+Hierfür werden laufend neue Technologien erforscht oder bereits getestet1.
+
+Auf dem Weg vom Labor- zum Demonstrationsmaßstab werden diese bisher vor allem nach technischökonomischen Kriterien bewertet2.
+
+Für eine nachhaltige Entwicklung sind jedoch auch zahlreiche andere Umwelt- und Nachhaltigkeitsaspekte relevant, wie in den seit <TIMEX3 tid="t1" type="DATE" value="2015">2015</TIMEX3> weltweit gültigen Sustainable Development Goals (UN <TIMEX3 tid="t2" type="DATE" value="2019">2019</TIMEX3>) zum Ausdruck kommt.
+
+Deshalb ist eine ganzheitliche Betrachtung angebracht, bei der neben technoökonomischen Kriterien auch ökologische, soziale und systemische Aspekte berücksichtigt werden.
+
+Hierfür wurde im Rahmen des DekarbInd-Projekts eine entsprechende Methode entwickelt und in ein Excel-Tool implementiert, die in diesem Bericht dargestellt wird.
+
+Neben der Höhe der Treibhausgaseinsparungen wurden elf weitere Kriterien definiert, die dabei helfen, Technologien in einem frühen Planungs- und Entwicklungsstadium ganzheitlich zu bewerten.
+
+Die Methode ist also kein Entscheidungsinstrument im klassischen Sinne.
+
+Vielmehr dient sie dazu, <TIMEX3 tid="t3" type="DATE" value="FUTURE_REF">langfristige</TIMEX3> Entwicklungen zu berücksichtigen und mögliche Einschränkungen und Konflikte frühzeitig zu erkennen, indem diese aus einer ganzheitlichen Perspektive betrachtet werden.
+
+Im Anhang wird die Methode beispielhaft für Technologien im Stahl- und Zementsektor getestet; sie kann und sollte aber auch auf andere Technologien angewendet werden.
+
+Kernstück der Methode ist ein Kriterienraster mit zugehörigen Indikatoren, anhand derer eine vergleichende Bewertung für Technologien durchgeführt wird.
+
+Das Kriterienraster ist in vier Bewertungsblöcke unterteilt.
+
+► Der erste Block dient der Bewertung des Einsatzhorizonts einer Technologie.
+
+Dementsprechend wird das Kriterium der technischen Verfügbarkeit mit quantitativen Indikatoren zur technologischen Reife (TRL) beschrieben.
+
+► Der zweite Block enthält Effizienzkriterien, deren zugehörige quantitative Indikatoren jeweils mit einer Formel erfasst und mit einem konkreten Wert versehen werden.
+
+► Der dritte und vierte Block enthält Kriterien, deren zugehörige Indikatoren semiquantitativ erfasst werden, d. h. die Bewerter vergeben einen Wert auf einer Skala von 1 - 6 im Sinne einer Schulnote.
+
+Tabelle 1 gibt einen Überblick über die Kriterien und ihre Indikatoren.
+
+Die Methode wird in drei Schritten angewendet.
+
+► (1) Im ersten Schritt werden die zuvor vorgestellten Kriterien für einzelne Technologien und/oder technische Maßnahmen erfasst.
+
+► (2) Der zweite Schritt ist dann ein Vergleich für mehrere Technologien innerhalb einer abgrenzbaren Gruppe (z.B. „CO2arme Technologien zur Erzeugung von Dampf“).
+
+Für einen visuellen Vergleich wird ein Ampelschema mit den Farben grün, gelb oder rot verwendet.
+
+Die Arithmetik für die Zuweisung einer Farbe hängt von der Art des Indikators ab und ist im Bericht näher erläutert.
+
+Dieser Schritt ermöglicht es, erste Erkenntnisse aus den Unterschieden der Werte abzuleiten.
+
+► (3) Im dritten Schritt werden die Ergebnisse interpretiert.
+
+Dazu werden die Gesamtergebnisse eingeordnet, visualisiert und interpretiert, um positive und problematische Aspekte der betrachteten Technologien zu identifizieren.
+
+Daraus lassen sich dann Maßnahmen und/oder weitere Schritte ableiten.
+
+Beispiel: Technologie A ist sehr effizient und schneidet bei vielen Indikatoren gut ab, aber der technologische Reifegrad ist niedrig.
+
+Eine mögliche Maßnahme wäre dann, die F und E-Aktivitäten zu intensivieren, um den Reifegrad schneller zu erhöhen; dafür könnten z. B. Fördermittel bereitgestellt werden.
+
+Für die Darstellung der Bewertung eignen sich „Steckbriefe“ und/oder Kurzberichte, wobei die betrachtete Technologie zu Beginn kurz beschrieben werden sollte, einschließlich ihres Entwicklungsstandes und erforderlicher Grundinformationen.
+
+Dabei ist zu beachten, dass das Kriterienraster ein Idealkonzept ist und nicht immer eins zu eins angewendet werden kann und muss.
+
+Je nach Kontext kann sich die Anwendung im Detail quasi nach dem „formfollowsfunction“-Prinzip unterscheiden und/oder einzelne Kriterien aus gutem Grund unberücksichtigt lassen.
+
+Die im Anhang vorgestellten Tests für Technologien im Stahl- und Zementbereich vermitteln einen Eindruck davon, da sie sich in Anwendung und Kontext durchaus unterscheiden.
+
+Wichtig ist, die Datengrundlage und die Gründe, warum welche Indikatoren wie bewertet werden, detailliert und nachvollziehbar zu dokumentieren.
+
+Die Grundlage dafür bilden eine Literaturanalyse und Expertenwissen.
+
+Bei vielen Kriterien ist es zudem notwendig, das Expertenwissen in eine Expertenbewertung umzusetzen, z. B. durch die Vergabe einer Note.
+
+Bei der Interpretation der Bewertungsergebnisse sollte daher stets bedacht werden, dass die subjektiven Einschätzungen der Bewerterinnen und Bewerter einen erheblichen Einfluss auf die Ergebnisse haben, was aber auch erwünscht ist, da sich die Methode in erster Linie an Experten richtet.n
+Im Rahmen der Dekarbonisierung der Grundstoffindustrie ist eine Reihe von technischen Maßnahmen in Erforschung oder bereits in Erprobung, mit denen, wie es der Name schon andeutet, die CO2-Emissionen des Industriesektors vermieden oder zumindest erheblich gesenkt werden sollen3.
+
+Überlicherweise werden diese im Zuge der Entwicklung von Labor- zu Demonstrationsmaßstab nur mit technoökonomischen Kriterien bewertet4.
+
+Im Rahmen einer Nachhaltigen Entwicklung, die z. B. durch die seit <TIMEX3 tid="t6" type="DATE" value="2015">2015</TIMEX3> weltweit gültigen Sustainable Development Goals (UN <TIMEX3 tid="t7" type="DATE" value="2019">2019</TIMEX3>) oder die Nachhaltigkeitsanforderungen der Bundesregierung (Bundesregierung <TIMEX3 tid="t8" type="DATE" value="2018">2018</TIMEX3>) ausgedrückt wird, sind jedoch auch eine Vielzahl anderer Umwelt- und Nachhaltigkeitswirkungen zu beachten.
+
+Es bedarf daher einer ganzheitlichen Bewertung unter Beachtung technologischer, ökonomischer, ökologischer, sozialer und gesamtsystemarer Folgen.
+
+Dies gilt um so mehr für in Entwicklung befindliche Technologien, die – wie im Industriesektor – angesichts langer Re-Invesitionszyklen erst nach und nach in einem länger dauernden Transformationsprozess umgesetzt werden.
+
+Hier sollte frühzeitig eine ganzheitliche Bewertung durchgeführt werden, um mögliche kritische Auswirkungen einzelner Technologien zu erkennen und ggf. schon im technischen Entwicklungsprozess gegensteuern zu können.
+
+Aber auch für die Entwicklung von Technologie-Roadmaps zur Umsetzung der Dekarbonisierungsmaßnahmen ist eine ganzheitliche Bewertung <TIMEX3 tid="t9" type="DATE" value="FUTURE_REF">zukünftiger</TIMEX3> Technologien hilfreich, um die optimalen Technologien kombinieren zu können.
+
+Dabei kommt es nicht darauf an, Technologien gegeneinander zu gewichten und möglicherweise auszuschließen, sondern es sollen ihre Vor- und Nachteile sowie ihre Chancen und Risiken dargestellt werden.
+
+In diesem Arbeitspaket wird daher eine einfach anzuwendende, branchenübergreifende Methodik zur Bewertung von Dekarbonisierungsmaßnahmen und techniken in der Grundstoffindustrie erarbeitet.
+
+Ausgehend vom primären Untersuchungszweck – der Dekarbonisierung, gemessen an der Höhe der Treibhausgas(THG)-Einsparung – werden eine Reihe weiterer Kriterien und Indikatoren definiert, die die (<TIMEX3 tid="t10" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3>) Performance der Technologien aus ökologischer, ökonomischer, technischer und systemarer Sicht abbilden können.5 Der Anforderungsgrad zur Anwendung der Methodik orientiert sich dabei an Personen, die Politikmaßnahmen im Themenbereich „Industrielle Transformation“ entwickeln und evaluieren.
+
+Das ausgearbeitete Bewertungsschema hat zwei Zielgruppen: ► Es wird primär zur Bewertung potenzieller Dekarbonisierungsmaßnahmen und techniken für die Stahl- und Zementindustrie entwickelt, wo es im Laufe des Projekts in den entsprechenden AP 2 und AP 3 angewendet wird.
+
+► Darüber hinaus soll es dem Auftraggeber ermöglichen, im Anschluss an das laufende Projekt auch Dekarbonisierungsmaßnahmen anderer Branchen der Grundstoffindustrie zu bewerten.
+
+Dementsprechend wird das Bewertungskonzept so allgemein wie möglich gehalten, ohne dabei die Aussagekraft der zentralen Kriterien und Indikatoren zu sehr einzuschränken.
+
+In diesem Projekt stehen zunächst Dekarbonisierungs-Technologien im Stahl- und Zementsektor im Vordergrund.
+
+Vor der in den AP 2 und 3 stattfindenden Erarbeitung von Eckpunkten möglicher Roadmaps werden Technologien aus diesen Sektoren mit dem Kriterienraster bewertet.
+
+Bei der Entwicklung des Rasters wurde jedoch berücksichtigt, dass es – wie oben beschrieben – auch auf andere Technologien angewendet werden soll.
+
+Abbildung 1 zeigt eine Liste von Dekarbonisierungstechnologien, die mit dem vorliegenden Schema untersucht werden könnten, um Technologie-Roadmaps für die Dekarbonisierung der Stahl- und/oder Zementindustrie zu erstellen.
+
+Dabei werden die dargestellten Basistechnologien weiter nach der Art des möglichen Energiebezugs differenziert.
+
+So kann die Stahlproduktion mit der wasserstoffbetriebenen DRI-Methode den benötigten Wasserstoff entweder von externen Anbietern einkaufen oder den Wasserstoff vor Ort (im Stahlwerk) selber herstellen, wofür Strom oder Erdgas bezogen werden müsste.
+
+Je nach Standpunkt liegt der Energieverbrauch somit innerhalb oder außerhalb einer gewählten Systemgrenze.
+
+In der Abbildung ist dies beispielhaft bei den Technologien „1.1.2 Einsatz von Wasserstoff“ oder „1.2.1 Externer Erdgasbezug“ dargestellt.
+
+Zur Bewertung von Technologien gibt es verschiedene Methoden, z. B. die Durchführung von SWOT-Analysen6 oder eine „reine“ MC(D)A (Multicriteria (Decision) Analysis), in der Technologien mittels gewichteter Indikatoren bewertet und anschließend nach Priorität sortiert werden.
+
+Diese oder ähnliche Methoden werden für das hier zu entwickelnde Bewertungsverfahren außen vor gelassen, da sich die hier betrachteten Technologien noch weitgehend in der Entwicklung befinden.
+
+Es wird daher nicht für sinnvoll und auch nicht für praktikabel (Datenverfügbarkeit) gehalten, in diesem frühen Stadium schon eine Reihenfolge von zu bevorzugenden Technologien vorzugeben und damit gewisse Technologien auszuschließen.
+
+Vielmehr soll eine technologieoffene Bewertung ermöglicht werden, indem für die hier in Frage kommenden Technologien ihre Vor- und Nachteile sowie ihre möglichen Chancen und Risiken dargestellt werden.
+
+Dadurch, dass eine möglicherweise eher schlecht bewertete Technologie nicht direkt ausgeschlossen wird, sondern nachvollziehbar die Gründe für ihr schlechteres Abschneiden aufgezeigt werden, besteht die Möglichkeit, Entwicklungsprozesse zu ihrer Verbesserung anzustoßen.
+
+Es wird daher eine „vergleichende multikriterielle Bewertung“ durchgeführt, mittels derer die Technologien mit den im Folgenden dargestellten Kriterien und ihren Indikatoren bewertet und in ihren jeweiligen Gruppen miteinander verglichen werden.
+
+Mit einem ausgeklügelten „Ampelsystem“ wird anschließend visualisiert, wie die Technologien hinsichtlich welcher Kriterien im Vergleich abschneiden, so dass eine direkte Einschätzung „auf den ersten Blick“ möglich wird.
+
+Das entwickelte Kriterienset besteht aus den vier Dimensionen „Technologie“, „Umwelt“, „Ökonomie“ und „Systemaspekte“ und umfasst insgesamt 12 Bewertungskriterien (Abbildung 2).
+
+Diese werden im nachfolgenden Kapitel 3 detailliert vorgestellt.
+
+In die Ableitung der Kriterien (und der nachfolgend gezeigten Indikatoren) sind die Anforderungen des Auftraggebers, die Erfahrung des Projektteams, Bewertungen von Technologien in anderen Forschungsprojekten sowie insbesondere die Charakteristiken der hier im Vordergrund stehenden Verfahren und Prozesse der Grundstoffindustrie eingegangen.
+
+Zudem soll das Verfahren einfach anwendbar sein und eine schnelle Ersteinschätzung ermöglichen.
+
+Bei der Durchführung der Bewertung muss beachtet werden, mit welcher Systemgrenze gearbeitet wird.
+
+Wird z. B. nur der Betrieb betrachtet, wo die betrachtete Technologie installiert wird, wäre der Energieverbrauch in Kilowattstunden Endenergie (z.
+
+B. Wasserstoff, Strom oder Wärme) zu bilanzieren.
+
+Wird jedoch auch die Vorkette, d. h. die Herstellung der bezogenen Energie, betrachtet, wäre die Bezugsgröße die Primärenergie, was bei grünem Wasserstoff oder Ökostrom der Einsatz erneuerbarer Energien wäre.
+
+Die Definition dieser Ebenen erfolgt in Anlehnung an die Vorgaben der internationalen GHG Protocol Initiative für die Bilanzierung von THG-Emissionen (Greenhouse Gas Protocol <TIMEX3 tid="t11" type="DATE" value="2020">2020</TIMEX3>).
+
+Der „GHG Protocol Corporate Accounting and Reporting Standard“7 legt Anforderungen und Richtlinien für Unternehmen und andere Organisationen fest, die ein unternehmensweites Treibhausgas-Emissionsinventar erstellen.
+
+Dabei werden die THG-Emissionen in drei Bereiche unterteilt, die sogenannten Scopes 1, 2 und 3: ► Scope 1 (GHG Protocol) umfasst direkte THG-Emissionen, die aus Quellen entstehen, die sich im Besitz oder unter der Kontrolle des Unternehmens befinden, z. B. Emissionen aus der Verbrennung in eigenen oder kontrollierten Kesseln, Öfen, Fahrzeugen usw.; Emissionen aus der chemischen Produktion in eigenen oder kontrollierten Prozessanlagen usw. ► Scope 2 (GHG Protocol) umfasst indirekte THG-Emissionen, die aus gekauftem Strom, der vom Unternehmen verbraucht wird, entstehen.
+
+Gekaufter Strom ist dabei definiert als Elektrizität, die gekauft oder anderweitig in die organisatorischen Grenzen des Unternehmens gebracht wird.
+
+Die Scope-2-Emissionen treten physisch in der Anlage auf, in der Strom erzeugt wird (also z. B. dem Kraftwerk).
+
+► Scope 3 (GHG Protocol) umfasst alle anderen indirekten THG-Emissionen.
+
+Scope-3-Emissionen sind eine Folge der Aktivitäten des Unternehmens, entstehen aber aus Quellen, die nicht im Besitz oder unter der Kontrolle des Unternehmens sind.
+
+Einige Beispiele für Scope-3-Aktivitäten sind die Gewinnung und Produktion von eingekauften Materialien, der Transport von eingekauften Brennstoffen und die Verwendung von verkauften Produkten und Dienstleistungen.
+
+Zur Technologiebewertung in diesem Projekt werden hieraus zwei Bewertungsebenen abgeleitet (Abbildung 3): ► Bewertungsebene 1: Analog zu Scope 1 berücksichtigt die Ebene 1 nur den Ort der Installation selber, d. h. ein Stahlwerk oder ein Zementwerk.
+
+Es werden also die bezogene Endenergie, die durch die Technologie im Unternehmen entstehenden THG-Emissionen oder die Anlagensicherheit im Unternehmen bewertet.
+
+► Bewertungsebene 2: Analog zu Scope 2 umfasst die Ebene 2 indirekte Wirkungen, die durch den Bezug der Endenergie verursacht werden.
+
+Hier werden somit die benötigte Primärenergie oder die durch den Bezug der Endenergie verursachten THG-Emissionen bilanziert.
+
+Aber auch eine Reihe weiterer Kriterien bezieht sich auf diese Ebene außerhalb des Unternehmens.
+
+Im Unterschied zu der ursprünglichen Bedeutung von Scope 2 umfasst die Bewertungsebene 2 zusätzlich auch die Bewertungsebene 1.
+
+Letztere ist also eine Teilmenge dieser.
+
+Tabelle 3 zeigt, welche der hier betrachteten Kriterien für welche Ebene bewertet werden.
+
+In der rechten Spalte ist zudem angegeben, ob die Indikatoren statisch sind oder – wenn möglich – bis zum <TIMEX3 tid="t12" type="DATE" value="2050">Jahr 2050</TIMEX3> (Werte <TIMEX3 tid="t13" type="DATE" value="2020">2020</TIMEX3>, <TIMEX3 tid="t14" type="DATE" value="2030">2030</TIMEX3>, <TIMEX3 tid="t15" type="DATE" value="2040">2040</TIMEX3>, <TIMEX3 tid="t16" type="DATE" value="2050">2050</TIMEX3>) fortgeschrieben werden sollen.
+
+Autoren und Autorinnen: Jacqueline Klingen, Peter Viebahn Im Folgenden wird dargestellt, in welchen Schritten die Bearbeiter und Bearbeiterinnen die Technologiebewertung durchführen und anschließend visualieren sollten.
+
+Den Kern der Bewertung bildet dabei das in Kapitel 3 beschriebene Kriterienraster.
+
+Die einzelnen Bewertungsschritte sollen für jede Technologiegruppe und die in ihr enthaltenen Technologien in einem „Steckbrief“ (oder Kurzbericht) dargestellt werden.
+
+Insbesondere ist hier die Datengrundlage detailliert und nachvollziehbar zu dokumentieren, die zu den jeweiligen Bewertungsergebnissen führt.
+
+Bei der Beschreibung des Kriterienrasters sollte beachtet werden, dass dieses ein Idealkonzept darstellt, das nicht immer ein zu eins angewendet werden kann: ► Gerade bei neuen, in der Entwicklung befindlichen Technologien kann es vorkommen, dass bestimmte Daten nicht vorhanden sind, so dass ggf. einzelne Kriterien nicht bearbeitet werden können.
+
+Dies ist jeweils darzustellen.
+
+► Auch kann es vorkommen, dass Indikatoren nur für den Ist-Zustand („Status im <TIMEX3 tid="t17" type="DATE" value="2020">Jahr 2020</TIMEX3>“) vorhanden sind, aber nicht auf <TIMEX3 tid="t18" type="DATE" value="PXY">die nachfolgenden Jahrzehnte</TIMEX3> fortgeschrieben werden können.
+
+Hier sind dann konstante Werte anzusetzen.
+
+► Da zumindest in dieser Studie nur ein begrenztes Zeitbudget für die Bewerter und Bewerterinnen zur Verfügung steht, werden keine tiefgreifenden Teilstudien für einzelne Kriterien durchgeführt werden können (z.
+
+B. hinsichtlich der Ermittlung der spezifischen Kosten „nach Lehrbuch“ oder der Berechnung von Risiken).
+
+Je nach Datenverfügbarkeit müssen ggf. grobe Abschätzungen getroffen werden.
+
+In diesen Fällen sollte gleichzeitig dargestellt werden, welche Detailstudien zur genaueren Bewertung benötigt werden.
+
+► Im Wesentlichen wird eine Literaturanalyse und eigenes Expertenwissen, ergänzt um Diskussionen mit Fachexperten (z.
+
+B. in den Kerngruppen), die Grundlage für die Bewertung bilden.
+
+Das Vorgehen erfolgt in zwei Abschnitten 1.
+
+Abschnitt: Beschreibung der betrachteten Technologien (Entwicklungsstand) 2.
+
+Abschnitt: Bewertung der betrachteten Technologien Zu Beginn jedes Steckbriefs oder Kurzberichts sollte die betrachtete Technologie kurz beschrieben werden.
+
+Dabei soll neben ihrer grundlegenden Funktionsweise insbesondere ihr Entwicklungsstand (Status) erläutert und anhand des Technology Readyness Levels (TRL) eingestuft werden (zur Definition des TRL siehe Tabelle 15 in der Beschreibung des Kriteriums 1).
+
+Ebenso sollten grundlegende Informationen bereitgestellt werden, die für die Bewertung mittels der nachfolgend beschriebenen Kriterien benötigt werden.
+
+Die Bewertung erfolgt in drei Schritten, die nachfolgend beschrieben werden: ► Bewertungsschritt 1: Bewertung einer einzelnen Technologie mit den jeweiligen Kriterien Die Konzentration auf einzelne Kriterien ermöglicht ein strukturiertes Arbeiten und eine transparente Anwendung des Kriteriums auf die jeweilige Technologie.
+
+► Bewertungsschritt 2: Vergleich der Technologien einer Gruppe mit Visualisierung Die kombinierte Darstellung mehrerer Technologien einer Gruppe ermöglicht einen Vergleich hinsichtlich des jeweiligen Indikators und die Diskussion möglicher Abweichungen innerhalb einer Technologiegruppe.
+
+► Bewertungsschritt 3: Einordnung der Gesamtergebnisse mit Visualisierung und Interpretation Die Kombination der Kriterien ermöglicht eine ganzheitliche Bewertung.
+
+Durch die Darstellung in einem Gesamtschema wird ein schnelles Erkennen von positiven und von eher problematischen Aspekten innerhalb einer Technologiegruppe möglich.
+
+In diesem ersten Bewertungsschritt erfolgt die eigentliche Technologiebewertung mit den in Abbildung 2 genannten Kriterien.
+
+Jedem Kriterium sind ein oder mehrere Indikatoren zugeordnet, die von den Bearbeitenden systematisch erfasst werden.
+
+Eine detaillierte Beschreibung der Vorgehensweise für jedes Kriterium findet sich in Kapitel 3.
+
+Die Kriterien und Indikatoren sind vier Bewertungsblöcken zugeteilt (Tabelle 4).
+
+Diese Unterteilung ist die Basis für die nachfolgende Visualisierung, die je nach Bewertungstyp spezifisch aufgebaut wird.
+
+► In Bewertungsblock 1 wird die (groß)technische Verfügbarkeit mit einer Jahreszahl erfasst.
+
+► Bewertungsblock 2 enthält quantitative Kriterien, die jeweils mit einer Formel beschrieben werden.
+
+► Die Kriterien der Bewertungsblöcke 3 und 4 werden semiquantitativ erfasst, d. h. die Bearbeitenden vergeben jeweils einen Wert auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Im Anschluss an die Bewertung werden die ermittelten Werte für jede Technologie in das bereitgestellte Excel-Tool eingetragen.
+
+Dieses ist Voraussetzung zur automatisierten Ermittlung der Farbskala (Ampelschema).
+
+Im zweiten Bewertungsschritt werden die Technologien hinsichtlich der jeweiligen Kriterien miteinander verglichen.
+
+Dies ist jedoch nur innerhalb einer Technologiegruppe möglich, da nur Technologien verglichen werden können, die gegeneinander austauschbar sind.
+
+Je nach Bewertungsblock (Tabelle 4) erfolgt die vergleichende Bewertung und Visualierung nach unterschiedlichen Regeln, die im Folgenden beschrieben werden.
+
+Hierfür wird eine Methode verwendet, die im Projekt MENA-Fuels entwickelt (Zelt et al. <TIMEX3 tid="t19" type="DATE" value="2020">2020</TIMEX3>) und für die Zwecke von DekarbInd erweitert wurde.
+
+Die Visualisierung wird in dem erwähnten Excel-Tool vollautomatisch geschehen, so dass die nachfolgende Beschreibung mehr zur Information als zur eigenen Durchführung dient.
+
+Der 1.
+
+Block besteht nur aus dem Kriterium 1.
+
+Dieses dient keinem „besserschlechter-Vergleich“, sondern soll – ausgehend vom <TIMEX3 tid="t20" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Status der betrachteten Technologie – aufzeigen, wann die Technologie einsatzbereit ist im Sinne von „großskalig kommerziell verfügbar“.
+
+Das Kriterium ist also ein zentrales Kriterium für die Berücksichtigung in den Roadmaps der nachfolgenden AP 2 und 3, es wird aber auch zur Auswertung im 2.
+
+Bewertungsblock benötigt.
+
+Der Indikatorwert (Jahr der großskaligen kommerziellen Verfügbarkeit) wird als Jahreszahl ausgewiesen.
+
+Der zweite Block beinhaltet solche Kriterien, mit denen eine Technologie quantitativ bewertet werden kann: ► Kriterium 2: Energieeffizienz ► Kriterium 3: THG-Effizienz ► Kriterium 4: Kosteneffizienz Im Idealfall sollten die Werte für <TIMEX3 tid="t21" type="DATE" value="2020">die Jahre 2020</TIMEX3>, <TIMEX3 tid="t22" type="DATE" value="2030">2030</TIMEX3>, <TIMEX3 tid="t23" type="DATE" value="2040">2040</TIMEX3> und <TIMEX3 tid="t24" type="DATE" value="2050">2050</TIMEX3> ermittelt werden.
+
+Liegen keine solchen Werte vor und sind auch nicht mit vertretbarem Aufwande ermittelbar, wird der <TIMEX3 tid="t25" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Wert für <TIMEX3 tid="t26" type="DATE" value="2020">2020</TIMEX3> verwendet und konstant gehalten.
+
+Die vier Werte pro Technologie werden jeweils im Format Einheit / t Output ermittelt.
+
+Um die Technologien miteinander vergleichen zu können, wird pro Kriterium ein Gesamtwert pro Technologie gebildet.
+
+Hierzu wird das arithmetische Mittel aus <TIMEX3 tid="t27" type="SET" freq="EVERY" value="P1Y">den Jahreswerten</TIMEX3> bis zum <TIMEX3 tid="t28" type="DATE" value="2050">Jahr 2050</TIMEX3> gebildet.
+
+Dabei wird aber nur ab demjenigen <TIMEX3 tid="t29" type="DATE" value="XXXX">Jahr</TIMEX3> gezählt, ab dem die Technologie großtechnisch und kommerziell verfügbar ist (ermittelt im Kriterium 1).
+
+Der somit ermittelte Gesamtwert wird innerhalb der vergleichenden Darstellung pro Kriterium in eine farbliche Ampelbewertung überführt.
+
+Hierzu wird pro Kriterium der Wertebereich aller Technologien in drei Drittel unterteilt.
+
+Die untere Grenze des Wertebereichs für jedes Kriterium bildet der jeweils niedrigste Wert, die obere Grenze der jeweils höchste Wert der miteinander im Vergleich stehenden Technologien.
+
+Werte, die im unteren Drittel des Wertebereichs liegen, werden grün, Werte innerhalb des mittleren Drittels gelb und Werte innerhalb des oberen Drittels rot dargestellt.
+
+Auf diese Weise sind gute Mittelwerte (bspw. die geringsten Kosten) grün und schlechte Mittelwerte (bspw. die höchsten THG-Emissionen) rot dargestellt.
+
+Eine Vergleichbarkeit der Werte ist somit nur innerhalb der jeweiligen Technologiegruppe möglich.
+
+Um zu vermeiden, dass geringfügige Unterschiede zwischen den Gesamtwerten der Technologien innerhalb eines Kriteriums die Darstellungsweise verzerren, werden entsprechende Werte blau markiert.
+
+Es wird von einem geringfügigen Unterschied ausgegangen, wenn die obere Grenze des Wertebereichs weniger als 10 % über der unteren Grenze des Wertebereichs liegt.
+
+Ist dies der Fall, werden alle Technologiewerte des entsprechenden Kriteriums blau markiert.
+
+Eine Ausnahme bildet der Fall, dass für Technologien keine Werte vorliegen bzw. keine Vergleichbarkeit gegeben ist.
+
+In diesem Fall wird das entsprechende Feld des Kriteriums für die Technologie grau eingefärbt und nicht innerhalb der Farbbewertung berücksichtigt.
+
+Ein Beispiel wäre, dass für eine Technologie kein Wert für die Höhe der spezifischen Kosten vorliegt (graue Einfärbung).
+
+In diesem Fall würden nur die spezifischen Kosten der anderen Technologien der Technologiegruppe in die vergleichende Darstellung eingehen.
+
+Hierbei ist anzumerken, dass auf diese Weise ein fehlender Wert die farbliche Einschätzung der anderen Technologien des Kriteriums verzerren kann.
+
+Da dieser Fall jedoch nie auszuschließen ist, wird dies im Weiteren als bekannte Unsicherheit behandelt.
+
+Tabelle 5 fasst die Charakteristika bei der Bewertung in diesem Block zusammen.
+
+Zum Schluss der Bewertung wird die ermittelte Einstufung (als Farbe) in eine vergleichende Tabelle eingetragen (Tabelle 6) (im automatisierten Excel-Tool wird dies automatisch erfolgen).
+
+In Tabelle 7 drei fiktive Technologien betrachtet, deren Bewertung mittels des quantitativen Kriteriums Energieeffizienz erfolgt ist.
+
+Die Technologien sind im <TIMEX3 tid="t30" type="DATE" value="2020">Jahr 2020</TIMEX3>, <TIMEX3 tid="t31" type="DATE" value="2040">2040</TIMEX3> und <TIMEX3 tid="t32" type="DATE" value="2030">2030</TIMEX3> großtechnisch und kommerziell verfügbar ist (TRL = 9, Werte fett markiert).
+
+Die Berechnungen für das Farbschema der in Tabelle 7 erwähnten Technologien ergibt sich aus den folgenden Teilschritten:  3.
+
+Berechnung des arithmetischen Mittels pro Technologie Technologie 1:  Technologie 2:  Technologie 3:  Der jeweilige Mittelwert bildet auf diese Weise den Gesamtwert einer Technologie.
+
+4.
+
+Festlegung des Wertebereichs Die obere Grenze des Wertebereichs wird durch Technologie 3 (Wert: 22) und die untere Grenze durch Technologie 2 (Wert: 17,5) festgelegt.
+
+Der Wertebereich umfasst somit die Zahlenspanne 17,5 bis 22.  5.
+
+Prüfung einer möglichen geringfügigen Unterscheidung der Werte innerhalb des Wetebereichs Nachdem der Wertebereich festgelegt ist, wird im nächsten Schritt geprüft, ob dieser in eine farbliche Ampelbewertung überführt wird oder ob die Werte nur eine geringfügige Unterscheidung aufweisen (blaue Markierung).
+
+Hierzu wird errechnet, um wie viel Prozent die obere Grenze des Wertebereichs von der unteren Grenze des Wertebereichs abweicht.
+
+Sind es mehr als 10 %, werden die Technologien in eine Ampelbewertung überführt.
+
+Rechnung: In diesem Fall liegt die obere Grenze ca. 25,7 % über der unteren Grenze, somit kann eine Farbeinschätzung vorgenommen werden.
+
+6.
+
+Festlegung der Drittel des Wertebereichs zur Farbeinschätzung Der Wertebereich wird für die folgende Farbeinschätzung in Drittel unterteilt.
+
+Nebenrechnung: .
+
+Errechnung des Mittleren Drittel: 17,5+1,5=19 und 22-1,5=20,5.
+
+Auf Grundlage des mittleren Drittels des Wertebereichs kann die Einteilung des Farbschemas erfolgen.
+
+Die Drittel- und die entsprechende Farbeinschätzung sind in Tabelle 8 dargestellt.
+
+Der dritte Block beinhaltet solche Kriterien, mit denen eine Technologie semiquantitativ bewertet werden kann: ► Kriterium 5: Erzeugung von Pfadabhängigkeiten (statisch) ► Kriterium 6: Risiken für die Minimierung der THG-Emissionen (statisch) ► Kriterium 7: Regionale Abhängigkeiten (statisch) ► Kriterium 8: Notwendige Rahmenbedingungen (statisch) Die Kriterien 5 bis 8 werden jeweils semiquantitativ auf einer Bewertungsskala von 1 bis 6 (angelehnt an Schulnoten) eingeschätzt.
+
+Die Optimierungsrichtung der Bewertungsskalen ist so gewählt, dass die Bewertung 1 die Erreichung des jeweiligen Optimums bedeutet, während die Bewertung 6 eine absolute Abweichung vom jeweiligen Optimum darstellt.
+
+Beispielsweise wird eine Technologie beim Kriterium 5 Erzeugung von Pfadabhängigkeiten oder Lockin-Effekten mit 1 bewertet, wenn sie das Optimum erreicht, indem die Technologie <TIMEX3 tid="t33" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> keine oder nur sehr geringe Pfadabhängigkeiten und Lockin-Effekte aufweist.
+
+Sie wird hingegen mit einer 6 bewertet, wenn sie <TIMEX3 tid="t34" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> sehr hohe Pfadabhängigkeiten aufweist.
+
+Die semiquantitativ eingeschätzten Kriterien werden anschließend farblich entsprechend ihrer Wertung auf der Bewertungsskala markiert.
+
+Gute Skalenwerte (1 und 2) werden grün, mittlere Skalenwerte (3 und 4) gelb und schlechte Skalenwerte (5 und 6) rot markiert.
+
+Tabelle 9 fasst die Charakteristika bei der Bewertung in diesem Block zusammen.
+
+In Tabelle 10 werden drei fiktive Technologien betrachtet, deren Bewertung mittels des semiquantitativen Kriteriums 5 Erzeugung von Pfadabhängigkeiten oder Lockin-Effekten erfolgt ist.
+
+Schließlich beinhaltet der vierte Block solche Kriterien, mit denen eine Technologie zwar auch semiquantitativ bewertet werden kann, die aber aus mehreren Indikatoren bestehen.
+
+► Kriterium 9: Stoffströme und Kreislaufwirtschaft (statisch) ► Kriterium 10: Infrastrukturabhängigkeit (statisch) ► Kriterium 11: Anlagensicherheit (statisch) ► Kriterium 12: Wirkungen auf Immissionsschutz und Abfallaufkommen (statisch) Die Kriterien 9 bis 12 werden grundsätzlich, wie auch bereits die Kriterien 5 – 8, semiquantitativ auf der Bewertungsskala (1 – 6) eingeschätzt.
+
+Jedoch werden sie im ersten Schritt nicht selbst auf der Bewertungsskala eingeschätzt, sondern es werden jeweils mehrere Indikatoren betrachtet.
+
+So wird beispielsweise bei Kriterium 11 Anlagensicherheit nicht die Anlagensicherheit direkt bewertet, sondern die beiden Indikatoren 11.1 und 11.2 mit ihren jeweiligen Sub-Indikatoren.
+
+Die Charakteristika bei der Bewertung in diesem Block sind in Tabelle 11 zusammengefasst.
+
+In einem zweiten Schritt wird anhand der einzelnen Indikatoren-Bewertungen eine farbliche Gesamteinschätzung des Kriteriums vorgenommen.
+
+Bei dieser Farbeinschätzung wurde von einer generellen Durchschnittsbildung der Skalenwerte abgesehen, da auf diese Weise gute und schlechte Indikatoren einander ausgleichen könnten.
+
+So könnte ein sehr hohes Risiko bei einem Indikator durch ein niedriges Risiko bei einem anderen Indikator im Durchschnitt in ein mittleres Risiko übergehen.
+
+Dies wurde vermieden, indem die Farbgebung an unterschiedliche Bedingungen geknüpft wurde, wodurch Handlungsbedarfe stärker hervorgehoben und besonders kritische Einschätzungen einzelner Indikatoren auch in der Gesamtbewertung wiedergespiegelt werden.
+
+Die Grundlage für die Farbeinschätzung ist in Tabelle 12 dargestellt.
+
+Diese Kenntlichmachung besonders kritischer Einstufungen stellt eine konstruktive Alternative zu einem möglichen Ausschluss einer Technologie dar.
+
+Durch die farbliche Hervorhebung werden in jedem Fall auf die kritischen Aspekte der Technologie deutlich hingewiesen, so dass individuell entschieden werden kann, ob eine Technologie trotz eines „Extremwertes“ bei einem Kriterium verwendet werden sollte.
+
+Alternativ könnte ein Kriterium als Ausschlusskriterium eingestuft werden, falls eine derart kritische Bewertung auftauchen würde.
+
+In Tabelle 13 werden zwei fiktive Technologien betrachtet, deren Bewertung mittels des semiquantitativen Kriteriums 11.1 Anlagensicherheit (Stoffbezogene Indikatoren) erfolgt ist.
+
+Schließlich erfolgt im 3.
+
+Bewertungsschritt eine vergleichende Gesamtbewertung aller Technologien einer Gruppe.
+
+Zu diesem Zwecke werden die im vorherigen Bewertungsschritt ermittelten Farbeinschätzungen in eine Gesamtdarstellung überführt.
+
+Eine fiktive Beispielbewertung ist in Abbildung 4 dargestellt.
+
+Mithilfe dieser zusammenfassenden Darstellung kann auf den ersten Blick gesehen werden, welche Technologien im Vergleich wie oft und bei welchem Kriterium wie abschneiden.
+
+Die Jahreszahl wird neben der Farbe des Kriteriums 1 auch gleichzeitig als Zahl wiedergegeben, da sie zentral für die Einschätzung ist, wann eine Technologie für eine Roadmap eingesetzt werden könnte.
+
+Im gezeigten Beispiel ist die Technologie 1 bereits einsatzfähig („<TIMEX3 tid="t35" type="DATE" value="2020">2020</TIMEX3>“).
+
+Die Technologie 3, die ab <TIMEX3 tid="t36" type="DATE" value="2030">dem Jahr 2030</TIMEX3> einsatzfähig ist, unterscheidet sich deutlich hinsichtlich der Kriterien 6 und 9 bis 12. Die Technologie 2 wird erst <TIMEX3 tid="t37" type="DATE" value="2040">2040</TIMEX3> einsatzfähig sein und wird in den meisten Fällen noch einmal besser als Technologie 2 eingeschätzt.
+
+Eine mögliche Schlussfolgerung beim Entwickeln einer Roadmap könnte daher sein, dass zunächst (übergangsweise) Technologie 1 eingesetzt wird, die Technologien 3 und 4 übersprungen werden und ab <TIMEX3 tid="t38" type="DATE" value="2040">2040</TIMEX3> die Technologie 4 als finale Technologie verwendet wird.
+
+Eine andere Option könnte sein, anstatt der neuen Technologie 1 zunächst weiterhin die installierte konventionelle Technologie zu nutzen und im <TIMEX3 tid="t39" type="DATE" value="2030">Jahr 2030</TIMEX3> direkt die Technologie 4 einzusetzen.
+
+Bei Technologie 4 sind zwar „gelbe“ und „rote“ Einstufungen (Kriterien 2, 9 und 11) vorhanden, aber ggf. wäre es in <TIMEX3 tid="t40" type="DURATION" beginPoint="t39" endPoint="t40" value="P10Y">der verbleibenden Zeit</TIMEX3> (<TIMEX3 tid="t41" type="DATE" value="2020">2020</TIMEX3>-<TIMEX3 tid="t42" type="DATE" value="2030">2030</TIMEX3>) möglich, die Technologie in der Hinsicht weiterzuentwickeln, so dass auch hier „grüne“ Bewertungen erreicht werden können.
+
+In jedem Fall müssen beim Roadmapping natürlich auch die Detailbewertungen aus dem Steckbrief / dem Kurzbericht zuhilfe genommen werden, so dass in kritischen Fällen die Gründe für die Einstufung nachvollzogen werden können.
+
+Autoren: Peter Viebahn, Ali Aydemir, Andreas Pastowski, Sören Steger Dieses Kriterium bestimmt die Reihenfolge, in der die betrachteten Technologien innerhalb einer Roadmap eingesetzt werden können.
+
+So kann es auch möglich sein, zunächst eine bereits verfügbare und schon erheblich emissionsreduzierende (Übergangs-) Technologie einzusetzen und z. B. ab <TIMEX3 tid="t43" type="DATE" value="2040">dem Jahr 2040</TIMEX3> auf eine dann verfügbare, finale Technologie umzuschwenken.
+
+Es wird davon ausgegangen, dass in dieser Studie nur Technologien betrachtet werden, deren technische Verfügbarkeit <TIMEX3 tid="t44" type="DATE" value="2050" mod="ON_OR_BEFORE">spätestens 2050</TIMEX3> gegeben sein wird, daher ist „Ausschlusskriterium“ mit „Nein“ bewertet.
+
+In anderen Zusammenhängen könnte es aber durchaus auch als Ausschlusskriterium angesehen werden.
+
+Dieses Kriterium zeigt auf, wann die betrachtete Technologie frühestens im Markt erhältlich ist – nicht als einzelne Demonstrationsanlage, sondern als einsatzbereite kommerzielle Anlage.
+
+Als Indikator wird daher <TIMEX3 tid="t45" type="DATE" value="XXXX">das Jahr</TIMEX3> verwendet, indem die Technologie einen TRL von 9 erreicht hat.
+
+Gemäß der hier verwendeten Definition des TRL (siehe unten) liegt ein TRL 9 vor, wenn die Technologie in ihrer finalen Form vorliegt (geeignete Leistungsklasse für den flächendeckenden Einsatz) und in ihrer vorgesehenen Betriebsumgebung eingesetzt wird.
+
+Die Einordnung als „großskalig verfügbar“ bezieht sich dabei auf die Größenklasse von Einzelanlagen, nicht aber auf die Erreichbarkeit hoher Ausbauziele.
+
+Ebenso ist mit „kommerzieller Verfügbarkeit“ hier nicht zwingend „wirtschaftlich ohne weitere Anreize“ gemeint.
+
+Vielmehr soll eine Anlage gekauft und bereits als Baustein eines kommerziellen (also auf Gewinnerzielung ausgerichteten) Anlagenverbunds genutzt werden können.
+
+Als Indikator wird <TIMEX3 tid="t46" type="DATE" value="XXXX">das Jahr</TIMEX3> verwendet, indem die betrachtete Technologie den TRL 9 („Erfolgreicher kommerzieller Systemeinsatz“) erreichen wird.
+
+Einstufungen zum TRL sind ursprünglich von der NASA für Raumfahrtmissionen definiert worden (Mankins <TIMEX3 tid="t47" type="DATE" value="2004">2004</TIMEX3>).
+
+Das Konzept wird jedoch grundsätzlich auch für industrielle Prozesstechnologien genutzt.
+
+Im Rahmen des Projektes Technologien für die Energiewende wurde nachfolgende Klassifizierung verwendet, die vom Projektträger <PLACE id="p1" type="" geo="DEBKGGND00001H8R">Jülich</PLACE>, aufbauend auf den Arbeiten der High-Level-Group der EU-Kommission, entwickelt wurde und die für die Zwecke von DekarbInd übernommen wird: Die verschiedenen Stufen der technischen Verfügbarkeit ermöglichen eine recht präzise Einordnung des jeweils <TIMEX3 tid="t48" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> technischen Entwicklungsstandes.
+
+Anspruchsvoller sind demgegenüber die hier erforderlichen Abschätzungen zur weiteren technischen Entwicklung sowie des jeweiligen Zeitbedarfes für solche Technologien, die <TIMEX3 tid="t49" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> unterhalb von TRL 9 eingestuft werden.
+
+Für die Bewertung wird eine frühestmögliche Verfügbarkeit angestrebt, d. h. <TIMEX3 tid="t50" type="DATE" value="XXXX">das Jahr</TIMEX3> des TRL 9 sollte minimiert werden.
+
+Der Indikator wird für die Bewertungsebene 1 erhoben, da die Funktionsfähigkeit der Anlage innerhalb eines Unternehmens im Vordergrund steht.
+
+Keine Der <TIMEX3 tid="t51" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Technologiestatus (TRL) und der Zeitpunkt der voraussichtlichen Erreichung des TRL 9 sollten bei der Beschreibung der jeweiligen Technologie erfasst werden.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Werte der einzelnen Technologien in folgende Tabelle eingetragen.
+
+Der Energiebedarf ist einer der wesentlichen Bestimmungsfaktoren der THG-Emissionen des Sektors Industrie.
+
+Entsprechend sind die Verwendung von Energieträgern und die Energieeffizienz von industriellen Prozessen entscheidende Hebel, um den Verbrauch fossiler Energie in der Industrie und damit die THG-Emissionen abzusenken.
+
+Das Kriterium Energieeffizienz beschreibt den Energiebedarf der betrachteten treibhausgasarmen Technologien.
+
+Ziel ist es, diesen mit der Energieeffizienz bestehender Technologien zu vergleichen, um mögliche konkurrierende Entwicklungen (Senkung der Treibhausgasemissionen, aber Anstieg des Energieverbrauchs) bei der Erstellung der Roadmaps berücksichtigen zu können.
+
+Die Energieeffizienz eines Prozesses wird im weitesten Sinne verstanden als das Verhältnis zwischen dem nutzbaren Ergebnis eines Prozesses und der in den Prozess eingebrachten Energie.
+
+Energieeffizienz-Indikatoren lassen sich u. a. in die folgenden drei Gruppen einteilen.
+
+► Thermodynamische Indikatoren, z. B. für einen thermodynamischen Prozess der Enthalpiewirkungsgrad (Enthalpieoutput (GJ) / Enthalpieinput (GJ)).
+
+► Physikalischthermodynamische Indikatoren, z. B. für die Stahlproduktion die Menge des produzierten Stahls (t) im Verhältnis zum Energieverbrauch (GJ).
+
+► Wirtschaftliche Indikatoren, z. B. die Energieproduktivität, d. h. das Verhältnis aus Bruttowertschöpfung (€) und Energieverbrauch (GJ) eines Sektors der Volkswirtschaft.
+
+Für die Bewertung von Technologien im Zusammenhang mit der Dekarbonisierung der Industrie ist auf politischer Ebene der spezifische Energiebedarf üblich (d.
+
+h. ein physikalischthermodynamischer Indikator).
+
+Er beschreibt den Energiebedarf eines Prozesses zur Herstellung eines Produktes.
+
+Der spezifische Energiebedarf stellt daher den zentralen Indikator zur Bewertung des Kriteriums Energieeffizienz dar.
+
+Für die Bewertung ist ein niedriger spezifischer Energiebedarf besser als ein hoher, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Im 1.
+
+Schritt werden für jede der Technologien einer Gruppe die zur Bestimmung des jeweiligen Spezifischen Energiebedarfs benötigten Daten erhoben.
+
+Je nach Datenverfügbarkeit sollte dies für den Ist-Zustand (<TIMEX3 tid="t52" type="DATE" value="2020">2020</TIMEX3>) und für <TIMEX3 tid="t53" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Zeitpunkte (<TIMEX3 tid="t54" type="DATE" value="2030">2030</TIMEX3>, <TIMEX3 tid="t55" type="DATE" value="2040">2040</TIMEX3>, <TIMEX3 tid="t56" type="DATE" value="2050">2050</TIMEX3>) erfolgen.
+
+Die Daten werden zudem für beide Bewertungsebenen erhoben.
+
+► Die Bewertungsebene 1 entspricht hier der verwendeten Endenergie; ► die Bewertungsebene 2 entspricht der hierfür benötigten Primärenergie.
+
+Die Daten werden in Tabellen, differenziert nach Energieträgern, dargestellt, so dass der spezifische Energieverbrauch pro Energieträger für die betrachtete Technologie ersichtlich ist.
+
+Dies resultiert in einem „Mengengerüst Energieträger“.
+
+Der Indikator Spezifischer Energiebedarf wird dann aus der Summe des Energieverbrauchs pro verwendetem Energieträger berechnet.
+
+Dazu sind folgende Daten zu erheben: ► Endenergiebedarfe für fossile und biogene Brennstoffe sowie Strom ► Primärenergiefaktoren für fossile und biogene Brennstoffe sowie Strom Hierbei ist darauf hinzuweisen, dass bei der Bewertungsebene 1 unterschiedliche Energieträger addiert werden, z. B. Strom und fossile Brennstoffe.
+
+Zwar haben Energieträger eine unterschiedliche Wertigkeit, doch wurde dieser Weg bewusst gewählt, um klare und strukturierte Analysen zu ermöglichen.
+
+Folgende Argumente sprechen dafür.
+
+1.
+
+Eine Differenzierung zwischen Elektrizität und Brennstoffen würde bedeuten, dass für jede Technologie mindestens zwei Indikatoren gebildet werden müssten, die dann in eine vergleichende Bewertung umgesetzt werden müssen.
+
+Dies führt zwangsläufig zur Entwicklung von Metriken (z.
+
+B. Gewichtungen) für die zusammenführende Bewertung 𝑆𝑝𝑒𝑧𝑖𝑓𝑖𝑠𝑐ℎ𝑒𝑟 𝐸𝑛𝑒𝑟𝑔𝑖𝑒𝑏𝑒𝑑𝑎𝑟𝑓= 𝐸𝑛𝑒𝑟𝑔𝑖𝑒𝑣𝑒𝑟𝑏𝑟𝑎𝑢𝑐ℎ (𝐺𝐽) 𝑂𝑢𝑡𝑝𝑢𝑡 (𝑡) mehrerer Indikatoren.
+
+Dadurch wird die Bewertung des Kriteriums weniger klar und intransparent.
+
+2.
+
+Ein Hauptargument für die Unterscheidung zwischen Elektrizität und Brennstoffen ist, dass es neue Technologien geben kann, die zwar insgesamt weniger Energie, jedoch mehr Strom als die <TIMEX3 tid="t57" type="DATE" value="PRESENT_REF">derzeitigen</TIMEX3> Technologien verbrauchen.
+
+Dies kann je nach dem jeweiligen Strommix zu insgesamt höheren THG-Emissionen führen und erhöht auch die Anforderungen an das Energiesystem.
+
+Diese Effekte weden jedoch in den Kriterien 3 (THG-Effizienz) und 10 (Infrastrukturabhängigkeit) berücksichtigt.
+
+Anschließend wird das Ergebnis der Bewertung in die nachfolgende Tabelle eingetragen.
+
+Kriterium 3: THG-Effizienz (baut auf Bewertung der Energieeffizienz auf).
+
+Kriterium 6: Risiken für die Minderung der THG-Emissionen Kriterium 7: Regionale Abhängigkeiten Kriterium 10: Infrastrukturabhängigkeit (hier werden Aspekte, die einen signifikanten Einfluss auf das Energiesystem haben, behandelt – z. B. wenn eine neue Technologie deutlich mehr Strom benötigt als bisherige Technologien, was wiederum Bedürfnisse im Energiesystem schafft).
+
+► Die „Best Available Techniques Reference“-Dokumente (BREF) der EU-Kommission8 bieten eine gute Datengrundlage für die <TIMEX3 tid="t58" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> vorherrschenden Technologien.
+
+► Für Technologien, die in <TIMEX3 tid="t59" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> eingesetzt werden können, bieten wissenschaftliche Artikel aus Fachzeitschriften brauchbare Datengrundlagen.
+
+► Primärenergiefaktoren können grundsätzlich der DIN V 18599-1 entnommen werden, wobei bei Strom zu prüfen ist, ob <TIMEX3 tid="t60" type="DATE" value="PRESENT_REF">aktuellere</TIMEX3> Quellen sinnvoll sind.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Indikatorwerte der einzelnen Technologien in folgende Tabelle eingetragen.
+
+Gleichzeitig werden die Werte aller Technologien pro Bewertungsebene gegenübergestellt, indem ihnen wie in Kapitel 2.3.2.2 beschrieben in der letzten Spalte eine Farbe zugeordnet wird.
+
+Die THG-Effizienz ist das primäre Kriterium zur Bewertung der in diesem Projekt betrachteten Technologien.
+
+Schließlich geht es darum, Technologien zu identifizieren, die zum einen im Vergleich zu bisherigen Technologien weniger Treibhausgase ausstoßen und zum anderen einen wesentlichen Beitrag zur Dekarbonisierung der Industrie leisten können.
+
+Im besten Fall werden Technologien identifiziert, die keine Treibhausgase mehr ausstoßen.
+
+Eine Reduktion der THG-Emissionen kann zum einen dadurch erreicht werden, dass Technologien, die fossile Brennstoffe nutzen, energieeffizienter gestaltet werden, da eine Reduktion des Energieverbrauchs auch zu geringeren THG-Emissionen führt.
+
+Zum anderen können THG-Einsparungen durch grundlegende Veränderungen von Prozessen erreicht werden, zum Beispiel durch eine Änderung der Art der eingesetzten Energieträger.
+
+Beide Aspekte spiegeln sich zusammen in dem Kriterium 3: THG-Effizienz wieder.
+
+Das Kriterium THG-Effizienz beschreibt die THG-Emissionen der betrachteten Technologien.
+
+Für die Technologiebewertung ist der Indikator Spezifische THG-Emissionen zentral zur Bewertung des Kriteriums THG-Effizienz.
+
+Für die Bewertung sind niedrige spezifische THG-Emissionen besser als hohe, d. h. der Indikator sollte so weit wie möglich minimiert werden.
+
+Im 1.
+
+Schritt werden für jede der Technologien einer Gruppe die zur Bestimmung der jeweiligen Spezifischen THG-Emissionen benötigten Daten erhoben.
+
+Je nach Datenverfügbarkeit sollte dies für den Ist-Zustand (<TIMEX3 tid="t61" type="DATE" value="2020">2020</TIMEX3>) und für <TIMEX3 tid="t62" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Zeitpunkte (<TIMEX3 tid="t63" type="DATE" value="2030">2030</TIMEX3>, <TIMEX3 tid="t64" type="DATE" value="2040">2040</TIMEX3>, <TIMEX3 tid="t65" type="DATE" value="2050">2050</TIMEX3>) erfolgen.
+
+Die Daten werden für die Bewertungsebene 2 erhoben.
+
+Die Daten werden für die Bewertungsebene 2 erhoben, diese enthält die Vorketten für den Bezug von Energieträgern.
+
+Die Grundlage für die Bestimmung des Indikators ist das Mengengerüst Energieträger, das in Kriterium 2 erstellt wurde.
+
+Zur Bestimmung des Indikators werden die aus dem Verbrauch der Energieträger resultierenden THG-Emissionen ermittelt und aufsummiert.
+
+Dazu sind die folgenden zentralen Daten zu erheben: ► THG-Emissionsfaktoren (für Primärenergie) für fossile und biogene Brennstoffe sowie Strom ► Zur Bestimmung der Emissionen sind die Primärenergiebedarfe aus Kriterium 2 zu verwenden Anschließend wird das Ergebnis der Bewertung in die nachfolgende Tabelle eingetragen.
+
+𝑆𝑝𝑒𝑧𝑖𝑓𝑖𝑠𝑐ℎ𝑒 𝑇𝐻𝐺– 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑒𝑛= 𝑇𝐻𝐺– 𝐸𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑒𝑛 (𝑡 𝐶𝑂2 −Ä𝑞.
+
+) 𝑂𝑢𝑡𝑝𝑢𝑡 (𝑡) Kriterium 2: Energieeffizienz (Grundlage zur Ermittelung der THG-Emissionen).
+
+► Die „Best Available Techniques Reference“-Dokumente (BREF) der EU-Kommission bieten eine gute Datengrundlage für die <TIMEX3 tid="t66" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> vorherrschenden Technologien.
+
+► Für Technologien, die in <TIMEX3 tid="t67" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> eingesetzt werden können, können wissenschaftliche Artikel aus Fachzeitschriften als Datengrundlage dienen.
+
+► Emissionsfaktoren (z.
+
+B. für Energieträger) können den nationalen Treibhausgasinventaren (im Rahmen der Berichterstattung unter der Klimarahmenkonvention der Vereinten Nationen und dem Kyoto-Protokoll) entnommen werden.
+
+Z. B. www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2017-04-26_climatechange_13-2017_nir-2017_unfccc_de.pdf  Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Indikatorwerte der einzelnen Technologien in die folgende Tabelle eingetragen.
+
+Gleichzeitig werden die Werte aller Technologien pro Bewertungsebene gegenübergestellt, indem ihnen wie in Kapitel 2.3.2.2 beschrieben in der letzten Spalte eine Farbe zugeordnet wird.
+
+Neben der THG-Effizienz sind die Kosten einer Maßnahme bzw. einer Technologie ein weiteres zentrales Kriterium zur Bewertung der in diesem Projekt betrachteten Technologien.
+
+Schließlich geht es darum, ein tragbares Verhältnis von Kosten zu THG-Effizienz zu erreichen bzw. zumindest aufzuzeigen, wie hoch die Kostendifferenz zu den Kosten <TIMEX3 tid="t68" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> betriebener Anlagen ist.
+
+Das Kriterium Kosteneeffizienz beschreibt die Kosten, die pro Einheit Output der betrachteten Technologie entstehen.
+
+Durch die einheitliche Bezugsgröße kann die Kosteneffizienz verschiedener Technologien verglichen werden.
+
+Dabei werden die unterschiedlichen Kostenarten mit einbezogen, indem Investitionskosten annuitätisch auf die Laufzeit einer Anlage abgezinst werden und laufende Kosten wie CO2-Vermeidungskosten und Betriebskosten addiert werden.
+
+Alle Kosten werden schließlich auf eine Einheit Output (z.
+
+B. eine Tonne Stahl) bezogen.
+
+Solche über die Laufzeit einer Anlage „nivellierten“ Kosten werden üblicherweise als „levelised cost“ bezeichnet.
+
+Da die Levelised Cost of Electrity (LCOE) im Stromsektor eine gängige Bezeichnung sind, wird in diesem Vorhaben analog der Terminus Levelised Cost of Output (LCOO) verwendet.
+
+Für die Bewertung sind niedrige LCOO besser als hohe, d. h. der Indikator sollte so weit wie möglich minimiert werden.
+
+Der Indikator Levelised Cost of Output (LCOO) wird wie folgt berechnet.
+
+bzw. Die beiden zentralen Größen zur Ermittlung der LCOO sind die Investitionskosten sowie die Betriebskosten, die jeweils ermittelt oder aus der Literatur abgeleitet werden müssen: ► Investitionskosten der Umstellung auf den dekarbonisierten Prozess (CAPEX) Um bei bestehenden Anlagen die Umstellung auf den dekarbonisierten Prozess zu ermöglichen, sind bestimmte Veränderungen an den jeweiligen Produktionsanlagen und davon abgeleitete Investitionen erforderlich.
+
+Diese hängen von den konkreten Verhältnissen am jeweiligen Standort ab, die für eine solche Umstellung mehr oder weniger förderlich sein können.
+
+Bei Neuanlagen können die Investitionen erheblich niedriger ausfallen, weil typische kostenwirksame Restriktionen eines gegebenen Standortes entfallen.
+
+► Variable Kosten der Umstellung auf den dekarbonisierten Prozess (OPEX) Neben den Investitionen können auch die variablen, d. h. von Auslastung und Produktionsmenge abhängigen Kosten von der Umstellung beeinflusst werden.
+
+Dies kann die Produktionskosten erhöhen, wenn bezogene dekarbonisierte Energieträger zu Kostensteigerungen führen.
+
+Umgekehrt kann die Dekarbonisierung für den Referenzprozess erforderliche Filtertechnologien zur Vermeidung der Emission von Luftschadstoffen (Abgasbehandlung) überflüssig machen.
+
+Weitere Festlegungen: ► Alle Kostenbestandteile sollten je nach Datenverfügbarkeit für den Ist-Zustand (<TIMEX3 tid="t69" type="DATE" value="2020">2020</TIMEX3>) und für <TIMEX3 tid="t70" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Zeitpunkte (<TIMEX3 tid="t71" type="DATE" value="2030">2030</TIMEX3>, <TIMEX3 tid="t72" type="DATE" value="2040">2040</TIMEX3>, <TIMEX3 tid="t73" type="DATE" value="2050">2050</TIMEX3>) erfolgen.
+
+Mit der Fortschreibung können Kostensenkungen durch Skaleneffekte (größere Anlagen), Volumeneffekte (Massenproduktion) und technische Verbesserungen berücksichtigen werden.
+
+Dabei wird die obige Berechhungsweise jeweils auf neu hergestellte Technologien zum entsprechenden Zeitpunkt angewandt.
+
+► Zur Fortschreibung der Investitionskosten auf <TIMEX3 tid="t74" type="DATE" value="FUTURE_REF">spätere Zeiträume</TIMEX3> wird i. d. R. die Lernkurvenmethodik verwendet.
+
+Dazu muss eine je nach Technologie spezifische Lernrate ermittelt werden.
+
+Dies ist der Faktor, um den die Kosten pro Verdoppelung des Outputs (z.
+
+B. der installierten Leistung) sinken.
+
+Zur Ermittlung des <TIMEX3 tid="t75" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> Outputs sollen Werte aus globalen Szenarien verwendet werden.
+
+► Die Kosten sollten alle inflationsbereinigt in Euro angegeben werden, basierend auf einer für alle Technologien einheitlichen Preisbasis (z.
+
+B. <TIMEX3 tid="t76" type="DATE" value="2020">2020</TIMEX3>).
+
+► Als volkswirtschaftlicher Zinssatz für die Annuität wird 4 % gewählt.
+
+Ein solcher ist in der Impact-Assessment-Richtlinie der EU empfohlen, siehe European Commission (<TIMEX3 tid="t77" type="DATE" value="2015">2015</TIMEX3>).
+
+► Die Daten werden für die Bewertungsebene 2 erhoben, beziehen also wie oben beschrieben alle Kostenarten ein.
+
+Anschließend wird das Ergebnis der Bewertung in die nachfolgende Tabelle eingetragen.
+
+Kriterium 1: Technische Verfügbarkeit Kriterium 2: Energieeffizienz Für die hier betrachteten dekarbonisierten Technologien dürften – abhängig vom technischen Entwicklungsstand – wenig Kostendaten verfügbar sein, die zudem mit erheblichen Unsicherheiten behaftet sind und teilweise wettbewerblich sensible Daten enthalten könnten.
+
+Sind im Idealfall die einzelnen Basisdaten verfügbar, können wie oben angegeben die LCOO einheitlich berechnet werden.
+
+Sind nur Angaben zu LCOO direkt verfügbar, sollte die Grundlage ihrer Berechnung geprüft und angegeben werden.
+
+Im <TIMEX3 tid="t78" type="DATE" value="FUTURE_REF">späteren</TIMEX3> Vergleich sollten alle LCOO auf ähnlichen Berechnungen basieren.
+
+Eine Kombination einzelner Basisdaten aus verschiedenen Quellen birgt die Gefahr von Verzerrungen durch unterschiedliche Methoden und Annahmen.
+
+Neben Kostenschätzungen aus der Literatur könnten ggf. Daten im Rahmen der Stakeholder-Beteiligung gewonnen werden.
+
+In jedem Fall sind alle Datenquellen und die Berechnungsweise nachvollziehbar anzugeben.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Indikatorwerte der einzelnen Technologien in folgende Tabelle eingetragen.
+
+Gleichzeitig werden die Werte aller Technologien pro Bewertungsebene gegenüber gestellt, indem ihnen wie in Kapitel 2.3.2.2 beschrieben in der letzten Spalte eine Farbe zugeordnet wird.
+
+Mithilfe dieses Kriteriums wird qualitativ untersucht, inwieweit durch den Einsatz der betrachten Technologie Strukturen <TIMEX3 tid="t79" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> festgelegt werden, die nur noch schwer verändert werden können.
+
+Dies ist vor dem Hintergrund wichtig zu betrachten, dass die Energie- und Industriewende Technologieoffen erfolgen soll und nicht der Weg verstellt werden soll, einmal installierte Technologien nach einer bestimmten Zeitspanne ggf. durch verbesserte, effizientere Technologien zu ersetzen.
+
+Pfadabhängigkeiten können retrospektiv oder prospektiv ermittelt werden.
+
+Pfadabhängigkeiten bestehender Produktionssysteme und daran anknüpfender Infrastrukturen schränken den Handlungsspielraum einer Transformation ein und erhöhen deren Kosten.
+
+Dies ist für die Transformation von einem fossil basierten zu einem dekarbonisierten Produktions- und Energiesystem evident.
+
+Zugleich kann eine solche Transformation je nach ihrem Verlauf neue Pfadabhängigkeiten erzeugen, die die Erreichung eines insgesamt optimierten Systems begünstigen oder beeinträchtigen.
+
+Während die Beurteilung bisheriger technologischer Entwicklungspfade expost häufig evident ist, besteht die tatsächliche Herausforderung jedoch in der Voraussicht <TIMEX3 tid="t80" type="DATE" value="FUTURE_REF">zukünftiger</TIMEX3> kritischer Entwicklungspfade und der bewussten Pfadgestaltung.
+
+Dies ist um so wichtiger, als dass im Fall der Grundstoffindustrie in einem relativ kurzen Zeitraum eine umfassende Umgestaltung einer gesamten Branche erfolgen wird.
+
+Es sollten daher Technologien eingesetzt werden, die – aus <TIMEX3 tid="t81" type="DATE" value="PRESENT_REF">derzeitiger</TIMEX3> Sicht – möglichst geringe Pfadabhängigkeiten aufweisen.
+
+Das Kriterium beschreibt daher die Stärke, mit der mögliche Pfadabhängigkeiten und Lock-In-Effekte durch die hier betrachtete Technologie ausgelöst werden.
+
+Neben der eigentlichen Technologie, die am Standort installiert wird, wird dabei auch die Abhängigkeit einer hiermit ggf. verbundenen Infrastruktur mit in die Bewertung einbezogen (die Anforderungen an die Infrastruktur selber werden in Kriterium 9 bewertet).
+
+Es wird daher die Bewertungsebene 2 betrachtet, die das Unternehmen mitsamt seiner Umwelt einbezieht.
+
+Hinweise auf Pfadabhängigkeiten ergeben sich aus folgenden Fragestellungen: ► Je größer die Planungs- und Nutzungsdauer einer Technologie ist, um so eher wird ein Umschwenken auf sich <TIMEX3 tid="t82" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> abzeichnende Alternativen erschwert.
+
+► Auch durch hohe Investitionskosten pro Output entsteht eine hohe Pfadabhängigkeit, da sich die Investition dann in einem langen Zeitraum amortisieren müssen.
+
+► Aber auch die vorübergehende Nutzung fossiler Strukturen kann auf eine Gefahr von (Carbon-)Lock-In-Effekten hindeuten, wenn diese zunächst aufgebaut werden, aber <TIMEX3 tid="t83" type="DATE" value="FUTURE_REF">mittel-</TIMEX3> bis <TIMEX3 tid="t84" type="DATE" value="FUTURE_REF">langfristig</TIMEX3> ein zu 100 % erneuerbares Energiesystem angestrebt wird.
+
+Die Einstufung der Stärke der Pfadabhängigkeit erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Die Bewertenden sollten zunächst mögliche Pfadabhängigkeiten ermitteln und jeweils einzeln auf der Skala einordnen und in der folgenden Tabelle eintragen.
+
+Anschließend erfolgt eine Zusammenschau aller Teilwerte und die Festlegung eines Gesamtwertes für die Technologie.
+
+Für die Bewertung wird eine geringe Pfadabhängigkeit angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine Veränderung ergeben dürfte.
+
+Durch die Einführung von blauem Wasserstoff können teilweise bestehende Strukturen weiter genutzt werden (großflächige Erdgasnetze), es müssen jedoch auch auf fossilen Energien basierende Strukturen (Erdgas-Dampfreformierung) neu aufgebaut werden.
+
+Eine Pfadabhängigkeit besteht darin, dass auch bei <TIMEX3 tid="t85" type="DATE" value="FUTURE_REF">zukünftiger</TIMEX3> ausreichender Versorgung mit grünem Wasserstoff die einmal installierten Erzeugungskapazitäten für blauen Wasserstoff weiter genutzt werden könnten.
+
+Diese Pfadabhängigkeit wird als mittel eingestuft.
+
+Ein anderes Beispiel ist die Nutzung der Kernenergie, die mit sehr großen Kraftwerken, hohen spezifischen und absoluten Investitionskosten und sehr langen Lebensdauern von <TIMEX3 tid="t86" type="DURATION" value="P50Y" mod="MORE_THAN">über 50 Jahren</TIMEX3> einhergeht.
+
+Diese Pfadabhängigkeit wird als sehr hoch eingestuft, da ein frühzeitiger Rückbau mit erheblichen Kosten verbunden wäre.
+
+Keine Bei der Bewertung wird entweder auf bestehende Analysen von Pfadabhängigkeiten der hier zu betrachtenden Technologien zurückgegriffen.
+
+Vermutlich gibt es hierzu jedoch wenig Quellen in der Literatur zu finden, so dass alternativ eine eigene Bewertung, ggf. unterstützt durch Einschätzungen externer Experten, durchgeführt werden muss.
+
+Einige Fragestellungen, die dabei unterstützen, finden sich in der obigen Liste von Spiegelstrichen.
+
+Technische Verfahren in der Industrie können den Einsatz erheblicher Rohstoff- und Energiemengen erfordern.
+
+Dabei besteht die Gefahr, dass die rohstoffliche und energetische Basis zum Einsatzzeitpunkt weder in <PLACE id="p2" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> noch im Ausland zur Verfügung steht.
+
+Zudem können besonders knappe Rohstoffe beansprucht werden, die nur in sehr relativ kleinen Mengen förderbar sind und deren geringe Reserven einen besonders sparsamen Einsatz erfordern.
+
+Mithilfe dieses Kriteriums wird qualitativ untersucht, inwieweit beim marktbreiten Einsatz der betrachteten Technologie die rohstofflichen und energetischen Anforderungen erfüllt werden können.
+
+Als Indikator wird der Grad der <TIMEX3 tid="t87" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Risiken für die Minderung der THG-Emissionen für den Fall einer marktbreiten Einführung abgeschätzt.
+
+Hinweise zu Risiken ergeben sich aus folgenden Fragestellungen: ► Falls im Kriterium 2: Energieeffizienz für die Einführung einer Technologie im Verhältnis zur Stromerzeugung (Indikator 2.1) große Mengen regenerativ erzeugte Energien (Indikator 2.2) ermittelt wurden, wie groß ist dann das Risiko, diese möglicherweise nicht bereitstellen zu können?
+
+► Sind für die Einführung im Verhältnis zu den Produktionsmöglichkeiten große Mengen Biomasse erforderlich und wie groß ist das Risiko, diese möglicherweise nicht bereitstellen zu können?
+
+► Falls im Sub-Indikator 9.1c: Verwendung kritischer Rohstoffe bestimmte kritische Rohstoffe ermittelt wurden, wie groß ist dann das Risiko diese möglicherweise nicht bereitstellen zu können?
+
+Die Einstufung der Stärke der Risiken erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Der Bewerter/die Bewerterin sollte zunächst mögliche rohstoffliche und energetische Risiken ermitteln und jeweils einzeln auf der Skala einordnen und in der folgenden Tabelle eintragen.
+
+Anschließend erfolgt eine Zusammenschau aller Teilwerte und die Festlegung eines Gesamtwertes für die Technologie.
+
+Diese Zeile wird schließlich fett markiert.
+
+Für die Bewertung werden geringe oder keine Risiken angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine Veränderung ergeben dürfte.
+
+Die Daten werden für die Bewertungsebene 2 erhoben, beziehen also das Unternehmen mitsamt seiner Umwelt mit ein.
+
+Bei der Primärproduktion von Rohstahl dient Kokskohle in der Hochofenroute dazu, Eisenerz in Rohstahl umzuwandeln, d. h. die chemische Bindung des Sauerstoffs im Eisenerz an das Eisen aufzubrechen und dieses zu schmelzen.
+
+Bei den alternativen Verfahren der elektrolytischen Direktreduktion oder der Reduktion mit Wasserstoff sind im industriellen Maßstab erhebliche Strommengen erforderlich, die für eine wirksame Dekarbonisierung regenerativ erzeugt werden müssen.
+
+Ähnlich verhält es sich bei dekarbonisierten industriellen Produktionstechniken, deren Nutzung zwingend den Einsatz von Biomasse erfordern.
+
+Der Einsatz von Biomasse als regenerativem Energieträger ist in Ermangelung anderweitiger mit relativ geringem Zeitbedarf umsetzbarer Dekarbonisierungs-Technologien in vielen Sektoren und Branchen beliebt.
+
+Allerdings kann die nachhaltige Erzeugung von Biomasse bei weitem nicht mit den Mengenanforderungen mithalten, die ein über viele Sektoren verbreiteter Einsatz erfordern würde.
+
+Auch unterhalb solcher Mengenbeschränkungen können insbesondere bei importierter Biomasse Erzeugungssysteme gefördert werden, die von einer nachhaltigen Nutzung weit entfernt sind oder die wie etwa im Falle von Palmöl aufgrund der Landnutzungsänderungen kontraproduktive Klimawirkungen nach sich ziehen.
+
+Schließlich könnte eine dekarbonisierte industrielle Produktionstechnik vor allem bei speziellen Rohstoffen wie etwa der Gruppe der seltenen Erden die rohstoffliche Basis überstrapazieren.
+
+Kriterium 2: Energieeffizienz (Indikatoren 2.1 und 2.2) Kriterium 9: Stoffströme und Kreislaufwirtschaft (Sub-Indikator 9.1c) Die Bewertung dieses Kriteriums hängt von der technischen Entwicklung einerseits, der Verfügbarkeit kritischer Rohstoffe und der Nachfrage anderer Branchen und Sektoren hinsichtlich deren Nutzung ab.
+
+Neueste technische Verfahren können die Einsatzmengen kritischer Rohstoffe einer betrachteten Technologie, aber auch die anderer Technologien mindern.
+
+Zudem kann die Bereitstellung durch neue Lagerstätten und technische Verfahren der Gewinnung sowie des Recyclings effizienter werden.
+
+Daher sind immer <TIMEX3 tid="t88" type="DATE" value="PRESENT_REF">aktuelle</TIMEX3> Studien hinsichtlich Bedarfs und Verfügbarkeit von Rohstoffen hinzuziehen.
+
+Bezüglich des Einsatzes kritischer mineralischer Rohstoffe sind neben anderen Studien zur jeweiligen Technologie und den verwendeten Rohstoffen insbesondere die Markbeobachtungen und Analysen der Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) sowie der Deutschen Rohstoffagentur (DERA) relevant.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Indikatorwerte der einzelnen Technologien in die folgende Tabelle eingetragen.
+
+Gleichzeitig werden die Werte aller Technologien pro Bewertungsebene gegenübergestellt, indem ihnen wie in Kapitel 2.3.2.3 beschrieben in der letzten Spalte eine Farbe zugeordnet wird.
+
+Die erfolgreiche Einführung bestimmter Produktionstechniken kann in erheblichen Umfang von regionalen Gegebenheiten abhängen sowie mit der Entstehung regionaler Abhängigkeiten einhergehen.
+
+Insbesondere gilt dies für die Verfügbarkeit regenerativ erzeugter und THGneutraler Energieträger wie auch für die Versorgung mit speziellen Rohstoffen.
+
+Schließlich können disruptive Ereignisse die Logistik solcher internationaler Wertschöpfungsketten unterbrechen und so die dekarbonisierte Produktion zumindest temporär stilllegen.
+
+Besonders schwierig sind regionale Abhängigkeiten dieser Art im Zusammenhang mit politischer Instabilität der Lieferstaaten sowie einer hohen Vulnerabilität der Lieferketten.
+
+Mithilfe dieses Kriteriums wird qualitativ untersucht, inwieweit beim marktbreiten Einsatz der betrachteten Technologie deren rohstoffliche und energetische Anforderungen regionale Abhängigkeiten etablieren können.
+
+Dies ist wichtig, damit die Energie- und Industriewende möglichst keine einseitigen regionalen Abhängigkeiten erzeugt.
+
+Als Indikator wird der Grad der regionalen Abhängigkeiten für den Fall einer marktbreiten Einführung abgeschätzt.
+
+Hinweise hierzu ergeben sich aus folgenden Fragestellungen: ► Falls in den Indikatoren 2.2 und Sub-Indikator 9.1c große Mengen an zu importierenden Energieträgern und Rohstoffen ermittelt wurden, konzentrieren sich die Vorkommen und Importe auf wenige Länder in politisch instabilen Regionen?
+
+► Sind die Lieferketten der importierten Vorleistungsgüter besonders verletztlich?
+
+Die Einstufung der Stärke der regionalen Abhängigkeiten erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Der Bewerter/die Bewerterin sollte zunächst mögliche rohstoffliche und energetische sowie logistische Abhängigkeiten ermitteln und jeweils einzeln auf der Skala einordnen und in der folgenden Tabelle eintragen.
+
+Anschließend erfolgt eine Zusammenschau aller Teilwerte und die Festlegung eines Gesamtwertes für die Technologie.
+
+Diese Zeile wird schließlich fett markiert.
+
+Für die Bewertung werden geringe oder keine regionalen Abhängigkeiten angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine vorhersehbare Veränderung ergeben dürfte.
+
+Die Daten werden für die Bewertungsebene 2 erhoben, beziehen also das Unternehmen mitsamt seiner Umwelt mit ein.
+
+Das gegenwärtige System der Versorgung mit fossilen Energieträgern konstituiert eine Vielzahl von regionalen Abhängigkeiten, denen nur begrenzt mittels diversifizierter Importstrukturen begegnet werden kann.
+
+So existiert etwa bei der Versorgung mit Rohöl nach wie vor eine relativ hohe Abhängigkeit von der teilweise politisch instabilen Region des Nahen Ostens.
+
+Auf dem zu weiten Teilen nach wie vor kontinentalen europäischen Erdgasmakt dominieren wenige Anbieter.
+
+Die gegenwärtige Förderung von Elementen der seltenen Erden konzentriert sich teilweise in politisch besonders instabilen Staaten Afrikas, womit Importe zur Finanzierung regionaler Konflikte und despotischer Regime beitragen.
+
+Kriterium 2: Energieeffizienz (Indikatoren 2.1 und 2.2) Kriterium 6: Risiken für die Minderung der THG-Emissionen Kriterium 9: Stoffströme und Kreislaufwirtschaft (Sub-Indikator 9.1c) Bezüglich der Abhängigkeiten von kritischen mineralischen Rohstoffen sind neben anderen Studien insbesondere die Markbeobachtungen und Analysen der Bundesanstalt für Geowissenschaften und Rohstoffe (BGR)9 sowie der Deutschen Rohstoffagentur (DERA) relevant.
+
+Bei diesem Kriterium geht es darum, in welchem Maße bestimmte Rahmenbedingungen erfüllt sein müssen, damit eine Prozesstechnik in der Industrie zum Klimaschutz beitragen kann.
+
+Ist eine Vielzahl von spezifischen Rahmenbedingungen notwendig, deren jeweilige Umsetzung gegenwärtig nicht gegeben und aus <TIMEX3 tid="t89" type="DATE" value="PRESENT_REF">heutiger</TIMEX3> Sicht als unsicher einzustufen ist, so stellt dies eine Einschränkung der Umsetzbarkeit dieser Prozesstechnik dar.
+
+Mithilfe dieses Kriteriums wird qualitativ untersucht, inwieweit für einen marktbreiten Einsatz der betrachteten Technologie regulatorische Rahmenbedingungen erforderlich sind.
+
+Dies ist wichtig, damit keine Technologien eingeführt werden, bei denen erforderliche Rahmenbedingungen nicht umsetzbar sind.
+
+Zudem geht es darum zu erkennen, in welchen Fällen die simultane Entwicklung der Technologie und der dafür notwendigen regulatorischen Rahmenbedingungen für die erfolgreiche Einführung von entscheidender Bedeutung ist.
+
+Zu verwendende Indikator(en) Als Indikator wird der Umfang der notwendigen Rahmenbedingungen für den Fall einer marktbreiten Einführung eingeschätzt: ► Werden für die Einführung begleitende regulative Rahmenbedingungen benötigt?
+
+► Handelt es sich um eine Vielzahl von regulativen Rahmenbedingungen?
+
+► Ist die politische oder wirtschaftliche Umsetzung dieser Rahmenbedingungen in hohem Maße unsicher?
+
+Insbesondere wenn nur eine oder wenige Bedingungen identifiziert werden – sind diese evtl. besonders schwierig umzusetzen?
+
+Die Einstufung der Bedeutung der notwendigen Rahmenbedingungen erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Der Bewerter/die Bewerterin sollte zunächst notwendige Rahmenbedingungen ermitteln und jeweils einzeln auf der Skala einordnen und in der folgenden Tabelle eintragen.
+
+Anschließend erfolgt eine Zusammenschau aller Teilwerte und die Festlegung eines Gesamtwertes für die Technologie.
+
+Diese Zeile wird schließlich fett markiert.
+
+Für die Bewertung werden wenige oder keine notwendigen Rahmenbedingungen angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine vorhersehbare Veränderung ergeben dürfte.
+
+Die Daten werden für die Bewertungsebene 2 erhoben, beziehen also das Unternehmen mitsamt seiner Umwelt mit ein.
+
+Im Falle vieler Technologien ist die Erlangung der Marktreife nur mittels staatlicher Förderung zu erreichen, weil der Markt für die Entwicklung bis zur Diffusion keine ausreichenden Anreize setzt.
+
+Dies ist ein Feld der Technologiepolitik und Forschungsförderung.
+
+Typisch für die Einführung neuer Technologien ist zudem, dass hierfür der Bestand technischer Normen ausreichend sein muss.
+
+In vielen Fällen ergeben sich neue Normierungsanforderungen, die für die effiziente und sichere Nutzung der Technologie unverzichtbar sind.
+
+Jenseits der Normungstätigkeit können durch eine neue Technologie Belange berührt sein, die nur mit gesetzgeberischen Mitteln angemessen berücksichtigt werden können.
+
+So ist die Verfolgung von Belangen des Klimaschutzes vor allem in einer Frühphase der Diffusion einer Technologie nur mittels finanzieller Anreize möglich, da die Technologie gegenüber konventionellen Verfahren wirtschaftlich nicht konkurrenzfähig ist.
+
+Hierzu können Grenzausgleichsabgaben auf konventionell hergestellte importierte Produkte sowie Anpassungen im Emissionshandel angezeigt sein.
+
+Ggf.
+
+würde als Mittel der Wahl ein CO2-Preis von 300 Euro/t CO2 identifiziert werden.
+
+Solch eine Maßnahme wäre aber nicht einfach, zumindest nicht <TIMEX3 tid="t90" type="DATE" value="FUTURE_REF">kurz-</TIMEX3> und <TIMEX3 tid="t91" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> umzusetzen.
+
+In dieem Fall müsste statt einer 1 mit einer 4 bewertet werden („Wenige, aber ggf. schwierig umzusetzen“).
+
+Entfällt.
+
+Systematische Zusammenstellungen von förderlichen klima- und energiepolitischen Rahmenbedingungen und politischen Instrumenten für die Industrie sind von Gupta et al. (<TIMEX3 tid="t92" type="DATE" value="2008">2008</TIMEX3>) sowie in Fleiter et al. (<TIMEX3 tid="t93" type="DATE" value="2013">2013</TIMEX3>) zusammengestellt und analysiert worden.
+
+<TIMEX3 tid="t94" type="DATE" value="PRESENT_REF">Aktuelle</TIMEX3> Einschätzungen zu notwendigen Rahmenbedingungen können zudem aus relevanten Technikfolgenabschätzungen bezogen werden.
+
+Diese werden u. a. vom Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag (TAB)10 und dem Institut für Technikfolgenabschätzung und Systemanalyse (ITAS)11 erstellt.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die Indikatorwerte der einzelnen Technologien in die folgende Tabelle eingetragen.
+
+Gleichzeitig werden die Werte aller Technologien pro Bewertungsebene gegenübergestellt, indem ihnen wie in Kapitel 2.3.2.3 beschrieben in der letzten Spalte eine Farbe zugeordnet wird.
+
+Die Bewertung von Stoffströmen ist bei neuen Anlagen oder Prozessen der Grundstoffindustrie relevant, weil einerseits bestehende Prozesse aufgebrochen werden, die über <TIMEX3 tid="t95" type="DURATION" value="PXY">Jahre</TIMEX3> hinsichtlich eines idealen Einsatzes von Materialien optimiert wurden.
+
+So können neue Prozesse in einem Sektor zu möglichen Problemen in einem anderen Sektor führen.
+
+Ein Beispiel ist, wenn der Hüttensand, der bisher als Abfallprodukt der Stahlindustrie an die Zementwerke geliefert wurde, aufgrund neuer Stahlverfahren nicht mehr zur Verfügung steht.
+
+Andererseits könnten vermehrt kritische Rohstoffe benötigt werden, wenn neue Werkstoffe und Materialien zum Einsatz kommen.
+
+Fragen der Kreislaufwirtschaft sind eng mit den Stoffströmen verknüpft, allerdings geht es hier weniger um intersektorale Verknüpfungen als z. B. um den vermehrten Einsatz von Sekundärmaterialien, mit dem indirekt Einsparungen beim Energieverbrauch, den THG-Emissionen und den Kosten (Kriterien 2-4) verbunden sind.
+
+Fragen des Recyclings sind insbesondere relevant, wenn die obige Bewertung von Stoffströmen die Verwendung kritischer Rohstoffe ergeben hat, deren Einsatz <TIMEX3 tid="t96" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> durch den Aufbau von Recyclingsystemen vermindert werden könnte.
+
+Im Teilbereich der Stoffströme wird bewertet, ob ein Wechsel der Technologie zu möglichen Problemen beim Einsatz von Stoffen für andere Technologien führt, ob die Menge und Zusammensetzung der benötigten Einsatzstoffe problematisch sind und ob bei der Herstellung der Technologien insbesondere kritische Rohstoffe zum Einsatz kommen.
+
+Im Teilbereich der Kreislaufwirtschaft werden die betrachteten Technologien darauf hin bewertet, wie hoch ihre entstehenden prozessbedingten Abfälle sind, wieviel der eingesetzten Ressourcen aus Sekundärrohstoffen bestehen und damit Ressourcen in der Primärproduktion einsparen und in welcher Höhe bestimmte eingesetzte Rohstoffe rezykliert werden können.
+
+Bei diesem Kriterium werden zwei Indikatoren betrachtet, die jeweils drei Sub-Indikatoren umfassen: ► Sub-Indikator 9.1a: Intersektorale Rückwirkungen Dieser Sub-Indikator erfasst mögliche Auswirkungen einer Maßnahme oder Technik in Bezug auf ausgelöste Stoffstromveränderungen bei externen Prozessen.
+
+Beispiele sind eine fehlende oder reduzierte Verfügbarkeit von Hüttensand für die Zementindustrie bei einer Dekarbonisierung der Stahlindustrie oder die Notwendigkeit einer anderweitigen Abfallentsorgung bei Wegfall oder Reduktion des Einsatzes sogenannter alternative Brennstoffe in der Zementindustrie.
+
+Die Bewertung der jeweiligen Technologie erfolgt mit folgenden Schulnoten: 1 Keine Rückwirkungen/Veränderungen durch den neuen Prozess 2 Geringe Rückwirkungen, die keine Probleme aufwerfen 3 Geringe Rückwirkungen, aber Handlungsbedarf 4 Relevante Rückwirkungen, die mit überschaubarem Aufwand gelöst werden können 5 Starke Rückwirkungen, die einen hohen Aufwand für eine Umorganisation bedeuten 6 Starke Rückwirkungen mit Nachteilen für eine andere Branche ► Sub-Indikator 9.1b: Einsatz von gefährlichen und umweltschädlichen Stoffen Der Sub-Indikator bewertet, ob eine bestimmte Maßnahme bzw. Technik in relevantem Ausmaß positive oder negative Veränderungen in Hinblick auf Menge und Zusammensetzung der benötigten Einsatz- /Betriebsstoffe auslösen (u.
+
+a. bezüglich ggf. zusätzlich benötigter Chemikalien).
+
+Die Bewertung der jeweiligen Technologie erfolgt mit folgenden Schulnoten: 1 Positive Veränderung durch den neuen Prozess (gefährliche Einsatzstoffe fallen weg) 2 Geringe positive Veränderung durch den neuen Prozess (....) 3 Keine Veränderung durch den neuen Prozess 4 Geringe negative Veränderung durch den neuen Prozess (wenige problematische Einsatstoffe) 5 Negative Veränderung durch den neuen Prozess (viele problematische Einsatstoffe) 6 Sehr negative Veränderung durch den neuen Prozess (Einsatz von Stoffen, die nicht akzeptierbar sind) ► Sub-Indikator 9.1c: Verwendung kritischer Rohstoffe Mit diesem Sub-Indikator wird ermittelt, ob die zu bewertende Technologie kritische Rohstoffe (z.
+
+B. Metalle der seltenen Erden) in relevanten Mengen benötigt.
+
+Dieser Indikator ist in Verbindung mit den später beschriebenen Indikatoren 9.2b und 9.2c zu sehen, denn die Nutzung von Sekundärmaterialien bzw. ein effizientes Recycling würde die Nutzung kritischer Rohstoffe relativieren.
+
+Zudem besteht eine Verknüpfung zu Kriterium 6 (Risiken) und Kriterium 7 (Regionale Abhängigkeiten) – falls hier kritische Rohstoffe angegeben werden, sollte dort das Risiko und mögliche Abhängigkeiten angegeben werden (dies ist jedoch nur möglich, falls Risiko und Abhängigkeiten bereits extern ermittelt wurden, da hierfür ansonsten eigene Studien notwendig wären).
+
+Zur Kritikalität tragen in unterschiedlichem Maße folgende Faktoren bei: ► Mengenmäßige Verfügbarkeit (ausreichende Reserven/Ressourcen) ► Technische Verfügbarkeit (Minen) ► Ökologische Fragen des Bergbaus  ► Abhängigkeit von Lieferländern Eine weitergehende Recherche kann in dieser Studie nicht geleistet werden, daher wird nur die Anzahl der kritischen Stoffe ermittelt.
+
+Hierbei kann aus einer in der nachfolgenden Tabelle 41 bereitgestellten Liste ausgewählt werden.
+
+Die Bewertung der jeweiligen Technologie erfolgt dann mit den nachfolgend gezeigten Schulnoten.
+
+Auch nur die Verwendung eines einzigen kritischen Rohstoffes kann jedoch ggf. je nach Menge zu negativen Folgen führen.
+
+Dies muss im Einzelfall bei der Gesamtbewertung einer Technologie berücksichtigt werden, indem anschließend ggf. eine Abschätzung des Bedarfs erfolgt.
+
+Entscheidend ist dabei insbesondere, ob die späteren Indikatoren 9.2b und 9.2c Handlungsbedarf aufzeigen.
+
+1 Keine Verwendung kritischer Rohstoffe durch den neuen Prozess 2 Verwendung eines kritischen Rohstoffs ...
+
+3 Verwendung von 2-3 kritischen Rohstoffen ...
+
+4 Verwendung von 4-5 kritischen Rohstoffen ...
+
+5 Verwendung von 6-7 kritischen Rohstoffen ...
+
+6 Verwendung von mehr als 7 kritischen Rohstoffen ...
+
+► Sub-Indikator 9.2a: Sektorale Abfallintensität Dieser Sub-Indikator zeigt auf, wie sich die Abfallintensität des jeweiligen Sektors durch die Anwendung der hier zu bewertenden Technologien im Zeitverlauf verändert.
+
+Die Abfallintensität wird u. a. vom Statistischen Bundesamt als Indikator für die Nachhaltigkeit der Abfall- bzw. Kreislaufwirtschaft und insbesondere für das im Kreislaufwirtschaftsgesetz (KrWG) gesetzte Ziel einer Entkopplung von Wirtschaftswachstum und Abfallaufkommen erhoben.
+
+Sie ist definiert als das Verhältnis des sektoralen Abfallaufkommens (in kg) zum Bruttoinlandsprodukt (BIP in 1.000 Euro) über die Zeit.
+
+Das Statistische Bundesamt spricht von einer „nachhaltigen Abfallwirtschaft“12, wenn die Entwicklung des Abfallaufkommens deutlich hinter dem Wirtschaftswachstum zurückbleibt.
+
+Die Bewertung der jeweiligen Technologie erfolgt mit folgenden Schulnoten: 1 Starke Abnahme der sektoralen Abfallintenstität (-5 % oder mehr gegenüber dem <TIMEX3 tid="t97" type="DURATION" value="P1Y">Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) 2 Mittlere Abnahme (-2 % oder mehr gegenüber <TIMEX3 tid="t98" type="DURATION" value="P1Y">dem Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) 3 Keine Änderung bis geringe Abnahme (bis zu 2 % gegenüber <TIMEX3 tid="t99" type="DURATION" value="P1Y">dem Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) 4 Geringer Anstieg (bis zu 2 % Anstieg gegenüber <TIMEX3 tid="t100" type="DURATION" value="P1Y">dem Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) 5 Mittlerer Anstieg (bis zu 5 % gegenüber <TIMEX3 tid="t101" type="DURATION" value="P1Y">dem Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) 6 Starker Anstieg (5 % oder mehr gegenüber <TIMEX3 tid="t102" type="DURATION" value="P1Y">dem Referenzjahr</TIMEX3> der Einführung der zu bewertenden Technologie) ► Sub-Indikator 9.2b: Ressourcenschonung durch den Einsatz von Sekundärrohstoffen Dieser Sub-Indikator zeigt auf, wie die hier zu bewertende Technologie durch den Einsatz von Sekundärrohstoffen zur Ressourcenschonung beiträgt.
+
+Er kann erfasst werden anhand der Indikatoren DERec und DIERec.
+
+DERec (Direct Effect of Recovery) und DIERec (Direct and Indirect Effects of Recovery) sind die im Rahmen von ProgRess III verwendeten Indikatoren, die abbilden, in welchem Umfang auf volkswirtschaftlicher Ebene durch Kreislaufführung und Verwertung Primärrohstoffe geschont werden.
+
+Der DERec-Wert bildet die inländischen, direkten Schonungseffekte ab und korrespondiert somit mit dem volkswirtschaftlichen Materialflussindikator „Inländischer Materialeinsatz“ (DMI).
+
+Der DIERec-Wert bildet zusätzlich die globalen Auswirkungen auf die indirekten Rohstoffinanspruchnahmen im Ausland ab und bezieht sich folglich auf den Indikator „Rohstoff-Input“ (RMI).
+
+Beide Indikatoren werden in Tonnen gemessen und stellen Nettosalden dar, welche die realen Verwertungs- und Rückführungsqualitäten von Sekundärrohstoffen zu Grunde legen.
+
+Es werden die materiellen Aufwendungen von Sekundärprozessrouten, d. h. für das Sammeln, Transportieren, Aufbereiten und Verwerten der Sekundärmaterialien erfasst und von den äquivalenten Aufwendungen der Primärprozesse subtrahiert.
+
+Berücksichtigt werden sowohl inländische Rohstoffentnahmen als auch solche für importierte Güter.
+
+Die Indikatoren basieren u. a. auf dem kumulierten Rohstoffaufwand (KRA) und könnten somit auch für konkrete Vorketten und nachgelagerte Prozesse für einzelne Sektoren verwendet werden.
+
+Die Bewertung der jeweiligen Technologie erfolgt mit folgenden Schulnoten, die sich auf quantifizierte Steigerung des umfassenderen Indikators DIERec beziehen (Referenzwert <TIMEX3 tid="t103" type="DATE" value="2015">2015</TIMEX3>: 476 Mio t) 1 Sehr hohe Ressourcenschonung (Steigerung des DIERec um 50 Mio. t oder mehr) 2 Hohe Ressourcenschonung (Steigerung des DIERec um 20 Mio. t oder mehr) 3 Hohe Ressourcenschonung (Steigerung des DIERec um 10 Mio. t oder mehr) 4 Niedrige Ressourcenschonung (Steigerung des DIERec um 2 Mio. t oder mehr) 5 Sehr niedrige Ressourcenschonung (Steigerung des DIERec um 1 Mio. t oder mehr) 6 Keine Ressourcenschonung ► Sub-Indikator 9.2c: Endoflife-Recyclingquote für ausgewählte Rohstoffe (EOL-RQ) Dieser Sub-Indikator zeigt auf, zu welchen Anteilen in der Herstellung einzelner Produkte eingesetzte Rohstoffe wieder zurückgewonnen werden.
+
+Die Endof-Life-Recyclingquote (EOL-RQ) für einzelne Materialien bezieht sich auf den Anteil spezifischer Materialien, der am Ende ihrer Nutzungsphase wieder zurückgewonnen wird und für einen weiteren Einsatz zur Verfügung steht.
+
+Die EOL-RQ unterscheidet sich damit von Recyclingquoten, wie sie z. B. im KrWG für einzelne Abfallströme vorgegeben sind: Hier wird in der Regel der Anteil an Abfällen erfasst, der bestimmten Verwertungsverfahren zugeführt wird (stoffliches Recycling, thermische Verwertung etc.).
+
+Die Qualität des Recyclingprozesses oder die tatsächlich zurückgewonnene Menge einzelner Materialien spielt aus dieser Perspektive keine Rolle – selbst bei Recyclingquoten von 100 % auf Ebene eines Produktes können bestimmte Stoffe überhaupt nicht zurückgewonnen werden, die EOL-RQ wären dementsprechend 0 %.
+
+Die Bewertung der jeweiligen Technologie erfolgt mit folgenden Schulnoten.
+
+Alternativ könnte eine Quantifizierung durch eine Auswahl einzelner Rohstoffe erfolgen, z. B. mit Blick auf die o. g. kritischen Rohstoffe: 1 Sehr hohe EOL-Recyclingquote  2 Hohe EOL-Recyclingquote  3 Ausreichende EOL-Recyclingquote  4 Niedrige EOL-Recyclingquote  5 Sehr niedrige EOL-Recyclingquote  6 Nicht akzeptable EOL-Recyclingquote  Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine Veränderung ergeben dürfte.
+
+Bei beiden Indikatoren wird die „Bewertungsebene 2“ verwendet, da es bei diesen Indikatoren nicht nur um die Situation vor Ort im Betrieb geht.
+
+Zur Ermittlung der einzelnen Sub-Indikatoren ist wie folgt vorzugehen: ► Sub-Indikator 9.1a: Intersektorale Rückwirkungen Literaturanalyse, eigenes Expertenwissen ► Sub-Indikator 9.1b: Einsatz von gefährlichen und umweltschädlichen Stoffen Literaturanalyse, eigenes Expertenwissen ► Sub-Indikator 9.1c: Verwendung kritischer Rohstoffe Literaturanalyse, eigenes Expertenwissen Die Bewertungsbasis bildet die Übersicht derjenigen Rohstoffe, die von der EU als allgemein versorgungskritisch angesehen werden (Europäische Kommission <TIMEX3 tid="t104" type="DATE" value="2017">2017</TIMEX3>).
+
+Eine Übersicht zeigt Tabelle 41. ► Sub-Indikator 9.2a: Sektorale Abfallintensität Zur Berechnung der sektoralen Abfallintensität (kg/1.000 Euro) wird in der Regel neben dem gesamten (inländischen) Abfallaufkommen die Wirtschaftsleistung in seiner preisbereinigten Version berücksichtigt, damit im längeren Zeitvergleich Preiseffekte eliminiert sind.
+
+Für die hier betrachteten sektoralen Abfallintensitäten werden die in der Abfallbilanz des Statistischen Bundesamtes aufgeführten Abfallaufkommen auf das reale BIP der Gesamtwirtschaft bezogen.
+
+► Sub-Indikator 9.2b: Ressourcenschonung durch den Einsatz von Sekundärrohstoffen (DERec und DIERec) Für die Beiträge zur Ressourcenschonung anhand der Indikatoren DERec (Direct Effect of Recovery) und DIERec (Direct and Indirect Effects of Recovery) kann auf ein im Auftrag des Umweltbundesamtes entwickeltes Mengengerüst zurückgegriffen werden13.
+
+Bei Veränderungen gegenüber dem dort dargestellten <TIMEX3 tid="t105" type="DATE" value="2013">Referenzjahr 2013</TIMEX3>, z. B. mit Blick auf eingesetzte Technologien und der Effizienzen, müssen neben der Auswertung der oben genannten abfallwirtschaftlichen Statistiken weitere Literaturanalysen und ggf. ergänzende Expertenbefragungen durchgeführt werden.
+
+► Sub-Indikator 9.2c: Endoflife-Recyclingquote für ausgewählte Rohstoffe (EOL-RQ) Das Vorgehen zur Ermittlung der EOL-RQ wurde u. a. vom Umweltbundesamt detailliert beschrieben.
+
+Für die notwendigen Daten insbesondere zur Menge der eingesetzten Rohstoffe kann auf LCA-Datenbanken wie ecoinvent oder ProBas zurückgegriffen werden, darüber hinaus sind weitere Literaturanalysen und ggf. ergänzende Expertenbefragungen notwendig.
+
+Die Auswahl der zu betrachtenden Metalle kann sich z. B. an der Liste kritischer Rohstoffe orientieren oder an den quantifizierten Beiträgen zum Ressourcenschutz aus Sub-Indikator 9.2b.
+
+Die Werte der Sub-Indikatoren werden dann in folgender Tabelle eingetragen: Während die Sub-Indikatoren zu 9.1 selbsterklärend sind, müsste für die Sub-Indikatoren zu 9.2 zunächst ein Beispiel konstruiert werden.
+
+Da die Ermittlung der Indikatoren zudem recht aufwändig ist, wird auf ein Beispiel verzichtet und auf die Hinweise zum Vorgehen verwiesen.
+
+► Kriterium 2: Energieeffizienz ► Kriterium 3: THG-Effizienz ► Kriterium 4: Kosteneffizienz ► Kriterium 6: Risiken für die Minderung der THG-Emissionen ► Kriterium 7: Regionale Abhängigkeiten ► Kriterium 12: Wirkungen auf Immissionsschutz und Abfallaufkommen Die jeweiligen Datenquellen bzw. Berechnungsweisen wurden oben bereits bei jedem Sub-Indikator dargestellt.
+
+Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die ermittelten Indikatorwerte der einzelnen Technologien zunächst - wie in Kapitel 2.3.2.4 beschrieben - in der bereitgestellten excel-Datei eingetragen.
+
+Dort findet eine automatisierte Ermittlung der farblichen Einstufung statt, die in die folgende Tabelle übertragen wird.
+
+Für die (tiefe) Dekarbonisierung der Grundstoffindustrien sind in vielen Bereichen Technologien relevant, für die bestehende Infrastrukturen ausgebaut oder neue geschaffen werden müssen.
+
+Die Verbreitung solcher Technologien ist daher besonders abhängig von der Infrastruktur.
+
+Infrastrukturabhängigkeiten können dazu führen, dass die Verbreitung einer Technologie gehemmt oder gefördert wird.
+
+Wird sie gehemmt, kann die Abhängigkeit von der Infrastruktur zu Henne-Ei-Problemen führen, da im wirtschaftlichen und politischen Kontext oft nicht ganz klar ist, wie die Hindernisse beseitigt werden können.
+
+Sollen neue Technologien zuerst geplant (und teilweise gebaut) werden und erst dann die Infrastruktur?
+
+Oder sind ungeeignete oder fehlende Infrastrukturen ein so großes Hindernis für die Planung neuer Technologien, dass diese zuerst geschaffen werden müssen, um die Verbreitung neuer Technologien zu beschleunigen?
+
+Es ist daher ratsam zu bewerten, was auf der Infrastrukturseite getan werden muss, um eine neue Technologie zu implementieren.
+
+Im besten Fall lassen sich daraus hemmende und fördernde Faktoren ableiten, die bei der Verbreitung der Technologie berücksichtigt werden müssen.
+
+Das Kriterium Infrastrukturabhängigkeit beschreibt, in welchem Umfang und in welchem Ausmaß der Einsatz einer neuen Technologie von der Infrastruktur abhängig ist.
+
+Es soll festgestellt werden, ob die Technologie unabhängig von Änderungen an bestehenden Infrastrukturen eingesetzt werden kann oder ob bestehende Infrastrukturen ausgebaut oder neue geschaffen werden müssen.
+
+Es beschreibt somit infrastrukturbezogene Aufwände und die daraus möglicherweise resultierenden Zeitverzögerungen für den Einsatz der Technologie.
+
+Für die Bewertung werden Informationen über die infrastrukturellen Abhängigkeiten der betreffenden Technologie gesammelt.
+
+Dabei werden Indikatoren aus 3 Kategorien unterschieden: ► Indikator 10.1: Leitungsnetze für Elektrizität (Übertragungsnetze, Verteilnetze, ...) ► Indikator 10.2: Leitungsnetze für Stofftransport (Erdgas, Wasserstoff, CO2, Methanol, ...)  ► Indikator 10.3: Sonstige Infrastruktur (z.
+
+B. Logistik, Verkehrsinfrastruktur)  Die Einstufung der Stärke der Infrastrukturabhängigkeit erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Die Benotung erfolgt nach folgendem Muster: 1 Kein Aufwand, sofortige Nutzung möglich (Z.
+
+B. wenn vorhandene Infrastruktur sofort genutzt werden kann) 2 Geringer Aufwand, keine sofortige Nutzung möglich  3 Mäßiger Aufwand und Vorlaufzeiten  4 Mittlerer Aufwand und Vorlaufzeiten  5 Hoher Aufwand und Vorlaufzeiten (Z.
+
+B. Neubau von Infrastrukturen mit hohem Aufwand und hohen Vorlaufzeiten) 6 Sehr Hoher Aufwand und Vorlaufzeiten  Der Bewertende sollte zunächst mögliche infrastrukturelle Abhängigkeiten ermitteln und jeweils einzeln auf der Skala einordnen und in der folgenden Tabelle eintragen.
+
+(Z.
+
+B. wenn vorhandene Infrastruktur genutzt werden kann, jedoch leicht angepasst werden muss)  (Z.
+
+B. Umnutzung vorhandener Infrastrukturen machbar mit mäßigem zeitlichen Vorlauf, oder Neubau von Infrastrukturen mit mäßigem Aufwand und mäßigem Vorlauf)  (Z.
+
+B. Umnutzung vorhandener Infrastrukturen machbar, aber mittlerer Vorlauf; oder Neubau von Infrastrukturen mit mittlerem Aufwand und mittlerem Vorlauf) (Z.
+
+B. Neubau von Infrastrukturen mit sehr hohem Aufwand und sehr hohen Vorlaufzeiten, z. B. wenn Bürgerbeteiligungen notwendig sind) Für die Bewertung werden geringe Aufwände angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine vorhersehbare Veränderung ergeben dürfte.
+
+Die Daten werden für die Bewertungsebene 2 erhoben, beziehen also das Unternehmen mitsamt seiner Umwelt mit ein.
+
+In der Primärstahlproduktion ist <TIMEX3 tid="t106" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> die Hochofenroute mit Koks als Reduktionsmittel das dominierende Verfahren.
+
+Eine alternative Technologie für die Dekarbonisierung dieses Bereichs ist die Anwendung des Direktreduktionsverfahrens mit Wasserstoff als Reduktionsmittel.
+
+Hier könnte der Wasserstoff an den Stahlstandorten erzeugt werden.
+
+Dies würde jedoch im Vergleich zur <TIMEX3 tid="t107" type="DATE" value="PRESENT_REF">heutigen</TIMEX3> Situation deutlich höhere Mengen und Leistungen für Elektrizität erfordern.
+
+Daraus folgt, dass die elektrische Infrastruktur für den Einsatz der Technologie angepasst werden muss.
+
+Dies wird z. B. anhand des Kriteriums „Infrastrukturabhängigkeiten“ untersucht und bewertet.
+
+Kriterium 5: Erzeugung von Pfadbahängigkeiten und Lockin-Effekten Wissenschaftliche Literatur und relevante Studien insbesondere zu Szenarien, z. B. das Projekt „Langfristszenarien für die Transformation des Energiesystems in <PLACE id="p3" type="" geo="DEBKGGND00001CV0">Deutschland</PLACE> (Langfristszenarien 3)“: www.langfristszenarien.de  Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die ermittelten Indikatorwerte der einzelnen Technologien zunächst wie in Kapitel 2.3.2.4 beschrieben in der bereit gestellten Excel-Datei eingetragen.
+
+Dort findet eine automatisierte Ermittlung der farblichen Einstufung statt, die in die folgende Tabelle übertragen wird.
+
+Vor allem bei der Genehmigung von Anlagen ist eine Vielzahl von Sicherheitsrisiken zu beachten.
+
+Durch den Wechsel auf dekarbonisierte technische Verfahren können diese Sicherheitsrisiken in unterschiedlicher Weise beeinflusst werden.
+
+Grundsätzlich lassen sich stoffliche Risiken durch die Nutzung bestimmter Einsatzstoffe und die Produktion von Nebenprodukten sowie prozessbedingte Risiken unterscheiden.
+
+Für das Kriterium der Anlagensicherheit wird betrachtet, welche Maßnahmen zur Sicherstellung der Anlagensicherheit bei der Nutzung neuer Einsatzstoffe (inkl. Energieträger wie Wasserstoff) und/oder neuer Prozesstechniken (wie z. B. Luftzerlegung für die Gewinnung von O2 aus der Atmosphäre) notwendig sind, wie aufwändig diese Maßnahmen sind und wie fehleranfällig sie erscheinen.
+
+Zum anderen werden separat und in analoger Weise die potenziellen Auswirkungen im Hinblick auf die Sicherstellung der Anlagensicherheit beim An- und Abtransport von Roh-, Brenn- und Einsatzstoffen berücksichtigt.
+
+Dabei wird jeweils nicht nur die Anlage selbst betrachtet, in der die industriellen Grundstoffe erzeugt werden, sondern es wird ebenfalls die Sicherheit von möglicherweise notwendigen neuen Infrastrukturen (wie z. B. von Ladeterminals oder Wasserstoffleitungen) auf Unternehmensebene berücksichtigt („Bewertungsebene 1“).
+
+Für das Kriterium der Anlagensicherheit werden zwei Indikatoren betrachtet, die jeweils mehrere Sub-Indikatoren umfassen: ► Sub-Indikator 11.1a: Risiken durch Humantoxizität Welche stoffliche Zusammensetzung ergibt sich bei der dekarbonisierten Produktionstechnik?
+
+In welcher Höhe entstehen humantoxische Einsatzstoffe?
+
+► Sub-Indikator 11.1b: Risiken durch Ökotoxizität Welche ökotoxischen Eigenschaften ergibt sich durch die dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen ökotoxische Einsatzstoffe?
+
+► Sub-Indikator 11.1c: Risiken durch niedrigen Flammpunkt Welche Brandrisiken entstehen durch die Flammpunkte der eingesetzten Substanzen bei der dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen diese?
+
+► Sub-Indikator 11.1d: Risiken durch Bildung zündfähiger Gemische Welche Explosionsrisiken entstehen durch die dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen diese?
+
+► Sub-Indikator 11.1e: Risiken durch sonstige heftige Reaktionen Welche Risiken entstehen durch den Kontakt von Einsatzstoffen mit Luftsauerstoff oder Löschwasser durch die dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen diese?
+
+Dies kann etwa im Falle von Havarien die Bildung von Säuren sein.
+
+► Sub-Indikator 11.2a: Risiken durch hohe Temperaturen Welche Risiken entstehen durch hohe Prozesstemperaturen durch die dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen diese?
+
+► Sub-Indikator 11.2b: Risiken durch hohe Drücke Welche Risiken entstehen durch hohe Drücke durch die dekarbonisierte Produktionstechnik?
+
+In welcher Höhe entstehen diese?
+
+Die Sub-Indikatoren werden alle nach dem gleichen Muster bewertet und schließlich zu den beiden Indikatoren zusammengeführt: 1 Kein Risiko (oder nicht relevant) 2 Nahezu kein Risiko 3 Geringes Risiko 4 Mittleres Risiko 5 Hohes Risiko 6 Sehr hohes Risiko Für die Risikobewertung wird auf Expertenwissen, ggf. ergänzt um zusätzliche Expertenbefragungen, zurückgegriffen.
+
+Für neue Technologien werden ggf. keine Einschätzungen möglich sein.
+
+Eigene Analysen können hierzu nicht durchgeführt werden.
+
+Ggf.
+
+muss auf Einschätzungen zu ähnlichen Technologien zurückgegriffen werden.
+
+Für die Bewertung wird ein geringes oder auch ein fehlendes Risiko angestrebt, d. h. im Vergleich mehrerer Technologien sollte der Wert so weit wie möglich minimiert werden.
+
+Bei der Bewertung wird nicht nach unterschiedlichen Zeiträumen unterschieden, da sich i. d. R. keine Veränderung ergeben dürfte.
+
+Das Beispiel Kernenergie zeigt, dass einzelne Technologien sowohl hinsichtlich stofflicher als auch prozessbedingter Risiken hochrelevant sein können.
+
+Dies gilt für Einsatzstoffe wie Uran und Spaltprodukte wie etwa Plutonium sowie deren Transport und Endlagerung wie auch für den Prozess der Kernspaltung selbst und die dabei im Normalbetrieb und bei Havarien möglichen Temperaturen, Drücke, Strahlungsintensitäten etc. Eine derartig starke Kumulation von Risiken wie bei der Kernenergie ist allerdings eher selten.
+
+Kriterium 6: Stoffströme und Kreislaufwirtschaft (Indikator 6.1b Einsatz von gefährlichen und umweltschädlichen Stoffen) Informationssystem zum Stand der Sicherheitstechnik - INFOSIS: www.infosis.uba.de  Service-Plattform Technische Regelwerke des VCI: www.vci.de/technischeregelwerke/anlagensicherheit/uebersichtsseite.jsp  Berufsgenossenschaft Rohstoffe und chemische Industrie (BG RCI): www.bgrci.de/anlagensicherheit  TÜV <PLACE id="p4" type="" geo="DEBKGGND00004IYN">Rheinland</PLACE> Anlagensicherheit und Risiko-Management: www.tuv.com/germany/de/anlagensicherheit.html  Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAUA): www.baua.de/DE/Home/Home_node.html  Sind alle Technologien einer Gruppe nach obigem Muster bewertet, werden sie im 2.
+
+Schritt miteinander verglichen.
+
+Hierzu werden die ermittelten Indikatorwerte der einzelnen Technologien zunächst wie in Kapitel 2.3.2.4 beschrieben in der bereit gestellten Excel-Datei eingetragen.
+
+Dort findet eine automatisierte Ermittlung der farblichen Einstufung statt, die in die folgende Tabelle übertragen wird.
+
+Technologien zur Dekarbonisierung der Grundstoffindustrie können dazu beitragen, gasförmige Emissionen sowie flüssige und feste Abfälle zu reduzieren.
+
+So besteht in den allermeisten Fällen die berechtigte Hoffnung, dass durch den Verzicht auf den Einsatz fossiler Brennstoffe neben der Dekarbonisierung als relevanter Zusatznutzen u. a. die Entstehung klassischer Luftschadstoffe teilweise oder vollständig vermieden werden kann (IRENA <TIMEX3 tid="t108" type="DATE" value="2017">2017</TIMEX3>).
+
+Die Vermeidung der Emission von Luftschadstoffen und der damit zusammenhängenden Gesundheitsschäden durch den verminderten Einsatz von fossilen Energieträgern zählt sicher zu den gewichtigsten Zusatznutzen der klimapolitisch motivierten Dekarbonisierung.
+
+Allein für diesen Bereich werden die <TIMEX3 tid="t109" type="SET" freq="EVERY" value="P1Y">jährlichen</TIMEX3> weltweiten vorzeitigen Todesfälle auf mindestens fünf Mio. geschätzt.
+
+Diese durch die Dekarbonisierung weitgehend vermeidbaren Schäden dürften die Kosten der Dekarbonisierung bereits bei weitem überkompensieren (Academy of Science of South Africa et al. <TIMEX3 tid="t110" type="DATE" value="2019">2019</TIMEX3>).
+
+Nach einer <TIMEX3 tid="t111" type="DATE" value="PRESENT_REF">aktuellen</TIMEX3> Studie der Europäischen Umweltagentur ist Luftverschmutzung in Europa für mehr als 400 000 durch sie verursachte vorzeitige Todesfälle verantwortlich und somit die größte Umweltbedrohung für die Gesundheit in Europa (EEA <TIMEX3 tid="t112" type="DATE" value="2020">2020</TIMEX3>).
+
+Das Kriterium beschreibt das Potenzial der betrachteten treibhausgasarmen Technologien zur Verbesserung oder Verschlechterung des Immissionsschutzes und des Abfallaufkommens.
+
+Ziel ist es, eine qualitative Einschätzung auf Basis eines Vergleiches mit bestehenden Technologien zu erlangen.
+
+Für die Beurteilung sollten Informationen über die Besten Verfügbaren Techniken (BVT) für den betreffenden Sektor aus den BREF-Dokumenten (Best Available Techniques Reference) als Referenz verwendet werden14.
+
+Hinweise für die qualitative Beurteilung des Potenzials durch den Bewerter ergeben sich durch die Betrachtung der nachfolgenden Indikatoren.
+
+► Indikator 12.1: Gasförmige Emissionen (z.
+
+B. Schwefeldioxid, Stickoxide oder Quecksilber) ► Indikator 12.2: Abwässer (z.
+
+B. Säuren, Laugen) ► Indikator 12.3: Feste Abfallstoffe (z.
+
+B. Aschen, Filterstäube) Die Einstufung der Wirkungen auf Immissionsschutz und Abfallaufkommen erfolgt auf einer Skala von 1 – 6 im Sinne einer Schulnote.
+
+Die Bewertenden sollten zunächst mögliche Verbesserungen oder Verschlechterungen im Vergleich zu „Besten Verfügbaren Techniken“ (BVT) ermitteln.
+
+Anschließend erfolgt eine Zusammenschau aller erfassten Informationen und die Festlegung eines Gesamtwertes für die Technologie.
+
+Es handelt sich also um eine ingenieurmäßige Einschätzung des Potenzials, die je nach Betrachtungswinkel variieren kann.
+
+Es ist daher wichtig, die Bewertung durch einen kurzen Begleittext zu begründen.
+
+Für die Bewertung wird eine Verbesserung angestrebt, d. h. im Vergleich mit der BVT sollte der Wert so weit wie möglich minimiert werden.
+
+Die Bewertung sollte mit Blick auf Bewertungsebene 1 erfolgen, also Immissionsschutz und Abfallaufkommen vor Ort im Betrieb betrachten.
+
+keine ► Die „Best Available Techniques Reference“-Dokumente (BREF) der EU-Kommission15 bieten eine gute Datengrundlage für die <TIMEX3 tid="t113" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> vorherrschenden Technologien.
+
+► Für Technologien, die erst in <TIMEX3 tid="t114" type="DATE" value="FUTURE_REF">der Zukunft</TIMEX3> eingesetzt werden können, bieten wissenschaftliche Artikel aus Fachzeitschriften ggf. gute Datengrundlagen.
+
+Liegen die Bewertungen mit allen Kriterien vor, erfolgt im nächsten Schritt wie Kapitel 2.3.3 beschrieben die Zusammenführung aller Technologien einer Gruppe.
+
+Da dies grafisch erfolgt, wird hier keine Tabelle vorgehalten.
+
+Am <TIMEX3 tid="t115" type="DATE" value="2022-09-29">29. September 2022</TIMEX3> fand mit 27 Teilnehmenden und sechs Vertretern und Vertreterinnen des Konsortiums eine <TIMEX3 tid="t116" type="DURATION" value="PT3H">dreistündige</TIMEX3> virtuelle Veranstaltung zur Vorstellung des Bewertungstools für Dekarbonisierungstechnologien statt.
+
+Ziel der Veranstaltung war es, einer ausgewählten Gruppe an Teilnehmenden das Excel-Bewertungstool zur Bewertung von Techniken, Verfahren und Maßnahmen zur deutlichen Minderung industrieller THG-Emissionen vorzustellen und Rückmeldungen von den Expertinnen und Experten aufzunehmen.
+
+Die Teilnehmenden der Veranstaltung waren einzelne Akteurinnen und Akteure der bestehenden Stakeholdergruppe, die im DekarbInd-Projekt mitwirkten, sowie zusätzlich ausgewählte Wissenschaftler*innen aus dem Bereich der Systemforschung.
+
+Im Vorfeld wurde den Teilnehmenden ein Infoblatt zum Bewertungstool bereitgestellt.
+
+Dieses enthielt einen Ausschnitt sowie Erläuterungen des Bewertungstools und die Beispielbewertung zweier Dekarbonisierungs-Technologien aus dem Stahl- und Zementsektor.
+
+Die Veranstaltung selbst bestand aus drei Teilen: ► (1) Zunächst wurden den Teilnehmenden auf Grundlage der vorab bereitgestellten Informationen eine allgemeine Einführung in das Tool gegeben.
+
+Hierbei wurden die zugrundeliegenden Kriterien sowie ihre Erarbeitung erläutert.
+
+► (2) Im zweiten Teil der Veranstaltung wurde das Excel-Bewertungstool vorgeführt, um die praktische Handhabung aufzuzeigen.
+
+► (3) Im dritten Teil wurde die inhaltliche Anwendbarkeit des Tools anhand zweiter Beispielbewertungen aus der Stahl- und Zementbranche demonstriert.
+
+Auf alle inhaltlichen Präsentationen folgte eine offene Gesprächsrunde, in denen Fragen und Anmerkungen der Teilnehmenden gemeinsam beantwortet und diskutiert wurden.
+
+Im Folgenden werden die zentralen Rückmeldungen und Diskussionen thematisch gebündelt dargestellt.
+
+Von Seiten der Hersteller und Anlagenbauer wurde die Sorge geäußert, dass ein „einfaches“ Tool simplifizierte Darstellungen fördert, die missverstanden werden könnten.
+
+In diesem Zusammenhang wurde auch darauf hingewiesen, dass eine Bewertung der Kriterien lediglich eine subjektive Einschätzung des Bewertenden abdecke.
+
+► Dem wurde durch begegnet, indem die Stärke des Tools hervorgehoben wurde: Diese besteht darin, dass nicht nur die Technologien selbst, sondern auch ihre Vorketten in die Bewertung einbezogen werden.
+
+Indem die Systemgrenze erheblich weiter als bei reinen Unternehmensentscheidungen gefasst wird, können sonst nicht „sichtbare“ Entwicklungen und mögliche „Stolperfallen“ aufgezeigt werden, aus denen sich möglicherweise neue Abhängigkeiten ergeben könnten z. B. der hohe kumulierte Energieaufwand bei der Bereitstellung von Wasserstoff.
+
+► Darüber hinaus ermöglicht das Tool die Darstellung von divergierenden Bewertungen.
+
+Das bedeutet, dass es gerade eine Stärke des Tools ist, keine eindeutige Priorität für eine einzelne Technologie auszusprechen, sondern einen ganzheitlichen und transparenten Blick auf die Stärken und Schwächen von Technologien innerhalb einer Technologiegruppe zu ermöglichen.
+
+Auf diese Weise können auch komplexere Pfade und Ketten abgebildet werden.
+
+Wird eine Technologie präferiert, gibt das Tool Hinweise, bei welchen Bewertungsdimensionen bzw. konkreten Indikatoren nachgebessert werden sollte.
+
+► Zusätzlich wurde auf den Bewertungsbogen zum Tool verwiesen.
+
+Dieser bietet die Grundlage für eine transparente Bewertung, da dort alle Bewertungen, die innerhalb des Tools vorgenommen wurden, dokumentiert und begründet werden.
+
+Es gab den Hinweis aus dem Teilnehmerkreis, auch diese Bewertungsgrundlagen bzw. einzelne zentrale Annahmen zusätzlich zu den Ergebnissen des Tools abzubilden.
+
+Es wurde weiterhin vorgeschlagen, auch konkrete Standortbedingungen zu berücksichtigen, die an jedem Standort anders sein könnten.
+
+So könnten beispielsweise einzelne Industrie-Standorte das Tool nutzen, um standortspezifische Entscheidungen für die <TIMEX3 tid="t117" type="DATE" value="FUTURE_REF">zukünftigen</TIMEX3> Einsatz von Dekarbonisierungstechnologien zu treffen und dabei die jeweilige Situation vor Ort zu berücksichtigen.
+
+Demgegenüber wurde die zentrale Schlussfolgerung gezogen, dass das Tool nicht als Entscheidungstool für Unternehmen oder Politik angesehen sollte, sondern vielmehr als Transparenztool genutzt werden sollte.
+
+Für erstere haben Unternehmen eigene Tools und bewerten meist die ökonomische Relevanz von Investitionen und das auch eher im kürzeren Zeitrahmen.
+
+Mit dem entwickelten Bewertungstool für Dekarbonisierungstechnologien steht dagegen im Vordergrund, mögliche <TIMEX3 tid="t112" type="DATE" value="FUTURE_REF">langfristige</TIMEX3> Entwicklungen zu betrachten sowie über die Bewertung aus verschiedenen Perspektiven mögliche Restriktionen und Konflikte frühzeitig aufzuzeigen.
+
+Diese könnten dann natürlich Unternehmensentscheidungen beeinflussen, aber nicht ersetzen.
+
+Neben der Frage der möglichen Gewichtung der Kriterien (<TIMEX3 tid="t113" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> sind alle Kriterien gleich gewichtet) wurde schließlich insbesondere die Frage diskutiert, ob und wie das Bewertungstool bereitgestellt werden wird und wer es nutzen könne.
+
+Die Zielgruppe und die <TIMEX3 tid="t114" type="DATE" value="FUTURE_REF">zukünftige</TIMEX3> Nutzung ist vom Umweltbundesamt <TIMEX3 tid="t115" type="DATE" value="PRESENT_REF">derzeit</TIMEX3> noch nicht abschließend entschieden.
+
+Das Umweltbundesamt nimmt hierzu aber gerne Vorschläge entgegen.
+
+Insgesamt war die Online-Veranstaltung sehr wertvoll, um die Praxistauglichkeit des Tools zu testen und die möglichen Erwartungen der potenziellen Nutzer und Nutzerinnen gut einschätzen zu können.
+
+Das DekarbInd-Projektteam dank allen Teilnehmenden für ihre wertvollen Beträge.
+
+
+
+
+</TEXT></TimeML>

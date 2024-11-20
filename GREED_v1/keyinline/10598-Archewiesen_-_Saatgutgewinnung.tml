@@ -1,0 +1,363 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>10598-Archewiesen_-_Saatgutgewinnung</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-03-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-03-01</TIMEX3></DCT>
+<TEXT>Blumenbunte, artenreiche Wiesen haben neben ihrem hohen ästhetischen Wert eine ganz wesentliche Bedeutung für die biologische Vielfalt, da sie Lebensraum für viele Tierarten sind.
+
+Extensiv bewirtschaftete Wiesen können mehr als 50 Pﬂanzenarten aufweisen.
+
+Auf intensiv genutztem Grünland sind selten mehr als zehn Pﬂanzenarten zu ﬁnden.
+
+Mit ihren <TIMEX3 tid="t1" type="SET" freq="EVERY" value="P3M">jahreszeitlich</TIMEX3> wechselnden Blühaspekten beleben artenreiche Wiesen das Landschaftsbild und sind besonders wertvolle Bestandteile unserer Kulturlandschaft.
+
+Sie sind wichtig für Bodenschutz und Bodenfruchtbarkeit, für den Trinkwasser- und Klimaschutz und sie dienen der Erholung.
+
+Entstanden sind sie durch eine <TIMEX3 tid="t2" type="DURATION" value="PXY">jahrhundertelange</TIMEX3>, extensive Mahd- und Weidenutzung.
+
+Ohne Landwirtschaft gäbe es das Grünland nicht, so wie wir es <TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">heute</TIMEX3> kennen.
+
+In den verschiedenen Grünlandtypen kommt fast ein Drittel der höheren Pﬂanzenarten <PLACE id="p1" type="" geo="DEBKGGND00001CV0">Deutschlands</PLACE> vor.
+
+Das Spektrum reicht von Trocken- und Halbtrockenrasen bis zu den Streuwiesen und von Tieﬂagen-Frischwiesen bis zu Gebirgswiesen.
+
+Das Projekt widmet sich im Rahmen des „Sonderprogramms zur Stärkung der biologischen Vielfalt“ der Wiederherstellung, Aufwertung und Neuanlage von artenreichem Grünland.
+
+Gleichzeitig sollen Anreize für die Bewirtschafter artenreicher Grünlandbestände geschaffen werden, sich im Bereich Saatgutgewinnung ein wirtschaftliches Standbein aufzubauen.
+
+Am <TIMEX3 tid="t4" type="DATE" value="1992-05-21">21.05.1992</TIMEX3> trat die FFH-Richtlinie in Kraft (FFH: Fauna = Tiere, Flora = Pﬂanzen, Habitat = Lebensraum).
+
+Ihr Ziel ist die Erhaltung der Biodiversität der natürlichen Lebensräume sowie der wildlebenden Tiere und Pﬂanzen, für die Europa weltweit eine besondere Verantwortung trägt.
+
+Hierzu gehören auch die artenreichen Heuwiesen, nach der Richtlinie „FFH-Mähwiesen“ genannt.
+
+<PLACE id="p2" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE>  ist das Bundesland mit dem höchsten Anteil an ökologisch besonders hochwertigem, artenreichem Grünland und trägt daher <PLACE id="p3" type="" geo="DEBKGGND00001CV0">bundesweit</PLACE> und europaweit eine besondere Verantwortung für die Erhaltung der FFH-Mähwiesen.
+
+Allerdings ist artenreiches Grünland in allen Bundesländern stark rückläuﬁg.
+
+In <PLACE id="p4" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> sind bislang mehr als 8.000 ha verloren gegangene FFH-Mähwiesen dokumentiert.
+
+Dies zeigt, dass die <TIMEX3 tid="t5" type="DATE" value="PAST_REF">bisherigen</TIMEX3> Bemühungen zur Erhaltung solcher Wiesen nicht ausreichen.
+
+Es ist erwiesen, dass die Einwanderung von Pﬂanzenarten in artenarme Wiesen ohne Zutun des Menschen <TIMEX3 tid="t6" type="DURATION" value="PXY">mehrere Jahrzehnte</TIMEX3> dauern kann.
+
+Erschwerend kommt hinzu, dass die Wanderschäferei, die die Verbreitung von Samen begünstigt, <TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">heute</TIMEX3> in der Landschaft rückläuﬁg ist.
+
+Im Projekt sollen die hochwertigsten und artenreichsten Grünlandbestände in allen Naturräumen erfasst und für <TIMEX3 tid="t8" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> langfristig gesichert werden.
+
+Sie können als Spenderﬂächen dienen, auf denen Samen gewonnen und in Empfängerﬂächen übertragen werden.
+
+Spenderﬂächen müssen artenreich sein, eine typische Pﬂanzenzusammensetzung haben und dürfen keine problematischen Arten aufweisen.
+
+Sie sollen zu der geplanten Empfängerﬂäche passen und in ihrer Nähe liegen.
+
+So werden die genetische Vielfalt und Identität der Pﬂanzenarten in der regionaltypischen Zusammensetzung erhalten.
+
+In den Spenderﬂächen können mit verschiedenen Methoden Samen gewonnen werden.
+
+Diese können entweder direkt in artenarme Empfängerﬂächen übertragen oder getrocknet, zwischengelagert und als Saatgut gesichert werden.
+
+Diese Broschüre gibt Empfehlungen zu verschiedenen Erntemethoden, zu Bodenvorbereitung und Ansaat auf den Empfängerﬂächen sowie zur Pﬂege und Bewirtschaftung.
+
+Damit möchte sie zum Erfolg des Projektes beitragen.
+
+Das samenhaltige Material darf nur innerhalb der Ursprungsgebiete ausgebracht werden (s.a. BNatSchG §40).
+
+Aus fachlicher Sicht ist eine Ausbringung im gleichen Naturraum wünschenswert.
+
+Hier sehen Sie Fotos von erfolgreichen Umsetzungen im Projekt: Beim Druschverfahren wird Samenmaterial mit einem Mähdrescher ausgedroschen, der mit etwas Erfahrung eingestellt und feinjustiert werden muss.
+
+Beim Wiesendrusch wird der stehende Bestand gedroschen.
+
+Beim Schwaddrusch wird der Bestand zunächst geschnitten, auf Schwad gelegt und wenig später gedroschen.
+
+Beim Heudrusch wird das getrocknete Heu auf der Hofstelle gedroschen.
+
+Wichtig ist, dass die Reinigung des Ernteguts im Mähdrescher fast ohne Wind betrieben wird, da sonst die feinen Samen verblasen werden.
+
+Das Druschgut kann sofort ausgesät oder zunächst getrocknet und gelagert werden.
+
+Damit sind Ernte und Ausbringung zeitlich nicht gekoppelt.
+
+Die gewonnenen Samen werden mitsamt den Druschresten ausgebracht.
+
+Die Samen werden mit Bürsten aus der Vegetation ausgebürstet.
+
+Die Methode funktioniert gut bei niederwüchsigen und lichten Beständen.
+
+In manchen Fällen bietet es sich an, das Saatgut durch Handsammlung ausgewählter Arten zu ergänzen, um diese zum optimalen Zeitpunkt beernten zu können.
+
+Damit kann das Artenspektrum gezielt um besonders wertgebende Arten erweitert werden.
+
+Der gesamte Aufwuchs wird gemäht und möglichst ohne Verlust von Samen auf die Empfängerﬂäche übertragen.
+
+Das Mahdgut muss sofort nach dem Mähen ausgebracht werden, damit es nicht überhitzt, nicht anfängt zu schimmeln oder die Samen ausfallen.
+
+Das heißt Ernte und Ausbringung sind zeitlich gekoppelt.
+
+Eine Variante ist, das Mahdgut zunächst zu trocknen, zu lagern und bei Bedarf auszubringen.
+
+Eine Lagerung ist z.B. in Rundballen möglich.
+
+Der Gehalt an Samen und auch deren Keimfähigkeit sind dann aber deutlich geringer als im frischen Erntegut, weshalb dieses Verfahren nur in Ausnahmefällen praktiziert werden sollte.
+
+Das Ausbürsten ist z.B. mit einem handgeführten, akkubetriebenen Wiesensamen-Ernter möglich, der bei den Pﬂegetrupps von drei Regierungspräsidien (RP) im Einsatz ist.
+
+Die <TIMEX3 tid="t9" type="DURATION" value="P1D">Tagesleistung</TIMEX3> liegt etwa bei 1 ha Ernteﬂäche.
+
+Auch mit verschiedenen Anbaugeräten wurden gute Erfahrungen gemacht, z.B. einer umgebauten Hofkehrmaschine.
+
+Das Erntegut kann getrocknet und zwischengelagert werden.
+
+Die Trocknung der ausgebürsteten Samen muss unmittelbar nach der Ernte beginnen, um ein Überhitzen oder Schimmeln zu vermeiden.
+
+Dabei muss das Erntegut entweder ﬂach ausgebreitet und mehrmals gewendet oder alternativ im Container durchlüftet werden.
+
+Die Etablierung artenreicher Wiesen ist am erfolgreichsten, wenn die Samen auf oﬀene Böden oder auf Rohböden ausgebracht werden (z.B. ehemalige Äcker nach Bodenbearbeitung oder Bodenabtrag).
+
+Als Empfängerﬂäche geeignet sind ausgehagerte, ungedüngte Flächen.
+
+Auf sehr nährstoﬀhaltigen Ackerböden ist eine Aushagerungsphase durch den Anbau von Feldfrüchten oder Getreide ohne Düngung empfehlenswert.
+
+Nach deren Ernte sollte die Fläche mehrfach gegrubbert werden, um aus der Samenbank auﬂaufende Ackerunkräuter wenigstens teilweise zu entfernen.
+
+Nach der tiefen Bodenbearbeitung muss mit einem zeitlichen Abstand von <TIMEX3 tid="t10" type="DURATION" value="P14D" mod="APPROX">ca. 14 Tagen</TIMEX3> eine oberﬂächliche Bodenbearbeitung, z.B. mit der Kreiselegge erfolgen.
+
+Dabei wird ein feinkrümeliges Saatbett hergestellt.
+
+Bei hohem Unkrautdruck oder schweren Böden kann ein zweiter Bearbeitungsgang mit der Kreiselegge nach <TIMEX3 tid="t11" type="DURATION" value="P14D" mod="APPROX">ca. 14 Tagen</TIMEX3> sinnvoll sein.
+
+Der Boden sollte sich vor der Ansaat <TIMEX3 tid="t12" type="DURATION" value="PXD">einige Tage</TIMEX3> setzen.
+
+Achtung!
+
+Es gilt das Grünlandumwandlungsverbot.
+
+Die geplante Bodenbearbeitung auf umweltsensiblem Dauergrünland zur Erneuerung darf nur in Abstimmung mit den für den Naturschutz zuständigen Behörden durchgeführt werden.
+
+Wenn es sich um artenarmes Grünland oder um ältere Ackerbrachen mit dichtem Bewuchs handelt, muss die Vegetation nachhaltig gestört werden, damit sich die eingebrachten Arten etablieren können.
+
+Dies geschieht am eﬀektivsten durch Pﬂügen, mit der Fräse, Kreiselegge oder dem Grubber, im Grünland auch streifenweise.
+
+Erfolgt die Störung nur oberﬂächlich, erholen sich die konkurrenzkräftigen Gräser sehr schnell und die Einsaat misslingt.
+
+• Lage der Bodenbearbeitungsﬂäche mit der Unteren Naturschutzbehörde (UNB) / dem Landschaftserhaltungsverband (LEV) eindeutig festlegen, evtl. vor Ort abstecken.
+
+• Fläche um den <TIMEX3 tid="t13" type="DATE" value="XXXX-05-15">15. Mai</TIMEX3> kurz abmähen und Mahdgut abfahren bzw. je nach Standort und Höhenlage entsprechend später.
+
+• Erste Bodenbearbeitung unmittelbar im Anschluss, Art der Bodenbearbeitung in Absprache mit UNB / LEV, z.B. Kreiselegge, Pﬂug, Fräse.
+
+• Zweite Bodenbearbeitung im Zeitraum <TIMEX3 tid="t14" type="DATE" value="XXXX-06-05">5.</TIMEX3>bis <TIMEX3 tid="t15" type="DATE" value="XXXX-06-10">10. Juni</TIMEX3>, in der Regel: Kreiselegge.
+
+Das Saatbett muss feinkrümelig sein.
+
+• UNB / LEV begleiten das Verfahren und benachrichtigen die relevanten Behörden, z.B. das Landwirtschaftsamt, über die geplanten Arbeiten auf der Empfängerﬂäche.
+
+• Zu beerntende Fläche mit UNB / LEV festlegen.
+
+Ideal ist in der Regel ein Verhältnis Spender- zu Empfängerﬂäche von 1 : 1.
+
+• Mahdtermin, wenn die meisten gewünschten Samen reif sind.
+
+Termin in Absprache mit UNB / LEV, bei sonnigem Wetter, niederschlagsfrei, in der Regel ist ein Mahdtermin zwischen dem <TIMEX3 tid="t16" type="DATE" value="XXXX-06-15">15. Juni</TIMEX3> und dem <TIMEX3 tid="t17" type="DATE" value="XXXX-07-05">5.Juli</TIMEX3> sinnvoll.
+
+Anhaltspunkt: Blütenblätter der Margerite verfärben sich braun.
+
+• Mahd am <TIMEX3 tid="t18" type="SET" value="XXXX-XX-XXTMO" mod="START">frühen Morgen</TIMEX3>, idealerweise mit dem Messerbalken.
+
+Schwadförmig abgelegtes Mahdgut kann zunächst so belassen werden.
+
+Legt das Mähwerk das Schnittgut ﬂächig ab, sollte es sofort geschwadet werden.
+
+• Kurz den Schwad antrocknen lassen.
+
+• Den Schwad mit dem Ladewagen auﬂaden und zur Empfängerﬂäche fahren.
+
+Alternativ: Mahdgut unmittelbar klein häckseln und auf der Empfängerﬂäche mit dem Miststreuer verteilen.
+
+• Falls größere Mengen Mahdgut nicht am gleichen <TIMEX3 tid="t19" type="DATE" value="XXXX-XX-XX">Tag</TIMEX3> vollständig übertragen werden können, bleiben Restmengen auf Schwad bis zum <TIMEX3 tid="t20" type="DATE" value="XXXX-XX-XX">nächsten Tag</TIMEX3> liegen.
+
+• Mahdgut vom Ladewagen abladen.
+
+Bei guter Einstellung der Dosierwalze wird ein gleichmäßiger Auftrag erreicht, vor allem wenn das Mahdgut leicht angewelkt ist.
+
+• Mit dem Heuwender (Kreiselheuer) sorgfältig verteilen, ggfs.
+
+von Hand mit Heugabel oder Rechen nachverteilen.
+
+• Das Material liegt locker auf, der Boden ist vereinzelt sichtbar.
+
+Eine Schichtdicke von 3 bis 5 cm ist ideal.
+
+• Innerhalb <TIMEX3 tid="t21" type="DURATION" value="P3D">der nächsten 3 Tage</TIMEX3> anwalzen.
+
+• Je nach Wetter ist im <TIMEX3 tid="t22" type="DATE" value="XXXX">Ansaatjahr</TIMEX3> ein Reinigungsschnitt im <TIMEX3 tid="t23" type="DATE" value="XXXX-FA">Herbst</TIMEX3> notwendig, selten auch zwei Schnitte.
+
+• Im <TIMEX3 tid="t24" type="DATE" value="XXXX">Jahr</TIMEX3> nach der Einsaat ist die Aufwuchsmenge zunächst geringer, erster Schnitt in der Regel <TIMEX3 tid="t25" type="DATE" value="XXXX-05" mod="END">Ende Mai</TIMEX3> bis <TIMEX3 tid="t26" type="DATE" value="XXXX-06" mod="MID">Mitte Juni</TIMEX3>.
+
+Meist beim zweiten Schnitt, <TIMEX3 tid="t27" type="DATE" value="XXXX" mod="ON_OR_BEFORE">spätestens im Folgejahr</TIMEX3>, kann wieder mit den gewohnten Erträgen gerechnet werden.
+
+Ziel ist eine gleichmäßige Verteilung des geernteten Materials auf der Empfängerﬂäche.
+
+Hierfür empﬁehlt es sich, das Saatgut vor der Ausbringung zu portionieren und die Ansaat an windstillen Tagen vorzunehmen.
+
+Eine kleine Menge sollte immer als Reserve zurückbehalten werden, um eventuell verbliebene Lücken schließen zu können.
+
+Nach der Ansaat muss unbedingt angewalzt werden, um den Bodenschluss zu verbessern.
+
+In der Regel ist bei einer Ansaat <TIMEX3 tid="t28" type="DATE" value="XXXX-06" mod="END">Ende Juni</TIMEX3> die Grasnarbe bereits im kommenden <TIMEX3 tid="t29" type="DATE" value="XXXX-FA">Herbst</TIMEX3> wieder zu mindestens 50 % geschlossen.
+
+Ausgebürstet werden nicht nur die Samen, sondern auch Fruchtstände und Halme.
+
+Nach der Trocknung ist es sinnvoll, die langen Halme abzutrennen, z.B. mit der Heugabel.
+
+Die Trennung mit groben Sieben ist aufwändiger.
+
+Portionsweise wird eine samenhaltige Menge einer bestimmten Ansaatfläche zugeordnet und kann z.B. von Hand ausgesät werden.
+
+Vorratsgefäße mit großer Öﬀnung sind am besten geeignet.
+
+Zunächst wird das samenreiche „Feinmaterial“ ausgebracht, die groben Halme können später in kleinen Bereichen zur Abdeckung verwendet werden.
+
+Alternativ: Ausbringung des vorgereinigten Materials mit dem Düngerstreuer.
+
+Kann unmittelbar von Hand angesät werden.
+
+Sehr erfolgreich ist auch eine Ausbringung mit dem Düngerstreuer.
+
+Das grobe Material neigt zur „Brückenbildung“, wenn sich Pﬂanzenteile ineinander verhaken und den Auslauf verstopfen.
+
+Dies kann durch Rühren oder die Beigabe z.B. von Blähtonkügelchen verhindert werden.
+
+Im Projekt sollen vor allem artenreiche FFH-Mähwiesen entwickelt werden, aber auch andere artenreiche Grünlandtypen, z.B. Kalk-Magerrasen oder Streuwiesen.
+
+Zur Steuerung der Entwicklung ist insbesondere am Anfang, also in den ersten <TIMEX3 tid="t30" type="DURATION" value="P2Y">zwei Jahren</TIMEX3> nach dem Samenübertrag, eine gute Betreuung wichtig.
+
+Durch die Bodenvorbereitung können eventuell im Boden schlummernde Unkrautsamen oder Wurzelunkräuter aktiviert werden.
+
+Um diese zurückzudrängen und den gewünschten Ansaatarten eine gute Entwicklung zu ermöglichen, ist im <TIMEX3 tid="t31" type="DATE" value="XXXX">ersten</TIMEX3> und <TIMEX3 tid="t32" type="DATE" value="XXXX">zweiten Jahr</TIMEX3> in manchen Fällen ein Schröpfschnitt notwendig.
+
+Das gilt vor allem für ehemalige Ackerlagen, in Rodungsﬂächen oder in nährstoﬀreichen Wiesen.
+
+Das Schnittgut des Schröpfschnitts muss unbedingt abgeräumt und abgefahren werden.
+
+Problemarten wie der Stumpfblättrige Ampfer sollten gezielt entfernt werden.
+
+Eine aufmerksame Beobachtung der Flächen hilft, Probleme rechtzeitig zu erkennen.
+
+Was ist zu beachten, um eine FFH-Mähwiese langfristig zu erhalten oder ihren Zustand zu verbessern: • Geringe Düngergaben: Flachland-Mähwiesen abhängig vom Bestand und Standort höchstens <TIMEX3 tid="t33" type="SET" freq="EVERY" value="P2Y">alle zwei Jahre</TIMEX3> düngen, Berg-Mähwiesen <TIMEX3 tid="t34" type="SET" freq="EVERY" value="P3Y" mod="EQUAL_OR_LESS">höchstens alle drei Jahre</TIMEX3>.
+
+Bevorzugt wird Festmistdüngung, da sich dann die Nährstoﬀe allmählich freisetzen.
+
+Weiteres siehe Infoblatt FFH-Mähwiesen (MLR <TIMEX3 tid="t35" type="DATE" value="2023">2023</TIMEX3>).
+
+3 • Schnitthäuﬁgkeit: Abhängig von der Wüchsigkeit des Bestandes.
+
+In der Regel wird die traditionelle Nutzung fortgesetzt und das ist meist eine zweimalige Mahd.
+
+Sehr magere Flächen können auch nur <TIMEX3 tid="t36" type="SET" quant="1" freq="EVERY" value="P1Y">einmal jährlich</TIMEX3> gemäht werden.
+
+• Schnittzeitpunkt: Der Schnittzeitpunkt ist von der Lage und Ausprägung abhängig.
+
+Der erste Schnitt sollte frühestens zur Blüte der bestandsbildenden Gräser erfolgen.
+
+Je nach Standort ist das in der Regel <TIMEX3 tid="t37" type="DATE" value="XXXX-06" mod="START">Anfang</TIMEX3> bis <TIMEX3 tid="t38" type="DATE" value="XXXX-06" mod="END">Ende Juni</TIMEX3>.
+
+• Ideal ist eine Heunutzung, bei der das Schnittgut zunächst auf der Wiese vortrocknet und die Samen vor Ort ausfallen können.
+
+Damit erneuert sich der Bestand.
+
+Regelmäßige Silagenutzung führt <TIMEX3 tid="t39" type="DATE" value="FUTURE_REF">mittelfristig</TIMEX3> zu einer Artenverarmung.
+
+• Eine frühe Vorweide mit anschließender <TIMEX3 tid="t40" type="DURATION" value="PXW">mehrwöchiger</TIMEX3> Ruhephase oder eine kurze Nachbeweidung im <TIMEX3 tid="t41" type="DATE" value="XXXX-FA">Herbst</TIMEX3> ist bei trittfestem Boden in der Regel möglich und auf Standorten mit guter bzw. hoher Nährstoﬀversorgung sogar wünschenswert.
+
+• Die Erhaltung von FFH-Mähwiesen allein durch Beweidung ist schwierig.
+
+Sie sollte mahdähnlich erfolgen („kurz und knackig“).
+
+Zufütterung auf der Weide sollte unterbleiben.
+
+Eine Nachmahd der Weidereste kann erforderlich sein.
+
+Es muss sichergestellt werden, dass keine Artenverarmung und keine Veränderung der Artenzusammensetzung und der Flächenstruktur stattfinden, z.B. keine Verbuschungen aufkommen.
+
+Ertragsausgleich für die Spenderﬂächennutzung von artenreichem Grünland • Kalkulation LEL 352 € je ha, ggfs.
+
+mit Zuschlägen Bewirtschafter von artenreichen Wiesen können eine Förderung erhalten: • Nach FAKT II Förderung der extensiven Nutzung von FFH-Mähwiesen • Extensive Nutzung von FFH-Mähwiesen (B5) 300 € je ha • Zusätzlich Messerbalkenschnitt (B6) 50 € je ha • FAKT II B5 und LPR-Maßnahmen können mit neuen Ökoregelungen ÖR kombiniert werden: • ÖR 5: Ergebnisorientierte extensive Bewirtschaftung von Dauergrünlandﬂächen    mit Nachweis von mindestens vier regionalen Kennarten 240 € je ha • ÖR 7: Anwendung von durch die Schutzziele bestimmten Landbewirtschaftungsmethoden auf landwirtschaftlichen Flächen in Natura 2000-Gebieten 40 € je ha • Extensive Bewirtschaftung nach der Landschaftspﬂegerichtlinie (LPR) auf naturschutzfachlich sehr hochwertigen Flächen, in denen auch Artenschutzaspekte zu berücksichtigen sind und/oder die nur mit erhöhtem Aufwand zu bewirtschaften sind.
+
+Somit ist auf FFH-Mähwiesen eine Mindestförderung von 540 € je ha möglich.
+
+Mit diesem Projekt soll ein Beitrag zur Bewahrung der regionaltypischen Arten- und Genotypenvielfalt geleistet werden.
+
+In der nacheiszeitlichen Vegetationsentwicklung konnten sich Pﬂanzenarten diﬀerenzieren und Unterarten oder Varianten ausbilden.
+
+Diese sind geographisch unterschiedlich verbreitet und haben sich den speziﬁschen Lebensbedingungen in den von ihnen besiedelten Lebens- und Naturräumen über lange Zeiträume angepasst.
+
+Werden Arten oder genetische Typen (Genotypen) aus anderen Regionen eingebracht, können durch die Einkreuzung in die hiesigen Populationen Mischtypen entstehen.
+
+Deren Anpassungsgrad ist verändert, wodurch eine Verringerung der Fitness zu befürchten ist.
+
+Für Ansaaten in der freien Natur gibt das Bundesnaturschutzgesetz §40 Regeln zur Herkunft des Saatgutes vor: „künstlich vermehrte Pﬂanzen, müssen ihren genetischen Ursprung in dem betreﬀenden Gebiet haben“.
+
+In einem bundesweiten Projekt des Helmholtz-Zentrums für Umweltforschung (UFZ) in <PLACE id="p5" type="" geo="DEBKGGND00001FWC">Halle</PLACE> wurden zunächst sieben häuﬁge Wiesenpﬂanzen untersucht, die aus acht der 22 deutschen Herkunftsgebiete stammten.
+
+Bei allen Arten wurden genetische Unterschiede zwischen den Regionen gefunden.
+
+Wie groß diese sind, hängt von der Biologie der jeweiligen Pﬂanze ab (DURKA et al. <TIMEX3 tid="t42" type="DATE" value="2019">2019</TIMEX3>).
+
+4 Gräser, die vom Wind bestäubt werden und sich nicht selbst befruchten können, tauschen ihre Erbinformationen zum Beispiel über relativ große Entfernungen aus.
+
+Daher haben die Forscher beim weit verbreiteten Glatthafer die geringsten genetischen Unterschiede zwischen den Regionen gefunden.
+
+Der weit verbreitete Hornklee kommt beispielsweise als unbehaarte Unterart auf frischen Wiesen vor, während die stark behaarte Unterart nur auf Trockenrasen wächst und an die dortigen Umweltbedingungen sehr gut angepasst ist.
+
+Die innerartliche genetische Diﬀerenzierung ﬁndet auch <TIMEX3 tid="t43" type="DATE" value="PRESENT_REF">aktuell</TIMEX3> noch statt.
+
+Bei einigen Arten, wie etwa dem Weißen Labkraut, haben die Forscher zudem einen deutlichen Trend festgestellt: Je größer die Entfernung und je unterschiedlicher das Klima zwischen zwei Herkunftsregionen ist, umso deutlicher fallen auch die genetischen Unterschiede aus.
+
+Das ist ein klares Indiz dafür, dass diese Pﬂanzen regional angepasst sind.
+
+Experimentell konnte auch belegt werden, dass Pﬂanzen in der Nähe ihrer „Herkunft“ besser gedeihen.
+
+Dazu haben Forscher die sieben Arten aus den acht Regionen in <PLACE id="p6" type="" geo="DEBKGGND00001EKO">Freising</PLACE>, <PLACE id="p7" type="" geo="DEBKGGND00001ABC">Tübingen</PLACE>, <PLACE id="p8" type="" geo="DEBKGGND00001FWC">Halle</PLACE> und <PLACE id="p9" type="" geo="DEBKGGND00001GX7">Münster</PLACE> ausgesät und beobachtet, wie gut sie jeweils wuchsen und wann sie blühten.
+
+Bei vielen der untersuchten Wiesenarten war es tatsächlich so, dass Pﬂanzen regionaler Herkunft besser wuchsen.
+
+So lieferten die regionalen Gewächse im Schnitt sieben Prozent mehr Biomasse und zehn Prozent mehr Blütenstände als Artgenossen, die aus anderen Gegenden stammten.
+
+Die Forscher haben zudem festgestellt, dass die einzelnen Varianten auch zu unterschiedlichen Zeiten blühen.
+
+Bei Wiesen-Flockenblumen verschiedener Herkunft lagen <TIMEX3 tid="t44" type="DURATION" value="P17D" mod="EQUAL_OR_LESS">bis zu 17 Tage</TIMEX3> zwischen den Blühterminen, beim Weißen Labkraut sogar <TIMEX3 tid="t45" type="DURATION" value="P23D" mod="EQUAL_OR_LESS">bis zu 23 Tage</TIMEX3>.
+
+Das ist aus ökologischer Sicht sehr viel; schließlich haben sich zahlreiche Tierarten, von den Bestäubern über die Bewohner der Blütenköpfe bis zu den Samenfressern, auf den regional üblichen Zeitplan eingerichtet.
+
+Ziel ist die Erhaltung der Spenderﬂächen über eine optimale Bewirtschaftung.
+
+Sie sollen deshalb entweder langfristig über Naturschutzprogramme gesichert oder aber vom Land angekauft werden.
+
+Die Spenderﬂächen mit ihrem Reichtum an Arten und Genotypen sind ein wertvolles Vermächtnis, das die Landwirte geschaﬀen haben.
+
+Bei ihrer Bewirtschaftung ist deshalb vorrangig zu beachten, dass Artenreichtum und Qualität nicht beeinträchtigt werden.
+
+Lokales Saatgut – so erhalten wir das genetische Erbe unseres artenreichen Grünlandes!
+
+In <PLACE id="p10" type="" geo="DEBKGGND00001BBR">Baden-Württemberg</PLACE> soll ein alle Naturräume umfassendes Netz von langfristig gesicherten, arten- und blütenreichen Grünlandbeständen entstehen, die den genetischen Artenschatz in <TIMEX3 tid="t46" type="DATE" value="FUTURE_REF">die Zukunft</TIMEX3> tragen.
+
+Diese werden als Spenderﬂächen im Projekt und darüber hinaus genutzt und dienen <TIMEX3 tid="t47" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> als lebende Genbank.
+
+Das Archewiesenprojekt hat den Grundstein für ein landesweites Spenderﬂächenkataster gelegt.
+
+Darin werden die Flächen erfasst und dokumentiert.
+
+Das Kataster soll <TIMEX3 tid="t48" type="DATE" value="FUTURE_REF">zukünftig</TIMEX3> öﬀentlich zugänglich sein.
+
+Ein ganz anderes Bild bot sich dagegen bei der Kuckucks-Lichtnelke.
+
+Diese Art lässt ihren Pollen von Insekten verteilen - mitunter sogar zwischen Blüten der gleichen Pﬂanze.
+
+Zudem ist sie deutlich seltener als der Glatthafer.
+
+Das alles führt zu einem geringen Genﬂuss und damit zu großen genetischen Unter  schieden zwischen den Populationen.
+
+
+
+</TEXT></TimeML>
