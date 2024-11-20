@@ -1,0 +1,624 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>Innovative_Technologien_Gebäudebereich_EWB</DOCID> 
+<DCT><TIMEX3 tid="t0" type="DATE" value="2023-11-01" temporalFunction="false" functionInDocument="CREATION_TIME">2023-11-01</TIMEX3></DCT>
+<TEXT>Bis zum Jahr 2045 soll Deutschland Treibhausgasneutralität erreichen [1].
+
+Die Einhaltung dieses Ziels und die damit verbundene Energiewende erfordern Innovation und technologischen Fortschritt [2].
+
+Die Bundesregierung unterstützt die angewandte Energieforschung mit finanziellen Mitteln.
+
+Innovative Technologien werden von der Entwicklung über die Erprobung bis hin zur Marktdurchdringung und gesellschaftlichen Akzeptanz gefördert [3].
+
+Für energieeffiziente Gebäude und Quartiere wird die Förderung von Forschung, Entwicklung und Demonstration in der Forschungsinitiative ENERGIEWENDEBAUEN (EWB) zusammengefasst.
+
+Eine Vielzahl an innovativen Gebäudetechnologien wird im Forschungsbereich EWB mit dem Ziel entwickelt, erprobt und eingesetzt, die Energiewende voranzutreiben.
+
+In dieser Arbeit werden diese Technologien zusammengestellt und querausgewertet.
+
+Beleuchtet werden Aspekte wie die Klassifikation, Forschungsaktivität, Ziele, Entwicklungsstände und Anwendungen bzw. Einsatzbereiche der Gebäudetechnologien in den EWB-Projekten.
+
+Zudem werden projekt- bzw. technologieübergreifende Stärken, Schwächen, Chancen und Hemmnisse bei der Entwicklung, Erprobung und Marktdurchdringung festgehalten.
+
+Mit dieser Veröffentlichung beabsichtigt Modul 2 der EWB-Begleitforschung, die Arbeiten der EWB-Forschungsprojekte zum Thema innovative Gebäudetechnologien zu bündeln.
+
+Die gesammelten Informationen und projektübergreifenden Auswertungen sollen einen Überblick des derzeitigen Forschungsstands geben, um so die weitere Anwendung, Verbreitung und Weiterentwicklung der Technologien zu unterstützen.
+
+3 Die innovativen Technologien der EWB-Forschungsprojekte werden in dieser Arbeit querausgewertet.
+
+Berücksichtigt wurden Projekte, die dem Modul 2 „Gebäude“ im Zeitraum zwischen September 2020 und August 2023 zugeordnet wurden1.
+
+Die Identifikation von innovativen Technologien aus den EWB-Projekten erfolgte auf zwei Wegen.
+
+Entweder dadurch, dass die Projektnehmer in einem Fragebogen der Begleitforschung angaben, sich mit innovativen Technologien zu beschäftigen oder wenn aus der Projektbeschreibung in EnArgus2 erkennbar war, dass sich das Projekt mit einer innovativen Technologie beschäftigt.
+
+Ersteres wurde von den Projektnehmern selbst angegeben, letzteres vom Begleitforschungsmodul 2 identifiziert.
+
+Insgesamt wurden 147 Gebäudeprojekte erfasst, die innovative Technologien erforschen.
+
+In den folgenden Querauswertungen wird nicht auf einzelne Technologien oder Projekte eingegangen, sondern vielmehr das Gesamtbild der EWB-Forschungslandschaft dargestellt.
+
+Folgende Themen werden analysiert: Einordnung der Technologien, Forschungsaktivitäten der Projekte zu den Technologien, Reifegrad, Ziele der Innovation, Einsatz- und Anwendungsbereiche sowie Stärken, Schwächen, Chancen und Hemmnisse der Technologien.
+
+Da laufend neue Projekte in der Forschungsinitiative aufgenommen werden, bildet diese Arbeit den derzeitigen Stand (August 2023) ab.
+
+Neben dem Projektbeginn sind auch die Dauer der Forschungsvorhaben unterschiedlich.
+
+Abbildung 1 veranschaulicht die Laufzeiten der ausgewerteten EWB-Projekte zum Thema innovative Gebäudetechnologien.
+
+Für die Auswertung stellen die gestaffelten Projektlaufzeiten eine Herausforderung dar, da sich die Projekte zum Zeitpunkt der Datenerhebung in unterschiedlichen Phasen befinden und somit auch unterschiedliche Informationstiefen zur Verfügung stellen können.
+
+Eine erste Querauswertung fand im Juli 2022 statt, diese Auswertung wurde im August 2023 aktualisiert.
+
+Aufgrund der unterschiedlichen Laufzeiten wurde eine zweistufige Methodik zur Querauswertung der Projekte angewandt.
+
+EWB-Projekte mit innovativen Technologien, für die im Juli 2022 ein fertiger Abschlussbericht vorlag, wurden anhand der Berichte detaillierter analysiert.
+
+Die übrigen Projekte wurden anhand der EnArgus-Beschreibungen sowie anhand von Daten aus Fragebögen ausgewertet.
+
+Des Weiteren fand im Herbst 2022 eine Vortragsreihe zu innovativen Technologien im Rahmen eines EWB-Projektleitertreffens statt.
+
+Hier wurden vor allem die Stärken, Schwächen, Hemmnisse und Chancen der innovativen Technologien diskutiert und festgehalten.
+
+Die genaue Datengrundlage der einzelnen Auswertungsthemen wird am Ende des jeweiligen Kapitels kurz beschrieben.
+
+4 5 Die EWB-Projekte, die sich mit innovativen Technologien befassen, wurden in vier Kategorien eingeteilt: bauliche Technologien, anlagentechnische Technologien, multifunktionale Technologien und Sonstiges.
+
+Multifunktional bedeutet hier die Kombination einer baulichen und einer anlagentechnischen Funktion.
+
+Die Zuordnung der bewerteten Technologien zu den Kategorien und weiteren Unterkategorien ist in Abbildung 2 dargestellt.
+
+Mit Hilfe dieser Einteilung sollen Schwerpunkte bzw. Tendenzen der EWB-Forschungsinitiative im Bereich innovativer Technologien aufgezeigt werden.
+
+Eine vollständige Liste der ausgewerteten Technologien ist im Anhang zu finden.
+
+6 Der größte Teil der in den EWB-Projekten untersuchten innovativen Technologien ist dem Bereich der Anlagentechnik (61 %) zuzuordnen.
+
+Hier bildet der Bereich Betriebsmonitoring, Steuerung und Regelung den Schwerpunkt der erforschten Technologien.
+
+Beispielsweise werden Energiemanagementsysteme, Methoden zur Fehlererkennung in der Anlagentechnik und intelligente Steuerungen von Energieverbrauchern entwickelt bzw. erprobt.
+
+Bei den Speichern (9 %) wird vorrangig im Bereich der thermischen Speicher (Phasenwechselmaterialien, Mehrzonen-Schichtspeicher, etc.) geforscht.
+
+Auch einige elektrochemische Speicher werden in den Forschungsprojekten betrachtet, wie z. B. die Wiederverwendung von Batterien aus Elektrofahrzeugen.
+
+In den Projekten werden einzelne Komponenten oder Materialien bis hin zu Gesamtkonzepten für die Integration von Speichern untersucht.
+
+Bei den Kältesystemen (10 %) werden unter anderem sorptionsgestützte Klimatisierung, Optimierungsverfahren für Kälteanlagen, Flüssigeis-Wärmeübertrager und die Kühlung mit bestehenden Heizungsanlagen untersucht.
+
+Im Bereich der Heizungsanlagen liegt der Schwerpunkt der innovativen Technologien auf der Weiterentwicklung von Systemen mit Wärmepumpen (z.
+
+B. Wärmepumpe mit integriertem Latentwärmespeicher oder chemische Wärmepumpe).
+
+Aber auch andere Themen wie intelligentes Raumwärme-Management oder digitalisierte Heizkreisverteiler für Fußbodenheizungen werden betrachtet.
+
+Unter sonstige Anlagentechnik (5 %) werden Forschungsthemen zusammengefasst, die sich nicht den anderen Unterkategorien zuordnen lassen oder eine Vielzahl unterschiedlicher Technologien betrachten, wie z. B. die Entfeuchtung mittels Solarthermie oder die Untersuchung von Flexibilitätsoptionen im Gebäudesektor und deren Wechselwirkungen mit dem Energiesystem.
+
+Im Bereich der Lüftung (4 %) werden u. a. semizentrale Lüftungskonzepte, die Luftentkeimung sowie innovative Wärmetauscher und Luftfilter betrachtet.
+
+Etwa 3 % der ausgewerteten innovativen Technologien sind im Bereich der Geothermie angesiedelt.
+
+Hier wird z. B. ein Verfahren zur Optimierung der Hinterfüll- und Sondenmaterialien für die oberflächennahe Geothermie entwickelt.
+
+7 Im Bereich der Trinkwassererwärmung (3 %) werden unter anderem die Trinkwassererwärmung in Niedertemperatursystemen sowie elektronisch geregelte, intelligent vernetzte Wohnungsstationen weiterentwickelt bzw. erprobt.
+
+Der verbleibende Anteil der anlagentechnischen Technologien (6 %) fällt in den Bereich der Photovoltaik bzw. Solarthermie oder deren Kombination (PVT).
+
+Der Anteil der Photovoltaik- bzw. Solarthermie-Technologien fällt hier etwas geringer aus, da sich ein Großteil dieser Technologien mit der Integration in die Gebäudestruktur beschäftigt und daher dem Bereich der multifunktionalen Technologien zugeordnet wird.
+
+Ein Anteil von 20 % der innovativen Technologien der ausgewerteten EWB-Projekte kann dem baulichen Bereich zugeordnet werden.
+
+Im Bereich Dach, Fassade und Fenster werden zum Großteil schaltbare Systeme untersucht (z.
+
+B. schaltbare Fassadenkomponenten oder Fensterfolien).
+
+Im Bereich der Dämm- und Baustoffe (7 %) werden naturbasierte und solaraktive Ansätze weiterentwickelt bzw. erprobt.
+
+Einzelne Projekte befassen sich u. a. auch mit der Bauwerksbegrünung oder mit ETFE-Folien (häufig verwendetes Material für Membrandach- und Fassadenelemente in Großbauten).
+
+Im Bereich der innovativen Bauweisen (5 %) wird das modulare bzw. serielle Bauen näher untersucht.
+
+16 % der Technologien werden der Kategorie „multifunktional“ zugeordnet.
+
+Der Großteil dieser Technologien sind multifunktionale Fassadenelemente bzw. systeme, bei denen innovative Technologien im Bereich der Anlagentechnik mit Komponenten der Gebäudehülle kombiniert werden, z. B. die Integration von Photovoltaik bzw. Solarthermie in die Gebäudestruktur oder Fassadenelemente mit Wärmespeicherkapazität und integrierter aktiver Temperierung.
+
+Unter sonstige multifunktionale Technologien werden weitere Ansätze zusammengefasst, die mehrere Funktionalitäten vereinen, wie z. B. Deckenventilatoren mit Akustikpaneelen.
+
+Unter „Sonstiges“ wurden Technologien zusammengefasst, die nicht den Kategorien Anlagentechnik, Bau und Multifunktionalität zugeordnet werden können.
+
+Diese sind z. B. die Nutzersensibilisierung durch Gamification oder Technologien zur Gebäudeaufnahme wie Laserscanning, etc. Anmerkungen zur Datengrundlage Im Rahmen einer Projektclusterung durch Modul 2 der Begleitforschung wurden auf Basis der EnArgus-Beschreibungen Projekte identifiziert, die sich mit innovativen Technologien beschäftigen.
+
+Diese Zusammenstellung innovativer Technologien wurde durch die Daten der beiden durchgeführten Befragungen ergänzt.
+
+Zusammenfassung der Ergebnisse - Der Schwerpunkt (61 %) der EWB-Projekte liegt auf innovativen Technologien im Bereich der Anlagentechnik, wobei der größte Anteil auf dem Gebiet der Betriebsüberwachung, Steuerung und Regelung liegt.
+
+- Im baulichen Bereich (20 %) stehen schaltbare Fassaden- bzw. Fenstersysteme sowie ökologische Dämm- bzw. Baustoffe im Vordergrund.
+
+- Bei den multifunktionalen Technologien (16 %) stehen Fassadenelemente bzw. systeme, welche innovative Komponenten der Anlagentechnik und der Gebäudehülle kombinieren, im Mittelpunkt der Forschungsarbeiten.
+
+8 Bei den Forschungsaktivitäten der EWB-Projekte zu innovativen Technologien wird in dieser Arbeit zwischen drei Arten unterschieden: das Entwickeln, das Bewerten und das Einsetzen bzw. Anwenden der Technologie.
+
+Beim Entwickeln wird eine neue oder verbesserte Technologie vorangetrieben, die sich signifikant von herkömmlichen Technologien unterscheidet3.
+
+Beim Bewerten wird die Technologie anhand definierter Kriterien bzw. Maßstäbe beurteilt.
+
+Beim Einsetzen wird die Technologie in ihrer vorgesehenen Umgebung eingebaut bzw. in Betrieb genommen.
+
+Abbildung 3 zeigt die Auswertung der befragten EWB-Projekte in Bezug auf ihre Forschungsaktivitäten zu innovativen Technologien.
+
+Die drei unterschiedlichen Variablen (Entwickeln, Bewerten und Einsetzen einer innovativen Technologie) des Datensatzes werden jeweils als Säulendiagramm dargestellt.
+
+Der Anteil der Projekte, der die Frage, ob im Rahmen des Forschungsprojekts eine innovative Technologie entwickelt, bewertet bzw. eingesetzt wird, mit „ja“ bzw. „nein“ beantwortet hat, wird grün bzw. grau dargestellt.
+
+Zwischen den Säulendiagrammen werden die Zusammenhänge der Variablen veranschaulicht, d. h. Projekte, die z. B. Technologien entwickeln, bewerten und einsetzen, werden mit einem grünen Balken verbunden, Projekte, die Technologien entwickeln, jedoch nicht bewerten oder einsetzen, mit einem grüngrauen und einem grauen Balken.
+
+9 Forschungsaktivitäten Anteil der befragten Projekte Entwickeln/Bewerten/Einsetzen 25 % Entwickeln 24 % Bewerten/Einsetzen 13 % Bewerten 13 % Entwickeln/Einsetzen 11 % Einsetzen 8 % Entwickeln/Bewerten 7 % Die Projektnehmer hatten die Möglichkeit, ihre Forschungsaktivitäten zu innovativen Technologien durch Mehrfachauswahl anzugeben.
+
+Insgesamt wurden sieben verschiedene Kombinationen von Aktivitäten genannt.
+
+Der größte Anteil der befragten Projektnehmer (25 %) gab an, alle drei Aktivitäten zu innovativen Technologien im Rahmen ihres Forschungsprojekts durchzuführen.
+
+Am zweithäufigsten wurde die Entwicklung einer innovativen Technologie ausgewählt (24 %).
+
+Das zeigt, dass die Entwicklung innovativer Technologien als Forschungsaktivität im Vordergrund steht (67 %).
+
+Die Bewertung und der Einsatz innovativer Technologien werden in den befragten EWB-Projekten etwa gleich häufig durchgeführt (56 % bzw. 57 %).
+
+Anmerkungen zur Datengrundlage Die Daten dieser Auswertung wurden anhand von Umfragen unter den M2-Projekten erhoben.
+
+Der Umfang der Erhebung betrug 103 Technologien.
+
+Zusammenfassung der Ergebnisse - Bei den EWB-Projekten, die sich mit innovativen Technologien beschäftigen, steht meist die Entwicklung im Vergleich zur Bewertung oder dem Einsatz der Technologie im Vordergrund.
+
+10 Das Technology Readiness Level (TRL bzw. auf Deutsch Technologie-Reifegrad) ist eine Skala, die den wissenschaftlichtechnischen Stand einer Technologie angibt [2].
+
+Die Skala ermöglicht den Vergleich des Reifegrads zwischen verschiedenen Technologiearten [5].
+
+Das TRL wurde ursprünglich von der National Aeronautics and Space Administration (NASA) entwickelt.
+
+Im 7.
+
+Forschungsprogramm wird das TRL im Kontext der Projektförderung mit 9 Reifegraden definiert und reicht von der anwendungsorientierten Grundlagenforschung über die anwendungsnahe Forschung bis zu den Reallaboren (s.
+
+Abbildung 4).
+
+Das BMBF fördert Projekte, die den Reifegrad TRL 1 bis 3 anstreben.
+
+Das BMWK ist für Forschungsarbeiten im anwendungsnahen Bereich ab TRL 3 zuständig.
+
+Neben der Ressortzuordnung ist ein wichtiger Grund für die Verwendung der TRL-Skala der Bedarf einer gemeinsamen Sprache bzw. Metrik zu den Phasen einer Technologieentwicklung.
+
+Nach [5] wird das TRL auch als Instrument zur Planung, Kommunikation und Entscheidungsfindung eingesetzt.
+
+Die Skala hat jedoch auch ihre Grenzen.
+
+Die Differenzierung der einzelnen Reifegrade ist nicht immer eindeutig.
+
+Insbesondere bei sehr allgemeinen Definitionen kann dies zu Missverständnissen und Fehlinterpretation der einzelnen Entwicklungsphasen führen.
+
+In Experteninterviews [5] wurde zudem die fehlende Berücksichtigung der Wirtschaftlichkeit (bzw. Kosten), Herstellung und Integration in das Gesamtsystem als Nachteile des TRLs genannt4.
+
+Des Weiteren beruht die TRL-Skala auf einem linearen Prozess, der nicht bei jeder Technologie-Entwicklung angestrebt oder umgesetzt wird.
+
+11 Kateogorie Subkategorie TRL 4 TRL 5 TRL 6 TRL 7 TRL 8 TRL 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 Monitoring, Steuerung, Regelung, etc. anlagentechnisch baulich multifunktional Sonstiges Anzahl der Technologien je TRL 42 44 33 41 17 7 Heizungssysteme, etc. Kältesysteme, etc. Lüftung PV/PVT Solarthermie Sonstige Anlagentechnik Speicher TWW-Bereitung* Bauweise Dach/Fassade/Fenster Fassadenelement/system Sonstiges Technologie im Labor überprüft Technologie in relevanter Umgebung überprüft Technologie in relevanter Umgebung getestet Prototyps im realen Einsatz Test eines System-System ist komplett qualifiziert operationeller Umgebung System funktioniert in 12 Demnach eignet sich die TRL-Skala zur Klassifizierung des wissenschaftlichtechnischen Stands einer Technologie.
+
+Die Skala sollte jedoch nicht als alleiniges Instrument zur Einschätzung der Marktreife einer Technologie verwendet werden.
+
+Hier spielen auch weitere Faktoren eine wichtige Rolle, die im TRL nicht berücksichtigt werden, wie z. B. die Herstellung oder Integration in das Gesamtsystem.
+
+Abbildung 5 zeigt die angegebenen TRLs innovativer Technologien, die in EWB-Projekten erforscht werden.
+
+Jede Technologie wird in einer eigenen Zeile dargestellt.
+
+Die erreichten oder geplanten TRLs werden grün markiert.
+
+Da die Forschungsinitiative ENERGIEWENDEBAUEN der anwendungsnahen Forschung zugeschrieben wird, ist der Reifegrad erst ab dem vierten Level dargestellt.
+
+Insgesamt durchlaufen 44 Technologien den fünften Reifegrad und werden damit während der Laufzeit des Forschungsprojekts in einer anwendungsorientierten Umgebung getestet.
+
+Am zweithäufigsten werden Technologien im Labor überprüft (TRL 4 – 42mal), gefolgt vom Test eines System-Prototyps im realen Einsatz (TRL 7 – 41mal).
+
+Die Technologie-Reifegrade 6, 8 und 9 wurden weniger häufig von Projektnehmern angegeben (zwischen 7- und 33mal).
+
+Die meisten Technologien (57 von 78) durchlaufen während der Projektlaufzeit mehrere TRLs.
+
+Im Bereich der Anlagentechnik wurden Technologie-Reifegrade zwischen vier und neun angegeben.
+
+Bei den baulichen, multifunktionalen und sonstigen Technologien wurde TRL 9 nicht genannt.
+
+Die Funktionsfähigkeit des Systems im operationellen Umfeld (TRL 9) wird somit gemäß den Angaben in den Fragebögen im Rahmen der Forschungsprojekte bei diesen Technologien nicht betrachtet.
+
+In den Subkategorien „Monitoring, Steuerung, Regelung, etc.“ und „Dach/Fassade/Fenster“ wird als höchster Reifegrad während der Projektlaufzeit TRL 7 (Test eines System-Prototyps) angegeben.
+
+Auffällig ist, dass die Anzahl der Technologien, die während der Projektlaufzeit die jeweilige TRL durchlaufen oder planen, nach TRL 5 und TRL 7 abnimmt.
+
+Von TRL 6 zu TRL 7 nimmt die Anzahl der Technologien hingegen zu.
+
+Anmerkungen zur Datengrundlage Die Daten dieser Auswertung wurden anhand von zwei Umfragen der M2-Projekte erhoben.
+
+Insgesamt wurde der Technologie-Reifegrad zu 76 Technologien angegeben.
+
+Zusammenfassung der Ergebnisse - Die am häufigsten erreichten oder geplanten Reifegrade von Technologien während eines Forschungsprojekts sind TRL 5 (Technologie in relevanter Umgebung überprüft) und TRL 4 (Technologie in Labor überprüft).
+
+13 Um die Motivation und den Hintergrund der EWB-Forschungsarbeiten im Bereich der innovativen Technologien zu erfassen, wurde nach den Zielen der Innovation gefragt.
+
+Dafür wurden aus einigen Abschlussberichten von EWB-Projekten die Intentionen hinter dem Entwickeln, Bewerten und Einsetzen von innovativen Technologien gesammelt.
+
+Etwa 40 Stichpunkte wurden aus den Abschlussberichten entnommen, darunter z. B. die Optimierung der Anlagenplanung, der Schutz des Grundwassers oder ein kostengünstiges Herstellungsverfahren.
+
+In einem zweiten Schritt wurden diese Stichpunkte zusammengefasst.
+
+Daraus ergab sich eine Liste von 10 verschiedenen allgemeingefassten Zielen.
+
+Diese sind (in keiner bestimmten Reihenfolge): 1.
+
+Erhöhung des Nutzerkomforts: die Behaglichkeit der Gebäudenutzer (z.
+
+B. die thermische 2.
+
+Einsparung von Energie: der Energieverbrauch soll gesenkt werden.
+
+3.
+
+Steigerung der Effizienz: durch die innovative Technologie soll ein Prozess beschleunigt oder 4.
+
+Erhöhung von Langlebigkeit und Robustheit: durch die Weiterentwicklung der Technologie 5.
+
+Optimierung des Betriebs: die innovativen Technologien sollen dazu beitragen, dass 6.
+
+Erhöhung des Anteils regenerativer Energien: der Anteil an regenerativen Energien am 7.
+
+Erhöhung der Netzdienlichkeit und Flexibilisierung: durch die Technologie soll dazu 8.
+
+Reduktion der Kosten: durch die innovative Komponente der Technologie sollen Kosten 9.
+
+Ermittlung und Bereitstellung von Daten und Information: durch die Forschungsaktivitäten zu 10. Verringerung des ökologischen Fußabdrucks: durch die innovative Technologie soll die In einem dritten Schritt wurden EWB-Projektnehmer befragt, welche primären bzw. sekundären Ziele sie mit der Erforschung innovativer Technologien verfolgen.
+
+Die Projektnehmer hatten die Möglichkeit, aus der Liste der gesammelten Ziele auszuwählen und eigene Vorschläge zu ergänzen.
+
+Abbildung 6 zeigt das Ergebnis dieser Befragung.
+
+Behaglichkeit) soll durch den Einsatz der Technologie eingehalten bzw. optimiert werden.
+
+der dafür benötigte Aufwand (mit gleichem Ertrag) verringert werden.
+
+Die Steigerung der Effizienz kann sich auf verschiedene Prozesse beziehen wie z. B. den Wärmeertrag aus regenerativen Energien oder die Planung bzw. Auslegung von Speichersystemen.
+
+sollen die Lebensdauer, die Widerstandsfähigkeit und die Fehlertoleranz verbessert werden.
+
+Betriebsabläufe reibungsloser und effektiver ablaufen.
+
+Gebäudebetrieb soll erhöht werden.
+
+beigetragen werden, die Energieversorgung stabil zu halten und flexibler zu gestalten.
+
+eingespart werden.
+
+Dies können entweder Investitionskosten oder laufende Kosten sein.
+
+einer Technologie werden Daten gemessen und Information aufbereitet, um das Verständnis und die Akzeptanz der Technologie zu erhöhen.
+
+Umweltbelastung verringert werden, z. B. durch die Verwendung von biologisch abbaubaren Materialien.
+
+14 Die Ergebnisse zeigen, dass die Effizienzsteigerung als primäres Ziel (54 % der Projekte zu innovativen Technologien) und auch insgesamt (primäres und sekundäres Ziel) am häufigsten gewählt wurde, gefolgt von der Betriebsoptimierung und der Energieeinsparung (72 bis 74 %).
+
+Diese drei Ziele bilden den Schwerpunkt der Motivation für die Forschungsaktivitäten zu innovativen Technologien der EWB-Projekte.
+
+Die übrigen Ziele liegen im Mittelfeld und wurden zwischen 28 und 56 % gewählt/genannt.
+
+Unter Sonstiges wurde der Punkt „Schaffung von Handlungssicherheit“ ergänzt.
+
+Anmerkungen zur Datengrundlage Aus den Berichten bereits abgeschlossener Projekte wurden Ziele der erforschten innovativen Technologien gesammelt und geclustert.
+
+Die dabei entstandene Liste aus unterschiedlichen Zielen wurde im zweiten Fragebogen des Begleitforschungsmoduls 2 zur Befragung der Projektnehmer verwendet.
+
+Der Umfang der Erhebung lag bei 50 Technologien.
+
+Zusammenfassung der Ergebnisse - Die Hauptziele bei den Forschungsaktivitäten zu innovativen Technologien der EWB-Projekte sind die Effizienzsteigerung, die Betriebsoptimierung und die Energieeinsparung.
+
+15 Neben der Identifikation der in den EWB-Projekten erforschten innovativen Technologien wird auch deren Einsatz und Anwendung im Gebäude untersucht.
+
+Vor dem Hintergrund, dass im Neubaubereich weniger einschränkende Bedingungen vorliegen und somit der Einsatz innovativer Technologien leichter pilothaft erprobt werden kann, sollte ursprünglich die Übertragbarkeit innovativer Technologien auf Sanierungsprojekte bewertet werden.
+
+Die Auswertung des ersten Fragebogens hat jedoch gezeigt, dass die EWB-Projekte bereits sehr breit in Bezug auf den Einsatz und die Anwendungsbereiche der Technologien denken.
+
+In den 35 Projekten, in denen Fragen zur Anwendung beantwortet wurden, gab nur ein Projektnehmer an, die innovative Technologie ausschließlich für den Neubaubereich zu entwickeln.
+
+In den übrigen Projekten wurden Neubau und Sanierung bzw. Bestand genannt.
+
+Für den Einsatz im Bestand wurden die Projektnehmer gefragt, ob der Einsatz der Technologie als Einzelmaßnahme oder nur im Rahmen einer umfangreichen Sanierung möglich ist.
+
+In rund 70 % der Projekte wurde angegeben, dass der Einsatz im Bestand als Einzelmaßnahme möglich ist, in rund 30 %, dass der Einsatz nur im Rahmen einer umfassenden Sanierung möglich ist.
+
+Anschließend sollten die Projektnehmer angeben, ob die Technologie für eine bestimmte Gebäudenutzung vorgesehen ist.
+
+Hier gaben 37 % der Projektnehmer an, dass die Technologie für eine bestimmte Gebäudenutzung vorgesehen ist.
+
+Genannt wurden hier z. B. Hochhäuser und Mehrfamilienhäuser.
+
+Die Fragen zum Einsatz und zur Anwendbarkeit der innovativen Technologien wurden in der zweiten Befragungsrunde um die Möglichkeit erweitert, Angaben zum aktuellen Stand und zur zukünftigen Entwicklung der Technologien zu machen.
+
+Die Fragen und Ergebnisse der zweiten Befragung werden folgend dargestellt.
+
+Bei der ersten Frage wurde nach dem Fokus beim Einsatz bezüglich der Maßnahme bzw. Gebäudeart (Neubau, Sanierung oder Bestand) gefragt.
+
+Die zweite Frage zielte auf den Fokus bei der Gebäudenutzung (Wohngebäude, Nichtwohngebäude oder sonstiges) ab.
+
+In der zweiten Befragung gab die Mehrheit der Projektnehmer an, dass der Schwerpunkt der Anwendung gemeinsam auf dem Neubau, der Sanierung und dem Bestand liegt (40 %).
+
+Einige Projektnehmer (26 %) gaben an, dass die Maßnahme bzw. der Gebäudetyp für den Einsatz der 16 Technologie nicht relevant ist, z. B. bei den Technologien Building Information Modeling (BIM) und bei Erdwärmesonden.
+
+19 % der Projektnehmer gaben an, dass der derzeitige Fokus auf Neubauten liegt.
+
+Davon gab ein Großteil für die zukünftige Entwicklung den Schwerpunkt Sanierung und Bestand an.
+
+Die Mehrheit der Projektnehmer hat keine Angabe zur zukünftigen Entwicklung der Technologien gemacht.
+
+In Bezug auf die Gebäudenutzung zeigt sich, dass etwa ein Drittel der Technologien mit Fokus auf Wohn- und Nichtwohngebäude untersucht wird.
+
+Ein weiteres Drittel konzentriert sich ausschließlich auf Wohngebäude.
+
+Der Bereich mit Fokus auf Nichtwohngebäude macht mit 11 % den kleinsten Anteil aus.
+
+Hinsichtlich der zukünftigen Technologieentwicklung machte die Mehrheit der Projektnehmer keine Angaben.
+
+Vergleicht man den aktuellen Stand mit der zukünftigen Weiterentwicklung, so zeigt sich, dass einige Projekte, die sich derzeit auf Wohngebäude fokussieren, in Zukunft den Schwerpunkt auf Nichtwohngebäude sehen.
+
+Die Frage, ob es für die betrachtete Technologie (aktuell oder zukünftig) weitere Anwendungsfelder oder Anwendungen gibt, wurde in 41 % der befragten Projekte bejaht.
+
+Hier wurden häufig Industriegebäude bzw. die Industrie als weiteres Anwendungsfeld genannt.
+
+32 % der Projektnehmer gaben an, dass es derzeit Einschränkungen für den Einsatz oder die Anwendung der untersuchten Technologie gibt.
+
+Hier wurden vor allem technische und gebäudespezifische Einschränkungen, wie fehlende Schnittstellen oder geeignete Fassadenflächen, genannt.
+
+Auch rechtliche Restriktionen hinsichtlich Gewährleistung, Haftung oder Genehmigung sowie Einschränkungen hinsichtlich der vorhandenen Datenbasis bzw. verfügbarkeit wurden aufgelistet.
+
+Anmerkungen zur Datengrundlage Aus zwei Befragungsrunden wurden Daten zu Einsatz und Anwendbarkeit der innovativen Technologien erhoben.
+
+In der ersten Befragungsrunde machten dazu 35 Projektnehmer Angaben, in der zweiten Befragungsrunde 47 Projektnehmer.
+
+17 Zusammenfassung der Ergebnisse - Bei der Mehrheit der in den EWB-Projekten untersuchten Technologien liegt der Fokus beim Einsatz nicht auf einer bestimmten Maßnahmen- bzw. Gebäudeart (Neubau, Sanierung und Bestand) oder Gebäudenutzung (Wohngebäude und Nichtwohngebäude).
+
+- Projektnehmer, die sich derzeit bei der Anwendung der untersuchten Technologien auf Neubauten bzw. Wohngebäude konzentrieren, gaben mehrheitlich an, sich bei der weiteren Entwicklung auf Sanierungen und Bestandsgebäude bzw. Nichtwohngebäude zu fokussieren.
+
+- Als Restriktionen für den Einsatz bzw. die Anwendung der Technologie wurden technische, gebäudespezifische, rechtliche und datentechnische Einschränkungen genannt.
+
+18 Um die Entwicklung und Einführung von innovativen Technologien im Gebäudesektor voranzutreiben, ist ein Verständnis für die Faktoren wichtig, die den Fortschritt der Technologien beeinflussen.
+
+Eine umfassende Zusammenstellung der Barrieren und Treiber für die Einführung nachhaltiger Gebäudetechnologien ist beispielsweise in [6] gegeben.
+
+Im Rahmen der vorliegenden Arbeit wurden die Stärken, Schwächen, Chancen und Hemmnisse innovativer Gebäudetechnologien der EWB-Projekte ausgewertet.
+
+Zur Auswertung der Einflussfaktoren wurde das Instrument der SWOT-Analyse5 verwendet und auf den Kontext von Forschungsprojekten übertragen.
+
+Dafür wurden vier Fragen formuliert: - Stärken: Welche Stärken hat diese Technologie im Vergleich zu herkömmlichen Technologien?
+
+- Schwächen: Welche Schwächen hat die Technologie bzw. wo besteht weiterer Forschungsbedarf?
+
+- Chancen: Welche Chancen ergeben sich durch den Einsatz dieser Technologie?
+
+- Hemmnisse: Was hemmt den Einsatz dieser Technologie bzw. die Entwicklung zur marktreifen Technologie?
+
+In den Berichten der bereits abgeschlossenen Projekte wurden Stärken, Schwächen, Chancen und Hemmnisse identifiziert und zusammengefasst.
+
+Als Stärke wird in einigen Berichten eine verbesserte Leistungsfähigkeit (Performance) der Technologie genannt, die sich je nach Technologieart in unterschiedlichen Eigenschaften ausdrückt.
+
+So werden z. B. bei einem Dämmstoff eine bessere Wärmedämmeigenschaft und bei einem regenerativen Energiesystem ein höherer Energieertrag gegenüber vergleichbaren Technologien genannt.
+
+Des Weiteren wird die individuelle Anpassbarkeit bzw. hohe Flexibilität der Technologien als Vorteil dargestellt.
+
+Dieser Aspekt wird im Zusammenhang mit dem Erscheinungsbild der Photovoltaik bzw. der Leistungserbringung einer Gebäudeklimatisierung genannt.
+
+Im Bereich der Ökologie werden Stärken wie die Reduzierung des Rohstoffeinsatzes bei der Herstellung, die Wiederverwendung von Materialien oder der Einsatz nachwachsender Rohstoffe aufgezählt.
+
+In manchen Berichten werden auch Kostenvorteile der innovativen Technologien erwähnt.
+
+Dazu zählen z. B. die Verwendung kostengünstiger Materialien oder der positive Einfluss auf die Investitions- und Betriebskosten durch eine kleinere Anlagendimensionierung.
+
+Auch der hohe Vorfertigungsgrad, die einfache Montage oder der geringe Installationsaufwand vor Ort werden als Stärken aufgelistet.
+
+Im Bereich der Anlagentechnik wird zusätzlich eine geringe Komplexität sowie eine einfachere Wartung als Vorteil einiger Technologien beschrieben.
+
+Gemeint sind hier z. B. eine bessere Zugänglichkeit zu anfälligen Anlagenteilen, eine übersichtliche Datenvisualisierung oder der Verzicht auf aufwendige Programmierung.
+
+Da unterschiedliche Projekte bzw. Technologien evaluiert werden, überschneiden sich die Stärken und Schwächen teilweise.
+
+Hinsichtlich des Optimierungsbedarfs werden häufig die Kosten der innovativen Technologien genannt.
+
+Zum Beispiel wurde in einem Projekt das gesetzte Kostenziel nicht erreicht, in einem anderen Projekt wird von erhöhten Kosten aufgrund der benötigten Materialien gesprochen.
+
+Insgesamt werden in den ausgewerteten Projekten erhöhte Kosten für die Investition, den Betrieb und die Integration in das Gesamtsystem aufgelistet.
+
+Neben den Kosten scheint auch die Erfüllung bestimmter technischer Anforderungen eine Herausforderung bei einigen neuen Technologien zu sein.
+
+Genannt werden hier z. B. die Feuchte- oder Feuerbeständigkeit der 19 Technologien.
+
+Mit Blick auf das Gesamtsystem wird die Integration in Form von Schnittstellen bzw. Fügeverfahren als Schwachstelle erwähnt.
+
+Gemeint sind hier z. B. Programmschnittstellen bei Softwarelösungen oder Materialverbindungen bei Baukomponenten.
+
+Bis zur Marktreife bestehen bei einigen Technologien auch Herausforderungen in der Fertigung bzw. Herstellung.
+
+Bei einer Technologie besteht Optimierungsbedarf bei der Fertigungsflexibilität, bei einer anderen werden hohe Prozesszeiten und begrenzte Fertigungskapazitäten als Schwäche genannt.
+
+Während die Stärken und Schwächen das Ergebnis einer internen Analyse sind, beziehen sich die Chancen und Hemmnisse eher auf externe Faktoren, wie z. B. Markttrends oder politische Rahmenbedingungen.
+
+Kennzahlen, Perspektiven und Trends der deutschen Bau- und Installationsbranche werden in einer jährlichen Marktstudie analysiert und veröffentlicht [7], [8].
+
+Diese Veröffentlichungen wurden zusätzlich zu den Abschlussberichten zur Formulierung der Chancen und Hemmnisse verwendet.
+
+Die meisten Chancen der ausgewerteten innovativen Technologien werden im Bereich Energieeffizienz, Recycling und Zirkularität gesehen.
+
+Da im Energiebereich auch die Schwerpunkte der EWB-Forschungsinitiative liegen, ist dies nicht verwunderlich.
+
+Die Entwicklung, Bewertung und der Einsatz von innovativen Technologien mit energierelevanten Vorteilen sind notwendig, um die Klimaneutralität bis 2045 zu erreichen.
+
+Viele der innovativen Technologien der EWB-Forschungsinitiative werden als Gelegenheit gesehen, auf dem Weg zu einem klimaneutralen Gebäudebestand voranzukommen.
+
+Die Kohärenz mit diesem Ziel bietet Chancen für die EWB-Technologien, da das Thema des klimaneutralen Bauens auf gesellschaftlicher und individueller Ebene zunehmend in den Vordergrund rückt.
+
+Der Bereich der Digitalisierung wird bei einer der ausgewerteten Technologien ebenfalls als Chance gesehen.
+
+Konkret wurde in dem Forschungsprojekt die Möglichkeit zur intelligenten Einbindung einer Kälteerzeugungseinheit in ein Lastmanagementsystem aufgeführt.
+
+Die Auseinandersetzung mit digitalen Anwendungen bei der Entwicklung bzw. dem Einsatz von innovativen Technologien könnte gute Aussichten bieten, da Alltags- und Arbeitsprozesse zunehmend von digitalen Anwendungen geprägt werden.
+
+Als Hemmnisse werden fehlende Erfahrungen und Unsicherheiten bei der Planung und dem Einsatz innovativer Technologien aufgeführt.
+
+Darüber hinaus stellen die höheren Kosten für den Einsatz innovativer Technologien ein Hindernis dar, insbesondere vor dem Hintergrund der zuletzt gestiegenen Materialpreise im Bausektor.
+
+Ein weiteres Hemmnis ist die Verfügbarkeit von Ressourcen.
+
+Zum einen werden hier finanzielle oder materielle Ressourcen genannt (z.
+
+B. begrenzte Verfügbarkeit bestimmter Rohstoffe), zum anderen personelle oder organisatorische Ressourcen wie fehlende Kooperationen bzw. Netzwerke.
+
+In einem Projekt werden auch die gesetzlichen Rahmenbedingungen als Hemmnis erwähnt.
+
+Konkret geht es darum, dass es keine juristisch verlässlichen und verallgemeinerbaren Aussagen zu neuen Technologien bzw. Fristen im Genehmigungsprozess bei den Behörden gibt.
+
+Neben der Zusammenstellung der Stärken, Schwächen, Chancen und Hemmnisse aus den Berichten der abgeschlossenen Projekte wurden im Rahmen der Vortragsreihe „Innovative Gebäudetechnologien“ beim EWB-Projektleitertreffen im November 2022 weitere Aspekte von laufenden Projekten gesammelt.
+
+Sechs innovative Technologien aus der EWB-Forschungsinitiative wurden vorgestellt.
+
+Im Anschluss an die Vortragsreihe wurden die Stärken, Herausforderungen, Chancen und Hemmnisse der innovativen Technologien projektübergreifend und auf Basis der Erfahrungen der Teilnehmer gemeinsam diskutiert und stichpunktartig auf einem Plakat festgehalten.
+
+20 Die Diskussion begann mit den Stärken der innovativen Technologien.
+
+Ein Teilnehmer fasste zusammen, dass die Vortragsreihe gezeigt habe, dass die Technologieentwicklungen zur Effizienzsteigerung verschiedener Parameter beitragen.
+
+Gleichzeitig wurden die hohen Investitionen als Hemmnis identifiziert, welche bei nahezu allen Projekten genannt wurden.
+
+Es wurde angeregt, die Kosteneinsparung infolge der Effizienzsteigerung zu ermitteln und diese den Investitionen gegenüberzustellen.
+
+Hierzu wurde aus dem Publikum angemerkt, dass es derzeit (gestiegene Energie- und Materialkosten durch den Krieg in der Ukraine) nicht so einfach ist, die Kosten im Vergleich zu konventionellen Systemen zu ermitteln.
+
+Dennoch wurde es als wichtig erachtet, Technologien weiterzuentwickeln, obwohl diese in der Regel zunächst teurer sind.
+
+Als weitere Stärken der innovativen Technologien wurden die Ressourceneffizienz, die Neugier auf Innovationen, die Ausnutzung bereits vorhandener Räume (Raumeffizienz), aber auch ein hoher Vorfertigungsgrad, eine einfache Montage und die einfache Integration in den Bestand identifiziert.
+
+Optimierungsbedarf besteht gemäß der Diskussion beim Bekanntheitsgrad einer Technologie und der Kommunikation über diese.
+
+Branchen müssten umdenken, neu entwickelte Technologien einsetzen und Kunden von deren Nutzen überzeugen.
+
+Als ein weiterer Optimierungspunkt wurde das Führen einer Datenbank bzw. einer Plattform genannt, in welcher die Hersteller ihre neuen Technologien listen sollen, so dass gezielt nach einer geeigneten Technologie bzw. Komponenten gesucht werden kann.
+
+Im Rahmen der Diskussionsrunde wurde angeregt, da es an einzelnen Stellen bereits solche Datenbanken gibt (z.
+
+B. in Simulationsprogrammen), die innovativen Technologien in eine gemeinsame Datenbank zu überführen.
+
+Als Hemmnis wurde die steigende Komplexität der innovativen Anlagentechnik bei der Anwendung genannt.
+
+Daraufhin wurde aus dem Publikum erwidert, dass das Hemmnis nicht unbedingt an der Komplexität einer Technologie liegt, entscheidender sei vielmehr, dass die innovative Technik einfach zu bedienen ist.
+
+Als Gegenaspekt wurde erläutert, dass die innovativen Technologien aufgrund ihrer Komplexität nicht immer wie geplant funktionieren und auch zu Schäden an der Anlagentechnik führen können.
+
+Um dies zu vermeiden, würde in manchen Bereichen zu “LowTech” übergegangen.
+
+Im Folgenden wurde angesprochen, dass bei der Verknüpfung mehrerer Technologie-Komponenten häufig die Schnittstellen die Schwachpunkte des Gesamtsystems darstellen, die es zu optimieren gilt.
+
+Weiterhin wurden die Unsicherheit und die fehlende Erfahrung bei den Monteuren/Installateuren beim Einsatz von innovativen Technologien als großes Hemmnis gesehen.
+
+Diese müssten für eine neue Technik bspw. auch die Gewährleistung übernehmen.
+
+Als Lösungsansatz für dieses Problem wurde vorgeschlagen, den Einsatz von innovativen Technologien zu fördern und einen sogenannten Innovationsbonus z. B. für Anwender einzuführen, um mögliche Risiken und Mehrkosten abzufangen.
+
+Ein weiterer Vorschlag war das Angebot entsprechender Schulungsmöglichkeiten für die Monteure/Installateure.
+
+Als eine Möglichkeit, die Technologie am Markt und in den Handwerksbetrieben zu integrieren, wurde die Verbesserung der Lehre sowie die Erstellung von Bildungsmodulen genannt, die das Wissen auf eine einfache und transparente Weise vermitteln.
+
+Damit die Energieeffizienz, die in der Regel mit Innovationen einhergeht, nicht „verloren“ geht, müsste der Rebound-Effekt eingedämmt werden.
+
+In Abbildung 9 sind die Faktoren beider Auswertungen (Abschlussberichte und Vortragsreihe mit Diskussion) dargestellt.
+
+Die einzelnen Faktoren wurden dabei themenübergreifend zusammengefasst.
+
+21 Anmerkungen zur Datengrundlage Aus vorliegenden Abschlussberichten zu innovativen Technologien wurden Stärken, Schwächen, Chancen und Hemmnisse zusammengetragen.
+
+Diese wurden im Rahmen der Vortragsreihe auf dem EWB-Projektleitertreffen im Herbst 2022 mit den teilnehmenden Projekten ergänzt und diskutiert.
+
+Zusammenfassung der Ergebnisse - Eine Vielzahl von Stärken, Schwächen, Chancen und Hemmnissen wurde aus Abschlussberichten von EWB-Projekten mit innovativen Technologien gesammelt und im Rahmen eines EWB-Projektleiter-Workshops zum Thema innovative Technologien auf Basis der Erfahrungen der Teilnehmer diskutiert und ergänzt.
+
+Eine technologieübergreifende Zusammenfassung der Faktoren ist in Abbildung 9 dargestellt.
+
+Die Stärken, Schwächen, Chancen und Hemmnisse von einzelnen Technologien können stark variieren.
+
+- Bei den Stärken und Chancen wurden u. a. Faktoren in den Bereichen Energie und Ökologie festgehalten.
+
+- Bei den Schwächen und Hemmnissen wurden u. a. Faktoren in den Bereichen Kosten und Kommunikation genannt.
+
+22 Die Bundesregierung fördert die angewandte Energieforschung in Deutschland, um die Erreichung der Treibhausgasneutralität bis zum Jahr 2045 und die damit verbundene Energiewende voranzutreiben.
+
+Im Rahmen der Forschungsinitiative ENERGIEWENDEBAUEN (EWB) wird die Förderung von Forschung, Entwicklung und Demonstration für energieeffiziente Gebäude und Quartiere gebündelt.
+
+In der vorliegenden Arbeit werden die innovativen Gebäudetechnologien der EWB-Forschungsprojekte querausgewertet.
+
+Insgesamt wurden 147 Gebäudeprojekte identifiziert, die sich mit innovativen Technologien beschäftigen.
+
+Die Querauswertung konzentriert sich auf das Gesamtbild der EWB-Forschungslandschaft und analysiert Themen wie Technologieeinordnung, Forschungsaktivitäten, Reifegrad, Ziele, Anwendungsfelder sowie Stärken, Schwächen, Chancen und Hemmnisse der Technologien.
+
+Aufgrund der unterschiedlichen Projektlaufzeiten wurde eine zweistufige Bewertungsmethodik angewandt, bei der Abschlussberichte, Beschreibungen aus der EnArgus-Datenbank und Daten aus zwei Umfragen der Begleitforschung verwendet wurden.
+
+Die Querauswertung wurde im August 2023 fertiggestellt und spiegelt den Stand der Forschungsprojekte zu diesem Zeitpunkt wider.
+
+Die EWB-Projekte befassen sich mit einer großen Bandbreite an innovativen Technologien im Gebäudebereich.
+
+Der größte Anteil (61 %) entfällt auf die Anlagentechnik, insbesondere auf Betriebsmonitoring, Steuerung und Regelung.
+
+Danach folgen Speicher, Kälte- und Heizungssysteme, sonstige Anlagentechnik, Lüftung, Geothermie, Trinkwassererwärmung, PV, PVT und Solarthermie.
+
+Im baulichen Bereich werden schwerpunktmäßig schaltbare Systeme (z.
+
+B. schaltbare Fassadenkomponenten, Fensterfolien) und ökologische Dämm- bzw. Baustoffe untersucht.
+
+16 % der Technologien werden als multifunktional eingestuft.
+
+Hier werden zum Großteil Fassadenelemente bzw. systeme erforscht, die Komponenten der Anlagentechnik und der Gebäudetechnik kombinieren.
+
+Die Forschungsaktivitäten der EWB-Projekte zu innovativen Technologien lassen sich in drei Bereiche unterteilen: das Entwickeln, Bewerten und Einsetzen bzw. Anwenden der Technologie.
+
+25 % der befragten Projektnehmer gaben an, alle drei Aktivitäten durchzuführen.
+
+Insgesamt gaben 67 % der Projektnehmer die Entwicklung als Teil ihrer Forschungsaktivitäten zu innovativen Technologien an.
+
+Dies zeigt, dass die Entwicklung innovativer Technologien eine zentrale Forschungsaktivität darstellt.
+
+Die Bewertung und der Einsatz innovativer Technologien werden in ähnlichem Umfang durchgeführt (56 % bzw. 57 %).
+
+Der Technology Readiness Level (TRL) einiger innovativer Technologien der EWB-Projekte wurde ebenfalls ausgewertet.
+
+Die häufigsten Reifegrade, die in den EWB-Forschungsprojekten durchlaufen werden oder durchlaufen werden sollen, sind TRL 5 (Technologie in relevanter Umgebung überprüft) und TRL 4 (Technologie im Labor überprüft).
+
+Die Mehrheit der Technologien durchläuft während der Laufzeit des Forschungsprojekts mehrere Reifegrade.
+
+Um die Motivation und den Hintergrund zur Untersuchung der Technologien zu erfassen, wurden die Ziele der Innovation ausgewertet.
+
+Dazu wurden Ziele aus bereits abgeschlossenen Berichten gesammelt und zusammengefasst.
+
+Daraus ergab sich eine Zusammenstellung 10 verschiedener allgemeingefasster Ziele, wie z. B. die Erhöhung des Nutzerkomforts oder die Energieeinsparung.
+
+Anschließend wurden die EWB-Projekte befragt, welche Ziele sie mit der Erforschung innovativer Technologien verfolgen.
+
+Die Ergebnisse der Befragung zeigten, dass Effizienzsteigerung, Betriebsoptimierung und Energieeinsparung am häufigsten gewählt wurden.
+
+23 Die Querauswertung der Einsatz- und Anwendungsbereiche hat gezeigt, dass die Mehrheit der innovativen Technologien nicht auf eine bestimmte Maßnahme bzw. Gebäudeart (Neubau, Sanierung und Bestand) oder Gebäudenutzung (Wohngebäude und Nichtwohngebäude) ausgerichtet ist.
+
+Als Hemmnisse für den Einsatz der Technologien wurden technische, gebäudespezifische, rechtliche und datentechnische Einschränkungen genannt.
+
+Faktoren, die den Fortschritt der innovativen Technologien beeinflussen, wurden anhand einer SWOT-Analyse (Stärken, Schwächen, Chancen und Hemmnisse) aus den Abschlussberichten und im Rahmen eines Workshops mit EWB-Projekten gesammelt.
+
+Die zusammengetragenen Aspekte variieren stark in Abhängigkeit der untersuchten Technologie.
+
+Insgesamt zeigt die Querauswertung, dass die innovativen Technologien der EWB-Projekte ein breites Spektrum an Themenfeldern abdecken und damit vielversprechende Möglichkeiten bieten, einen Beitrag zum Ziel der Klimaneutralität im Gebäudesektor zu leisten.
+
+Voraussetzung dafür ist die erfolgreiche Umsetzung und breite Anwendung der Technologien.
+
+Ein erster Versuch, die Weiterentwicklung und Umsetzung der innovativen Gebäudetechnologien der EWB-Projekte voranzutreiben, ist die Veröffentlichung einer Technologieliste im Anhang dieser Arbeit sowie die Möglichkeit, innovative Technologien auf der EWB-Projektlandkarte einzutragen.
+
+Damit sollen die untersuchten Technologien der EWB-Projekte leichter auffindbar gemacht werden.
+
+Dies soll die Suche nach innovativen Technologien für den projektübergreifenden Wissensaustausch und den Einsatz in Demonstrationsgebäuden erleichtern.
+
+
+</TEXT></TimeML>
